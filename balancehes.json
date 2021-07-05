@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "5ff880fe672b067e9f3e0f59"
+  },
+  "date": {
+    "$date": "2021-01-01T04:57:00Z"
+  },
+  "gout": "1",
+  "jar": "2",
+  "typeP": "3",
+  "start": 4,
+  "end": 5,
+  "typeE": "6",
+  "cant": 7,
+  "diet": "8",
+  "sng": "9",
+  "diuresis": "11",
+  "sngE": "12",
+  "lu": "13",
+  "loquios": "14",
+  "heces": "15",
+  "drains": "",
+  "observations": "16",
+  "id_nurse": {
+    "$oid": "5f5c2911fa69933de404dc67"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffcb16d57d2d6580b4e631e"
+  },
+  "date": {
+    "$date": "2021-01-02T00:05:00Z"
+  },
+  "gout": "1",
+  "jar": "2",
+  "typeP": "3",
+  "start": 4,
+  "end": 5,
+  "typeE": "6",
+  "cant": 7,
+  "diet": "8",
+  "sng": "9",
+  "diuresis": "11",
+  "sngE": "12",
+  "lu": "13",
+  "loquios": "14",
+  "heces": "16",
+  "drains": "",
+  "observations": "01/01/2021  21:15",
+  "id_nurse": {
+    "$oid": "5f5c2911fa69933de404dc67"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffd99f4d30d0936a371ce9c"
+  },
+  "date": {
+    "$date": "2021-01-12T09:30:00Z"
+  },
+  "gout": "1",
+  "jar": "2",
+  "typeP": "3",
+  "start": 4,
+  "end": 5,
+  "typeE": "6",
+  "cant": 7,
+  "diet": "8",
+  "sng": "9",
+  "diuresis": "11",
+  "sngE": "12",
+  "lu": "13",
+  "loquios": "15",
+  "heces": "16",
+  "drains": "",
+  "observations": "12/01/2021 06:30",
+  "id_nurse": {
+    "$oid": "5f5c2911fa69933de404dc67"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+}]

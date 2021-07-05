@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "5ff86ab581b6d42768a93531"
+  },
+  "date": {
+    "$date": "2021-01-08T09:30:00Z"
+  },
+  "weight": 80,
+  "size": 1.8,
+  "imc": 24.69,
+  "abdomen": 0,
+  "temperature": 37,
+  "systolic_blood_pressure": 0,
+  "half_blood_pressure": 0,
+  "diastolic_blood_pressure": 0,
+  "heart_rate": 0,
+  "breathing_frequency": 0,
+  "saturometry": 0,
+  "observations": "prueba",
+  "id_nurse": {
+    "$oid": "5f5c2911fa69933de404dc67"
+  },
+  "id_paciente": {
+    "$oid": "5f7e7195329abe264d8a3f84"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff86b5181b6d42768a93532"
+  },
+  "date": {
+    "$date": "2021-01-08T11:30:00Z"
+  },
+  "weight": 80,
+  "size": 1.8,
+  "imc": 24.69,
+  "abdomen": 0,
+  "temperature": 37,
+  "systolic_blood_pressure": 0,
+  "half_blood_pressure": 0,
+  "diastolic_blood_pressure": 0,
+  "heart_rate": 0,
+  "breathing_frequency": 0,
+  "saturometry": 0,
+  "observations": "08:30 80 1.8 24.69 37",
+  "id_nurse": {
+    "$oid": "5f5c2911fa69933de404dc67"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+}]

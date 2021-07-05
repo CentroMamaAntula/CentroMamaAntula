@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "5f9838a4fc46d7001734ca5c"
+  },
+  "date": {
+    "$date": "2020-10-27T15:11:30.035Z"
+  },
+  "breathing_frequency": 36,
+  "o2_saturation": 89,
+  "epoc": false,
+  "supplemental_oxygen": true,
+  "systolic_blood_pressure": 130,
+  "heart_rate": 90,
+  "conscience_level": false,
+  "temperature": 36,
+  "value": 9,
+  "id_paciente": {
+    "$oid": "5f98353bfc46d7001734ca56"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffa0b73164c6b0017db83b7"
+  },
+  "date": {
+    "$date": "2021-01-09T20:00:51.154Z"
+  },
+  "breathing_frequency": 18,
+  "o2_saturation": 96,
+  "epoc": false,
+  "supplemental_oxygen": true,
+  "systolic_blood_pressure": 113,
+  "heart_rate": 76,
+  "conscience_level": false,
+  "temperature": 36,
+  "value": 0,
+  "id_paciente": {
+    "$oid": "5ff9faf9164c6b0017db83ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607f22b3fedd0000176bf170"
+  },
+  "date": {
+    "$date": "2021-04-20T18:51:31.332Z"
+  },
+  "breathing_frequency": 0,
+  "o2_saturation": 0,
+  "epoc": false,
+  "supplemental_oxygen": false,
+  "systolic_blood_pressure": 0,
+  "heart_rate": 0,
+  "conscience_level": false,
+  "temperature": 0,
+  "value": 12,
+  "id_paciente": {
+    "$oid": "60735ed26abf1500176b4a35"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60821bfbd6edbc00177d3cd4"
+  },
+  "date": {
+    "$date": "2021-04-23T00:59:38.698Z"
+  },
+  "breathing_frequency": 36,
+  "o2_saturation": 88,
+  "epoc": false,
+  "supplemental_oxygen": true,
+  "systolic_blood_pressure": 90,
+  "heart_rate": 95,
+  "conscience_level": false,
+  "temperature": 36,
+  "value": 13,
+  "id_paciente": {
+    "$oid": "6082171bd6edbc00177d3cc8"
+  },
+  "__v": 0
+}]

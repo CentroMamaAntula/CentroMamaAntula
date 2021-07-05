@@ -1,0 +1,6262 @@
+[{
+  "_id": {
+    "$oid": "5f9837cbfc46d7001734ca5a"
+  },
+  "date": {
+    "$date": "2020-10-27T15:07:53.626Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "24/10/20",
+  "id_paciente": {
+    "$oid": "5f98353bfc46d7001734ca56"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff4a581a5b72100178d3da0"
+  },
+  "date": {
+    "$date": "2021-01-05T17:44:32.234Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "2do HNF",
+  "next": {
+    "$date": "2021-01-07T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff4a410a5b72100178d3d9c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff4c40309ce9a0017c99563"
+  },
+  "date": {
+    "$date": "2021-01-05T19:54:42.602Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "1° HNF 31/12/2020",
+  "next": {
+    "$date": "2021-01-08T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff4b89909ce9a0017c9955b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff73e7da9c1230017c99a8a"
+  },
+  "date": {
+    "$date": "2021-01-07T17:01:48.640Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-21T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff73e8aa9c1230017c99a8b"
+  },
+  "date": {
+    "$date": "2021-01-07T17:02:01.712Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-23T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff73e99a9c1230017c99a8c"
+  },
+  "date": {
+    "$date": "2021-01-07T17:02:16.602Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-30T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff73ef7a9c1230017c99a8d"
+  },
+  "date": {
+    "$date": "2021-01-07T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": false,
+  "result": "Muestra Insuficiente",
+  "observations": "muestra insuficiente",
+  "next": {
+    "$date": "2021-01-07T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff73fa4c954502a86b2f1f1"
+  },
+  "date": {
+    "$date": "2021-01-07T00:00:00Z"
+  },
+  "type": "Aspirado",
+  "sample": false,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-08T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff7417fc954502a86b2f1f2"
+  },
+  "date": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": false,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-07T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff7443cb68ba900175c37d3"
+  },
+  "date": {
+    "$date": "2021-01-07T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-21T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff854b403dde1001714491e"
+  },
+  "date": {
+    "$date": "2020-12-28T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-08T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff4c38209ce9a0017c99561"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff87155b4a69b00172cb395"
+  },
+  "date": {
+    "$date": "2020-12-19T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-06T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff4f0a721d7b3001735a1ef"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff87196b4a69b00172cb396"
+  },
+  "date": {
+    "$date": "2021-01-06T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "NO SE INDICA OTRO HISOPADO",
+  "next": {
+    "$date": "2021-01-08T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff4f0a721d7b3001735a1ef"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff873cfb4a69b00172cb399"
+  },
+  "date": {
+    "$date": "2020-12-23T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-02T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff4bbeb09ce9a0017c9955d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff873eeb4a69b00172cb39a"
+  },
+  "date": {
+    "$date": "2021-01-02T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-08T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff4bbeb09ce9a0017c9955d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffa04fe164c6b0017db83b3"
+  },
+  "date": {
+    "$date": "2021-01-07T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "OBESIDAD MORBIDA",
+  "next": {
+    "$date": "2021-01-17T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff9faf9164c6b0017db83ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffa6ee6c45a640017e42b21"
+  },
+  "date": {
+    "$date": "2021-01-08T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-18T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ffa6726c45a640017e42b1c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffaa22204cef200176f3cf5"
+  },
+  "date": {
+    "$date": "2021-01-08T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-18T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ffa9dd104cef200176f3cee"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffc7512b891af0017547666"
+  },
+  "date": {
+    "$date": "2021-01-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-11T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ffb6a7fe6bed300174a0185"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffc7ef7b891af001754766f"
+  },
+  "date": {
+    "$date": "2021-01-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "1er HNF",
+  "next": {
+    "$date": "2021-01-11T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ffb7052e6bed300174a018c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffd9f928b49f9562f035a9e"
+  },
+  "date": {
+    "$date": "2021-01-12T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-19T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffdcaded2c8d30017054989"
+  },
+  "date": {
+    "$date": "2021-01-12T00:00:00Z"
+  },
+  "type": "Aspirado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "CASO SOSPECHOSO-CONTACTO ESTRECHO",
+  "next": {
+    "$date": "2021-01-12T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ffb7052e6bed300174a018c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60005c76233f6100179b7238"
+  },
+  "date": {
+    "$date": "2021-01-12T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-22T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60005776233f6100179b7234"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600180ed7c1f6c001731e306"
+  },
+  "date": {
+    "$date": "2021-01-07T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-17T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60017d5b7c1f6c001731e303"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600197c19ea0a70017d8f5b4"
+  },
+  "date": {
+    "$date": "2021-01-04T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "se lo realizo en LUZ Y FUERZA",
+  "next": {
+    "$date": "2021-01-14T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6001960d9ea0a70017d8f5b1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60019a919ea0a70017d8f5b8"
+  },
+  "date": {
+    "$date": "2021-01-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-20T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ffb85cefc06cf0017be2c9c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60058fb797f4f500178f2321"
+  },
+  "date": {
+    "$date": "2021-01-16T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "DEBE CUMPLIR AISLAMIENTO HASTA EL 20/01/21",
+  "next": {
+    "$date": "2021-01-01T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff9faf9164c6b0017db83ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6005ac2a97f4f500178f232b"
+  },
+  "date": {
+    "$date": "2020-12-14T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-06T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6005a65897f4f500178f2327"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6005ac4c97f4f500178f232c"
+  },
+  "date": {
+    "$date": "2021-01-06T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-13T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6005a65897f4f500178f2327"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6005ac8397f4f500178f232d"
+  },
+  "date": {
+    "$date": "2021-01-13T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-20T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6005a65897f4f500178f2327"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6005b1e797f4f500178f2331"
+  },
+  "date": {
+    "$date": "2021-01-17T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-22T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60017d5b7c1f6c001731e303"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6005b2d097f4f500178f2333"
+  },
+  "date": {
+    "$date": "2021-01-17T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-27T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6005b2b297f4f500178f2332"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6005c07697f4f500178f233d"
+  },
+  "date": {
+    "$date": "2021-01-15T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-25T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6003b0d50a0b2d00177bfe6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6008497eaa32240017a93239"
+  },
+  "date": {
+    "$date": "2021-01-22T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": false,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-22T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60017d5b7c1f6c001731e303"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60084d0baa32240017a9323a"
+  },
+  "date": {
+    "$date": "2021-01-20T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "4to HNF",
+  "next": {
+    "$date": "2021-01-25T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6005a65897f4f500178f2327"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009b367f6ba840017bb48a3"
+  },
+  "date": {
+    "$date": "2021-01-20T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-30T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6009b0fff6ba840017bb48a0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009b6a7f6ba840017bb48aa"
+  },
+  "date": {
+    "$date": "2021-01-20T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-30T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6009b53bf6ba840017bb48a5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a3dc9ff5d780017364bc2"
+  },
+  "date": {
+    "$date": "2021-01-11T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-22T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "600a35caff5d780017364bbe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ad90b0f77be0017b5313e"
+  },
+  "date": {
+    "$date": "2021-01-27T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-27T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60005776233f6100179b7234"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ad9b80f77be0017b53145"
+  },
+  "date": {
+    "$date": "2021-01-22T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-27T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "600a35caff5d780017364bbe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600aed898ff55f00177361e1"
+  },
+  "date": {
+    "$date": "2021-01-22T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-22T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60017d5b7c1f6c001731e303"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600b11659bcf090017dee51d"
+  },
+  "date": {
+    "$date": "2021-01-19T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-29T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "600b0dd19bcf090017dee519"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600cd2734063d400171b6b42"
+  },
+  "date": {
+    "$date": "2021-01-24T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-06T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60017d5b7c1f6c001731e303"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ef27ff2a58300176eea81"
+  },
+  "date": {
+    "$date": "2021-01-25T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-31T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6003b0d50a0b2d00177bfe6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ef975f2a58300176eea8b"
+  },
+  "date": {
+    "$date": "2021-01-16T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-26T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "600ca818337c7f0017522cb5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600f034ef2a58300176eea95"
+  },
+  "date": {
+    "$date": "2021-01-16T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-26T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "600f0140f2a58300176eea90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60116accbe6cbc0017d70696"
+  },
+  "date": {
+    "$date": "2021-05-25T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "CISB BANDA",
+  "next": {
+    "$date": "2021-01-27T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "601161f3be6cbc0017d70690"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60116b66be6cbc0017d70699"
+  },
+  "date": {
+    "$date": "2021-01-26T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-27T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "600d0032e8fd0d00175dd118"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60117a8dbe6cbc0017d7069d"
+  },
+  "date": {
+    "$date": "2021-01-26T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-31T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "600f0140f2a58300176eea90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60118313be6cbc0017d706a2"
+  },
+  "date": {
+    "$date": "2021-01-27T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-02T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60005776233f6100179b7234"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601183e0be6cbc0017d706a4"
+  },
+  "date": {
+    "$date": "2021-01-27T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-03T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "600a35caff5d780017364bbe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601185b5be6cbc0017d706a7"
+  },
+  "date": {
+    "$date": "2021-01-26T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-31T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6005b2b297f4f500178f2332"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60118c66be6cbc0017d706ac"
+  },
+  "date": {
+    "$date": "2021-01-22T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-01T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "600cf362e8fd0d00175dd113"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6012ac312a51b400170bd31e"
+  },
+  "date": {
+    "$date": "2021-01-27T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-05T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "600a35caff5d780017364bbe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6012ac6e2a51b400170bd31f"
+  },
+  "date": {
+    "$date": "2021-01-27T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-05T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60005776233f6100179b7234"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6012dc03b22f710017552c6f"
+  },
+  "date": {
+    "$date": "2021-01-26T00:00:00Z"
+  },
+  "type": "Aspirado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-01T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "600ca818337c7f0017522cb5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6012fa20b22f710017552c7e"
+  },
+  "date": {
+    "$date": "2021-01-27T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "3ER",
+  "next": {
+    "$date": "2021-01-28T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60005776233f6100179b7234"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601503279dec1a001780f69f"
+  },
+  "date": {
+    "$date": "2021-02-28T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-08T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6014f97a9dec1a001780f69a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6016d99c0c0d230017e43dcc"
+  },
+  "date": {
+    "$date": "2021-01-31T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "3er",
+  "next": {
+    "$date": "2021-02-05T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6003b0d50a0b2d00177bfe6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6016e04d0c0d230017e43dd1"
+  },
+  "date": {
+    "$date": "2021-01-31T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "POR ERROR SE REALIZO ESTE HNF",
+  "next": {
+    "$date": "2021-02-05T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6014f97a9dec1a001780f69a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6016e4bf0c0d230017e43dd4"
+  },
+  "date": {
+    "$date": "2021-01-31T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "3ER",
+  "next": {
+    "$date": "2021-01-31T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "600f0140f2a58300176eea90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601821e82097000017dacb3f"
+  },
+  "date": {
+    "$date": "2021-01-31T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-01T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "600f0140f2a58300176eea90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601867722097000017dacb55"
+  },
+  "date": {
+    "$date": "2021-02-02T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-07T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60185bf62097000017dacb4f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60197e93f7e2d1001743da32"
+  },
+  "date": {
+    "$date": "2021-01-31T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-02T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "600b0dd19bcf090017dee519"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601c7f50a14adc0017b378e8"
+  },
+  "date": {
+    "$date": "2021-02-03T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-13T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "601c7a37a14adc0017b378e6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601d6238a95e4f0017261991"
+  },
+  "date": {
+    "$date": "2021-02-03T00:00:00Z"
+  },
+  "type": "Aspirado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-05T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "600ca818337c7f0017522cb5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601d82945d1f3c001745f7cc"
+  },
+  "date": {
+    "$date": "2021-02-05T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-15T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "601d7f415d1f3c001745f7c5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60216dd9f8ad38001782d2c7"
+  },
+  "date": {
+    "$date": "2021-02-08T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-12T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6014f97a9dec1a001780f69a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60216f7df8ad38001782d2cb"
+  },
+  "date": {
+    "$date": "2021-02-07T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "3ER HNF",
+  "next": {
+    "$date": "2021-02-08T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60185bf62097000017dacb4f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60218c83f8ad38001782d2da"
+  },
+  "date": {
+    "$date": "2021-02-02T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-08T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6021861ef8ad38001782d2d7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6025333e80257100178aa24b"
+  },
+  "date": {
+    "$date": "2021-02-12T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": false,
+  "result": "Negativo",
+  "observations": "2DO HNF",
+  "next": {
+    "$date": "2021-02-17T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6021861ef8ad38001782d2d7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60267cf8ce4fd8001776e2db"
+  },
+  "date": {
+    "$date": "2021-02-12T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-12T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60267b9ace4fd8001776e2d9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6027cded9ac4230017afa3e9"
+  },
+  "date": {
+    "$date": "2021-02-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-20T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6026b9f771601900173f069d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602baf684b7aab0017919432"
+  },
+  "date": {
+    "$date": "2021-02-11T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-21T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6027ebe38dead70017a4a1f9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602bfadd09493f00173e9328"
+  },
+  "date": {
+    "$date": "2021-02-17T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-27T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "602bf5c809493f00173e9321"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602ef509295c0700175d3096"
+  },
+  "date": {
+    "$date": "2021-02-16T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-26T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "602ee35698a9510017e7b74c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602fd5b5d1aca10017086bbc"
+  },
+  "date": {
+    "$date": "2021-02-17T00:00:00Z"
+  },
+  "type": "Aspirado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "2 HNF NEGATIVOS",
+  "next": {
+    "$date": "2021-02-19T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6026d673286aff001786e4ea"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6033c01e47708800176cdd18"
+  },
+  "date": {
+    "$date": "2021-02-21T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-04T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "603292cc3a39d00017123404"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6033c03947708800176cdd19"
+  },
+  "date": {
+    "$date": "2021-02-21T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-22T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6026b9f771601900173f069d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6033c18947708800176cdd1b"
+  },
+  "date": {
+    "$date": "2021-02-20T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-02T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6033bb2f47708800176cdd0f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60345d12d6d5b60017d29d21"
+  },
+  "date": {
+    "$date": "2021-02-17T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-27T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "603457a3d6d5b60017d29d1c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60352b4758e96500171e0a47"
+  },
+  "date": {
+    "$date": "2021-02-12T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-02-23T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "601c7a37a14adc0017b378e6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603ced96ed255a001718a2b9"
+  },
+  "date": {
+    "$date": "2021-03-01T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-09T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6033bb2f47708800176cdd0f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603cee43ed255a001718a2bb"
+  },
+  "date": {
+    "$date": "2021-02-24T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-01T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "603cea03ed255a001718a2b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603cf30fed255a001718a2c1"
+  },
+  "date": {
+    "$date": "2021-02-27T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-01T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "603457a3d6d5b60017d29d1c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603cf60ced255a001718a2c6"
+  },
+  "date": {
+    "$date": "2021-02-27T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-01T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "602bf5c809493f00173e9321"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603d07f9ed255a001718a2c7"
+  },
+  "date": {
+    "$date": "2021-03-01T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-01T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603dad72caa1ac0017697c56"
+  },
+  "date": {
+    "$date": "2021-02-23T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-05T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "603d9f2bcaa1ac0017697c50"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603e5c92540b3000175a0cec"
+  },
+  "date": {
+    "$date": "2021-03-01T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-11T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "603e5c1c540b3000175a0ceb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603fb6eb9e49c00017fb1888"
+  },
+  "date": {
+    "$date": "2021-03-02T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-12T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "603f6faa9e49c00017fb1873"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603ffd279e49c00017fb189c"
+  },
+  "date": {
+    "$date": "2021-02-28T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-03T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "603ff5ee9e49c00017fb1893"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60405d676de84a00177a775b"
+  },
+  "date": {
+    "$date": "2021-03-03T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "TEST RAPIDO",
+  "next": {
+    "$date": "2021-03-04T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "604058b56de84a00177a7757"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6040d5df80e88a00179feeee"
+  },
+  "date": {
+    "$date": "2021-02-08T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "SE REALIZO EN TINTINA",
+  "next": {
+    "$date": "2021-03-04T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6003b0d50a0b2d00177bfe6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604112887bf478001755da7f"
+  },
+  "date": {
+    "$date": "2021-03-04T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-09T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "603292cc3a39d00017123404"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604634d63149410017f7d867"
+  },
+  "date": {
+    "$date": "2021-03-05T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-10T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "603d9f2bcaa1ac0017697c50"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604641243149410017f7d86e"
+  },
+  "date": {
+    "$date": "2021-03-03T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-13T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6043a1589c4a530017761e63"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604646e43149410017f7d871"
+  },
+  "date": {
+    "$date": "2021-03-05T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-15T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60453ec9fcf04400171ff455"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6046ef26998e49001706a44f"
+  },
+  "date": {
+    "$date": "2021-03-02T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-12T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6046e60f998e49001706a449"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60477c5f18b9a60017cb3e04"
+  },
+  "date": {
+    "$date": "2021-03-09T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "3 er HNF",
+  "next": {
+    "$date": "2021-03-14T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "603292cc3a39d00017123404"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048d88bb37625001781a7d9"
+  },
+  "date": {
+    "$date": "2021-03-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-15T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "603ff5ee9e49c00017fb1893"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604a398372fa8f001756a6cf"
+  },
+  "date": {
+    "$date": "2021-03-11T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "2do",
+  "next": {
+    "$date": "2021-03-11T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "603e5c1c540b3000175a0ceb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604f726c5d36160017ba0e10"
+  },
+  "date": {
+    "$date": "2021-03-13T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-23T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "604d3d123ef995001798bab8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605212d4e660dd0017ac0e7a"
+  },
+  "date": {
+    "$date": "2021-03-14T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-24T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "605212ade660dd0017ac0e79"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60523297e660dd0017ac0e88"
+  },
+  "date": {
+    "$date": "2021-03-17T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "3 er HNF",
+  "next": {
+    "$date": "2021-03-17T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6046e60f998e49001706a449"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605232ade660dd0017ac0e89"
+  },
+  "date": {
+    "$date": "2021-03-17T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "2DO HNF",
+  "next": {
+    "$date": "2021-03-17T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60453ec9fcf04400171ff455"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60537c9b67a36c00170bd494"
+  },
+  "date": {
+    "$date": "2021-03-18T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "3er",
+  "next": {
+    "$date": "2021-03-18T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "604058b56de84a00177a7757"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6053e8f21fc6a8001765a7f0"
+  },
+  "date": {
+    "$date": "2021-03-17T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": false,
+  "result": "Muestra Insuficiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-18T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "605212ade660dd0017ac0e79"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6054cbab6cfb790017943e98"
+  },
+  "date": {
+    "$date": "2021-03-13T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-18T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "604058b56de84a00177a7757"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6058921e4438040017e925cc"
+  },
+  "date": {
+    "$date": "2021-03-13T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-22T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60588f504438040017e925c7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6058ba163c7a400017e14dab"
+  },
+  "date": {
+    "$date": "2021-03-15T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-25T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60563d8b82270e0017222d38"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6058bc853c7a400017e14dad"
+  },
+  "date": {
+    "$date": "2021-03-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-20T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6056692dca68f700174eac06"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605a0047f3bc7e001701e330"
+  },
+  "date": {
+    "$date": "2021-03-23T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-23T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "604d3d123ef995001798bab8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605a519ea9fb4e00177fcfd5"
+  },
+  "date": {
+    "$date": "2021-03-18T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-28T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "605a4d50a9fb4e00177fcfcf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605b5d767cc4960017640afc"
+  },
+  "date": {
+    "$date": "2021-03-24T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-03T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "605b549f7cc4960017640af7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c82c63aede7001760cae2"
+  },
+  "date": {
+    "$date": "2021-03-17T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-25T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "603f6faa9e49c00017fb1873"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c99bf3aede7001760cae7"
+  },
+  "date": {
+    "$date": "2021-03-21T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-31T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "605c998f3aede7001760cae6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605ca0e33aede7001760caf2"
+  },
+  "date": {
+    "$date": "2021-03-25T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-25T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60563d8b82270e0017222d38"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605ca1193aede7001760caf3"
+  },
+  "date": {
+    "$date": "2021-03-24T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-25T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "605212ade660dd0017ac0e79"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60612a072237e20017b3d71c"
+  },
+  "date": {
+    "$date": "2021-03-27T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-06T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60610c4e8b66e60017f19b92"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6061bae5fd6f760017467dda"
+  },
+  "date": {
+    "$date": "2021-03-25T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-30T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60588f504438040017e925c7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6061f2a82dbd50001738c5aa"
+  },
+  "date": {
+    "$date": "2021-03-29T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "3ER",
+  "next": {
+    "$date": "2021-03-29T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "604d3d123ef995001798bab8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6063274bd7444a001726641e"
+  },
+  "date": {
+    "$date": "2021-03-30T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "3er",
+  "next": {
+    "$date": "2021-03-30T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60588f504438040017e925c7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6063a6a2d056e200178bca61"
+  },
+  "date": {
+    "$date": "2021-03-30T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-09T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60639c42d056e200178bca59"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6064799fe570b90017c43f3e"
+  },
+  "date": {
+    "$date": "2021-03-31T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-05T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "605c998f3aede7001760cae6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60649494e570b90017c43f4e"
+  },
+  "date": {
+    "$date": "2021-03-26T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-05T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60647dbde570b90017c43f41"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60649541e570b90017c43f53"
+  },
+  "date": {
+    "$date": "2021-03-30T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-03-31T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "606488fbe570b90017c43f45"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6064c07ee570b90017c43f64"
+  },
+  "date": {
+    "$date": "2021-03-30T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-09T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6064b977e570b90017c43f5e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6067494f13b7640017a857e2"
+  },
+  "date": {
+    "$date": "2021-03-30T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "1ER",
+  "next": {
+    "$date": "2021-04-09T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6067491513b7640017a857e0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60677d7cc200bb00179540c5"
+  },
+  "date": {
+    "$date": "2021-04-01T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-11T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60677d44c200bb00179540c3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606a15dc4880e6001736b6c5"
+  },
+  "date": {
+    "$date": "2021-04-04T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-14T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "606a139a4880e6001736b6c1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606a61534c23160017d9404b"
+  },
+  "date": {
+    "$date": "2021-04-03T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-13T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "606a5e334c23160017d94048"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b16f10df6ab0017d00cc6"
+  },
+  "date": {
+    "$date": "2021-04-02T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "REALIZADO EN HOSPITAL INDEPENDENCIA",
+  "next": {
+    "$date": "2021-04-16T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "606b14440df6ab0017d00cc2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b41b10df6ab0017d00ce1"
+  },
+  "date": {
+    "$date": "2021-04-02T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-12T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "606b366c0df6ab0017d00cd7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b4eb00df6ab0017d00ceb"
+  },
+  "date": {
+    "$date": "2021-04-05T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "3ER",
+  "next": {
+    "$date": "2021-04-10T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "605c998f3aede7001760cae6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b60410df6ab0017d00cf6"
+  },
+  "date": {
+    "$date": "2021-04-04T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-14T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "606b5c050df6ab0017d00cf2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c70249d7f0c0017279294"
+  },
+  "date": {
+    "$date": "2021-04-06T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-11T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60610c4e8b66e60017f19b92"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f1d449c508a00172a7b05"
+  },
+  "date": {
+    "$date": "2021-04-03T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-13T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "606f1a3ef3c9ff0017360370"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f28269c508a00172a7b0f"
+  },
+  "date": {
+    "$date": "2021-04-02T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-12T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "606e9279f3969a00175a20d3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6073279303adde0017e826a6"
+  },
+  "date": {
+    "$date": "2021-04-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-20T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "607321ea03adde0017e826a2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60735ef86abf1500176b4a36"
+  },
+  "date": {
+    "$date": "2021-04-06T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-16T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60735ed26abf1500176b4a35"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607367ae6abf1500176b4a40"
+  },
+  "date": {
+    "$date": "2021-04-07T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-17T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6072763b749c49001767ddbe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607448c31077cb001730fe0a"
+  },
+  "date": {
+    "$date": "2021-04-12T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-17T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "606b366c0df6ab0017d00cd7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6074550e1077cb001730fe17"
+  },
+  "date": {
+    "$date": "2021-04-12T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-12T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "607452f01077cb001730fe13"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6074eb801990030017c94910"
+  },
+  "date": {
+    "$date": "2021-04-12T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-22T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6074777f1077cb001730fe30"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6075dbe3260dfb00179d7acc"
+  },
+  "date": {
+    "$date": "2021-04-09T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-19T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6075da26260dfb00179d7ac6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60763d2bf118070017e0b90a"
+  },
+  "date": {
+    "$date": "2021-04-04T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-14T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60763928f118070017e0b905"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076ee129893ed00171ec8aa"
+  },
+  "date": {
+    "$date": "2021-04-14T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-19T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "606a139a4880e6001736b6c1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60774fa49893ed00171ec8c3"
+  },
+  "date": {
+    "$date": "2021-04-09T00:00:00Z"
+  },
+  "type": "Aspirado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-19T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60774f849893ed00171ec8c2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6078438e95dbb40017da80c0"
+  },
+  "date": {
+    "$date": "2021-04-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-20T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60783f6395dbb40017da80ba"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60784ab995dbb40017da80c5"
+  },
+  "date": {
+    "$date": "2021-04-15T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-15T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "607845a995dbb40017da80c2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6078943895dbb40017da80e1"
+  },
+  "date": {
+    "$date": "2021-04-14T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-24T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "607891b795dbb40017da80dc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6078b9f995dbb40017da80f7"
+  },
+  "date": {
+    "$date": "2021-04-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-20T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6075d383260dfb00179d7ac5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6078f42f95dbb40017da8118"
+  },
+  "date": {
+    "$date": "2021-04-08T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-18T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6078e20695dbb40017da810f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607c97bc4ce6030017e59c7a"
+  },
+  "date": {
+    "$date": "2021-04-18T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-18T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "607c95fc4ce6030017e59c75"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607cafa74ce6030017e59c80"
+  },
+  "date": {
+    "$date": "2021-04-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-18T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "607caddd4ce6030017e59c7c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607da277f9b1580017d59466"
+  },
+  "date": {
+    "$date": "2021-04-16T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-26T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "607bf33eec16240017a3adb6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607da3bdf9b1580017d59469"
+  },
+  "date": {
+    "$date": "2021-04-14T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-24T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "607d1f7a4223440017433765"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607db4c5f9b1580017d59484"
+  },
+  "date": {
+    "$date": "2021-04-19T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-24T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60774f849893ed00171ec8c2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607db4ecf9b1580017d59485"
+  },
+  "date": {
+    "$date": "2021-04-19T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "3ER",
+  "next": {
+    "$date": "2021-04-24T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60763928f118070017e0b905"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607db5abf9b1580017d59488"
+  },
+  "date": {
+    "$date": "2021-04-05T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-15T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60777ac99893ed00171ec8d7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607db5c5f9b1580017d59489"
+  },
+  "date": {
+    "$date": "2021-04-15T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-20T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60777ac99893ed00171ec8d7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607dd9f0ec8be30017ae2267"
+  },
+  "date": {
+    "$date": "2021-04-16T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-26T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "607dd798ec8be30017ae2264"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607e4043ec8be30017ae228c"
+  },
+  "date": {
+    "$date": "2021-04-19T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-29T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "607e296dec8be30017ae2284"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607ed652dc3e7e00172fc560"
+  },
+  "date": {
+    "$date": "2021-04-09T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-19T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "607b1df0924f0a0017ae6f15"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607ed670dc3e7e00172fc561"
+  },
+  "date": {
+    "$date": "2021-04-19T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-24T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "607b1df0924f0a0017ae6f15"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607edbb0dc3e7e00172fc569"
+  },
+  "date": {
+    "$date": "2021-04-13T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-27T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60779cd39893ed00171ec8e4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607f56d7fedd0000176bf17f"
+  },
+  "date": {
+    "$date": "2021-04-16T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-26T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "607f569efedd0000176bf17d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607f5a4afedd0000176bf180"
+  },
+  "date": {
+    "$date": "2021-04-16T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-24T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "607f569efedd0000176bf17d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607f7d31fedd0000176bf192"
+  },
+  "date": {
+    "$date": "2021-04-16T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-26T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "607f7ae9fedd0000176bf18f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607fb371fedd0000176bf197"
+  },
+  "date": {
+    "$date": "2021-04-14T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-21T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "607fb1fafedd0000176bf195"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60807068d88b0600173d96a2"
+  },
+  "date": {
+    "$date": "2021-04-16T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-26T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60806c23d88b0600173d969d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60819b36e4d043001780e5ec"
+  },
+  "date": {
+    "$date": "2021-04-19T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-29T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "607f5d23fedd0000176bf185"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6081a731e4d043001780e5f7"
+  },
+  "date": {
+    "$date": "2021-04-20T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-30T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60819c01e4d043001780e5ed"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6081bf15e4d043001780e616"
+  },
+  "date": {
+    "$date": "2021-04-20T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-30T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6081bc5de4d043001780e611"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60821baed6edbc00177d3cd1"
+  },
+  "date": {
+    "$date": "2021-04-18T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-28T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6082171bd6edbc00177d3cc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608586544391950017b9cb1b"
+  },
+  "date": {
+    "$date": "2021-04-23T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-03T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "608455c1831fda00170646a3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085cdb39891270017ff114d"
+  },
+  "date": {
+    "$date": "2021-04-25T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "TEST RAPIDO NEGATIVO",
+  "next": {
+    "$date": "2021-04-25T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6085cb249891270017ff114a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6086a7628b9c89001712a1a9"
+  },
+  "date": {
+    "$date": "2021-04-20T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-25T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "607321ea03adde0017e826a2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6086e5fa8b9c89001712a1c0"
+  },
+  "date": {
+    "$date": "2021-04-20T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-30T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "608379ba83ca3f0017817e29"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6086eb4a8b9c89001712a1cb"
+  },
+  "date": {
+    "$date": "2021-04-26T00:00:00Z"
+  },
+  "type": "Aspirado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-26T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60735ed26abf1500176b4a35"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6086eff48b9c89001712a1d4"
+  },
+  "date": {
+    "$date": "2021-04-26T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "3 ER",
+  "next": {
+    "$date": "2021-04-26T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "607321ea03adde0017e826a2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6086f33b8b9c89001712a1dd"
+  },
+  "date": {
+    "$date": "2021-04-26T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-26T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60806c23d88b0600173d969d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60873181a96d9200173335d4"
+  },
+  "date": {
+    "$date": "2021-04-17T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-27T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60873054a96d9200173335d1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6087570fa96d9200173335e5"
+  },
+  "date": {
+    "$date": "2021-04-19T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-29T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6087556ca96d9200173335df"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60875754a96d9200173335e7"
+  },
+  "date": {
+    "$date": "2021-04-16T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-26T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60875110a96d9200173335dc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60882f08e8407200176c9c22"
+  },
+  "date": {
+    "$date": "2021-04-27T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-05T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "607f569efedd0000176bf17d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60898a4d0ee8610017c6850e"
+  },
+  "date": {
+    "$date": "2021-04-26T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-06T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "608986af0ee8610017c68509"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608aaa91e715ee001779f36a"
+  },
+  "date": {
+    "$date": "2021-04-26T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-29T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60763928f118070017e0b905"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608aace6e715ee001779f36f"
+  },
+  "date": {
+    "$date": "2021-04-26T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-29T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "607f7ae9fedd0000176bf18f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608aaeefe715ee001779f373"
+  },
+  "date": {
+    "$date": "2021-04-29T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "2DO",
+  "next": {
+    "$date": "2021-04-29T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60875110a96d9200173335dc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608aeb9aa564750017de90f5"
+  },
+  "date": {
+    "$date": "2021-04-19T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-04-29T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "608aeb6ea564750017de90f4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608aebf9a564750017de90fa"
+  },
+  "date": {
+    "$date": "2021-04-27T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-07T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "608ae5fea564750017de90f1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608af100a564750017de9106"
+  },
+  "date": {
+    "$date": "2021-04-27T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-07T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "608ae52ba564750017de90ef"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609012538191410015aa7a36"
+  },
+  "date": {
+    "$date": "2021-05-03T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": false,
+  "result": "Muestra Insuficiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-07T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609012d20440197d0ddeda6a"
+  },
+  "date": {
+    "$date": "2021-05-03T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-03T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6090137f8191410015aa7a3a"
+  },
+  "date": {
+    "$date": "2021-05-03T00:00:00Z"
+  },
+  "type": "Aspirado",
+  "sample": false,
+  "result": "Muestra Insuficiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-03T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609014188191410015aa7a3b"
+  },
+  "date": {
+    "$date": "2021-01-06T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": false,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-03T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609017afb6a3827f00c7985b"
+  },
+  "date": {
+    "$date": "2021-05-03T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-03T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60903f5f54884200151af983"
+  },
+  "date": {
+    "$date": "2021-04-29T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-09T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60903e1254884200151af97e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60904b2954884200151af989"
+  },
+  "date": {
+    "$date": "2021-04-28T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-08T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "608f57b4237a8600159a426b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6090b677e734b2001554d37c"
+  },
+  "date": {
+    "$date": "2021-05-03T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-13T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6090b2afe734b2001554d378"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60929ee385098b0015647d15"
+  },
+  "date": {
+    "$date": "2021-04-29T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-09T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60920e02a258d100155b0654"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6092d8e6a56ab80015b70f09"
+  },
+  "date": {
+    "$date": "2021-04-28T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-05T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6092d7baa56ab80015b70f04"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6093e108d3f6be001588679a"
+  },
+  "date": {
+    "$date": "2021-04-29T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-09T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6093d73ed3f6be0015886796"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6093feac32323200156b02c3"
+  },
+  "date": {
+    "$date": "2021-05-03T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-13T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6093f70932323200156b02bf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609400d532323200156b02c8"
+  },
+  "date": {
+    "$date": "2021-04-27T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-06T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6094007a32323200156b02c6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609447baca655c0015b5ab69"
+  },
+  "date": {
+    "$date": "2021-05-01T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-11T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "609444faca655c0015b5ab63"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60945c82ca655c0015b5ab77"
+  },
+  "date": {
+    "$date": "2021-05-06T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-11T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "608986af0ee8610017c68509"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6094fcb5eeca0e0015472d94"
+  },
+  "date": {
+    "$date": "2021-05-06T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-16T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60949dbc99138900156c996d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60959cc2d7ee050015cfc068"
+  },
+  "date": {
+    "$date": "2021-05-07T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-17T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60959cadd7ee050015cfc067"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60993cb7a636d00015ad76d8"
+  },
+  "date": {
+    "$date": "2021-05-06T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-10T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "608c39fc7c72aa0015bb51c3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60994f41a636d00015ad76e3"
+  },
+  "date": {
+    "$date": "2021-05-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-15T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "608f57b4237a8600159a426b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60995a24a636d00015ad76ee"
+  },
+  "date": {
+    "$date": "2021-05-09T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-19T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6099575ba636d00015ad76e8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60997ab4a636d00015ad76fa"
+  },
+  "date": {
+    "$date": "2021-05-31T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "id_paciente": {
+    "$oid": "6099756ea636d00015ad76f5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609abbc04450ed001513c6b9"
+  },
+  "date": {
+    "$date": "2021-05-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "609ab8c14450ed001513c6b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609b0a4d4450ed001513c6db"
+  },
+  "date": {
+    "$date": "2021-05-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "609b08b94450ed001513c6d8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609d4917c9c534001572f2b2"
+  },
+  "date": {
+    "$date": "2021-05-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-15T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6093d73ed3f6be0015886796"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609d4bacc9c534001572f2b5"
+  },
+  "date": {
+    "$date": "2021-05-11T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-16T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "609444faca655c0015b5ab63"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609d5c5ac9c534001572f2c1"
+  },
+  "date": {
+    "$date": "2021-05-13T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-18T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6093f70932323200156b02bf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609d7cefc9c534001572f2cf"
+  },
+  "date": {
+    "$date": "2021-05-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "609d6312c9c534001572f2c2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609de39077e2220015d7081d"
+  },
+  "date": {
+    "$date": "2021-05-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "609dbfe6c9c534001572f2e5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609de4da77e2220015d70821"
+  },
+  "date": {
+    "$date": "2021-05-12T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-17T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60920e02a258d100155b0654"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609e810845257c001570f721"
+  },
+  "date": {
+    "$date": "2021-05-09T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-14T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "609e7f2045257c001570f71d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609ebed845257c001570f733"
+  },
+  "date": {
+    "$date": "2021-05-07T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-17T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "609eb3e545257c001570f72d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609ef5929dc35d00158c1034"
+  },
+  "date": {
+    "$date": "2021-05-05T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-15T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "609ef2009dc35d00158c1032"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a12bd3c0a1e3001592d83c"
+  },
+  "date": {
+    "$date": "2021-05-13T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-16T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a12bb4c0a1e3001592d83b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a130e9c0a1e3001592d842"
+  },
+  "date": {
+    "$date": "2021-05-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a0a48c7c711e0015ee4b8b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a1472fc0a1e3001592d84a"
+  },
+  "date": {
+    "$date": "2021-05-14T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-16T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a14617c0a1e3001592d844"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a150e5c0a1e3001592d851"
+  },
+  "date": {
+    "$date": "2021-05-16T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-26T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a148a0c0a1e3001592d84d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a29a00a6f497001592b7a6"
+  },
+  "date": {
+    "$date": "2021-05-14T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-24T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a079820292c600157a6b4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a29da0a6f497001592b7aa"
+  },
+  "date": {
+    "$date": "2021-05-17T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-22T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "609eb3e545257c001570f72d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a2aa66a6f497001592b7b0"
+  },
+  "date": {
+    "$date": "2021-05-24T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-27T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a2a796a6f497001592b7ae"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3057ea6f497001592b7d5"
+  },
+  "date": {
+    "$date": "2021-05-15T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-25T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a30361a6f497001592b7d3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f7b4bb104300159c363e"
+  },
+  "date": {
+    "$date": "2021-05-11T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a3f5fabb104300159c363c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4188ebb104300159c3660"
+  },
+  "date": {
+    "$date": "2021-05-13T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-23T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a415ebbb104300159c365b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41a11bb104300159c3664"
+  },
+  "date": {
+    "$date": "2021-05-16T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-26T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a4159cbb104300159c365a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a46139071dd70015b710be"
+  },
+  "date": {
+    "$date": "2021-05-16T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": false,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-25T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a45eec071dd70015b710ba"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a573703264a80015bee14a"
+  },
+  "date": {
+    "$date": "2021-05-19T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-19T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6094007a32323200156b02c6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a6c926d1fbb40015af7622"
+  },
+  "date": {
+    "$date": "2021-05-08T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a6c81fd1fbb40015af761e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a6d2bad1fbb40015af762c"
+  },
+  "date": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "609ab8c14450ed001513c6b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a6dfd3d1fbb40015af7639"
+  },
+  "date": {
+    "$date": "2021-05-11T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a6de93d1fbb40015af7634"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a78bf4ebd9460015ae5c13"
+  },
+  "date": {
+    "$date": "2021-05-18T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-28T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a70f96a99a7d0015f378e9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a7a325ebd9460015ae5c1d"
+  },
+  "date": {
+    "$date": "2021-05-08T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a5dc283264a80015bee167"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a7a32eebd9460015ae5c1e"
+  },
+  "date": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a5dc283264a80015bee167"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a7a63febd9460015ae5c28"
+  },
+  "date": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a6c81fd1fbb40015af761e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a7e1a044e4ed001539d5c4"
+  },
+  "date": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "TEST RAPIDO",
+  "next": {
+    "$date": "2021-05-31T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a7e09044e4ed001539d5c2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a7fc2e44e4ed001539d5d0"
+  },
+  "date": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-26T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "608ae52ba564750017de90ef"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a810ec44e4ed001539d5da"
+  },
+  "date": {
+    "$date": "2021-05-16T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-26T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a810c244e4ed001539d5d9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a8180644e4ed001539d5e1"
+  },
+  "date": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": null,
+  "id_paciente": {
+    "$oid": "60a8150544e4ed001539d5dd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a8242b44e4ed001539d5eb"
+  },
+  "date": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a8224644e4ed001539d5e6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a8933b60daec001543de45"
+  },
+  "date": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-30T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a8908360daec001543de41"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60aa6b2e3b4c43001548ae6a"
+  },
+  "date": {
+    "$date": "2021-05-14T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-23T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a84e3509bb91001507989e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60aa83763b4c43001548ae7b"
+  },
+  "date": {
+    "$date": "2021-05-17T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-27T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60aa7f4a3b4c43001548ae74"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60aaa1363b4c43001548ae92"
+  },
+  "date": {
+    "$date": "2021-05-23T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-23T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60aaa05d3b4c43001548ae8e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60aaaee03b4c43001548ae9d"
+  },
+  "date": {
+    "$date": "2021-05-16T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-23T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60aaacc43b4c43001548ae98"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60aac340a04db200153d47a9"
+  },
+  "date": {
+    "$date": "2021-05-14T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-23T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60aac2aea04db200153d47a6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60abc2380b783500153ac34c"
+  },
+  "date": {
+    "$date": "2021-05-24T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-29T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60aac2aea04db200153d47a6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60abcb9a0b783500153ac355"
+  },
+  "date": {
+    "$date": "2021-05-18T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-28T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60abc7150b783500153ac351"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60abf75e0b783500153ac37d"
+  },
+  "date": {
+    "$date": "2021-05-24T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-03T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60abf5aa0b783500153ac379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ac0785c799d20015066a64"
+  },
+  "date": {
+    "$date": "2021-05-17T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-24T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60ac0708c799d20015066a62"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ac0948c799d20015066a68"
+  },
+  "date": {
+    "$date": "2021-05-24T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-24T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60ac08c7c799d20015066a66"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ac0ac9c799d20015066a6e"
+  },
+  "date": {
+    "$date": "2021-05-24T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-03T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60ac0a24c799d20015066a6b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ac2520c799d20015066a78"
+  },
+  "date": {
+    "$date": "2021-05-18T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-28T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60ac2352c799d20015066a75"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ac5112c799d20015066a96"
+  },
+  "date": {
+    "$date": "2021-05-24T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-28T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a415ebbb104300159c365b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad483624e5f50015876c24"
+  },
+  "date": {
+    "$date": "2021-05-15T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-25T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60ad475624e5f50015876c20"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60aeb81e2f3d780015fa4fe2"
+  },
+  "date": {
+    "$date": "2021-05-26T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-26T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60ad9a5d24e5f50015876c4d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60aee2bd2f3d780015fa4ff0"
+  },
+  "date": {
+    "$date": "2021-05-25T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-04T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60267b9ace4fd8001776e2d9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b119bd62d7810015d0e61f"
+  },
+  "date": {
+    "$date": "2021-05-28T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-28T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60b117c162d7810015d0e61c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b1374362d7810015d0e62d"
+  },
+  "date": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-31T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60b131b562d7810015d0e629"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b14d6b62d7810015d0e636"
+  },
+  "date": {
+    "$date": "2021-05-28T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "test rapido",
+  "next": {
+    "$date": "2021-06-07T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60b13c9162d7810015d0e62f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b3ba7a5336c40015b0bea7"
+  },
+  "date": {
+    "$date": "2021-05-26T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-05T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60b3b1595336c40015b0bea2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b516c04391ea00155f4aea"
+  },
+  "date": {
+    "$date": "2021-05-26T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-31T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60ad475624e5f50015876c20"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b666cabf201b001543ee24"
+  },
+  "date": {
+    "$date": "2021-05-24T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-01T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60b66492bf201b001543ee1c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b706ab62882500154c3e39"
+  },
+  "date": {
+    "$date": "2021-05-31T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-01-31T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a148a0c0a1e3001592d84d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b7075862882500154c3e3a"
+  },
+  "date": {
+    "$date": "2021-05-31T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-05T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60aaacc43b4c43001548ae98"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b7079b62882500154c3e3b"
+  },
+  "date": {
+    "$date": "2021-05-31T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": false,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-05T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60a7e09044e4ed001539d5c2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b707c762882500154c3e3c"
+  },
+  "date": {
+    "$date": "2021-05-31T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-02T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "6099756ea636d00015ad76f5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b7c51094b5e800153223ab"
+  },
+  "date": {
+    "$date": "2021-05-31T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-10T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60b7c17e7076f4001555e8a5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b7d1ea94b5e800153223c5"
+  },
+  "date": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-31T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60b7d07094b5e800153223b8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b7f15394b5e800153223ef"
+  },
+  "date": {
+    "$date": "2021-05-14T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-05-25T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60b7ee6e94b5e800153223e6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b7f30094b5e800153223f2"
+  },
+  "date": {
+    "$date": "2021-06-01T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-02T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60b7f2f494b5e800153223f1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b8378a94b5e80015322400"
+  },
+  "date": {
+    "$date": "2021-05-29T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-03T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60b836bf94b5e800153223fc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b97b4093ac290015e7eaa8"
+  },
+  "date": {
+    "$date": "2021-06-03T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-13T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60b97b2a93ac290015e7eaa7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b99d4793ac290015e7eaba"
+  },
+  "date": {
+    "$date": "2021-06-02T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-12T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60b999e193ac290015e7eab7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b9fd67f116870015fc742a"
+  },
+  "date": {
+    "$date": "2021-05-28T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-03T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60b7ee6e94b5e800153223e6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bcc0de8d7f1300155d3efd"
+  },
+  "date": {
+    "$date": "2021-06-03T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-13T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60bb946ffadb920015f6af1e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bcca778d7f1300155d3f12"
+  },
+  "date": {
+    "$date": "2021-06-04T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-06T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60ba9c79f3661b00155a4d94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bcde638d7f1300155d3f1e"
+  },
+  "date": {
+    "$date": "2021-05-24T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-06T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60bcdd238d7f1300155d3f1c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bcf36b8d7f1300155d3f2a"
+  },
+  "date": {
+    "$date": "2021-06-02T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-06T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60bcf1158d7f1300155d3f23"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bd199d8d7f1300155d3f33"
+  },
+  "date": {
+    "$date": "2021-06-04T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-06T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60bd17e68d7f1300155d3f2f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bd389a8d7f1300155d3f3f"
+  },
+  "date": {
+    "$date": "2021-06-04T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-06T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60bd37598d7f1300155d3f3c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60be916dd27eca0015bba655"
+  },
+  "date": {
+    "$date": "2021-06-04T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-14T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60be90aad27eca0015bba653"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60be9876d27eca0015bba65f"
+  },
+  "date": {
+    "$date": "2021-06-07T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-17T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60be96dcd27eca0015bba65a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60becbd78bd68d00151f95aa"
+  },
+  "date": {
+    "$date": "2021-06-02T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-12T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60bec5e78bd68d00151f95a6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bf8da6e6bc2c0015d399b1"
+  },
+  "date": {
+    "$date": "2021-06-04T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-08T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60bf8d8ae6bc2c0015d399af"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bfc6f5e6bc2c0015d399e4"
+  },
+  "date": {
+    "$date": "2021-06-08T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-13T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60ac0a24c799d20015066a6b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0fef080dea90015667bac"
+  },
+  "date": {
+    "$date": "2021-05-28T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-11T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c0fa7680dea90015667ba9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10ce680dea90015667bbd"
+  },
+  "date": {
+    "$date": "2021-06-04T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-14T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c107b980dea90015667bb1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c11b7480dea90015667bc8"
+  },
+  "date": {
+    "$date": "2021-06-09T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-09T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c11b0880dea90015667bc6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c11f0680dea90015667bcc"
+  },
+  "date": {
+    "$date": "2021-06-01T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "EN AISLAMIENTO POR CE",
+  "next": {
+    "$date": "2021-06-09T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c11ee280dea90015667bcb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1272480dea90015667bd1"
+  },
+  "date": {
+    "$date": "2021-05-30T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-09T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c126f180dea90015667bd0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c22af17dba31001529605c"
+  },
+  "date": {
+    "$date": "2021-06-02T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-12T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c228277dba310015296059"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c230f77dba310015296064"
+  },
+  "date": {
+    "$date": "2021-06-02T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": false,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-16T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c22f6a7dba310015296061"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c245737dba31001529606f"
+  },
+  "date": {
+    "$date": "2021-06-04T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": false,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-14T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c242c37dba31001529606d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c24bfc7dba31001529607b"
+  },
+  "date": {
+    "$date": "2021-06-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "TEST RAPIDO",
+  "next": {
+    "$date": "2021-06-10T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c24b0d7dba310015296077"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c25d8c7dba310015296089"
+  },
+  "date": {
+    "$date": "2021-06-08T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-18T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c25a0c7dba310015296083"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c290597dba3100152960a7"
+  },
+  "date": {
+    "$date": "2021-06-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-20T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c28bd47dba3100152960a4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c2c2607dba3100152960ab"
+  },
+  "date": {
+    "$date": "2021-06-02T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-12T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c2abd97dba3100152960a8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c381752dcd140015cddcab"
+  },
+  "date": {
+    "$date": "2021-05-31T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-14T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c3802a2dcd140015cddca4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c3c6092dcd140015cddcbc"
+  },
+  "date": {
+    "$date": "2021-06-02T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-12T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c3c5ed2dcd140015cddcbb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c631499ce6ba0015e79349"
+  },
+  "date": {
+    "$date": "2021-06-09T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-19T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c62ea79ce6ba0015e79343"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c63c089ce6ba0015e79359"
+  },
+  "date": {
+    "$date": "2021-06-07T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-17T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c638fe9ce6ba0015e79352"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c65b299ce6ba0015e79364"
+  },
+  "date": {
+    "$date": "2021-06-09T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-19T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c658609ce6ba0015e7935f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6668b9ce6ba0015e7936e"
+  },
+  "date": {
+    "$date": "2021-06-12T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-22T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c665159ce6ba0015e7936a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c793f47be96f0015aa2e04"
+  },
+  "date": {
+    "$date": "2021-06-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-20T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c791717be96f0015aa2dfd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8ba46587975001597e498"
+  },
+  "date": {
+    "$date": "2021-06-15T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "TEST RAPIDO NEGA",
+  "next": {
+    "$date": "2021-06-15T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c8b2b2587975001597e48c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8beb1587975001597e4aa"
+  },
+  "date": {
+    "$date": "2021-06-15T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "test rapido",
+  "next": {
+    "$date": "2021-06-15T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c8be7c587975001597e4a8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8e4ff587975001597e4bf"
+  },
+  "date": {
+    "$date": "2021-06-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-20T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c8e1cd587975001597e4b9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c90c79587975001597e4ce"
+  },
+  "date": {
+    "$date": "2021-06-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-15T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c90b5c587975001597e4cc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb95779a1a8300151f0665"
+  },
+  "date": {
+    "$date": "2021-06-02T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-17T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60cb7bb29a1a8300151f064f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc100efa61ad001570c270"
+  },
+  "date": {
+    "$date": "2021-06-07T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-18T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60cc0e69fa61ad001570c26c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cd070ee0fb0700155a638b"
+  },
+  "date": {
+    "$date": "2021-06-18T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "TEST RAPIDO",
+  "next": {
+    "$date": "2021-06-28T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60cce69ae0fb0700155a6382"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d1f74b635635001547b03f"
+  },
+  "date": {
+    "$date": "2021-06-15T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-30T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60d1f511635635001547b036"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d2052d635635001547b048"
+  },
+  "date": {
+    "$date": "2021-06-22T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-22T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60d202ec635635001547b042"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d371a96f2b4b001598fceb"
+  },
+  "date": {
+    "$date": "2021-06-20T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-30T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60d371966f2b4b001598fcea"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d378926f2b4b001598fcfa"
+  },
+  "date": {
+    "$date": "2021-06-21T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-07-01T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60d3785d6f2b4b001598fcf9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d3d9246f2b4b001598fd27"
+  },
+  "date": {
+    "$date": "2021-06-10T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-24T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60d3c5066f2b4b001598fd21"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d6a6375558e4001517a65d"
+  },
+  "date": {
+    "$date": "2021-06-26T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "en aislamiento desde el 16/6 por padre positivo",
+  "next": {
+    "$date": "2021-06-05T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60d6a2f45558e4001517a65a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d8e8c6eb654c0015e77797"
+  },
+  "date": {
+    "$date": "2021-06-22T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-07-02T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d8efc1eb654c0015e7779e"
+  },
+  "date": {
+    "$date": "2021-06-24T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-07-04T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60d8e9a7eb654c0015e7779a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d91044eb654c0015e777a7"
+  },
+  "date": {
+    "$date": "2021-06-27T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-07-07T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60d90d6deb654c0015e777a2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9e72690e8090015474e01"
+  },
+  "date": {
+    "$date": "2021-06-26T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-06T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60d9e4b990e8090015474df6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da34a290e8090015474e26"
+  },
+  "date": {
+    "$date": "2021-06-25T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-07-05T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60d8c851eb654c0015e77785"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da39e790e8090015474e2b"
+  },
+  "date": {
+    "$date": "2021-06-08T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-18T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c0e6b580dea90015667b9e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da39fd90e8090015474e2c"
+  },
+  "date": {
+    "$date": "2021-06-21T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-06-26T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c0e6b580dea90015667b9e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da499f90e8090015474e30"
+  },
+  "date": {
+    "$date": "2021-06-23T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-07-03T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60da455390e8090015474e2d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da518590e8090015474e37"
+  },
+  "date": {
+    "$date": "2021-06-21T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-07-01T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60da4f6d90e8090015474e34"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da74e790e8090015474e47"
+  },
+  "date": {
+    "$date": "2021-06-23T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-07-03T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60da733c90e8090015474e43"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da790f90e8090015474e4b"
+  },
+  "date": {
+    "$date": "2021-06-23T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-07-03T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60da572490e8090015474e3c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dde68c618a93001500f96b"
+  },
+  "date": {
+    "$date": "2021-06-30T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-07-10T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60dde571618a93001500f969"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de0c05618a93001500f989"
+  },
+  "date": {
+    "$date": "2021-06-28T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-07-08T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60de0b06618a93001500f984"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de500a618a93001500f9ad"
+  },
+  "date": {
+    "$date": "2021-07-01T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "TEST RAPIDO",
+  "next": {
+    "$date": "2021-07-10T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de8ad1b410b1001539cacb"
+  },
+  "date": {
+    "$date": "2021-06-12T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Negativo",
+  "observations": "",
+  "next": {
+    "$date": "2021-07-02T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60c2abd97dba3100152960a8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df677a42aeab0015fdf17c"
+  },
+  "date": {
+    "$date": "2021-06-26T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-07-02T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60d1f511635635001547b036"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df678c42aeab0015fdf17d"
+  },
+  "date": {
+    "$date": "2021-07-02T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Pendiente",
+  "observations": "",
+  "next": {
+    "$date": "2021-07-02T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60d1f511635635001547b036"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df7ad142aeab0015fdf180"
+  },
+  "date": {
+    "$date": "2021-06-24T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-07-04T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60df7aab42aeab0015fdf17f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e231614729480015487aaf"
+  },
+  "date": {
+    "$date": "2021-07-01T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-07-10T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60e22cd14729480015487aa9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e361c9ce711e0015f80b51"
+  },
+  "date": {
+    "$date": "2021-07-05T00:00:00Z"
+  },
+  "type": "Hisopado",
+  "sample": true,
+  "result": "Positivo",
+  "observations": "",
+  "next": {
+    "$date": "2021-07-05T00:00:00Z"
+  },
+  "id_paciente": {
+    "$oid": "60e36031ce711e0015f80b4e"
+  },
+  "__v": 0
+}]

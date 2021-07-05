@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "5ffc9dbf57d2d6580b4e631b"
+  },
+  "date": {
+    "$date": "2021-01-10T17:45:00Z"
+  },
+  "mode": "10",
+  "breathing_frequency": 14,
+  "fiO2": 45,
+  "inspiration": 0,
+  "expiration": 0,
+  "pim": 0,
+  "peep": 0,
+  "vol": 0,
+  "id_nurse": {
+    "$oid": "5f5c2911fa69933de404dc67"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffc9e1457d2d6580b4e631c"
+  },
+  "date": {
+    "$date": "2021-01-01T21:49:00Z"
+  },
+  "mode": "0",
+  "breathing_frequency": 1,
+  "fiO2": 2,
+  "inspiration": 3,
+  "expiration": 4,
+  "pim": 5,
+  "peep": 6,
+  "vol": 7,
+  "id_nurse": {
+    "$oid": "5f5c2911fa69933de404dc67"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffc9e3057d2d6580b4e631d"
+  },
+  "date": {
+    "$date": "2021-01-11T21:51:00Z"
+  },
+  "mode": "0",
+  "breathing_frequency": 1,
+  "fiO2": 2,
+  "inspiration": 3,
+  "expiration": 4,
+  "pim": 5,
+  "peep": 6,
+  "vol": 7,
+  "id_nurse": {
+    "$oid": "5f5c2911fa69933de404dc67"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+}]

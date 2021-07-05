@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "602f9d60a4ec49001775fae8"
+  },
+  "date": {
+    "$date": "2021-02-19T11:13:36.226Z"
+  },
+  "temperature": 37.9,
+  "blood_pressure": 62,
+  "heart_rate": 100,
+  "breathing_frequency": 13,
+  "FiO2": 100,
+  "PaO2": 86,
+  "pH_arterial": 7.5,
+  "na_serico": 156,
+  "k_serico": 3.5,
+  "insuficiencia_renal": false,
+  "creatinina_serica": 1.05,
+  "hematocrito": 41,
+  "leucocitos": 8.6,
+  "glasgow": 9,
+  "chronic_problems": 2,
+  "value": 18,
+  "age": 45,
+  "id_paciente": {
+    "$oid": "602ee35698a9510017e7b74c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607611fa0919a10017f968eb"
+  },
+  "date": {
+    "$date": "2021-04-13T21:49:45.777Z"
+  },
+  "temperature": 36,
+  "blood_pressure": 100,
+  "heart_rate": 95,
+  "breathing_frequency": 15,
+  "FiO2": 0,
+  "PaO2": 0,
+  "pH_arterial": 7.39,
+  "na_serico": 135,
+  "k_serico": 3.8,
+  "insuficiencia_renal": false,
+  "creatinina_serica": 0.74,
+  "hematocrito": 44,
+  "leucocitos": 6.4,
+  "glasgow": 15,
+  "chronic_problems": 1,
+  "value": 0,
+  "age": 39,
+  "id_paciente": {
+    "$oid": "6074777f1077cb001730fe30"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076130b0919a10017f968ec"
+  },
+  "date": {
+    "$date": "2021-04-13T21:54:18.386Z"
+  },
+  "temperature": 37.9,
+  "blood_pressure": 120,
+  "heart_rate": 145,
+  "breathing_frequency": 18,
+  "FiO2": 0,
+  "PaO2": 141,
+  "pH_arterial": 7.4,
+  "na_serico": 155,
+  "k_serico": 4.3,
+  "insuficiencia_renal": false,
+  "creatinina_serica": 1.49,
+  "hematocrito": 30,
+  "leucocitos": 8.3,
+  "glasgow": 3,
+  "chronic_problems": 1,
+  "value": 21,
+  "age": 40,
+  "id_paciente": {
+    "$oid": "606e9279f3969a00175a20d3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607f2130fedd0000176bf16e"
+  },
+  "date": {
+    "$date": "2021-04-20T18:45:03.137Z"
+  },
+  "temperature": 36.2,
+  "blood_pressure": 75,
+  "heart_rate": 81,
+  "breathing_frequency": 26,
+  "FiO2": 60,
+  "PaO2": 88,
+  "pH_arterial": 7.4,
+  "na_serico": 136,
+  "k_serico": 3.8,
+  "insuficiencia_renal": false,
+  "creatinina_serica": 1.14,
+  "hematocrito": 53,
+  "leucocitos": 12.9,
+  "glasgow": 15,
+  "chronic_problems": 2,
+  "value": 11,
+  "age": 56,
+  "id_paciente": {
+    "$oid": "60763928f118070017e0b905"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607f2270fedd0000176bf16f"
+  },
+  "date": {
+    "$date": "2021-04-20T18:50:23.832Z"
+  },
+  "temperature": 36,
+  "blood_pressure": 110,
+  "heart_rate": 114,
+  "breathing_frequency": 22,
+  "FiO2": 70,
+  "PaO2": 81,
+  "pH_arterial": 7.34,
+  "na_serico": 133,
+  "k_serico": 3.6,
+  "insuficiencia_renal": false,
+  "creatinina_serica": 0.84,
+  "hematocrito": 0,
+  "leucocitos": 12.5,
+  "glasgow": 3,
+  "chronic_problems": 1,
+  "value": 22,
+  "age": 48,
+  "id_paciente": {
+    "$oid": "60735ed26abf1500176b4a35"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,1072 @@
+[{
+  "_id": {
+    "$oid": "601c10d02ec3b84379d1fb4b"
+  },
+  "date": {
+    "$date": "2021-02-04T15:20:48.589Z"
+  },
+  "FiO2": 1,
+  "breathing_frequency": 2,
+  "v_minute": 3,
+  "r_time": 4,
+  "time_ins": 5,
+  "frequency": 6,
+  "control_pressure": 7,
+  "PEEP": 8,
+  "sensitivity": 9,
+  "peak_pressure": 10,
+  "base_pressure": 11,
+  "compliance": "13",
+  "type": "PCV",
+  "professional_name": {
+    "$oid": "60005f5ab5736bbcec3fe670"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601c10f32ec3b84379d1fb4c"
+  },
+  "date": {
+    "$date": "2021-02-04T15:21:22.668Z"
+  },
+  "subtype": "PSV",
+  "FiO2": 21,
+  "sensitivity": 5,
+  "PEEP": 85,
+  "type": "CPAP",
+  "professional_name": {
+    "$oid": "60005f5ab5736bbcec3fe670"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601d70830c60cb9408abf816"
+  },
+  "date": {
+    "$date": "2021-02-05T16:21:22.382Z"
+  },
+  "FiO2": 1,
+  "onda": 2,
+  "time_ins": 3,
+  "breathing_frequency": 4,
+  "tidal_volumen": 5,
+  "PEEP": 6,
+  "peak_pressure": 9,
+  "plateau_pressure": 7,
+  "base_pressure": 10,
+  "compliance": "8",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "60005f5ab5736bbcec3fe670"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6056768d9e80990017244ee5"
+  },
+  "date": {
+    "$date": "2021-03-20T22:26:19.155Z"
+  },
+  "FiO2": 100,
+  "onda": null,
+  "time_ins": 1,
+  "breathing_frequency": 20,
+  "tidal_volumen": 0.4,
+  "PEEP": 14,
+  "peak_pressure": 30,
+  "plateau_pressure": null,
+  "base_pressure": null,
+  "compliance": "",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a5de60a339760a9ac0b6"
+  },
+  "id_paciente": {
+    "$oid": "6056692dca68f700174eac06"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d2404437ffc001708b70a"
+  },
+  "date": {
+    "$date": "2021-04-07T03:16:17.539Z"
+  },
+  "FiO2": 90,
+  "onda": null,
+  "time_ins": null,
+  "breathing_frequency": 24,
+  "tidal_volumen": 0.4,
+  "PEEP": 10,
+  "peak_pressure": 26,
+  "plateau_pressure": null,
+  "base_pressure": null,
+  "compliance": "",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a5de60a339760a9ac0b6"
+  },
+  "id_paciente": {
+    "$oid": "606a5e334c23160017d94048"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0888f3c9ff001736036b"
+  },
+  "date": {
+    "$date": "2021-04-08T13:43:32.440Z"
+  },
+  "FiO2": 60,
+  "onda": null,
+  "time_ins": 0.9,
+  "breathing_frequency": 25,
+  "tidal_volumen": 0.4,
+  "PEEP": 9,
+  "peak_pressure": 25,
+  "plateau_pressure": null,
+  "base_pressure": 9,
+  "compliance": "35",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a62260a339760a9ac0b7"
+  },
+  "id_paciente": {
+    "$oid": "606a5e334c23160017d94048"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f11d0f3c9ff001736036d"
+  },
+  "date": {
+    "$date": "2021-04-08T14:23:12.951Z"
+  },
+  "FiO2": 100,
+  "onda": null,
+  "time_ins": 1.2,
+  "breathing_frequency": 23,
+  "tidal_volumen": 0.42,
+  "PEEP": 12,
+  "peak_pressure": 31,
+  "plateau_pressure": null,
+  "base_pressure": null,
+  "compliance": "",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a7a360a339760a9ac0b9"
+  },
+  "id_paciente": {
+    "$oid": "606e9279f3969a00175a20d3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070d967e866420017758271"
+  },
+  "date": {
+    "$date": "2021-04-09T22:46:57.739Z"
+  },
+  "FiO2": 75,
+  "onda": null,
+  "time_ins": 0.9,
+  "breathing_frequency": 27,
+  "tidal_volumen": 0.4,
+  "PEEP": 9,
+  "peak_pressure": 26,
+  "plateau_pressure": null,
+  "base_pressure": null,
+  "compliance": "29",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a5de60a339760a9ac0b6"
+  },
+  "id_paciente": {
+    "$oid": "606a5e334c23160017d94048"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070d9c2e866420017758272"
+  },
+  "date": {
+    "$date": "2021-04-09T22:48:29.975Z"
+  },
+  "FiO2": 100,
+  "onda": null,
+  "time_ins": 0.8,
+  "breathing_frequency": 22,
+  "tidal_volumen": 0.4,
+  "PEEP": 14,
+  "peak_pressure": 41,
+  "plateau_pressure": null,
+  "base_pressure": null,
+  "compliance": "30",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a5de60a339760a9ac0b6"
+  },
+  "id_paciente": {
+    "$oid": "606b5c050df6ab0017d00cf2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070e603e866420017758276"
+  },
+  "date": {
+    "$date": "2021-04-09T23:40:46.620Z"
+  },
+  "FiO2": 94,
+  "onda": null,
+  "time_ins": 0.9,
+  "breathing_frequency": 27,
+  "tidal_volumen": 0.3,
+  "PEEP": 12,
+  "peak_pressure": 27,
+  "plateau_pressure": 25,
+  "base_pressure": 12,
+  "compliance": "25",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a62260a339760a9ac0b7"
+  },
+  "id_paciente": {
+    "$oid": "606e9279f3969a00175a20d3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60731ce303adde0017e82698"
+  },
+  "date": {
+    "$date": "2021-04-11T15:59:30.031Z"
+  },
+  "FiO2": 70,
+  "onda": 0,
+  "time_ins": null,
+  "breathing_frequency": 25,
+  "tidal_volumen": 30,
+  "PEEP": 16,
+  "peak_pressure": 33,
+  "plateau_pressure": 31,
+  "base_pressure": null,
+  "compliance": "",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "id_paciente": {
+    "$oid": "606e9279f3969a00175a20d3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60731e5d03adde0017e8269a"
+  },
+  "date": {
+    "$date": "2021-04-11T16:05:47.959Z"
+  },
+  "FiO2": 95,
+  "onda": null,
+  "time_ins": null,
+  "breathing_frequency": 27,
+  "tidal_volumen": 0.4,
+  "PEEP": 9,
+  "peak_pressure": null,
+  "plateau_pressure": null,
+  "base_pressure": null,
+  "compliance": "",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a7a360a339760a9ac0b9"
+  },
+  "id_paciente": {
+    "$oid": "606a5e334c23160017d94048"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60731ec703adde0017e8269b"
+  },
+  "date": {
+    "$date": "2021-04-11T16:07:33.410Z"
+  },
+  "FiO2": 80,
+  "onda": null,
+  "time_ins": null,
+  "breathing_frequency": 22,
+  "tidal_volumen": 0.4,
+  "PEEP": 12,
+  "peak_pressure": null,
+  "plateau_pressure": null,
+  "base_pressure": null,
+  "compliance": "",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a7a360a339760a9ac0b9"
+  },
+  "id_paciente": {
+    "$oid": "606b5c050df6ab0017d00cf2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607460fe1077cb001730fe21"
+  },
+  "date": {
+    "$date": "2021-04-12T15:02:20.936Z"
+  },
+  "FiO2": 70,
+  "onda": null,
+  "time_ins": 0.9,
+  "breathing_frequency": 25,
+  "tidal_volumen": 30,
+  "PEEP": 16,
+  "peak_pressure": 34,
+  "plateau_pressure": null,
+  "base_pressure": null,
+  "compliance": "",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a7a360a339760a9ac0b9"
+  },
+  "id_paciente": {
+    "$oid": "606e9279f3969a00175a20d3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607461ad1077cb001730fe22"
+  },
+  "date": {
+    "$date": "2021-04-12T15:05:15.707Z"
+  },
+  "FiO2": 95,
+  "onda": null,
+  "time_ins": null,
+  "breathing_frequency": 27,
+  "tidal_volumen": 0.4,
+  "PEEP": 9,
+  "peak_pressure": 32,
+  "plateau_pressure": null,
+  "base_pressure": null,
+  "compliance": "",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a7a360a339760a9ac0b9"
+  },
+  "id_paciente": {
+    "$oid": "606a5e334c23160017d94048"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6074da5c1990030017c94906"
+  },
+  "date": {
+    "$date": "2021-04-12T23:40:08.484Z"
+  },
+  "FiO2": 90,
+  "onda": null,
+  "time_ins": 0.9,
+  "breathing_frequency": 25,
+  "tidal_volumen": 400,
+  "PEEP": 9,
+  "peak_pressure": 30,
+  "plateau_pressure": null,
+  "base_pressure": null,
+  "compliance": "24",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a5de60a339760a9ac0b6"
+  },
+  "id_paciente": {
+    "$oid": "606b5c050df6ab0017d00cf2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6074daba1990030017c94908"
+  },
+  "date": {
+    "$date": "2021-04-12T23:41:42.593Z"
+  },
+  "FiO2": 90,
+  "onda": null,
+  "time_ins": 0.9,
+  "breathing_frequency": 25,
+  "tidal_volumen": 400,
+  "PEEP": 9,
+  "peak_pressure": 30,
+  "plateau_pressure": null,
+  "base_pressure": null,
+  "compliance": "24",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a5de60a339760a9ac0b6"
+  },
+  "id_paciente": {
+    "$oid": "606a5e334c23160017d94048"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6074db121990030017c94909"
+  },
+  "date": {
+    "$date": "2021-04-12T23:43:10.285Z"
+  },
+  "FiO2": 70,
+  "onda": null,
+  "time_ins": 0.8,
+  "breathing_frequency": 22,
+  "tidal_volumen": 350,
+  "PEEP": 12,
+  "peak_pressure": 41,
+  "plateau_pressure": 26,
+  "base_pressure": null,
+  "compliance": "19",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a5de60a339760a9ac0b6"
+  },
+  "id_paciente": {
+    "$oid": "606b5c050df6ab0017d00cf2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6075afc0260dfb00179d7ab8"
+  },
+  "date": {
+    "$date": "2021-04-13T14:50:36.260Z"
+  },
+  "FiO2": 90,
+  "onda": null,
+  "time_ins": 0.9,
+  "breathing_frequency": 25,
+  "tidal_volumen": 0.4,
+  "PEEP": 12,
+  "peak_pressure": 35,
+  "plateau_pressure": 30,
+  "base_pressure": 12,
+  "compliance": "22",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a62260a339760a9ac0b7"
+  },
+  "id_paciente": {
+    "$oid": "606a5e334c23160017d94048"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6078bf8195dbb40017da80fa"
+  },
+  "date": {
+    "$date": "2021-04-15T22:34:34.956Z"
+  },
+  "FiO2": 90,
+  "onda": null,
+  "time_ins": 0.9,
+  "breathing_frequency": 22,
+  "tidal_volumen": 0.42,
+  "PEEP": 12,
+  "peak_pressure": null,
+  "plateau_pressure": null,
+  "base_pressure": null,
+  "compliance": "",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a5de60a339760a9ac0b6"
+  },
+  "id_paciente": {
+    "$oid": "60735ed26abf1500176b4a35"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6078bfd795dbb40017da80fb"
+  },
+  "date": {
+    "$date": "2021-04-15T22:36:01.452Z"
+  },
+  "FiO2": 0.9,
+  "onda": null,
+  "time_ins": 0.9,
+  "breathing_frequency": 24,
+  "tidal_volumen": 0.4,
+  "PEEP": 12,
+  "peak_pressure": null,
+  "plateau_pressure": null,
+  "base_pressure": null,
+  "compliance": "",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a5de60a339760a9ac0b6"
+  },
+  "id_paciente": {
+    "$oid": "606a5e334c23160017d94048"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607b9e60415cab00171b158d"
+  },
+  "date": {
+    "$date": "2021-04-18T02:50:04.555Z"
+  },
+  "FiO2": 60,
+  "onda": null,
+  "time_ins": null,
+  "breathing_frequency": 22,
+  "tidal_volumen": 400,
+  "PEEP": 14,
+  "peak_pressure": 32,
+  "plateau_pressure": 28,
+  "base_pressure": 14,
+  "compliance": "28",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a62260a339760a9ac0b7"
+  },
+  "id_paciente": {
+    "$oid": "60735ed26abf1500176b4a35"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607c59124ce6030017e59c61"
+  },
+  "date": {
+    "$date": "2021-04-18T16:06:42.214Z"
+  },
+  "FiO2": 70,
+  "onda": null,
+  "time_ins": 0.85,
+  "breathing_frequency": 24,
+  "tidal_volumen": 320,
+  "PEEP": 16,
+  "peak_pressure": 33,
+  "plateau_pressure": null,
+  "base_pressure": null,
+  "compliance": "",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a7f060a339760a9ac0ba"
+  },
+  "id_paciente": {
+    "$oid": "606e9279f3969a00175a20d3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607c5a174ce6030017e59c63"
+  },
+  "date": {
+    "$date": "2021-04-18T16:11:03.223Z"
+  },
+  "FiO2": 85,
+  "onda": null,
+  "time_ins": 0.85,
+  "breathing_frequency": 22,
+  "tidal_volumen": 400,
+  "PEEP": 14,
+  "peak_pressure": 32,
+  "plateau_pressure": null,
+  "base_pressure": null,
+  "compliance": "",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a7f060a339760a9ac0ba"
+  },
+  "id_paciente": {
+    "$oid": "60735ed26abf1500176b4a35"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607e4328ec8be30017ae228d"
+  },
+  "date": {
+    "$date": "2021-04-20T02:57:40.140Z"
+  },
+  "FiO2": 70,
+  "onda": null,
+  "time_ins": null,
+  "breathing_frequency": 22,
+  "tidal_volumen": 400,
+  "PEEP": 14,
+  "peak_pressure": 32,
+  "plateau_pressure": 25,
+  "base_pressure": null,
+  "compliance": "36",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a5de60a339760a9ac0b6"
+  },
+  "id_paciente": {
+    "$oid": "60735ed26abf1500176b4a35"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6082d4fea5c247001794dc8e"
+  },
+  "date": {
+    "$date": "2021-04-23T14:09:01.645Z"
+  },
+  "FiO2": 65,
+  "onda": null,
+  "time_ins": 0.85,
+  "breathing_frequency": 22,
+  "tidal_volumen": 400,
+  "PEEP": 12,
+  "peak_pressure": 28,
+  "plateau_pressure": null,
+  "base_pressure": null,
+  "compliance": "",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a7f060a339760a9ac0ba"
+  },
+  "id_paciente": {
+    "$oid": "60735ed26abf1500176b4a35"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6082dadea5c247001794dc98"
+  },
+  "date": {
+    "$date": "2021-04-23T14:34:06.316Z"
+  },
+  "FiO2": 80,
+  "onda": null,
+  "time_ins": 0.9,
+  "breathing_frequency": 26,
+  "tidal_volumen": 0.32,
+  "PEEP": 16,
+  "peak_pressure": 41,
+  "plateau_pressure": null,
+  "base_pressure": null,
+  "compliance": "",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a7f060a339760a9ac0ba"
+  },
+  "id_paciente": {
+    "$oid": "606e9279f3969a00175a20d3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6083740983ca3f0017817e27"
+  },
+  "date": {
+    "$date": "2021-04-24T01:27:31.870Z"
+  },
+  "FiO2": 80,
+  "onda": null,
+  "time_ins": 0.9,
+  "breathing_frequency": 20,
+  "tidal_volumen": 0.35,
+  "PEEP": 15,
+  "peak_pressure": 32,
+  "plateau_pressure": 28,
+  "base_pressure": 15,
+  "compliance": "23",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a62260a339760a9ac0b7"
+  },
+  "id_paciente": {
+    "$oid": "6082171bd6edbc00177d3cc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60876f21b9e828001725d034"
+  },
+  "date": {
+    "$date": "2021-04-27T01:55:41.092Z"
+  },
+  "FiO2": 60,
+  "onda": null,
+  "time_ins": 1,
+  "breathing_frequency": null,
+  "tidal_volumen": 0.33,
+  "PEEP": 12,
+  "peak_pressure": 24,
+  "plateau_pressure": null,
+  "base_pressure": 12,
+  "compliance": "",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a62260a339760a9ac0b7"
+  },
+  "id_paciente": {
+    "$oid": "6082171bd6edbc00177d3cc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60894aab0ee8610017c684f4"
+  },
+  "date": {
+    "$date": "2021-04-28T11:44:41.312Z"
+  },
+  "FiO2": 50,
+  "onda": null,
+  "time_ins": 0.8022,
+  "breathing_frequency": null,
+  "tidal_volumen": 33,
+  "PEEP": 14,
+  "peak_pressure": null,
+  "plateau_pressure": null,
+  "base_pressure": null,
+  "compliance": "",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a7f060a339760a9ac0ba"
+  },
+  "id_paciente": {
+    "$oid": "6082171bd6edbc00177d3cc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6090a308e734b2001554d375"
+  },
+  "date": {
+    "$date": "2021-05-04T01:27:31.234Z"
+  },
+  "FiO2": 95,
+  "onda": null,
+  "time_ins": 1,
+  "breathing_frequency": 24,
+  "tidal_volumen": 360,
+  "PEEP": 12,
+  "peak_pressure": 31,
+  "plateau_pressure": 26,
+  "base_pressure": 12,
+  "compliance": "26",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a62260a339760a9ac0b7"
+  },
+  "id_paciente": {
+    "$oid": "60735ed26abf1500176b4a35"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6090a47de734b2001554d377"
+  },
+  "date": {
+    "$date": "2021-05-04T01:33:44.462Z"
+  },
+  "FiO2": 60,
+  "onda": null,
+  "time_ins": null,
+  "breathing_frequency": 32,
+  "tidal_volumen": null,
+  "PEEP": 12,
+  "peak_pressure": 26,
+  "plateau_pressure": 22,
+  "base_pressure": 12,
+  "compliance": "45",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a62260a339760a9ac0b7"
+  },
+  "id_paciente": {
+    "$oid": "608455c1831fda00170646a3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6091d8bb2bf3b50015333b47"
+  },
+  "date": {
+    "$date": "2021-05-04T23:28:58.586Z"
+  },
+  "FiO2": 50,
+  "onda": null,
+  "time_ins": null,
+  "breathing_frequency": 24,
+  "tidal_volumen": 360,
+  "PEEP": 12,
+  "peak_pressure": 22,
+  "plateau_pressure": null,
+  "base_pressure": null,
+  "compliance": "",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a7f060a339760a9ac0ba"
+  },
+  "id_paciente": {
+    "$oid": "60735ed26abf1500176b4a35"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609aa2234450ed001513c6b0"
+  },
+  "date": {
+    "$date": "2021-05-11T15:26:21.929Z"
+  },
+  "FiO2": null,
+  "onda": null,
+  "time_ins": 1,
+  "breathing_frequency": 26,
+  "tidal_volumen": 300,
+  "PEEP": 10,
+  "peak_pressure": 34,
+  "plateau_pressure": null,
+  "base_pressure": 10,
+  "compliance": "13",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a62260a339760a9ac0b7"
+  },
+  "id_paciente": {
+    "$oid": "608aeb6ea564750017de90f4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a1461dc0a1e3001592d845"
+  },
+  "date": {
+    "$date": "2021-05-16T16:19:36.294Z"
+  },
+  "FiO2": 50,
+  "onda": null,
+  "time_ins": 0.8,
+  "breathing_frequency": 24,
+  "tidal_volumen": 0.35,
+  "PEEP": 12,
+  "peak_pressure": 34,
+  "plateau_pressure": 30,
+  "base_pressure": 12,
+  "compliance": "20",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a62260a339760a9ac0b7"
+  },
+  "id_paciente": {
+    "$oid": "6093f70932323200156b02bf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a166dcc0a1e3001592d859"
+  },
+  "date": {
+    "$date": "2021-05-16T18:39:20.095Z"
+  },
+  "FiO2": 90,
+  "onda": null,
+  "time_ins": null,
+  "breathing_frequency": 28,
+  "tidal_volumen": 380,
+  "PEEP": 12,
+  "peak_pressure": 34,
+  "plateau_pressure": 30,
+  "base_pressure": 12,
+  "compliance": "21",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a62260a339760a9ac0b7"
+  },
+  "id_paciente": {
+    "$oid": "6093d73ed3f6be0015886796"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a8577309bb9100150798a5"
+  },
+  "date": {
+    "$date": "2021-05-22T00:59:30.052Z"
+  },
+  "FiO2": 80,
+  "onda": null,
+  "time_ins": 1,
+  "breathing_frequency": 22,
+  "tidal_volumen": 350,
+  "PEEP": 12,
+  "peak_pressure": 27,
+  "plateau_pressure": null,
+  "base_pressure": 12,
+  "compliance": "",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a7f060a339760a9ac0ba"
+  },
+  "id_paciente": {
+    "$oid": "60a5dc283264a80015bee167"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60abdc9c0b783500153ac373"
+  },
+  "date": {
+    "$date": "2021-05-24T17:04:22.411Z"
+  },
+  "FiO2": 85,
+  "onda": null,
+  "time_ins": 1.1,
+  "breathing_frequency": 30,
+  "tidal_volumen": null,
+  "PEEP": 12,
+  "peak_pressure": 30,
+  "plateau_pressure": 25,
+  "base_pressure": 12,
+  "compliance": "38",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a62260a339760a9ac0b7"
+  },
+  "id_paciente": {
+    "$oid": "60a148a0c0a1e3001592d84d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60abdd7f0b783500153ac375"
+  },
+  "date": {
+    "$date": "2021-05-24T17:08:09.911Z"
+  },
+  "FiO2": 55,
+  "onda": null,
+  "time_ins": 1,
+  "breathing_frequency": 30,
+  "tidal_volumen": 330,
+  "PEEP": 12,
+  "peak_pressure": 30,
+  "plateau_pressure": 27,
+  "base_pressure": 12,
+  "compliance": "21",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a62260a339760a9ac0b7"
+  },
+  "id_paciente": {
+    "$oid": "609d6312c9c534001572f2c2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60be43e4d27eca0015bba619"
+  },
+  "date": {
+    "$date": "2021-06-07T16:05:56.581Z"
+  },
+  "FiO2": 60,
+  "onda": null,
+  "time_ins": null,
+  "breathing_frequency": 28,
+  "tidal_volumen": 400,
+  "PEEP": 12,
+  "peak_pressure": 30,
+  "plateau_pressure": 25,
+  "base_pressure": 12,
+  "compliance": "34",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a62260a339760a9ac0b7"
+  },
+  "id_paciente": {
+    "$oid": "60b131b562d7810015d0e629"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60be462dd27eca0015bba61d"
+  },
+  "date": {
+    "$date": "2021-06-07T16:15:41.401Z"
+  },
+  "FiO2": 70,
+  "onda": null,
+  "time_ins": null,
+  "breathing_frequency": 28,
+  "tidal_volumen": 300,
+  "PEEP": 26,
+  "peak_pressure": null,
+  "plateau_pressure": null,
+  "base_pressure": 10,
+  "compliance": "",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a62260a339760a9ac0b7"
+  },
+  "id_paciente": {
+    "$oid": "609d6312c9c534001572f2c2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c4e3c87ace450015430041"
+  },
+  "date": {
+    "$date": "2021-06-12T16:41:42.513Z"
+  },
+  "FiO2": 55,
+  "onda": null,
+  "time_ins": 1,
+  "breathing_frequency": 2,
+  "tidal_volumen": 350,
+  "PEEP": 12,
+  "peak_pressure": 29,
+  "plateau_pressure": 25,
+  "base_pressure": 12,
+  "compliance": "29",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a62260a339760a9ac0b7"
+  },
+  "id_paciente": {
+    "$oid": "60b131b562d7810015d0e629"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c4e4577ace450015430042"
+  },
+  "date": {
+    "$date": "2021-06-12T16:44:04.730Z"
+  },
+  "FiO2": 100,
+  "onda": null,
+  "time_ins": 0.9,
+  "breathing_frequency": 24,
+  "tidal_volumen": 0.4,
+  "PEEP": 14,
+  "peak_pressure": 29,
+  "plateau_pressure": 27,
+  "base_pressure": null,
+  "compliance": "26",
+  "type": "VCV",
+  "professional_name": {
+    "$oid": "6009a62260a339760a9ac0b7"
+  },
+  "id_paciente": {
+    "$oid": "60b836bf94b5e800153223fc"
+  },
+  "__v": 0
+}]

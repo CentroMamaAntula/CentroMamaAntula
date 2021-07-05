@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "5ffa0cb8164c6b0017db83b8"
+  },
+  "date": {
+    "$date": "2021-01-09T20:06:15.824Z"
+  },
+  "PaO2": 144,
+  "FiO2": 100,
+  "mechanical_ventilation": false,
+  "platelets": 328,
+  "glasgow": 15,
+  "bilirubin": 0.3,
+  "blood_pressure": 0,
+  "creatinine": 0.84,
+  "value": 0,
+  "id_paciente": {
+    "$oid": "5ff9faf9164c6b0017db83ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602f9dc1a4ec49001775fae9"
+  },
+  "date": {
+    "$date": "2021-02-19T11:15:13.214Z"
+  },
+  "PaO2": 86,
+  "FiO2": 100,
+  "mechanical_ventilation": false,
+  "platelets": 249,
+  "glasgow": 9,
+  "bilirubin": 0.4,
+  "blood_pressure": 1,
+  "creatinine": 1.06,
+  "value": 6,
+  "id_paciente": {
+    "$oid": "602ee35698a9510017e7b74c"
+  },
+  "__v": 0
+}]

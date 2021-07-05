@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "5ffe38dbba08005e103d2896"
+  },
+  "date": {
+    "$date": "2021-01-13T00:03:00Z"
+  },
+  "observations": "12/01/2021 21:03",
+  "id_treatment": {
+    "$oid": "5ffb8fd75a95a9732337c0f3"
+  },
+  "id_nurse": {
+    "$oid": "5f71eda161378d4afd3969ce"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffe3d7a9ba05b5f49a1d717"
+  },
+  "date": {
+    "$date": "2021-01-13T03:23:00Z"
+  },
+  "observations": "prueba",
+  "id_treatment": {
+    "$oid": "5ffb8fd75a95a9732337c0f3"
+  },
+  "id_nurse": {
+    "$oid": "5f71eda161378d4afd3969ce"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffe3d8e9ba05b5f49a1d718"
+  },
+  "date": {
+    "$date": "2021-01-13T03:23:00Z"
+  },
+  "observations": "prueba 2",
+  "id_treatment": {
+    "$oid": "5ff8fcab4abd77c2f58d4719"
+  },
+  "id_nurse": {
+    "$oid": "5f71eda161378d4afd3969ce"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc699ce7cb2317b8c74447"
+  },
+  "date": {
+    "$date": "2021-06-29T12:54:00Z"
+  },
+  "observations": "29/06 09:54",
+  "id_treatment": {
+    "$oid": "60dc697fe7cb2317b8c74442"
+  },
+  "id_nurse": {
+    "$oid": "5f5c2911fa69933de404dc67"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "6023df1c6d631a4d2514aed3"
+  },
+  "date": {
+    "$date": "2021-02-10T13:26:52.569Z"
+  },
+  "evolution": "prueba",
+  "professional_name": {
+    "$oid": "5f5c2911fa69933de404dc67"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6023edf0bdff476f340cab1c"
+  },
+  "evolution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dignissim justo erat, suscipit blandit ex tincidunt at. Aliquam a bibendum metus. Ut at ante lacinia mauris varius porttitor. Cras non odio a odio mattis pretium. Donec tincidunt nunc sed quam vehicula lobortis. Morbi ut commodo metus. Etiam sodales nisl sed ipsum placerat aliquam. Sed sagittis dolor vel ligula gravida lobortis. Suspendisse suscipit auctor mi vel faucibus. Phasellus eget nunc id odio efficitur facilisis eu nec est. Donec magna nisl, gravida id dapibus sed, porttitor fermentum lacus. Etiam nec ipsum sit amet erat efficitur pellentesque pretium sed ligula. Suspendisse eleifend ligula eu nibh feugiat elementum. Pellentesque rhoncus tempor dui. Sed ultrices urna eget aliquam dictum.",
+  "date": {
+    "$date": "2021-02-10T14:30:08.103Z"
+  },
+  "professional_name": {
+    "$oid": "5f5c2911fa69933de404dc67"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6023ee6d4fa1ab7b1ec6af8c"
+  },
+  "evolution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dignissim justo erat, suscipit blandit ex tincidunt at. Aliquam a bibendum metus. Ut at ante lacinia mauris varius porttitor. Cras non odio a odio mattis pretium. Donec tincidunt nunc sed quam vehicula lobortis. Morbi ut commodo metus. Etiam sodales nisl sed ipsum placerat aliquam. Sed sagittis dolor vel ligula gravida lobortis. Suspendisse suscipit auctor mi vel faucibus. Phasellus eget nunc id odio efficitur facilisis eu nec est. Donec magna nisl, gravida id dapibus sed, porttitor fermentum lacus. Etiam nec ipsum sit amet erat efficitur pellentesque pretium sed ligula. Suspendisse eleifend ligula eu nibh feugiat elementum. Pellentesque rhoncus tempor dui. Sed ultrices urna eget aliquam dictum.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dignissim justo erat, suscipit blandit ex tincidunt at. Aliquam a bibendum metus. Ut at ante lacinia mauris varius porttitor. Cras non odio a odio mattis pretium. Donec tincidunt nunc sed quam vehicula lobortis. Morbi ut commodo metus. Etiam sodales nisl sed ipsum placerat aliquam. Sed sagittis dolor vel ligula gravida lobortis. Suspendisse suscipit auctor mi vel faucibus. Phasellus eget nunc id odio efficitur facilisis eu nec est. Donec magna nisl, gravida id dapibus sed, porttitor fermentum lacus. Etiam nec ipsum sit amet erat efficitur pellentesque pretium sed ligula. Suspendisse eleifend ligula eu nibh feugiat elementum. Pellentesque rhoncus tempor dui. Sed ultrices urna eget aliquam dictum.",
+  "date": {
+    "$date": "2021-02-10T14:32:13.421Z"
+  },
+  "professional_name": {
+    "$oid": "5f5c2911fa69933de404dc67"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6040de4980e88a00179feeef"
+  },
+  "evolution": "La paciente  asiste a control programado y durante la anamnesis refiere algunas molestias abdominales , y episodios de diarrea ocasionales. Se realiza los controles antropométricos correspondientes , dando como resultado los siguientes datos:\n \n PESO ACTUAL: 81.1 KG\n  IMC ( INDICE DE MSA CORPORAL): 31.7 8 OBESIDAD GRADO I)\n  TALLA:1.60 MT\n  IMM/ FAT ( INDICE DE MASA MAGRA ): 51.8 MUY ELEVADO\n   I MUSCULAR: 19 ( NORMAL A BAJO)\n  I GRASA VISCERAL: 12 ELEVADO\n \n  Los valores de glucemia ( 115) un poco por encima de lo normal. La paciente debe continuar con un plan alimentario adaptado a su cuadro , con la recomendación de alimentos de bajo IG ( índice Glucémico) llevando un plan de alimentación sugerido a su patología, además complementario a la medicación prescripta por los médicos . Se mantiene comunicación permanente con la paciente y su familia como apoyo y el acompañamiento nutricional permanente hasta su próximo control programado para el 04/05/2021.\n María del Carmen Rodríguez\n ( nutrición)\n  ",
+  "date": {
+    "$date": "2021-03-04T13:19:04.315Z"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "id_paciente": {
+    "$oid": "6003b0d50a0b2d00177bfe6e"
+  },
+  "__v": 0
+}]

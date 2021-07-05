@@ -1,0 +1,1470 @@
+[{
+  "_id": {
+    "$oid": "5fff085fe964d200178e5a27"
+  },
+  "date": {
+    "$date": "2021-01-13T14:49:02.887Z"
+  },
+  "reason": "prueba",
+  "background": "prueba",
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fff0aa9e964d200178e5a29"
+  },
+  "date": {
+    "$date": "2021-01-13T14:58:48.467Z"
+  },
+  "reason": "Paciente en internación, covid positivo",
+  "background": "Comenta que ingreso a éste centro, antes de ayer (09/01) por la noche, “un amigo me trajo, ya tenía el positivo”, “tengo neumonía bilateral leve”. Me comunico con mi familia y amigas, “las llamo o me llaman”, “mis hijos están con la abuela, se fueron antes que los contagie, ellos están bien”, “mi marido está en casa, bien”.",
+  "id_paciente": {
+    "$oid": "5ffa6726c45a640017e42b1c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fff0c14e964d200178e5a2f"
+  },
+  "date": {
+    "$date": "2021-01-13T15:04:51.087Z"
+  },
+  "reason": "Seguimiento",
+  "background": "Paciente internada por covid positivo",
+  "id_paciente": {
+    "$oid": "5ffa6726c45a640017e42b1c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fff43d177ce4300176e1e97"
+  },
+  "date": {
+    "$date": "2021-01-13T19:02:25.231Z"
+  },
+  "reason": "Paciente internada por Covid-19",
+  "background": "Posible cirugía de vesícula.",
+  "id_paciente": {
+    "$oid": "5ffa9dd104cef200176f3cee"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fff523710f8d600170c53d0"
+  },
+  "date": {
+    "$date": "2021-01-13T20:04:05.847Z"
+  },
+  "reason": "Paciente internado covid positivo",
+  "background": "Paciente trasladado de CISB.",
+  "id_paciente": {
+    "$oid": "5ff9faf9164c6b0017db83ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fff6ac753a0ab00179b8b03"
+  },
+  "date": {
+    "$date": "2021-01-13T21:48:54.511Z"
+  },
+  "reason": "Paciente internada por covid positivo.",
+  "background": "Neumonía Bilateral",
+  "id_paciente": {
+    "$oid": "5ff4f0a721d7b3001735a1ef"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60059a7b97f4f500178f2323"
+  },
+  "date": {
+    "$date": "2021-01-18T14:26:03.437Z"
+  },
+  "reason": "Paciente de alta",
+  "background": "Covid-19",
+  "id_paciente": {
+    "$oid": "5ff4f0a721d7b3001735a1ef"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60059ea597f4f500178f2325"
+  },
+  "date": {
+    "$date": "2021-01-18T14:43:49.149Z"
+  },
+  "reason": "Paciente Internado por covid-19",
+  "background": "Seguimiento.",
+  "id_paciente": {
+    "$oid": "5ff9faf9164c6b0017db83ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6005c06797f4f500178f233c"
+  },
+  "date": {
+    "$date": "2021-01-18T17:07:50.665Z"
+  },
+  "reason": "Paciente internado por covid-19",
+  "background": "Trasladado desde la ciudad de Bandera.",
+  "id_paciente": {
+    "$oid": "60017d5b7c1f6c001731e303"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60084175aa32240017a93234"
+  },
+  "date": {
+    "$date": "2021-01-20T14:43:00.357Z"
+  },
+  "reason": "Paciente internado por covid-19",
+  "background": "Paciente trasladado de La Banda.",
+  "id_paciente": {
+    "$oid": "6005a65897f4f500178f2327"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600f1e66f2a58300176eea99"
+  },
+  "date": {
+    "$date": "2021-01-25T19:39:16.511Z"
+  },
+  "reason": "Paciente internada por covid-19",
+  "background": "Derivada del CISB con su hermano.",
+  "id_paciente": {
+    "$oid": "600d0032e8fd0d00175dd118"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601836382097000017dacb44"
+  },
+  "date": {
+    "$date": "2021-02-01T17:11:19.260Z"
+  },
+  "reason": "Internacion por Covid 19.",
+  "background": "Se encuentra en este Centro desde el día viernes, estuvo con falta de aire y de su casa lo trasladan a Hospital de Villa Atamisqui, siendo derivado luego a éste Centro.",
+  "id_paciente": {
+    "$oid": "6014f97a9dec1a001780f69a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60183f022097000017dacb4b"
+  },
+  "date": {
+    "$date": "2021-02-01T17:48:48.432Z"
+  },
+  "reason": "Internacion por Covid 19",
+  "background": "Paciente que ingresa a este Centro luego de darle el Hisopado positivo, el día miércoles pasado, anteriormente no estuvo internado en otra Institución.",
+  "id_paciente": {
+    "$oid": "601161f3be6cbc0017d70690"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6018504c2097000017dacb4d"
+  },
+  "date": {
+    "$date": "2021-02-01T19:02:34.983Z"
+  },
+  "reason": "Internacion por Covid 19",
+  "background": "sin datos",
+  "id_paciente": {
+    "$oid": "600cf362e8fd0d00175dd113"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601ae3d4370858001785ab9f"
+  },
+  "date": {
+    "$date": "2021-02-03T17:56:34.940Z"
+  },
+  "reason": "Internacion por Covid 19",
+  "background": "Paciente que ingresa el día lunes 1 de febrero. No estuvo internada anteriormente en otra Institución.",
+  "id_paciente": {
+    "$oid": "60185bf62097000017dacb4f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601afa16370858001785aba5"
+  },
+  "date": {
+    "$date": "2021-02-03T19:31:33.168Z"
+  },
+  "reason": "Internacion por covid 19",
+  "background": "Se realiza comunicación con el familiar René Acuña (marido), a pedido de Dra. Nora Montes. \nEl mismo comenta que la paciente estuvo en el Hospital de Añatuya, luego internada en el Hospital Neumonológico, y desde el 23 de enero en éste Centro.",
+  "id_paciente": {
+    "$oid": "600ca818337c7f0017522cb5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602183c2f8ad38001782d2d5"
+  },
+  "date": {
+    "$date": "2021-02-08T18:32:33.844Z"
+  },
+  "reason": "Internación por Covid 19",
+  "background": "Paciente refiere que se encuentra en éste Centro desde el viernes pasado. Anteriormente no estuvo internado en otra Institución.",
+  "id_paciente": {
+    "$oid": "601d7f415d1f3c001745f7c5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60219af1f8ad38001782d2de"
+  },
+  "date": {
+    "$date": "2021-02-08T20:11:28.357Z"
+  },
+  "reason": "Internacion por Covid 19",
+  "background": "Paciente refiere que se encuentra internado en éste Centro desde el sábado por la tarde.",
+  "id_paciente": {
+    "$oid": "601c7a37a14adc0017b378e6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021b0e5f8ad38001782d2e1"
+  },
+  "date": {
+    "$date": "2021-02-08T21:45:07.987Z"
+  },
+  "reason": "Internacion por Covid 19",
+  "background": "Paciente que ingresa en el día de la fecha, refiere que estuvo internado anteriormente en Hospital de Nueva Esperanza.",
+  "id_paciente": {
+    "$oid": "6021861ef8ad38001782d2d7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602ac951e3cdee001736eaca"
+  },
+  "date": {
+    "$date": "2021-02-15T19:19:43.933Z"
+  },
+  "reason": "Internacion por covid 19",
+  "background": "Paciente que comparte la habitación en este Centro con su hermano Coria Sergio Adrián. Refiere que se encuentran en este Centro desde el sábado, en su caso la internan para controlarla ya que no tiene síntomas, pero si tuvo algunos síntomas anteriormente (mareos, dolor de cabeza, de cuerpo, pérdida de olfato) y su hisopado había dado positivo. \nRefiere que a su hermano lo habían considerado positivo al darle a ella el hisopado positivo. El 5/02 él tuvo síntomas, el miércoles de la semana pasada le hacen el hisopado, lo vió agitado, saturaba 86, el hisopado dio positivo.",
+  "id_paciente": {
+    "$oid": "6027f75e8dead70017a4a200"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6033f46fe08c390017f2b638"
+  },
+  "date": {
+    "$date": "2021-02-22T18:14:06.810Z"
+  },
+  "reason": "Internacion por Covid positivo",
+  "background": "sin datos",
+  "id_paciente": {
+    "$oid": "603292cc3a39d00017123404"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6034037308dc5e00174284cd"
+  },
+  "date": {
+    "$date": "2021-02-22T19:18:10.436Z"
+  },
+  "reason": "Internacion por Covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "602ee35698a9510017e7b74c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60341e7b6a3b6a0017dccbfd"
+  },
+  "date": {
+    "$date": "2021-02-22T21:13:30.805Z"
+  },
+  "reason": "Internacion por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "6033bb2f47708800176cdd0f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6036a6209add96001750ed5f"
+  },
+  "date": {
+    "$date": "2021-02-24T19:16:47.431Z"
+  },
+  "reason": "Internación por Covid 19",
+  "background": "Se encuentra internado desde el día lunes, vino de Nueva Esperanza.\nLo traen por problema respiratorio.",
+  "id_paciente": {
+    "$oid": "603457a3d6d5b60017d29d1c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6036ca789add96001750ed69"
+  },
+  "date": {
+    "$date": "2021-02-24T21:51:51.540Z"
+  },
+  "reason": "Internación",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "603698cd9add96001750ed57"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603fae8d9e49c00017fb1881"
+  },
+  "date": {
+    "$date": "2021-03-03T15:43:08.465Z"
+  },
+  "reason": "Internación por covid positivo",
+  "background": "paciente derivado del CISB",
+  "id_paciente": {
+    "$oid": "603f6faa9e49c00017fb1873"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603ffbe29e49c00017fb1899"
+  },
+  "date": {
+    "$date": "2021-03-03T21:13:05.712Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "---",
+  "id_paciente": {
+    "$oid": "603e5c1c540b3000175a0ceb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6040088e9e49c00017fb189d"
+  },
+  "date": {
+    "$date": "2021-03-03T22:07:09.621Z"
+  },
+  "reason": "Internación Covid 19",
+  "background": "Derivado de Hospital de Frías.",
+  "id_paciente": {
+    "$oid": "603d9f2bcaa1ac0017697c50"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60461b9a3149410017f7d852"
+  },
+  "date": {
+    "$date": "2021-03-08T12:42:02.310Z"
+  },
+  "reason": "Internación covid positivo",
+  "background": "trasladada del CISB",
+  "id_paciente": {
+    "$oid": "604058b56de84a00177a7757"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60463ed53149410017f7d86a"
+  },
+  "date": {
+    "$date": "2021-03-08T15:12:20.495Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "derivada del CISB",
+  "id_paciente": {
+    "$oid": "603ff5ee9e49c00017fb1893"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604671553149410017f7d878"
+  },
+  "date": {
+    "$date": "2021-03-08T18:47:48.010Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "6043a1589c4a530017761e63"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60469fd8d42bc700174bea66"
+  },
+  "date": {
+    "$date": "2021-03-08T22:06:15.273Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60453ec9fcf04400171ff455"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604f77785d36160017ba0e12"
+  },
+  "date": {
+    "$date": "2021-03-15T15:04:23.614Z"
+  },
+  "reason": "Paciente Covid-19 positivo.",
+  "background": "Derivada del Hospital Independencia.",
+  "id_paciente": {
+    "$oid": "604d3d123ef995001798bab8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604fb9a74ded8c0017000cee"
+  },
+  "date": {
+    "$date": "2021-03-15T19:46:46.301Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "6046e60f998e49001706a449"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60523d63e660dd0017ac0e8e"
+  },
+  "date": {
+    "$date": "2021-03-17T17:33:22.438Z"
+  },
+  "reason": "Internación por  Covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "605212ade660dd0017ac0e79"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605b36097cc4960017640aec"
+  },
+  "date": {
+    "$date": "2021-03-24T12:52:24.636Z"
+  },
+  "reason": "Internación por covid19.",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60563d8b82270e0017222d38"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605b369a7cc4960017640aee"
+  },
+  "date": {
+    "$date": "2021-03-24T12:54:50.170Z"
+  },
+  "reason": "Internación por covid19.",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60588f504438040017e925c7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605ba330d4838e001792a721"
+  },
+  "date": {
+    "$date": "2021-03-24T20:38:07.850Z"
+  },
+  "reason": "Internación por covid19.",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "605b549f7cc4960017640af7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606471b5e570b90017c43f3b"
+  },
+  "date": {
+    "$date": "2021-03-31T12:57:24.978Z"
+  },
+  "reason": "Internacion por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "605c998f3aede7001760cae6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606497b4e570b90017c43f5a"
+  },
+  "date": {
+    "$date": "2021-03-31T15:39:31.973Z"
+  },
+  "reason": "Internacion por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60639c42d056e200178bca59"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6064d779e570b90017c43f6b"
+  },
+  "date": {
+    "$date": "2021-03-31T20:11:35.984Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60647dbde570b90017c43f41"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6064f1e1e570b90017c43f6f"
+  },
+  "date": {
+    "$date": "2021-03-31T22:04:16.928Z"
+  },
+  "reason": "Internacion por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "606488fbe570b90017c43f45"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b369c0df6ab0017d00cd8"
+  },
+  "date": {
+    "$date": "2021-04-05T16:11:08.147Z"
+  },
+  "reason": "Internacion por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "6067491513b7640017a857e0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b4e8a0df6ab0017d00cea"
+  },
+  "date": {
+    "$date": "2021-04-05T17:53:13.171Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60677d44c200bb00179540c3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b69f80df6ab0017d00cfb"
+  },
+  "date": {
+    "$date": "2021-04-05T19:50:13.966Z"
+  },
+  "reason": "Internacion por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60610c4e8b66e60017f19b92"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606da77a13278e0017d7a2b1"
+  },
+  "date": {
+    "$date": "2021-04-07T12:37:14.339Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "606b366c0df6ab0017d00cd7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606db2c713278e0017d7a2b4"
+  },
+  "date": {
+    "$date": "2021-04-07T13:25:27.430Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "606a139a4880e6001736b6c1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606e1c33da863d0017387dff"
+  },
+  "date": {
+    "$date": "2021-04-07T20:55:13.985Z"
+  },
+  "reason": "Internacion por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "606b5c050df6ab0017d00cf2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607462221077cb001730fe23"
+  },
+  "date": {
+    "$date": "2021-04-12T15:07:13.300Z"
+  },
+  "reason": "Internación covid positivo",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "6072763b749c49001767ddbe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607469091077cb001730fe25"
+  },
+  "date": {
+    "$date": "2021-04-12T15:36:40.579Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "607321ea03adde0017e826a2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60746d241077cb001730fe27"
+  },
+  "date": {
+    "$date": "2021-04-12T15:54:11.645Z"
+  },
+  "reason": "Internacion por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60735ed26abf1500176b4a35"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6074c0e91990030017c94903"
+  },
+  "date": {
+    "$date": "2021-04-12T21:51:36.311Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "6074777f1077cb001730fe30"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076fee89893ed00171ec8b9"
+  },
+  "date": {
+    "$date": "2021-04-14T14:40:39.664Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60763928f118070017e0b905"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6077657c9893ed00171ec8d0"
+  },
+  "date": {
+    "$date": "2021-04-14T21:58:20.156Z"
+  },
+  "reason": "Internación por covid 19.",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "607452f01077cb001730fe13"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607d78aef9b1580017d59456"
+  },
+  "date": {
+    "$date": "2021-04-19T12:33:50.255Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60779cd39893ed00171ec8e4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607d82a7f9b1580017d5945a"
+  },
+  "date": {
+    "$date": "2021-04-19T13:16:23.137Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60783f6395dbb40017da80ba"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607d9ab8f9b1580017d5945f"
+  },
+  "date": {
+    "$date": "2021-04-19T14:59:03.856Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "607bf33eec16240017a3adb6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607ddc79ec8be30017ae226b"
+  },
+  "date": {
+    "$date": "2021-04-19T19:39:36.416Z"
+  },
+  "reason": "Internación covid19.",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60777ac99893ed00171ec8d7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607df48eec8be30017ae2272"
+  },
+  "date": {
+    "$date": "2021-04-19T21:22:21.652Z"
+  },
+  "reason": "Internación por covid 19.",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "607b1df0924f0a0017ae6f15"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607df63cec8be30017ae2274"
+  },
+  "date": {
+    "$date": "2021-04-19T21:29:32.242Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "6075d383260dfb00179d7ac5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607df7d2ec8be30017ae2276"
+  },
+  "date": {
+    "$date": "2021-04-19T21:36:17.543Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "607d1f7a4223440017433765"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6080391ad88b0600173d968f"
+  },
+  "date": {
+    "$date": "2021-04-21T14:39:21.507Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "6078e20695dbb40017da810f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60804505d88b0600173d9691"
+  },
+  "date": {
+    "$date": "2021-04-21T15:30:12.605Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "607fb1fafedd0000176bf195"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60806cf5d88b0600173d969e"
+  },
+  "date": {
+    "$date": "2021-04-21T18:20:37.273Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "607f569efedd0000176bf17d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6086be498b9c89001712a1ac"
+  },
+  "date": {
+    "$date": "2021-04-26T13:21:12.863Z"
+  },
+  "reason": "Paciente Internado por covid 19.",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60819c01e4d043001780e5ed"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6086cf308b9c89001712a1b9"
+  },
+  "date": {
+    "$date": "2021-04-26T14:33:19.977Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "608455c1831fda00170646a3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6086dbae8b9c89001712a1bb"
+  },
+  "date": {
+    "$date": "2021-04-26T15:26:37.356Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60774f849893ed00171ec8c2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60993571c9b86c0015f84bc0"
+  },
+  "date": {
+    "$date": "2021-05-10T13:30:25.190Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60949dbc99138900156c996d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609945cba636d00015ad76d9"
+  },
+  "date": {
+    "$date": "2021-05-10T14:40:10.657Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "608c39fc7c72aa0015bb51c3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6099551ea636d00015ad76e7"
+  },
+  "date": {
+    "$date": "2021-05-10T15:45:32.478Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60959cadd7ee050015cfc067"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6099713fa636d00015ad76f4"
+  },
+  "date": {
+    "$date": "2021-05-10T17:45:34.472Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "608986af0ee8610017c68509"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609be378f70fbc0015d7356d"
+  },
+  "date": {
+    "$date": "2021-05-12T14:17:27.754Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "6093d73ed3f6be0015886796"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bf376f70fbc0015d73578"
+  },
+  "date": {
+    "$date": "2021-05-12T15:25:41.671Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "6099756ea636d00015ad76f5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c2d3cb9955a001507ea97"
+  },
+  "date": {
+    "$date": "2021-05-12T19:32:11.811Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "6099575ba636d00015ad76e8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a27832a6f497001592b795"
+  },
+  "date": {
+    "$date": "2021-05-17T14:05:37.833Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "609eb3e545257c001570f72d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a282b8a6f497001592b797"
+  },
+  "date": {
+    "$date": "2021-05-17T14:50:31.879Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "609ab8c14450ed001513c6b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a286f5a6f497001592b799"
+  },
+  "date": {
+    "$date": "2021-05-17T15:08:36.560Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "608f57b4237a8600159a426b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a2bf07a6f497001592b7bb"
+  },
+  "date": {
+    "$date": "2021-05-17T19:07:49.707Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "6094007a32323200156b02c6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a2c2b2a6f497001592b7bf"
+  },
+  "date": {
+    "$date": "2021-05-17T19:23:29.626Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60a079820292c600157a6b4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a512b53264a80015bee122"
+  },
+  "date": {
+    "$date": "2021-05-19T13:29:22.946Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60a30361a6f497001592b7d3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a568293264a80015bee137"
+  },
+  "date": {
+    "$date": "2021-05-19T19:33:59.468Z"
+  },
+  "reason": "Internación por covid 19.",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "609b08b94450ed001513c6d8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60aba5e90b783500153ac33e"
+  },
+  "date": {
+    "$date": "2021-05-24T13:11:04.248Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60aac2aea04db200153d47a6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60abb45b0b783500153ac342"
+  },
+  "date": {
+    "$date": "2021-05-24T14:12:25.754Z"
+  },
+  "reason": "Internación covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60a4159cbb104300159c365a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60abb89b0b783500153ac344"
+  },
+  "date": {
+    "$date": "2021-05-24T14:30:50.633Z"
+  },
+  "reason": "Internación por covi19.",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60a96e5349f110001557c216"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad17eff5abf400152db91a"
+  },
+  "date": {
+    "$date": "2021-05-25T15:29:54.503Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60a45eec071dd70015b710ba"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad40cd24e5f50015876c1d"
+  },
+  "date": {
+    "$date": "2021-05-25T18:24:15.646Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60a84e3509bb91001507989e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ae55b02f3d780015fa4fb0"
+  },
+  "date": {
+    "$date": "2021-05-26T14:05:36.264Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60aa7f4a3b4c43001548ae74"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ae5c002f3d780015fa4fb2"
+  },
+  "date": {
+    "$date": "2021-05-26T14:32:31.838Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60abf5aa0b783500153ac379"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ae84272f3d780015fa4fb9"
+  },
+  "date": {
+    "$date": "2021-05-26T17:23:49.902Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60a6de93d1fbb40015af7634"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b4ed2f4391ea00155f4ad7"
+  },
+  "date": {
+    "$date": "2021-05-31T14:05:34.550Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60a5dc283264a80015bee167"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b507944391ea00155f4add"
+  },
+  "date": {
+    "$date": "2021-05-31T15:58:11.705Z"
+  },
+  "reason": "Internación por covid19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60b131b562d7810015d0e629"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b793a2b813c9001588b4c4"
+  },
+  "date": {
+    "$date": "2021-06-02T14:20:17.327Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60a415ebbb104300159c365b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60be26cad27eca0015bba60b"
+  },
+  "date": {
+    "$date": "2021-06-07T14:01:45.587Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60ac0a24c799d20015066a6b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60be7c03d27eca0015bba64c"
+  },
+  "date": {
+    "$date": "2021-06-07T20:05:22.633Z"
+  },
+  "reason": "Internación por covid 19.",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60b7c17e7076f4001555e8a5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b72380dea90015667b88"
+  },
+  "date": {
+    "$date": "2021-06-09T12:42:10.780Z"
+  },
+  "reason": "Internación covid19.",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60bb946ffadb920015f6af1e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0e14d80dea90015667b9b"
+  },
+  "date": {
+    "$date": "2021-06-09T15:42:03.770Z"
+  },
+  "reason": "Internación covid19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60bcf1158d7f1300155d3f23"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10d6d80dea90015667bc1"
+  },
+  "date": {
+    "$date": "2021-06-09T18:50:21.064Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60bcdd238d7f1300155d3f1c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c755be7be96f0015aa2ddb"
+  },
+  "date": {
+    "$date": "2021-06-14T13:12:29.823Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60c62ea79ce6ba0015e79343"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c791177be96f0015aa2dfc"
+  },
+  "date": {
+    "$date": "2021-06-14T17:25:42.925Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60c0e6b580dea90015667b9e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c7965d7be96f0015aa2e07"
+  },
+  "date": {
+    "$date": "2021-06-14T17:48:12.628Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60c665159ce6ba0015e7936a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c7c28a7be96f0015aa2e1b"
+  },
+  "date": {
+    "$date": "2021-06-14T20:56:41.433Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60c3c5ed2dcd140015cddcbb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c7ceaa7be96f0015aa2e23"
+  },
+  "date": {
+    "$date": "2021-06-14T21:48:25.385Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60c5540ca9fa24001550e360"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ca0217b608ee0015294d26"
+  },
+  "date": {
+    "$date": "2021-06-16T13:52:22.770Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60c791717be96f0015aa2dfd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ca15a7b608ee0015294d47"
+  },
+  "date": {
+    "$date": "2021-06-16T15:15:49.790Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60c658609ce6ba0015e7935f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d32ad76f2b4b001598fcd9"
+  },
+  "date": {
+    "$date": "2021-06-23T12:36:38.871Z"
+  },
+  "reason": "Internación covid19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60bec5e78bd68d00151f95a6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d338d66f2b4b001598fcdd"
+  },
+  "date": {
+    "$date": "2021-06-23T13:36:21.979Z"
+  },
+  "reason": "Internación Covid19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60cd2a28099cd30015130185"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d355476f2b4b001598fcdf"
+  },
+  "date": {
+    "$date": "2021-06-23T15:37:41.525Z"
+  },
+  "reason": "Internación covid19.",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60d202ec635635001547b042"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d388006f2b4b001598fd06"
+  },
+  "date": {
+    "$date": "2021-06-23T19:14:07.336Z"
+  },
+  "reason": "Internación covid19.",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60cce69ae0fb0700155a6382"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cb1290e8090015474ddf"
+  },
+  "date": {
+    "$date": "2021-06-28T13:13:54.011Z"
+  },
+  "reason": "Internación covid19.",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60c3802a2dcd140015cddca4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ead190e8090015474e07"
+  },
+  "date": {
+    "$date": "2021-06-28T15:29:20.672Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60d6a2f45558e4001517a65a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60da15f190e8090015474e12"
+  },
+  "date": {
+    "$date": "2021-06-28T18:33:21.019Z"
+  },
+  "reason": "Internación covid19.",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60d8e9a7eb654c0015e7779a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc78100902ba001505f21e"
+  },
+  "date": {
+    "$date": "2021-06-30T13:56:32.376Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60c25a0c7dba310015296083"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e3151b374e7f00155e996d"
+  },
+  "date": {
+    "$date": "2021-07-05T14:20:10.660Z"
+  },
+  "reason": "Internación covid19.",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60df7aab42aeab0015fdf17f"
+  },
+  "__v": 0
+}]

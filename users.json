@@ -1,0 +1,801 @@
+[{
+  "_id": {
+    "$oid": "5f5c2911fa69933de404dc67"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Leo",
+  "dni": 39898807,
+  "password": "$2y$12$FBSExHBaOK1OdLuyVeCDgujIBM4V9v4//QnDgrE4Jr4cQOj0bguDG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f71eda161378d4afd3969ce"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 40527691,
+  "password": "$2a$10$OgQsZiUazB.jgrppQYiJSezy4aQTkh1bJEIF6dmVqDK0Cpijcq1H2",
+  "name": "Nuevo Enfermero Registro",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f98247bb6384217c1b974b3"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Mónica Salvatierra",
+  "dni": 23410320,
+  "password": "$2y$12$nOavmDSoiE2jrqLsnetRbu9al.4Ru1zwtuytllDKGV97WNNJjF/yi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Nora Montes",
+  "dni": 20155511,
+  "password": "$2y$12$SqLQToFHVsk9/2OxHEBKOe12B6pp0eJv2/oAgSVA2AiTy1PRnv1wy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Melina Bollatti",
+  "dni": 32888868,
+  "password": "$2y$12$f8ZGMrUImHL3XrIjOFrUKOsJCw9pnwEjfICs1ZFA.35TU2veNX0Ci",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9827e4b6384217c1b974b6"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Jorge Rojas",
+  "dni": 28870855,
+  "password": "$2y$12$xx8kgsOXd5PqGMYbYSGa3epXNK32qbN6nY11u4oETpd.nDXHwfiOS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Juan José Gomez Moreno",
+  "dni": 12996137,
+  "password": "$2y$12$0x2rzrR6F2Ds7Y3w31KJVOdmdQdMuKUeQg4etKdeixqTOiuPktUka",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f982858b6384217c1b974b8"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Matias Castaño",
+  "dni": 36886234,
+  "password": "$2y$12$SbpyRjVzWacbjtwAsEiwveDP583BucSqcDjj9p6duZyYJQ3WdkKEm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9828a6b6384217c1b974b9"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Nala Polti",
+  "dni": 28444630,
+  "password": "$2y$12$NCuAyIcnlBCH/3Dzg41xP.xGcf5t2YeWCn6Dw2Cdu1Z9GdAqpQxou",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Maria Ximena Lamadrid Ayuch",
+  "dni": 29785756,
+  "password": "$2y$12$dCOCicKd7hGZ3gIXENoGM.SitmGUK7.PMgjiJrh2mOvOVdPVS34rm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Natalia Nieva",
+  "dni": 25183416,
+  "password": "$2y$12$XHaZhd2yMUetYbkoN.uLtuaA5v61pjoeur7iL0w1/NX1xklBZAEYG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Carlos Fuenzalida",
+  "dni": 18330744,
+  "password": "$2y$12$xy75rlvsz4QpP/k4wmWUJO.G/4tH7qPJTPmxLeDXLRfr4drwulqzO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffc7abb8dfb631a531f5be5"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Sergio Eduardo Mazza",
+  "dni": 27516458,
+  "password": "$2y$12$lRau.j69yM8hX9ogGyIQQOL4YnPs.Sz8xbylBYW1ibDSZAM4iFD9.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffc7afe8dfb631a531f5be6"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Jessica Cura",
+  "dni": 31840796,
+  "password": "$2y$12$a7iOOt119vocmxj1TiJ5JOvOQoNMKcMAmb2HNmdOl8RT5kbeCLL7.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "role": 3,
+  "to_register": true,
+  "name": "Mariangeles Esquibel",
+  "dni": 27563834,
+  "password": "$2y$12$EGs5tc9ym269w7uAkWN5s.wsL2sROs4Jopy2KmBXNASZUnnXDbCqO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60005f5ab5736bbcec3fe670"
+  },
+  "role": 5,
+  "to_register": true,
+  "name": "Leo",
+  "dni": 16007502,
+  "password": "$2y$12$BVMiiK.3tbe4TVQ8DBLI3OADflgNg6FLdo0XzWdGPMzOTbyxm6r5K",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60097cb960a339760a9ac094"
+  },
+  "role": 5,
+  "to_register": true,
+  "name": "Facundo Nicolas Contreras",
+  "dni": 39450698,
+  "password": "$2y$12$urVmVlnaRNFARox02Vc8aOtL0IearasXzJC16pWDOBYxnbqHzaZIe",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60098cae60a339760a9ac095"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 37442928,
+  "password": "$2y$12$Q8JFCbVe9R5TA9Zo5kF0Uu2JEC2ew7I4AMdw4gzQBlHyr7bFx6wTe",
+  "name": "Tatiana Noraliz Abalos",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60098ce760a339760a9ac096"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 32476201,
+  "password": "$2y$12$/B4YJMT7OVhl7QbSr.Zv6.lWrjsl8Vk5x59lYo89p1ncD2mB3Q42q",
+  "name": "Rosa Elisa Aguirre",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60098d9b60a339760a9ac097"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 29576702,
+  "password": "$2y$12$mIskOoMQLLJhOYwAGjwHS.xXWKCPEI49xnozjy/gB430HLmbKANpK",
+  "name": "Graciela Beatriz Álvarez",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009918660a339760a9ac098"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 37061052,
+  "password": "$2y$12$k.XC2KDsweMThQqp0rriTe28MOdCil1leY/Cn6nPjNgrwV.BiU9Pi",
+  "name": "Giuliana Lucielli Castillo",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600991c860a339760a9ac099"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 35846153,
+  "password": "$2y$12$EaBvR.yqLCCyNJI.SMOQauyYMCCSFdQSmlzfWQuYS3iXV/l9Cl/UO",
+  "name": "Vanesa del Valle Coronel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600991ff60a339760a9ac09a"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 27391976,
+  "password": "$2y$12$GlyoZN594Df3VBsWYD8te.w/ilJH3.UkLi.a2kKp/Prw5xmkQRN0a",
+  "name": "Germania Maria Teresa Correa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009923860a339760a9ac09b"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 33054753,
+  "password": "$2y$12$iNgEkhi2XhvxGo/Na6WZ9OIDsuIu/da08a.H9mm7NC319NAknJSuq",
+  "name": "Exequiel Esteban Ferrandez",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009934f60a339760a9ac09c"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 34167208,
+  "password": "$2y$12$ZO0UijjSUBV.kGsvnVOju.Vf7gMqKPdKlz1sTrZxZFZEYeseoRLQ2",
+  "name": "Erika Daniela Filippi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009937c60a339760a9ac09d"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 33089103,
+  "password": "$2y$12$hhS.wVXPpZNzh6O5FM.uIuExcLup2l7YiWrTjuSc.FOG6O8//WVzq",
+  "name": "Carlos Eugenio Gerez",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600993b560a339760a9ac09e"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 37139006,
+  "password": "$2y$12$6lJV/Xx6mA8YTPSgjf.ShOlwoGnbiIlB7h.SNEVKK89ra6Dm18boq",
+  "name": "Rocio Alejandra Juárez",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600993eb60a339760a9ac09f"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 38227484,
+  "password": "$2y$12$mao/Ng7Cw.zHzI4PkZZpY.eFBt//NiUbXtirkJ2e5bbc1vxaqAs8O",
+  "name": "Priscilla de los Milagros Lastra",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600995ee60a339760a9ac0a0"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 29787155,
+  "password": "$2y$12$qKDtIYcB3owz3UTKEX7ExuKm8.c0f0YTMjdWpzXkBw8xGO5JCQK1a",
+  "name": "Ricardo Eduardo Lazarte",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009962260a339760a9ac0a1"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 32335198,
+  "password": "$2y$12$D1g7ILHSdA9z7kz8DSLiXu2qIdng4vY7yGxiWedQIm3yn8CwKxc7i",
+  "name": "Leandro Antonello",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009964e60a339760a9ac0a2"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 31846984,
+  "password": "$2y$12$PnqtSNM4m3FkTAtmUUHmFuU.BYiWhuV6qWLXUlZnzu7XmXk8xb6xq",
+  "name": "Silvina Beatriz Meza",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009973b60a339760a9ac0a3"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 38482484,
+  "password": "$2y$12$Ccrwc.ZyWv9EDrV3525cBOgmlEo42mn.T4hlgATAREeEcEcFgxSP2",
+  "name": "Maricel Guadalupe Olivera",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009978160a339760a9ac0a4"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 35741669,
+  "password": "$2y$12$Pw5el96mO75eBtFnpkSrk.89jwDiZBI.32gYBUC0ZQDC2j7btP2Uy",
+  "name": "Fatima Ramona Palavecino",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009985060a339760a9ac0a5"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 29142915,
+  "password": "$2y$12$rISMYMYn0QMk.VONZ0LTouF.tfkXYWFKnMsU04Iwx/FbLOOEFrMzm",
+  "name": "Maria de los Angeles Ponce",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009988d60a339760a9ac0a6"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 38025302,
+  "password": "$2y$12$S89JQ6DGxt5acETgaO7WiellCU5Y24e8u8M3Rayb4aHpDAbbCXMBi",
+  "name": "Jenifer Yamila Paz Castaño",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600998cc60a339760a9ac0a7"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 39453123,
+  "password": "$2y$12$vLfs2a.D69jUvYG9M4hqsuBbhWVHGqQR8ntC.4vmczuSOZcjnvMW2",
+  "name": "Silvia Graciela Márquez",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009990760a339760a9ac0a8"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 25785445,
+  "password": "$2y$12$bVSFJfceFDNBw3OLSQw4C.sy3KpL5aeuY/mGTzXAOVFE7M5L3r1Cm",
+  "name": "Amalia Avelina Quiñones",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60099b1660a339760a9ac0a9"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 30355006,
+  "password": "$2y$12$taKcg5H/jCz.FHI5ygtKUepDhFDsIiyX0851ufE8AzhUTKAI3qb5G",
+  "name": "Marcela Beatriz Ruiz",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60099b6d60a339760a9ac0aa"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 31178599,
+  "password": "$2y$12$4XgZJIKBJQlN58XfvRsHGeYqnjccLHbHWUVd5cjiJ4PeF4zvar7lq",
+  "name": "Marcia Luciana Sayago",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60099baf60a339760a9ac0ab"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 30178587,
+  "password": "$2y$12$Wn5eGaRUf5VSh2l61BD2DeeTXEvDHIBok3If8dVslhpXwV6QV2Z5y",
+  "name": "Mirta Veronica Santucho",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60099d9b60a339760a9ac0ac"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 31297184,
+  "password": "$2y$12$6EDfY9mpolzoVffYhhVP1OOp.CcvJnsa7X0Ht/JclqzaZqMhwobxm",
+  "name": "Paula Cecilia Uñates",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60099dd260a339760a9ac0ad"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 30338902,
+  "password": "$2y$12$VCFNZVn50EJy82ZpyX7Mj..f0cJPHMNCVXZSt2l.a96xRp7RggTK.",
+  "name": "Vanesa Raquel Veliz",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60099e0b60a339760a9ac0ae"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 29874932,
+  "password": "$2y$12$rvtDIsKxJ2dBc4jaQO7lp.Y.vES0pX3hfNOZGJiXy.qjUfL8DBdbK",
+  "name": "Dina Fabiana Herrera",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60099e3f60a339760a9ac0af"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 35917187,
+  "password": "$2y$12$sKzLh.0Yq9eEDspJGbHlV.2z5cVkMHPs9uvwhXc/4RtTZnv/c1BBO",
+  "name": "Lorena Raquel Bolañez",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60099e8360a339760a9ac0b0"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 36122803,
+  "password": "$2y$12$PuZPq3Wl4fITgGv53y54C.LNYTi2EHdHD0Ca9Vh1fnQPd6Qyg0Wv6",
+  "name": "Andrea Belén López",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60099ec360a339760a9ac0b1"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 32205473,
+  "password": "$2y$12$N4j/LLpwA01mbc7IOX/xle7CB/1hltb5y/ZJSDGTP7zY7mC19aFhO",
+  "name": "Rita Graciela Leiva",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009a02360a339760a9ac0b2"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 25333248,
+  "password": "$2y$12$uA98KmWiCFK4FrVUk2P8CeFZXIYP80AJV84mZN8Rwnp87HRmCxGnW",
+  "name": "Julio Esteban Santillan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009a05560a339760a9ac0b3"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 27852930,
+  "password": "$2y$12$oGB8saoEO2/CuTRweDlvj.CpVcZ9jXPZt4Kfo8WDaWQBBSNlpiuC.",
+  "name": "Elida Judith Maciel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009a12260a339760a9ac0b4"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 32763434,
+  "password": "$2y$12$lAp4CoP7n1.n4WEDGnna6.yqkQGfMn3bbRXsTycAjxFAglAkqCgtS",
+  "name": "Cristian Javier Lizondo",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009a16160a339760a9ac0b5"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 27903321,
+  "password": "$2y$12$KPu9BL4bGTPKtg4pe7/buOR/V09BS4Ekc.4oESkIxAklVeuyRPsIS",
+  "name": "Maria Luisa Enríquez",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009a5de60a339760a9ac0b6"
+  },
+  "role": 5,
+  "to_register": true,
+  "dni": 39462181,
+  "password": "$2y$12$SfzPDoLd9Vr4uyfyrEI.ceKt6WGbLUEInAMNYYJQeARf0lfhxm8C2",
+  "name": "María Sol Basualdo",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009a62260a339760a9ac0b7"
+  },
+  "role": 5,
+  "to_register": true,
+  "dni": 21076090,
+  "password": "$2y$12$q0vXGE5ZTbD2ZoNjwlM5Q.J7DORhRgHaY3T4LyUav95oJlPhrb0.m",
+  "name": "Paula del Valle Mansilla",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009a75d60a339760a9ac0b8"
+  },
+  "role": 5,
+  "to_register": true,
+  "dni": 24063332,
+  "password": "$2y$12$3eRse.oLtQQNSraJCz0xK.txasWMg11S6KUVoVgeGg0.g85wLn7h.",
+  "name": "Rocio Soledad Herrera",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009a7a360a339760a9ac0b9"
+  },
+  "role": 5,
+  "to_register": true,
+  "dni": 31120433,
+  "password": "$2y$12$oC6d5PvTErtDoYvFD7d5q./2lmxYTCNdUGsW8Tjqjazjvmkqzqm3O",
+  "name": "David Alejandro Abdala",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009a7f060a339760a9ac0ba"
+  },
+  "role": 5,
+  "to_register": true,
+  "dni": 28738409,
+  "password": "$2y$12$XSOguh.Q7rOAPFSJpK14xexV7WluUA2AuKRSkIOxLdhQJ6PZWW4jy",
+  "name": "Veronica Maria Driz",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009a82760a339760a9ac0bb"
+  },
+  "role": 5,
+  "to_register": true,
+  "dni": 31311512,
+  "password": "$2y$12$Rsvsu6qC.HJSPFJpcg6ueucMWe38Q9nkQAk15zP8K.jF0eFr.KI46",
+  "name": "Juan Pablo Contreras",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601015c004225963ac195fb2"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Monica More",
+  "dni": 17562142,
+  "password": "$2y$12$buyzkEDmRzO5V4n45gx2hu.L/BvS8Ys2k154eOTri6W6N/p/bG162",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6012d3567d9a59b59106ac1b"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Enrique Carabajal",
+  "dni": 21631471,
+  "password": "$2y$12$anGneqtA7cjMQwCge6ZAYulwdw88mSMHm5zh9CYI.jWy/REoKeJsm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6012e3b0b46b7bfaddf81a52"
+  },
+  "role": 5,
+  "to_register": true,
+  "name": "Rocio Soledad de las Mercedes Herrera",
+  "dni": 24063325,
+  "password": "$2y$12$UxfuUk3biTgut.P6Jx9/2uY9dcl/OjW7AcLUB60UteeibUNLgdSkC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60184304e07028b65ff3850b"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Osvaldo Anibal De Marco",
+  "dni": 25301679,
+  "password": "$2y$12$gqyJUEJ3G.93f6CUQnwUGu6dSZwt/s1szNPjfhYRNmhANr4OByW6y",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601855c8ddf392f8b50eed05"
+  },
+  "role": 1,
+  "to_register": true,
+  "dni": 33748913,
+  "password": "$2y$12$ZjSNAz6aKaJvof71juYu2.AkT0B8WZS8/30ARlkMHdEzc41.svKy.",
+  "name": "Manuela Irene Barraza",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60195a78203f8795874265b3"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Martin Perez Abdala",
+  "dni": 24198319,
+  "password": "$2y$12$L50O6KbpTaJ4ZvO.HYb7pet4mSNWe5IHkhsJfnGHzQbqrZF.8SBLm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Romina Giselle Mattar",
+  "dni": 31311822,
+  "password": "$2y$12$rbRBWVhP8Ig3u1z5cA6bjuWUPI/1G8hncLJHN76azDi1izlj1qIru",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Victor Orlando Jorge",
+  "dni": 31739062,
+  "password": "$2y$12$apObz06bqf.O956y7QE3vurlEL7NGX/Ng.BG1UY25D33EH96lFCja",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60216f75940a872e9e02adc9"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Yesica Beatriz Rolón",
+  "dni": 29123634,
+  "password": "$2y$12$FByec.mSidHBCvCGYAsu0egHhvrPFHXk/OobcIOJ3I04CcXPZLmfm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6023f1decc049961c9b91f2a"
+  },
+  "role": 6,
+  "to_register": true,
+  "name": "Nutrición",
+  "dni": 18160206,
+  "password": "$2y$12$yOVwaiBcg0TyczNiJQnhU.25yf9Wl7nTbywmd93n63peh2Ul6IJbq ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604101b982c94b8315bcdd0e"
+  },
+  "role": 6,
+  "to_register": true,
+  "name": "Maria del Carmen Rodriguez",
+  "dni": 23410589,
+  "password": "$2y$12$05L0pbMppTgZ1F6zE7qDAeoV7iZFoJqe6QaR3TOVHd6wni.9N7N/W",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604101e682c94b8315bcdd0f"
+  },
+  "role": 6,
+  "to_register": true,
+  "name": "Rosa Diaz",
+  "dni": 31585357,
+  "password": "$2y$12$cWk9JfCX47yS/GvbaxuW1.bydeTpmU7y2lKNcrA.gFUP2fGDkaieO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048e98dcde24665f3435130"
+  },
+  "role": 7,
+  "to_register": true,
+  "dni": 14748990,
+  "password": "$2y$12$anuv.Yp45Zw.ZC9KeyWa/uSKPPUd5Qw2XgdkK3xw/IwIdzdmi064C",
+  "name": "Virginia Santillan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048e9dccde24665f3435131"
+  },
+  "role": 7,
+  "to_register": true,
+  "dni": 33130972,
+  "password": "$2y$12$X.Tk9ZrVh7br5zygw/d67eqGTBcWUAjKa18pEr0ICeRaUIHq5XiIO",
+  "name": "Patricia Carabajal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ea04cde24665f3435132"
+  },
+  "role": 7,
+  "to_register": true,
+  "dni": 36994402,
+  "password": "$2y$12$O1NL77m5uMI.WQbDWjOj1u33Ea5sPuTJJe19lY48PhPtXsbdq.UKq",
+  "name": "Lara Sayago",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048f11dcde24665f3435133"
+  },
+  "role": 7,
+  "to_register": true,
+  "dni": 29236806,
+  "password": "$2y$12$vMXn4c.LQq4T5LpSMYrv7ekeW3TVfSMcvPd9hb11ZetMxu5NcLEPW",
+  "name": "Elizabeth Talavera",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605f3d983f328bce73c077f9"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Isabel Brandan",
+  "dni": 20564791,
+  "password": "$2y$12$E6iZGupqS9eiP1txWLK9t.6BNLkwdQayMZCGa9sK/hJOZjqjOvmIC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60801a98ec6fea33eab6a2a4"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 27608015,
+  "password": "$2y$12$bp6pvIQ4c772ckPL4AGJruYcan1EAKCjOTw7krsi4bawNke6FMTtS",
+  "name": "Andrea Veronica Gonzalez",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6082e4f97b55d71c2642402a"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Florencia Diaz",
+  "dni": 34409657,
+  "password": "$2y$12$uIMqikOsCDDa614XnR3EPOJKUAtvGfqnYcp24C6dccg3cw69v5nHq",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b4b987a669da1d8f266f1e"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Nadia Nediani",
+  "dni": 30373116,
+  "password": "$2y$12$rOWojEvrrr/WRSxKw3MUquX7EfBqumlWH3NayC6RgaVmZ.V8pfe26",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b4b9f2a669da1d8f266f1f"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 31612965,
+  "password": "$2y$12$5ZrIdyEbV6/CJkEXY3eUxudzeJyIxzPuA/ME9VXP7uU4anOCmu2S.",
+  "name": "Celia Cespedes",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c3789e32912d3f65004b5a"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 24578478,
+  "password": "$2y$12$Png760EtNreYGm8MzIyl6ex2sq74/s8AlohywGGeVpyG3OMMPDgJu",
+  "name": "Elizabeth Riera",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c378f632912d3f65004b5b"
+  },
+  "role": 2,
+  "to_register": true,
+  "dni": 29694927,
+  "password": "$2y$12$/Z8hhMGIq91GWVM.m3Hc1O4NtJ67zPa750bTDZD3fJpbZelNh7xJm",
+  "name": "Florencia Alagastino",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d283850e0e5750a7f19f2b"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Lautaro Machado",
+  "dni": 39583647,
+  "password": "$2y$12$FN3CZ2K4zMMdlzfr2Gd6ku5nTOFPxXBinlYknjyjy1A.mgVUY0Uze",
+  "__v": 0
+}]

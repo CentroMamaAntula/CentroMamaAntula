@@ -1,0 +1,187 @@
+[{
+  "_id": {
+    "$oid": "5f7ca126eff2162d257462c1"
+  },
+  "number": 1,
+  "sector": 1,
+  "id_paciente": {
+    "$oid": "60c0e6b580dea90015667b9e"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ca132eff2162d257462c2"
+  },
+  "number": 2,
+  "sector": 1,
+  "id_paciente": {
+    "$oid": "60c3802a2dcd140015cddca4"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ca148eff2162d257462c3"
+  },
+  "number": 3,
+  "sector": 1,
+  "id_paciente": {
+    "$oid": "60e22cd14729480015487aa9"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ca14feff2162d257462c4"
+  },
+  "number": 4,
+  "sector": 1
+},{
+  "_id": {
+    "$oid": "5f7ca154eff2162d257462c5"
+  },
+  "number": 5,
+  "sector": 1,
+  "id_paciente": {
+    "$oid": "60d1f511635635001547b036"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ca15beff2162d257462c6"
+  },
+  "number": 6,
+  "sector": 1,
+  "id_paciente": {
+    "$oid": "60c25a0c7dba310015296083"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ca160eff2162d257462c7"
+  },
+  "number": 7,
+  "sector": 1,
+  "id_paciente": {
+    "$oid": "60dde571618a93001500f969"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ca168eff2162d257462c8"
+  },
+  "number": 8,
+  "sector": 1,
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ca174eff2162d257462c9"
+  },
+  "number": 9,
+  "sector": 1,
+  "id_paciente": {
+    "$oid": "60df7aab42aeab0015fdf17f"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ca17ceff2162d257462ca"
+  },
+  "number": 10,
+  "sector": 1,
+  "id_paciente": {
+    "$oid": "60de0b06618a93001500f984"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ca183eff2162d257462cb"
+  },
+  "number": 11,
+  "sector": 1,
+  "id_paciente": {
+    "$oid": "60d9e4b990e8090015474df6"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ca18deff2162d257462cc"
+  },
+  "number": 1,
+  "sector": 2,
+  "id_paciente": {
+    "$oid": "60cce69ae0fb0700155a6382"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ca196eff2162d257462cd"
+  },
+  "number": 2,
+  "sector": 2,
+  "id_paciente": {
+    "$oid": "60d371966f2b4b001598fcea"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ca19eeff2162d257462ce"
+  },
+  "number": 3,
+  "sector": 2,
+  "id_paciente": {
+    "$oid": "60c21ff77dba310015296053"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ca1a4eff2162d257462cf"
+  },
+  "number": 4,
+  "sector": 2,
+  "id_paciente": {
+    "$oid": "60da572490e8090015474e3c"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ca1aaeff2162d257462d0"
+  },
+  "number": 5,
+  "sector": 2,
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ca1b1eff2162d257462d1"
+  },
+  "number": 6,
+  "sector": 2
+},{
+  "_id": {
+    "$oid": "5f7ca1b8eff2162d257462d2"
+  },
+  "number": 7,
+  "sector": 2,
+  "id_paciente": {
+    "$oid": "60d3c5066f2b4b001598fd21"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ca1cbeff2162d257462d3"
+  },
+  "number": 8,
+  "sector": 2,
+  "id_paciente": {
+    "$oid": "60c8b2b2587975001597e48c"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ca1d1eff2162d257462d4"
+  },
+  "number": 9,
+  "sector": 2,
+  "id_paciente": {
+    "$oid": "60dbe0cea0fa6f00156ad61a"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ca1d6eff2162d257462d5"
+  },
+  "number": 10,
+  "sector": 2
+},{
+  "_id": {
+    "$oid": "5f7ca1ddeff2162d257462d6"
+  },
+  "number": 11,
+  "sector": 2
+}]

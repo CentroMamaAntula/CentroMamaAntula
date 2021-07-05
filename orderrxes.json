@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "5ffb917bb642517d8c8c0f38"
+  },
+  "date": {
+    "$date": "2021-01-10T23:44:59.592Z"
+  },
+  "urgent": false,
+  "state": false,
+  "type": "Torax",
+  "subtype": "frente",
+  "observations": "",
+  "professional_name": {
+    "$oid": "5f5c2911fa69933de404dc67"
+  },
+  "id_paciente": {
+    "$oid": "5ff5c22b42da28001733203b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600e39983b348f001799188f"
+  },
+  "date": {
+    "$date": "2021-01-25T03:23:03.709Z"
+  },
+  "urgent": true,
+  "state": false,
+  "type": "Torax",
+  "subtype": "frente",
+  "observations": "control",
+  "professional_name": {
+    "$oid": "5f9828a6b6384217c1b974b9"
+  },
+  "id_paciente": {
+    "$oid": "600ca818337c7f0017522cb5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604a011972fa8f001756a6b6"
+  },
+  "date": {
+    "$date": "2021-03-11T11:37:59.593Z"
+  },
+  "urgent": true,
+  "state": false,
+  "type": "Abdomen",
+  "subtype": "frente",
+  "observations": "Sto ecografia abdominal y ginecológica ( DRA.CURA)",
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "id_paciente": {
+    "$oid": "604058b56de84a00177a7757"
+  },
+  "__v": 0
+}]

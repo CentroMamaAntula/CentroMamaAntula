@@ -1,0 +1,981 @@
+[{
+  "_id": {
+    "$oid": "5f9835e1fc46d7001734ca57"
+  },
+  "date": {
+    "$date": "2020-10-27T14:59:43.552Z"
+  },
+  "diabetes": "Personales",
+  "obs_diabetes": "MTF850",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Personales",
+  "obs_cardio": "HTA tto enalpril 10 mg xdia",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Personales",
+  "obs_alergias": "DipiroN\n\nDipirona",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "5f98353bfc46d7001734ca56"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff4841f1ba5b3001713544d"
+  },
+  "date": {
+    "$date": "2021-01-05T15:22:05.802Z"
+  },
+  "diabetes": "Ninguno",
+  "obs_diabetes": "",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "5f7e7195329abe264d8a3f84"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff4a431a5b72100178d3d9d"
+  },
+  "date": {
+    "$date": "2021-01-05T17:38:56.637Z"
+  },
+  "diabetes": "Ninguno",
+  "obs_diabetes": "",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "5ff4a410a5b72100178d3d9c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff4b8d709ce9a0017c9955c"
+  },
+  "date": {
+    "$date": "2021-01-05T19:07:02.288Z"
+  },
+  "diabetes": "Ninguno",
+  "obs_diabetes": "",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "5ff4b89909ce9a0017c9955b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff5e1775392bc001764d779"
+  },
+  "date": {
+    "$date": "2021-01-06T16:12:38.753Z"
+  },
+  "diabetes": "Ninguno",
+  "obs_diabetes": "",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Personales",
+  "obs_cardio": "HTA",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "5ff4bbeb09ce9a0017c9955d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffa2195164c6b0017db83bb"
+  },
+  "date": {
+    "$date": "2021-01-09T21:35:16.318Z"
+  },
+  "diabetes": "Ninguno",
+  "obs_diabetes": "",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Personales",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "5ff9faf9164c6b0017db83ac"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffa6aedc45a640017e42b1e"
+  },
+  "date": {
+    "$date": "2021-01-10T02:48:13.323Z"
+  },
+  "diabetes": "Ninguno",
+  "obs_diabetes": "",
+  "epoc_asma": "Personales",
+  "obs_epoc": "ASMA BRONQUIAL",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "5ffa6726c45a640017e42b1c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffb7076e6bed300174a018d"
+  },
+  "date": {
+    "$date": "2021-01-10T21:24:06.502Z"
+  },
+  "diabetes": "Ninguno",
+  "obs_diabetes": "",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "TABAQUISMO",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Personales",
+  "obs_adiccion": "TABAQUISMO",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "5ffb7052e6bed300174a018c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ad5100f77be0017b53139"
+  },
+  "date": {
+    "$date": "2021-01-22T13:37:19.194Z"
+  },
+  "diabetes": "Personales",
+  "obs_diabetes": "",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Personales",
+  "obs_cardio": "8 STENT",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "600a35caff5d780017364bbe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60185c7d2097000017dacb50"
+  },
+  "date": {
+    "$date": "2021-02-01T19:54:36.852Z"
+  },
+  "diabetes": "Ninguno",
+  "obs_diabetes": "",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Personales",
+  "obs_cardio": "HTA , medicada con Amlodipina 5mg c/24 hrs",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "60185bf62097000017dacb4f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604058d26de84a00177a7758"
+  },
+  "date": {
+    "$date": "2021-03-04T04:07:58.250Z"
+  },
+  "diabetes": "Ninguno",
+  "obs_diabetes": "",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "604058b56de84a00177a7757"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60610d9b8b66e60017f19b96"
+  },
+  "date": {
+    "$date": "2021-03-28T23:13:30.629Z"
+  },
+  "diabetes": "Ninguno",
+  "obs_diabetes": "",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "HTA (VALSARTAN 160)",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "OBESIDAD",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "60610c4e8b66e60017f19b92"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606e928ff3969a00175a20d4"
+  },
+  "date": {
+    "$date": "2021-04-08T05:20:16.047Z"
+  },
+  "diabetes": "Ninguno",
+  "obs_diabetes": "",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "606e9279f3969a00175a20d3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607c968e4ce6030017e59c77"
+  },
+  "date": {
+    "$date": "2021-04-18T20:29:02.210Z"
+  },
+  "diabetes": "Ninguno",
+  "obs_diabetes": "",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "607c95fc4ce6030017e59c75"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60944711ca655c0015b5ab66"
+  },
+  "date": {
+    "$date": "2021-05-06T19:44:15.785Z"
+  },
+  "diabetes": "Personales",
+  "obs_diabetes": "DBT 2",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "609444faca655c0015b5ab63"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095a6fbd7ee050015cfc073"
+  },
+  "date": {
+    "$date": "2021-05-07T20:45:56.575Z"
+  },
+  "diabetes": "Personales",
+  "obs_diabetes": "MEDICADO CON METFORMINA",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Personales",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Personales",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "60959cadd7ee050015cfc067"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60999aa3f809bb0015f4c919"
+  },
+  "date": {
+    "$date": "2021-05-10T20:42:10.783Z"
+  },
+  "diabetes": "Ninguno",
+  "obs_diabetes": "",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "6093d73ed3f6be0015886796"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bef4478bd68d00151f95b5"
+  },
+  "date": {
+    "$date": "2021-06-08T04:38:31.145Z"
+  },
+  "diabetes": "Ninguno",
+  "obs_diabetes": "",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "60be90aad27eca0015bba653"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c230cc7dba310015296063"
+  },
+  "date": {
+    "$date": "2021-06-10T15:33:33.593Z"
+  },
+  "diabetes": "Ninguno",
+  "obs_diabetes": "",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "60c22f6a7dba310015296061"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c23d3c7dba310015296069"
+  },
+  "date": {
+    "$date": "2021-06-10T16:26:36.989Z"
+  },
+  "diabetes": "Ninguno",
+  "obs_diabetes": "ESCLERODERMIA",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "60c23cfc7dba310015296068"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c246e07dba310015296071"
+  },
+  "date": {
+    "$date": "2021-06-10T17:07:44.048Z"
+  },
+  "diabetes": "Personales",
+  "obs_diabetes": "METFORMINA 850 CON A-C",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Personales",
+  "obs_obesidad": "PESA114",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "60c242c37dba31001529606d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c380b32dcd140015cddca6"
+  },
+  "date": {
+    "$date": "2021-06-11T15:26:43.547Z"
+  },
+  "diabetes": "Ninguno",
+  "obs_diabetes": "OBESIDAD",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "60c3802a2dcd140015cddca4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8e38c587975001597e4bb"
+  },
+  "date": {
+    "$date": "2021-06-15T17:29:48.238Z"
+  },
+  "diabetes": "Ninguno",
+  "obs_diabetes": "",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Personales",
+  "obs_cardio": "HTA",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Personales",
+  "obs_obesidad": "OBESIDAD (no se puede pesar pte descompensada)",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "60c8e1cd587975001597e4b9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb84b89a1a8300151f0658"
+  },
+  "date": {
+    "$date": "2021-06-17T17:22:04.299Z"
+  },
+  "diabetes": "Personales",
+  "obs_diabetes": "DNT tipo 2",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "60cb7bb29a1a8300151f064f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cef53d452ae90015d64b69"
+  },
+  "date": {
+    "$date": "2021-06-20T07:58:52.341Z"
+  },
+  "diabetes": "Ninguno",
+  "obs_diabetes": "",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Personales",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "60cef45b452ae90015d64b67"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d376b46f2b4b001598fcf8"
+  },
+  "date": {
+    "$date": "2021-06-23T18:00:21.517Z"
+  },
+  "diabetes": "Ninguno",
+  "obs_diabetes": "",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "",
+  "tabaquismo": "Personales",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "60d371966f2b4b001598fcea"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9e68890e8090015474dfc"
+  },
+  "date": {
+    "$date": "2021-06-28T15:11:04.621Z"
+  },
+  "diabetes": "Ninguno",
+  "obs_diabetes": "",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Personales",
+  "obs_obesidad": "OBESIDAD",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "60d9e4b990e8090015474df6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de0b1c618a93001500f985"
+  },
+  "date": {
+    "$date": "2021-07-01T18:36:11.852Z"
+  },
+  "diabetes": "Personales",
+  "obs_diabetes": "DBT 2",
+  "epoc_asma": "Ninguno",
+  "obs_epoc": "",
+  "renal_cronica": "Ninguno",
+  "obs_renal": "",
+  "cardiovascular": "Ninguno",
+  "obs_cardio": "",
+  "inmunocomprometido": "Ninguno",
+  "obs_inmuno": "",
+  "obesidad_morbida": "Ninguno",
+  "obs_obesidad": "",
+  "tabaquismo": "Ninguno",
+  "obs_tabaquismo": "",
+  "alcoholismo": "Ninguno",
+  "obs_alcoholismo": "",
+  "adiccion": "Ninguno",
+  "obs_adiccion": "",
+  "alergias": "Ninguno",
+  "obs_alergias": "",
+  "psicologicos_psiquiuatricos": "Ninguno",
+  "obs_psi": "",
+  "violencia": "Ninguno",
+  "obs_violencia": "",
+  "id_paciente": {
+    "$oid": "60de0b06618a93001500f984"
+  },
+  "__v": 0
+}]
