@@ -17246,4 +17246,4052 @@
     "$oid": "5f98247bb6384217c1b974b3"
   },
   "__v": 0
+},{
+  "_id": {
+    "$oid": "60e37192ce711e0015f80b58"
+  },
+  "date": {
+    "$date": "2021-07-05T00:00:00Z"
+  },
+  "disease": "HGT",
+  "observations": "549, 170, 454, 406-----SE DECIDE COMENZAR CON BOMBA DE INSULINA.",
+  "id_paciente": {
+    "$oid": "60e22cd14729480015487aa9"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e371ccce711e0015f80b59"
+  },
+  "date": {
+    "$date": "2021-07-05T00:00:00Z"
+  },
+  "disease": "RESGISTROS FEBRILES",
+  "observations": "TEMPERATURA DE 38,6 DESDE LAS 14 HRS HASTA LAS 18 HRS.",
+  "id_paciente": {
+    "$oid": "60e22cd14729480015487aa9"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e378ecce711e0015f80b5d"
+  },
+  "date": {
+    "$date": "2021-07-05T00:00:00Z"
+  },
+  "disease": "IC con diabetologia",
+  "observations": "La dra Allub sugiere aporte de vitaminas como el RIVIAL o BECOZYM, mas 1 amp de magnesio, una de calcio, una de zinc por dia. Mas hierro semanal diluido, mas 1amp de vitamina C cada 48 hrs.",
+  "id_paciente": {
+    "$oid": "60e22cd14729480015487aa9"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e37ca4ce711e0015f80b60"
+  },
+  "date": {
+    "$date": "2021-07-05T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "Paciente afebril, MODO VCV, VT 300, peep 9, fio2 35, sat: 93%,",
+  "id_paciente": {
+    "$oid": "60d3c5066f2b4b001598fd21"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e381a9ce711e0015f80b61"
+  },
+  "date": {
+    "$date": "2021-07-05T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "Paciente afebril, lucido, vigil, OTE y P, sin requerimiento de O2 desde hace 24 hrs. Por lo que se decide su alta y tratamiento ambulatorio.",
+  "id_paciente": {
+    "$oid": "60df7aab42aeab0015fdf17f"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e388d3ce711e0015f80b67"
+  },
+  "date": {
+    "$date": "2021-07-05T00:00:00Z"
+  },
+  "disease": "HGT",
+  "observations": "413",
+  "id_paciente": {
+    "$oid": "60c3802a2dcd140015cddca4"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e38953ce711e0015f80b68"
+  },
+  "date": {
+    "$date": "2021-07-05T00:00:00Z"
+  },
+  "disease": "OXIGENOTERAPIA",
+  "observations": "3° DIA C/ MASCARA C/ RESERVORIO A 15 LITROS.",
+  "id_paciente": {
+    "$oid": "60dde571618a93001500f969"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e3a11ece711e0015f80b72"
+  },
+  "date": {
+    "$date": "2021-07-06T00:00:00Z"
+  },
+  "disease": "nefrologia",
+  "observations": "paciente con antecedentes de neumopatía  por covid 19 sepsis insuficiencia renal  hipotensa , anticoagulada , \ndx ira x sepsis ta |100/60 diuresis no cuantificada \nindico tratamiento dialítico , solicito colocación de catéter doble lumen . \ndx IRA sepsis FMO",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e422c8fa8ba30015a43d96"
+  },
+  "date": {
+    "$date": "2021-07-06T00:00:00Z"
+  },
+  "disease": "NEUMONIA BILATERAL",
+  "observations": "SE OBSERVA DIURESIS HEMATURICA POR LO QUE SE BAJA HEPARINA , CONTROLAR LUEGO CON CUAGULOGRAMA .",
+  "id_paciente": {
+    "$oid": "60c0e6b580dea90015667b9e"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e4618c78339c0015b41e70"
+  },
+  "date": {
+    "$date": "2021-07-06T00:00:00Z"
+  },
+  "disease": "Evolución",
+  "observations": "Pcte en ARM, afebril modo VCV, VT 400, Ti 1.0 FR 22, PEEP 8 SENS -3 FiO 2 50 COMPLIANCE 42P.PICO 21",
+  "id_paciente": {
+    "$oid": "60c21ff77dba310015296053"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e4787fbc70a70015814308"
+  },
+  "date": {
+    "$date": "2021-07-06T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE, VIGIL, AFEBRIL, BUENA MECANICA RESPIRATORIA CNAF FiO2 40 FLUJO 40",
+  "id_paciente": {
+    "$oid": "60c3802a2dcd140015cddca4"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e47d12bc70a7001581430d"
+  },
+  "date": {
+    "$date": "2021-07-06T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE EXTUBADO, AFEBRIL, QUEDA CON MASCARA DE VENTURI FiO2 60, FLUJO 15 L, SATURACION 96",
+  "id_paciente": {
+    "$oid": "60c8b2b2587975001597e48c"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e48299bc70a70015814310"
+  },
+  "date": {
+    "$date": "2021-07-06T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE EN ARM SE REALIZA VENTANA DE  MIDAZOLAN Y ATRACURIO POR 30 MINUTOS, FRACASO POR MALA MECANICA RESPIRATORIA",
+  "id_paciente": {
+    "$oid": "60d3c5066f2b4b001598fd21"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e4841cbc70a70015814312"
+  },
+  "date": {
+    "$date": "2021-07-06T00:00:00Z"
+  },
+  "disease": "CATETER DIALISIS",
+  "observations": "Se coloca catéter en vía femoral izquierda para comenzar diálisis. Se heparinizan. Dr.Mazza.",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e488e4bc70a70015814314"
+  },
+  "date": {
+    "$date": "2021-07-06T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE EN MAL ESTADO GENERAL, CON HIPERGLUCEMIA SUPERIORES A 350MG, FEBRIL, SE COLOCA BOMBA DE FURO,Y DE INSULINA CTE, ADEMAS SE AGREGA VASOPRESINA",
+  "id_paciente": {
+    "$oid": "60e22cd14729480015487aa9"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e4968dbc70a70015814315"
+  },
+  "date": {
+    "$date": "2021-07-06T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE, VIGIL, AFEBRIL, CON BUENA EVOLUCION, SE DECIDE TRASLADAR A UN CENTRO PRIVADO PARACONTINUAR CON EL TRATAMIENTO. SE COLOCA  MASCARA CON RESERVORIO",
+  "id_paciente": {
+    "$oid": "60cce69ae0fb0700155a6382"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e49898bc70a70015814318"
+  },
+  "date": {
+    "$date": "2021-07-06T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE, VIGIL, AFEBRIL ALTERNA CNAF CON VNI, CON BUENA TOLERANCIA",
+  "id_paciente": {
+    "$oid": "60d1f511635635001547b036"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e4b1e9bc70a7001581431c"
+  },
+  "date": {
+    "$date": "2021-07-06T00:00:00Z"
+  },
+  "disease": "ARM",
+  "observations": "Paciente en su 2° dia ARM. Mal estado general. REGISTRO FEBRIL: 37,9",
+  "id_paciente": {
+    "$oid": "60e22cd14729480015487aa9"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e4c853bc70a7001581431d"
+  },
+  "date": {
+    "$date": "2021-07-06T00:00:00Z"
+  },
+  "disease": "OXIGENOTERAPIA",
+  "observations": "En el dia de la fecha se pasa a CNAF",
+  "id_paciente": {
+    "$oid": "60dde571618a93001500f969"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5b883eed84000154a6975"
+  },
+  "date": {
+    "$date": "2021-07-07T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE EN ARM, EL DIA DE AYER SE REALIZA TRAQUEOSTOMIA,CONTINUA EN MODO VCV, VT 380 Ti 0,90 FR 26 PEEP 10 SENS -3 FiO2 55,P. PICO 29 PLATEAU 24 COMPLIANCE 40. SE COLOCA SONDA NASOGASTRICA",
+  "id_paciente": {
+    "$oid": "60c0e6b580dea90015667b9e"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5bc82eed84000154a697a"
+  },
+  "date": {
+    "$date": "2021-07-07T00:00:00Z"
+  },
+  "disease": "Cultivo",
+  "observations": "Se toma muestra de piel periampollar para cultivo",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5bef8eed84000154a6980"
+  },
+  "date": {
+    "$date": "2021-07-07T00:00:00Z"
+  },
+  "disease": "Dialisis",
+  "observations": "Se realiza 2da dialisis.",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5c015eed84000154a6981"
+  },
+  "date": {
+    "$date": "2021-07-07T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE EN ARM, AFEBRIL, PRONADO, MODO VCV, VT360, Ti 0,9 FR28 PEEP10 SENS -2 FiO2 35, P. PICO 26 COMPLIANCE 33 PLATEAU 22",
+  "id_paciente": {
+    "$oid": "60da572490e8090015474e3c"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5c2d0eed84000154a6985"
+  },
+  "date": {
+    "$date": "2021-07-07T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE SE REALIZA VENTANA DE MIDAZOLAN Y ATRACURIO, PREVIAMENTE SE AGREGA LEVOMEPROMAZINA A 21 ML, SE SUSPENDE LA VENTANA POR QUE EL PCTE ESTA MUY DESADAPTADO",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5c64beed84000154a6989"
+  },
+  "date": {
+    "$date": "2021-07-07T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE, VIGIL, AFEBRIL, PCTE REFIERE SENTIRSE BIEN",
+  "id_paciente": {
+    "$oid": "60dbe0cea0fa6f00156ad61a"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5df80eed84000154a698b"
+  },
+  "date": {
+    "$date": "2021-07-07T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE VIGIL, OTE, AFEBRIL, CON CNAF, REFIERE SENTIRSE MUY ANSIOSO",
+  "id_paciente": {
+    "$oid": "60d371966f2b4b001598fcea"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5ee5ceed84000154a6997"
+  },
+  "date": {
+    "$date": "2021-07-07T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "NO SOPORTA LA CNAF POR HERIDA NASAL Y SE COLOCA COMO ALIVIO MASCARA CON RESERVORIO POR LA TARDE + PRONO",
+  "id_paciente": {
+    "$oid": "60dde571618a93001500f969"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5f106eed84000154a699a"
+  },
+  "date": {
+    "$date": "2021-07-07T00:00:00Z"
+  },
+  "disease": "EVOLUCION-HGT",
+  "observations": "163 (NOCTURNO), 146 (MAÑANA) Y 177 (TARDE)",
+  "id_paciente": {
+    "$oid": "60e22cd14729480015487aa9"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5ff09eed84000154a69a2"
+  },
+  "date": {
+    "$date": "2021-07-07T00:00:00Z"
+  },
+  "disease": "EVOLUCION- 1° DIA VENTURI",
+  "observations": "Paciente estable, con VENTURI VERDE, saturando: 98%, en supino, FR: 18, FC: 73, TA: 129/91 mmhg",
+  "id_paciente": {
+    "$oid": "60c3802a2dcd140015cddca4"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e65107a3126a0015cc2f8a"
+  },
+  "date": {
+    "$date": "2021-07-08T00:00:00Z"
+  },
+  "disease": "...",
+  "observations": "COMIENZA CON VENTANA DE MIDA Y ATRACURIO A LAS 6:OOHS",
+  "id_paciente": {
+    "$oid": "60d3c5066f2b4b001598fd21"
+  },
+  "professional_name": {
+    "$oid": "5f9828a6b6384217c1b974b9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e651c0a3126a0015cc2f8b"
+  },
+  "date": {
+    "$date": "2021-07-08T00:00:00Z"
+  },
+  "disease": "DIALISIS",
+  "observations": "DIALIZA 2 SESION , INICIO NORMOTENSA , CON TENDENCIA  A LA HIPOTENSION FINAL . INOROPICOS UF 2500 . QB250 , DIALISIS SIN COMPLICACIONES . HEPARINA 1250 INICILA 1250 INFUSION",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "5f9828a6b6384217c1b974b9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e6557ea3126a0015cc2f8c"
+  },
+  "date": {
+    "$date": "2021-07-08T00:00:00Z"
+  },
+  "disease": "anemia",
+  "observations": "pendiente transfusión de sangre ( 2u)",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "5f9828a6b6384217c1b974b9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e7078a45178d0015467d23"
+  },
+  "date": {
+    "$date": "2021-07-08T00:00:00Z"
+  },
+  "disease": "TRIAGE",
+  "observations": "PCTE QUE HACE APROXIMADAMENTE UNA SEMANA COMIENZA CON ASTENIA, ESCALOFRIOS, DESDE AYER VOMITOS,  SE REALIZA TEST RAPIDO (7/7) CON RESULTADO POSITIVO, RLATA COMO ANTECEDENTE PATOLOGICO DIABETES 2 (TRAT: INSULINA LANTUS Y NOVORAPID+METFORMINA).\nEN EL DIA DE HOY AFEBRIL, HIDRATADA, PALIDEZ,P.A 154/82, FC 86, FR 16, SATURACION 96",
+  "id_paciente": {
+    "$oid": "60e705a445178d0015467d22"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e71ff245178d0015467d2b"
+  },
+  "date": {
+    "$date": "2021-07-08T00:00:00Z"
+  },
+  "disease": "Ventana de sedación",
+  "observations": "Pte se desadapta durante  la ventana. Se coloca levomepromazina desde ayer.Se intentara mañana de nuevo",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e7223b45178d0015467d2c"
+  },
+  "date": {
+    "$date": "2021-07-08T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "Pcte en ARM, afebril modo VCV, VT 400, Ti 1.0 FR 22, PEEP 8 SENS -3 FiO 2 45 COMPLIANCE 33 P.PICO 22 PLATEAU 18",
+  "id_paciente": {
+    "$oid": "60c21ff77dba310015296053"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e725be45178d0015467d30"
+  },
+  "date": {
+    "$date": "2021-07-08T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE SOMNOLIENTO, AFEBRIL, RESPONDE ORDENES SIMPLES, CON MASCARA DE VENTURI, FiO2 60, FLUJO15",
+  "id_paciente": {
+    "$oid": "60c8b2b2587975001597e48c"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e7354245178d0015467d35"
+  },
+  "date": {
+    "$date": "2021-07-08T00:00:00Z"
+  },
+  "disease": "VENTANA DE SEDACION",
+  "observations": "Pte desadaptado, desatura a 75% por mal posicionamiento de la traqueo, al moverse. Por lo tanto se sube fi02, se aspira y se recupera. Se vuelve a dormir, se programa nueva ventana de sedación.",
+  "id_paciente": {
+    "$oid": "60c0e6b580dea90015667b9e"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e7498c17aa280015b25cfa"
+  },
+  "date": {
+    "$date": "2021-07-08T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE EN PSV, FEBRIL, HIPOTENSO. SE DECIDE SEDARLO NUEVAMENTE",
+  "id_paciente": {
+    "$oid": "60d3c5066f2b4b001598fd21"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e7513017aa280015b25cfd"
+  },
+  "date": {
+    "$date": "2021-07-08T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE SE COLOCA CATETER EN FEMORAL PARA COMENZAR DIALISIS RENAL, CONTINUA EN ARM, MODO VCV",
+  "id_paciente": {
+    "$oid": "60e22cd14729480015487aa9"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e754af17aa280015b25cff"
+  },
+  "date": {
+    "$date": "2021-07-08T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE EN ARM, SE INTENTA VENTANA DE SEDACION, FRACASO POR ALTERACION DE SUS PARAMETROS",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e75e5917aa280015b25d02"
+  },
+  "date": {
+    "$date": "2021-07-08T00:00:00Z"
+  },
+  "disease": "NEUMONIA BILATERAL",
+  "observations": "PCTE OTE, VIGIL, AFEBRIL, RELATA COMIENZO DE SINTOMAS HACE MAS DE 10 DIAS, SE REALIZA HISOPADO EL DIA 01/07/21 CON RESULTADO POSITIVO, SE COLOCA MASCARA CON RESERVORIO POR LLEGAR DESATURANDO , 76",
+  "id_paciente": {
+    "$oid": "60e75d3e17aa280015b25d00"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e76e7c17aa280015b25d0e"
+  },
+  "date": {
+    "$date": "2021-07-08T00:00:00Z"
+  },
+  "disease": "EVOLUCIÓN",
+  "observations": "Paciente estable, afebril, con MASCARA CON VENTURI rojo a 8 litros sat: 94%",
+  "id_paciente": {
+    "$oid": "60d1f511635635001547b036"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e7783c17aa280015b25d14"
+  },
+  "date": {
+    "$date": "2021-07-08T00:00:00Z"
+  },
+  "disease": "DIALISIS",
+  "observations": "TERMINA 19 HRS SESION DE DIALISIS",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e7787117aa280015b25d15"
+  },
+  "date": {
+    "$date": "2021-07-08T00:00:00Z"
+  },
+  "disease": "DIALISIS",
+  "observations": "1era SESION DIALISIS",
+  "id_paciente": {
+    "$oid": "60e22cd14729480015487aa9"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e780ef17aa280015b25d16"
+  },
+  "date": {
+    "$date": "2021-07-08T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PACIENTE FEBRIL PERSISTENTE 38°, 8VO DIA ATB VANCO-PTZ",
+  "id_paciente": {
+    "$oid": "60d3c5066f2b4b001598fd21"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e7936e17aa280015b25d1e"
+  },
+  "date": {
+    "$date": "2021-07-09T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "Paciente con restos de alimentación en boca, se suspende alimentación y la dejamos en modo aspirativa",
+  "id_paciente": {
+    "$oid": "60c21ff77dba310015296053"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e796fb17aa280015b25d21"
+  },
+  "date": {
+    "$date": "2021-07-09T00:00:00Z"
+  },
+  "disease": "dialisis",
+  "observations": "ff",
+  "id_paciente": {
+    "$oid": "60e22cd14729480015487aa9"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e7975c17aa280015b25d22"
+  },
+  "date": {
+    "$date": "2021-07-09T00:00:00Z"
+  },
+  "disease": "dialisisw",
+  "observations": "1 sesion hemodilisis sin complicaciones , uf2300 cc , ta inicial 130/70 TA final 130/70 cateter con buen funcionamiento ,",
+  "id_paciente": {
+    "$oid": "60e22cd14729480015487aa9"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e7988317aa280015b25d23"
+  },
+  "date": {
+    "$date": "2021-07-09T00:00:00Z"
+  },
+  "disease": "dialisis",
+  "observations": "4 hs , uf 2500 cc , ta 130/70  final 130/70 , 3 sesion  . cateter con buen funcionamiento",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e7b13017aa280015b25d25"
+  },
+  "date": {
+    "$date": "2021-07-09T00:00:00Z"
+  },
+  "disease": "EVOLUCIÓN",
+  "observations": "SE ALTERNA VNI CON MASCARA CON RESERVORIO + BIGOTERA",
+  "id_paciente": {
+    "$oid": "60dde571618a93001500f969"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e7b15817aa280015b25d26"
+  },
+  "date": {
+    "$date": "2021-07-09T00:00:00Z"
+  },
+  "disease": "OXIGENOTERAPIA",
+  "observations": "SE PASA DE CNAF A VENTURI CON FIO2 DE 60%",
+  "id_paciente": {
+    "$oid": "60dbe0cea0fa6f00156ad61a"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e7b19817aa280015b25d27"
+  },
+  "date": {
+    "$date": "2021-07-09T00:00:00Z"
+  },
+  "disease": "EPISODIO FEBRIL",
+  "observations": "PRESENTO 2 EPISODIOS FEBRILES DE 37,6 Y 37,7 A LAS 19HS Y 23 HS RESPECTIVAMENTE",
+  "id_paciente": {
+    "$oid": "60c8b2b2587975001597e48c"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e7b7d817aa280015b25d2b"
+  },
+  "date": {
+    "$date": "2021-07-09T00:00:00Z"
+  },
+  "disease": "CULTIVOS",
+  "observations": "07/07: HEMOCULTIVO X 2\n08/07: PUNTA DE CATETER",
+  "id_paciente": {
+    "$oid": "60c8b2b2587975001597e48c"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e7b8bb17aa280015b25d2c"
+  },
+  "date": {
+    "$date": "2021-07-07T00:00:00Z"
+  },
+  "disease": "LESIONES DERMICAS",
+  "observations": "LESIONES COMPATIBLES CON HERPES ZOSTER EN REGION GLUTEA, POR LO QUE SE INDICA TRATAMIENTO CON ACICLOVIR",
+  "id_paciente": {
+    "$oid": "60da572490e8090015474e3c"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e7b9c817aa280015b25d2d"
+  },
+  "date": {
+    "$date": "2021-07-09T00:00:00Z"
+  },
+  "disease": "HTA",
+  "observations": "Paciente con cifras tensionales altas 202/113 mmhg, por indicación del nefrólogo se suspende Amlodipina y se deja reglado losartan + carvedilol",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e84494bf04fa0015f9858e"
+  },
+  "date": {
+    "$date": "2021-07-09T00:00:00Z"
+  },
+  "disease": "Evolucion",
+  "observations": "El dia de ayer se progreso de cnaf a mascara de venturi verde con fio2 60% a 15litros, con muy buena respuesta.",
+  "id_paciente": {
+    "$oid": "60d371966f2b4b001598fcea"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e84c41bf04fa0015f98592"
+  },
+  "date": {
+    "$date": "2021-07-09T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "Paciente: afebril, estable hemodinamicamente, refiere accesos de tos por lo que se indica la posición semisentada, refiere dolor de cabeza constante y dolor persistente en ambas fosas nasales. Refiere usar \"oximetazolina\" por antecedente de rinitis a repetición.",
+  "id_paciente": {
+    "$oid": "60e75d3e17aa280015b25d00"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e84fafbf04fa0015f98594"
+  },
+  "date": {
+    "$date": "2021-07-09T00:00:00Z"
+  },
+  "disease": "EVOLUCIÓN",
+  "observations": "Paciente con episodio de desaturación a 64% acompañado de hipotensión 80/50 a las 5:00 de la mañana.",
+  "id_paciente": {
+    "$oid": "60c21ff77dba310015296053"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e88211bf04fa0015f985a2"
+  },
+  "date": {
+    "$date": "2021-07-09T00:00:00Z"
+  },
+  "disease": "TRIAGE",
+  "observations": "AYER HA COMENZADO CON FIEBRE, ASTENIA, DOLOR DE ESPALDA, EN EL DIA DEAYER CONCURRE AL INDEPENDENCIA Y LE REALIZAN HISOPADO CON RESULTADO POSITIVO, LLEGA HOY DESDE EL DOMICILIO CON FALTA DE AIRE, TOS, T°39°, PA 137/90 FC 143 FR SATURACION 92, FR 27, SE LE REALIZA RX DE TORAX. PESO 104 KG  TALLA168",
+  "id_paciente": {
+    "$oid": "60e8801cbf04fa0015f985a1"
+  },
+  "professional_name": {
+    "$oid": "60d283850e0e5750a7f19f2b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e89cc7bf04fa0015f985ae"
+  },
+  "date": {
+    "$date": "2021-07-09T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE EN VENTANA DE BNM Y SEDANTES, DESADAPTADO, SE VUELVE A SEDAR AL PCTE",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e8a879bf04fa0015f985b2"
+  },
+  "date": {
+    "$date": "2021-07-09T00:00:00Z"
+  },
+  "disease": "EXTUBACIÓN",
+  "observations": "PTE CON PAFI :210, EN ARM SE DECIDE SU EXTUBACION CON MASCARA VENTURI 60% , AL SAT:100 SE PASA A 50% SAT:95 .BUENA MECANICA RESPIRATORIA, MUCHAS SECRECIONES SANGUINOLENTAS.SE SOSPECHA HEMORRAGIA DIGESTIVA ALTA, POR DEBITO CON SANGRE EN SONDA ASPIRATIVA Y DOLOR ABDOMINAL.SE DEJA SIN ALIMENTACION POR SNG,SE COLOCA 40 MG DE OMEPRAZOL, SE STA ENEMA MAÑANA.MONITOREO.",
+  "id_paciente": {
+    "$oid": "60da572490e8090015474e3c"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e8abb3bf04fa0015f985b4"
+  },
+  "date": {
+    "$date": "2021-07-09T00:00:00Z"
+  },
+  "disease": "VENTANA DE SEDACIÓN",
+  "observations": "SE CONECTA PACIENTE A TUBO EN T, SE OBSERVA MALA MECANICA CON ESFUERZO INSPIRATORIO.COMP EST: 11-17",
+  "id_paciente": {
+    "$oid": "60d3c5066f2b4b001598fd21"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e8b03abf04fa0015f985ba"
+  },
+  "date": {
+    "$date": "2021-07-09T00:00:00Z"
+  },
+  "disease": "INGRESO",
+  "observations": "PCTE OTE, AFEBRIL, COMIENZA CON SINTOMAS HACE APROXIMADAMENTE 5 DIAS, HOY SE REALIZA HISOPADO CON RESULTADO POSITIVO. TRAE TAC QUE MUESTRA IMAGENES EN VIDRIO ESMERILADO, SE REALIZA RX DE CONTROL.\nPESO 94, TALLA170",
+  "id_paciente": {
+    "$oid": "60e8ae45bf04fa0015f985b8"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e8b1fcbf04fa0015f985c1"
+  },
+  "date": {
+    "$date": "2021-07-09T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "SE ADMINISTRA PRIMERA DOSIS DE SUERO EQUINO",
+  "id_paciente": {
+    "$oid": "60e8ae45bf04fa0015f985b8"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e8d2cabf04fa0015f985c6"
+  },
+  "date": {
+    "$date": "2021-07-09T00:00:00Z"
+  },
+  "disease": "COVID",
+  "observations": "HNF NEGATIVO",
+  "id_paciente": {
+    "$oid": "60c8b2b2587975001597e48c"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e9a88ff3786b0015231121"
+  },
+  "date": {
+    "$date": "2021-07-09T00:00:00Z"
+  },
+  "disease": "DIALISIS",
+  "observations": "2 SESION DE DIALISIS 3 HS UF 2500 HEPARINA 2500 . \nSIN COMPLICACIONES",
+  "id_paciente": {
+    "$oid": "60e22cd14729480015487aa9"
+  },
+  "professional_name": {
+    "$oid": "60b4b987a669da1d8f266f1e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e9a8c2f3786b0015231122"
+  },
+  "date": {
+    "$date": "2021-07-10T00:00:00Z"
+  },
+  "disease": "NEFROLOGIA DIALISIS",
+  "observations": "3 SESION . UF 2500 3 HS , HEPARINA 5000 UI EN INFUCION , CONTINUA C IGUAL TTO",
+  "id_paciente": {
+    "$oid": "60e22cd14729480015487aa9"
+  },
+  "professional_name": {
+    "$oid": "60b4b987a669da1d8f266f1e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e9a9a1f3786b0015231123"
+  },
+  "date": {
+    "$date": "2021-07-09T00:00:00Z"
+  },
+  "disease": "NEFROLOGIA",
+  "observations": "3 SESION HEMODIALISIS CONTINUA EN ARM , UF 3000 CC , HEPARINA 2500 . DIALISIS SIN COMPLICACIONES",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "60b4b987a669da1d8f266f1e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e9a9d1f3786b0015231124"
+  },
+  "date": {
+    "$date": "2021-07-10T00:00:00Z"
+  },
+  "disease": "NEFROLOGIA DIALISIS",
+  "observations": "4 SESION DIALISIS 3 HS UF 3000 HEPARINA 5000 , QB 250 , CATETER CON BUEN FUNCIONAMIENTO .",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "60b4b987a669da1d8f266f1e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e9c30cf3786b001523112a"
+  },
+  "date": {
+    "$date": "2021-07-10T00:00:00Z"
+  },
+  "disease": "NEUMONIA BILATERAL ATÍPICA PÓR COVID 19",
+  "observations": "PACIENTE EN ARM CON SEDOANALGESIA",
+  "id_paciente": {
+    "$oid": "60d3c5066f2b4b001598fd21"
+  },
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ea3478ab7890001584d085"
+  },
+  "date": {
+    "$date": "2021-07-10T00:00:00Z"
+  },
+  "disease": "NEUMONIA BILATERAL ATIPICA POR COVID 19",
+  "observations": "PACIENTE REFIERE SENTIRSE MEJOR ,TOLERA BIEN LOS EJERCICIÓS KINESIOTERAPICOS,SIN OXIGENO SE AGITA POCO",
+  "id_paciente": {
+    "$oid": "60de0b06618a93001500f984"
+  },
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ea563bab7890001584d08b"
+  },
+  "date": {
+    "$date": "2021-07-11T00:00:00Z"
+  },
+  "disease": "COVID-DISTRES-IRA",
+  "observations": "SE REALIZA SEGUNDA SESION DE HEMODIALISIS, DESATURACION PERSISTENTE, SE REALIZA PRONACION. POSTERIORMENTE PRESENTA FUGA POR TET, SHOCK, SE DESPRONA Y REEMPLAZA TET",
+  "id_paciente": {
+    "$oid": "60e22cd14729480015487aa9"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb0b0c3a0920001569915a"
+  },
+  "date": {
+    "$date": "2021-07-11T00:00:00Z"
+  },
+  "disease": "HTA",
+  "observations": "PACIENTE CON T/A 210/113 .DESATAPTADA SE ADMINISTRA LOBETALOL, 1BOLO DE MIDA Y FENTA",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "601015c004225963ac195fb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb338705944d0015f7543d"
+  },
+  "date": {
+    "$date": "2021-07-11T00:00:00Z"
+  },
+  "disease": "INTUBACION",
+  "observations": "Pte que fracasa a CNAF, con saturación: 50-65% fr: +35 refería disnea, solicitaba la intubación. La misma la realiza el Dr.Mazza , también se realiza vía central yugular izquierda.",
+  "id_paciente": {
+    "$oid": "60e75d3e17aa280015b25d00"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb432d0eae46001596c167"
+  },
+  "date": {
+    "$date": "2021-07-11T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE, VIGIL, AFEBRIL,CON BUENA EVOLUCION, SATURACION 97% S/O2, SE RETIRA ABOCATH, MAÑANA EVALUAR ALTA MEDICA",
+  "id_paciente": {
+    "$oid": "60d9e4b990e8090015474df6"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb449e0eae46001596c169"
+  },
+  "date": {
+    "$date": "2021-07-11T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE, VIGIL, AFEBRIL, SATURACION 96% SIN O2, SE EVALUA ALTA MEDICA PARA MAÑANA",
+  "id_paciente": {
+    "$oid": "60de0b06618a93001500f984"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb46db0eae46001596c16e"
+  },
+  "date": {
+    "$date": "2021-07-11T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "HOY CORRESPONDE SEGUNDA DOSIS DE SUERO EQUINO",
+  "id_paciente": {
+    "$oid": "60e8ae45bf04fa0015f985b8"
+  },
+  "professional_name": {
+    "$oid": "60d283850e0e5750a7f19f2b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb47600eae46001596c170"
+  },
+  "date": {
+    "$date": "2021-07-11T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE, VIGIL, DIABETICA, 3° DIA DE PULSOS DE CORTICOIDES CON METILPREDNISOLONA, CON BUENA RESPUESTA",
+  "id_paciente": {
+    "$oid": "60e705a445178d0015467d22"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb4db80eae46001596c17b"
+  },
+  "date": {
+    "$date": "2021-07-11T00:00:00Z"
+  },
+  "disease": "INTERNACION",
+  "observations": "RELATA COMIENZO DE SINTOMAS EL DIA 4/7 FIEBRE,CANSANCIO, TOS, EL DIA 7/7 SE REALIZA HISOPADO CON RESULTADO POSITIVO, ESTA MEDICADO CON SALBUTAMOL AEROSOL, BUDESONIDE AEROSOL, MEPREDNISONA 4 MG. HOY CONSULTA POR TOS Y DOLOR DE PECHO, AFEBRIL, SATURACION 96% SIN O2",
+  "id_paciente": {
+    "$oid": "60eb4ac70eae46001596c177"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb5c2e0eae46001596c187"
+  },
+  "date": {
+    "$date": "2021-07-11T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PACIENTE LUCIDO AFEBRIL,ESTABLE CN MASCARA DE VENTURI CELESTE FIO2 \n\n28 SO2:93 %",
+  "id_paciente": {
+    "$oid": "60d1f511635635001547b036"
+  },
+  "professional_name": {
+    "$oid": "601015c004225963ac195fb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb5e7e0eae46001596c189"
+  },
+  "date": {
+    "$date": "2021-07-11T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PACIENTE AFEBRIL,ESTABLE ,LUCIDO CON BUENA MECANICA RESPIRATORIA,CON MASCARA DE VENTURI VERDE FIO2; 35 CN SO2 ;94% FR;17 T/A; 109/68 mmhg",
+  "id_paciente": {
+    "$oid": "60c3802a2dcd140015cddca4"
+  },
+  "professional_name": {
+    "$oid": "601015c004225963ac195fb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb740e0eae46001596c18d"
+  },
+  "date": {
+    "$date": "2021-07-11T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "POR MALA MECANICA RESPIRATORIA CON FR DE 38, SE COLOCA CNAF CON FIO2 55% A 55 LITROS",
+  "id_paciente": {
+    "$oid": "60e8801cbf04fa0015f985a1"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb78530eae46001596c191"
+  },
+  "date": {
+    "$date": "2021-07-11T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE EXTUBADO, CON CNAF, EXCITADO, BUENA MECANICA RESPIRATORIA",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb78be0eae46001596c192"
+  },
+  "date": {
+    "$date": "2021-07-11T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE VENTILADO, FiO 100, PEEP 14, VT 380, SE REALIZA VIA CENTRAL",
+  "id_paciente": {
+    "$oid": "60dde571618a93001500f969"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ebabec7b37bb0015d55b1d"
+  },
+  "date": {
+    "$date": "2021-07-12T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "EPISODIO FEBRIL DE 39,1°C, SE ADMINISTRA DIPIRONA",
+  "id_paciente": {
+    "$oid": "60e8801cbf04fa0015f985a1"
+  },
+  "professional_name": {
+    "$oid": "60d283850e0e5750a7f19f2b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ebb61c7b37bb0015d55b1f"
+  },
+  "date": {
+    "$date": "2021-07-12T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PACIENTE CON CRISIS HIPERTENSIVA REFRACTARIA A TRATAMIENTO, SE COLOCA BOMBA DE NTG Y SE CONTROLA SRGUN TA.",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "60d283850e0e5750a7f19f2b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ec5bde34a68f0015be57d0"
+  },
+  "date": {
+    "$date": "2021-07-12T00:00:00Z"
+  },
+  "disease": "TRIAGE",
+  "observations": "PCTE QUE DESDE AYER, ESTA CONGESTIONADA, TOS, FIEBRE, HOY SE REALIZA HNF (RESULTADO PENDIENTE), AFEBRIL, NORMOTENSA, SATURACION 97 %, BUENA MECANICA RESPIRATORIA. SE REALIZA RX DE TORAX",
+  "id_paciente": {
+    "$oid": "60ec59b534a68f0015be57cf"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ec665934a68f0015be57d2"
+  },
+  "date": {
+    "$date": "2021-07-12T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE, VIGIL, AFEBRIL, REFIERE SENTIRSE BIEN, COLABORA CON EL EXAMEN",
+  "id_paciente": {
+    "$oid": "60da572490e8090015474e3c"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ec69f434a68f0015be57d5"
+  },
+  "date": {
+    "$date": "2021-07-12T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE EN ARM, MODO VCV, FiO 85, PEEP12 FR 24, VT 380",
+  "id_paciente": {
+    "$oid": "60dde571618a93001500f969"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ec6b3f34a68f0015be57d7"
+  },
+  "date": {
+    "$date": "2021-07-12T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE EXTUBADO, AFEBRIL,MUY EXCITADO.",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ec6dda34a68f0015be57da"
+  },
+  "date": {
+    "$date": "2021-07-12T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE CON CNAF, HOY COMIENZA CON PULSOS DE CORTICOIDES (DEXAMETASONA)",
+  "id_paciente": {
+    "$oid": "60e8801cbf04fa0015f985a1"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ec79de68fec200155e34cf"
+  },
+  "date": {
+    "$date": "2021-07-12T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE, VIGIL, AFEBRIL, CON BUENA EVOLUCION",
+  "id_paciente": {
+    "$oid": "60e8ae45bf04fa0015f985b8"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ec7e6768fec200155e34d5"
+  },
+  "date": {
+    "$date": "2021-07-12T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE CON BUENA EVOLUCION, SE INDICA ALTA MEDICA",
+  "id_paciente": {
+    "$oid": "60de0b06618a93001500f984"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ec7ffc68fec200155e34d9"
+  },
+  "date": {
+    "$date": "2021-07-12T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE CON BUENA EVOLUCION, SE DECIDE ALTA MEDICA",
+  "id_paciente": {
+    "$oid": "60d9e4b990e8090015474df6"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ec90ae68fec200155e34e1"
+  },
+  "date": {
+    "$date": "2021-07-12T00:00:00Z"
+  },
+  "disease": "EVOLUCIÓN",
+  "observations": "PCTE ESTABLE HEMODINAICAMENTE, 1°DIA DE PULSOS DE CORTICOIDES CON METILPREDNISOLONA CON 80 MG.",
+  "id_paciente": {
+    "$oid": "60e705a445178d0015467d22"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eca43768fec200155e34e9"
+  },
+  "date": {
+    "$date": "2021-07-12T00:00:00Z"
+  },
+  "disease": "EVOLUCIÓN",
+  "observations": "Pte estable hemodinamicamente, afebril,  1° dia con CNBF.",
+  "id_paciente": {
+    "$oid": "60c3802a2dcd140015cddca4"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ecbf9268fec200155e34ee"
+  },
+  "date": {
+    "$date": "2021-07-12T00:00:00Z"
+  },
+  "disease": "PRUEBA DE DEGLUCIÓN",
+  "observations": "Paciente extubado, evaluación con alimento (liquido) con buen manejo del bolo alimenticio.",
+  "id_paciente": {
+    "$oid": "60da572490e8090015474e3c"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ecc0b868fec200155e34f0"
+  },
+  "date": {
+    "$date": "2021-07-12T00:00:00Z"
+  },
+  "disease": "COVID",
+  "observations": "HNF: CONTINUA POSITIVO",
+  "id_paciente": {
+    "$oid": "60c21ff77dba310015296053"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ecc0d868fec200155e34f1"
+  },
+  "date": {
+    "$date": "2021-07-12T00:00:00Z"
+  },
+  "disease": "COVID",
+  "observations": "HNF: NEGATIVO",
+  "id_paciente": {
+    "$oid": "60d371966f2b4b001598fcea"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ecc0f068fec200155e34f2"
+  },
+  "date": {
+    "$date": "2021-07-08T00:00:00Z"
+  },
+  "disease": "COVID",
+  "observations": "HNF: NEGATIVO",
+  "id_paciente": {
+    "$oid": "60dbe0cea0fa6f00156ad61a"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ecc20468fec200155e34f3"
+  },
+  "date": {
+    "$date": "2021-07-12T00:00:00Z"
+  },
+  "disease": "PRUEBA DE DEGLUCIÓN",
+  "observations": "EVALUACIÓN CON ALIMENTOS, BUEN MANEJO DEL BOLO ALIMNETICIO, DEGLUTE SIN DIFICULTADES, SIN SIGNOS CLINICOS DE PASAJE A VIA AEREA,",
+  "id_paciente": {
+    "$oid": "60c8b2b2587975001597e48c"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ecdb703031840015826bab"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "INICIAR VENTANA DE BNM Y SEDANTES A LAS 8 AM DEL DIA 13/07",
+  "id_paciente": {
+    "$oid": "60d3c5066f2b4b001598fd21"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ecdc143031840015826bad"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "INICIAR VENTANA DE BNM Y SEDACION A LAS 8 AM DEL DIA 13/07",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ecde743031840015826baf"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "INICIAR VENTANA DE BNM Y SEDACION A LAS 8 AM DEL DIA 13/07",
+  "id_paciente": {
+    "$oid": "60e75d3e17aa280015b25d00"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ece2fd3031840015826bb0"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "dolor muscular",
+  "observations": "paciente refiere dolor muscular.se indica diclofenac e.v por unica vez",
+  "id_paciente": {
+    "$oid": "60e8801cbf04fa0015f985a1"
+  },
+  "professional_name": {
+    "$oid": "601015c004225963ac195fb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ecf11c3031840015826bb2"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PACIENTE CON SANGRADO PERSISTENTE POST PUNCION DE VIA PERISFERICA POR LO QUE SE MODIFICA HEPARINA",
+  "id_paciente": {
+    "$oid": "60e22cd14729480015487aa9"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ed03366b2fc40015c3aaf1"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PACIENTE SE ENCUENTRA CON HIPERTENSION 195/105 MMHG DESADAPTADA SE INDICA UN BOLO DE MIDAZOLAM Y FENTANILO",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ed066b6b2fc40015c3aaf2"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "SE PASO PRIMERA DOSIS DE SUERO EQUINO EL DIA 12/07 A LAS 10 AM",
+  "id_paciente": {
+    "$oid": "60eb4ac70eae46001596c177"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ed8363992242001594c7ea"
+  },
+  "date": {
+    "$date": "2021-07-12T00:00:00Z"
+  },
+  "disease": "NEFROLOGIA DIALISIS",
+  "observations": "PACIENTE QUE DIALIZA 4 HS SIN COMPLICACIONES CATETER CON BUEN FUNCIONAMIENTO -",
+  "id_paciente": {
+    "$oid": "60e22cd14729480015487aa9"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ed8444992242001594c7eb"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "NEFROLOGIA DIALISIS",
+  "observations": "PACIENTE HTA COVID + SEPSIS , EN ARM HOY DIALISIS 4 HS UF 3000 , CATETER OK",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60edaf8262f4ce00155ec335"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE EN BUEN ESTADO, SE INDICA ALTA MEDICA",
+  "id_paciente": {
+    "$oid": "60dbe0cea0fa6f00156ad61a"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60edbc7762f4ce00155ec338"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE CON BUENA EVOLUCION, SE RETIRA VIA CENTRAL Y SONDA VESICAL",
+  "id_paciente": {
+    "$oid": "60da572490e8090015474e3c"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60edbe8462f4ce00155ec33a"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE QUE EVOLUCIONA FAVORABLEMENTE, SE RETIRA VENTURI, CONTINUA CON CNBF A 2L",
+  "id_paciente": {
+    "$oid": "60c8b2b2587975001597e48c"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60edc21762f4ce00155ec33e"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "VENTANA DE SEDACIÓN",
+  "observations": "Pte a quien se le realiza ventana de sedación 10:30 hs a 13 hs , se coloca en PSV/CPAP luego tubo T , mantenía saturación: 96-98% , se hipertensa: 220/125 mmhg por lo que se realiza labetalol ev y se aumento la NTG. Paciente responde a estímulos dolorosos, pero  no abre los ojos, asiste al respirador. Se vuelve a sedar, sin bloqueo para intentar mañana nuevamente.",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60edc54662f4ce00155ec343"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "INGRESO",
+  "observations": "COMIENZA EL 07/07/21 CON ODINOFAGIA, ASTENIA, CEFGALEA Y FIEBRE DESDE EL 09/07 COMIENZA CON DIARREA Y MIALGIAS",
+  "id_paciente": {
+    "$oid": "60edc4cb62f4ce00155ec341"
+  },
+  "professional_name": {
+    "$oid": "5f98247bb6384217c1b974b3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60edc66762f4ce00155ec346"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "PESO Y TALLA",
+  "observations": "PESO DE IONGRESO 63 KG Y TALLA 1.70 IMC: 22",
+  "id_paciente": {
+    "$oid": "60edc4cb62f4ce00155ec341"
+  },
+  "professional_name": {
+    "$oid": "5f98247bb6384217c1b974b3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60edce6d62f4ce00155ec34a"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTECON BUENA EVOLUCION, ESTABLE, SIN REQUERIMIENTO DE O2, SE DECIDE ALTA MEDICA",
+  "id_paciente": {
+    "$oid": "60e8ae45bf04fa0015f985b8"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60edd58b62f4ce00155ec34e"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "CULTIVO",
+  "observations": "CULTIVO DE SECRECIONES, SE SUSPENDE PTZ, CONTINUA CON VANCO Y SE AGREGA COLISTIN + MEROPENEM",
+  "id_paciente": {
+    "$oid": "60d3c5066f2b4b001598fd21"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60edd6de62f4ce00155ec34f"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE AFEBRIL, SE RETIRA CNAF, Y PASA A MASCARA DE VENTURI",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60edd94962f4ce00155ec350"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE EN ARM, MODO VCV, VT 380 FR 24 PEEP 12, FiO280",
+  "id_paciente": {
+    "$oid": "60dde571618a93001500f969"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eddb1a62f4ce00155ec353"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE, VIGIL, SE SOLICITA UROCULTIVO",
+  "id_paciente": {
+    "$oid": "60d371966f2b4b001598fcea"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60edf3b462f4ce00155ec35b"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "COVID (+)",
+  "observations": "Paciente con diagnostico de COVID (+), HNF: 04/07/21 (+), FIS: 03/07/21, comenzó con febrícula  y mal estar general. Los días 05 y 07 de este mismo mes se colocaron ambas dosis de S.E. Comenzando con fiebre sostenida 48 hrs después. Niega APP. Qx de peritonitis. Al examen físico el paciente se encuentra en supino, sat: 96-97% al AA, auscultación: Crepitos bibasales, al movilizarlo desatura a 93%, FC: 78 lxm, FR: 22 rxm, TA: 152/82 mmhg. Se interna para tratamiento y observación.",
+  "id_paciente": {
+    "$oid": "60edea7362f4ce00155ec358"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ee028362f4ce00155ec362"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "COVID (+)-IOT",
+  "observations": "HNF: 11/07: (+), PACIENTE QUE LLEGA EN MAL ESTADO. DERIVADO DEL CIBS. SE INTENTA COLOCAR CNAF A SU LLEGADA, NO RESPONDE, INTERCURRE CON MALA MECANICA, DESATURACIÓN POR LO QUE SE REALIZA IOT",
+  "id_paciente": {
+    "$oid": "60eddb7b62f4ce00155ec354"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ee09a762f4ce00155ec364"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "EVOLUCIÓN",
+  "observations": "5TO DIA PULSO CORTICOIDES, 2° DIA METILPREDNISOLONA 80 MG",
+  "id_paciente": {
+    "$oid": "60e705a445178d0015467d22"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ee0f7762f4ce00155ec36e"
+  },
+  "date": {
+    "$date": "2021-07-13T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PACIENTE PRONADO EN EL DIA DE LA FECHA",
+  "id_paciente": {
+    "$oid": "60dde571618a93001500f969"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ee321562f4ce00155ec373"
+  },
+  "date": {
+    "$date": "2021-07-14T00:00:00Z"
+  },
+  "disease": "NEUMONIA COVID 19",
+  "observations": "PACIENTE CON PCO2 DE 57 mmHg Y POTASIO DE 2.2 EL DR MAZZA INDICA PASAR A MASCARA VENTURI FIO2 60 Y REALIZAR CARGA DE POTASIO Y CAMBIO EN PLAN DE HIDRATACION",
+  "id_paciente": {
+    "$oid": "60c21ff77dba310015296053"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eef5b453197800154bd7a0"
+  },
+  "date": {
+    "$date": "2021-07-14T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE,VIGIL, AFEBRIL,CON BUENA EVOLUCION",
+  "id_paciente": {
+    "$oid": "60e8801cbf04fa0015f985a1"
+  },
+  "professional_name": {
+    "$oid": "60d283850e0e5750a7f19f2b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eef9d353197800154bd7a3"
+  },
+  "date": {
+    "$date": "2021-07-14T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE, VIGIL, AFEBRIL, CON BUENA EVOLUCION, SE INDICA ALTA MEDICA",
+  "id_paciente": {
+    "$oid": "60da572490e8090015474e3c"
+  },
+  "professional_name": {
+    "$oid": "60d283850e0e5750a7f19f2b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ef006553197800154bd7a7"
+  },
+  "date": {
+    "$date": "2021-07-14T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE, VIGIL, AFEBRIL,AUN  NO PUEDE MOVILIZARSE POR SUS PROPIOS MEDIOS. SE ALIMENTA BIEN",
+  "id_paciente": {
+    "$oid": "60c8b2b2587975001597e48c"
+  },
+  "professional_name": {
+    "$oid": "60d283850e0e5750a7f19f2b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ef02ea53197800154bd7aa"
+  },
+  "date": {
+    "$date": "2021-07-14T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE AFEBRIL, RESPONDE ORDENES SIMPLES, REFIERE SENTIRSE BIEN, SIN DOLOR",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "professional_name": {
+    "$oid": "60d283850e0e5750a7f19f2b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ef0d2c53197800154bd7b1"
+  },
+  "date": {
+    "$date": "2021-07-14T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PTE EN ARM, MODO VCV, VT 360 Ti 0,85 FR24 PEEP 10 SENS 3 FiO2 85, P.PICO 39, COMPLIANCE 15",
+  "id_paciente": {
+    "$oid": "60dde571618a93001500f969"
+  },
+  "professional_name": {
+    "$oid": "60d283850e0e5750a7f19f2b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ef142c53197800154bd7b6"
+  },
+  "date": {
+    "$date": "2021-07-14T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "HOY SE ADMINISTRA 2DA DOSIS DE SUERO EQUINO",
+  "id_paciente": {
+    "$oid": "60eb4ac70eae46001596c177"
+  },
+  "professional_name": {
+    "$oid": "60d283850e0e5750a7f19f2b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ef158153197800154bd7bb"
+  },
+  "date": {
+    "$date": "2021-07-14T00:00:00Z"
+  },
+  "disease": "Evolucion",
+  "observations": "Paciente lucido, afebril, hemodinamicamente estable, sin requerimiento de O2, se indica alta hospitalaria.",
+  "id_paciente": {
+    "$oid": "60d1f511635635001547b036"
+  },
+  "professional_name": {
+    "$oid": "60d283850e0e5750a7f19f2b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ef3b1753197800154bd7c6"
+  },
+  "date": {
+    "$date": "2021-07-14T00:00:00Z"
+  },
+  "disease": "EVOLUCIÓN",
+  "observations": "PACIENTE EN SOPORTE SIN MIDAZOLAM, NI FENTANILO NI ATRACURIO DESPIERTA, CON MALA MECANICA RESPIRATORIA, MORDIENDO EL TUBO, POR LO QUE SE CONSULTA CON EL DR CARABAJAL QUIEN INDICA REGRASAR AL MODO VCV Y ABRIR LAS BOMBAS DE FENTANILO Y MIDAZOLAM. REGISTRO FEBRIL DE 37,8°",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ef3b4d53197800154bd7c7"
+  },
+  "date": {
+    "$date": "2021-07-14T00:00:00Z"
+  },
+  "disease": "CULTIVO",
+  "observations": "SE SOLICITA CULTIVO: HEMOCULTIVO X 2, RETRO, URO Y ASPIRADO DE SECRECIONES.",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ef3ce353197800154bd7ca"
+  },
+  "date": {
+    "$date": "2021-07-14T00:00:00Z"
+  },
+  "disease": "DIALISIS",
+  "observations": "HOY SESION DE DIALISIS, PACIENTE HIPOTENSO, SE AUMENTA EL GOTEO DE NAD",
+  "id_paciente": {
+    "$oid": "60e22cd14729480015487aa9"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ef40ef53197800154bd7ce"
+  },
+  "date": {
+    "$date": "2021-07-14T00:00:00Z"
+  },
+  "disease": "EVOLUCIÓN",
+  "observations": "Paciente con sedoanalgesia y bloqueantes suspendidos.",
+  "id_paciente": {
+    "$oid": "60d3c5066f2b4b001598fd21"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ef4d4453197800154bd7d2"
+  },
+  "date": {
+    "$date": "2021-07-14T00:00:00Z"
+  },
+  "disease": "COVID: SOSPECHOSO",
+  "observations": "Paciente de 51 años sospechoso, contacto estrecho de su mujer covid (+), asiste para un control. FIS: 08/07/21 comenzó con dolor de cuerpo, tos y registros febriles. Medicado con azitromicina (6to dia) y dexametasona (cumplio 3 dias). Al examen físico: saturación variable 93-96%, t°: 36,6, TA: 173/119 mmhg, FC: 102. FR: 24. NIEGA APP. STO RX DE TORAX: INFILTRADOS BIBASALES. POR FALTA DE TEST RAPIDO SE REALIZA HISOPADO PCR, SE REALIZA MEDICACION IM: HIDROCORTISNA 200 MG + DIPIRONA 1 AMP. SE INDICA TTO AMBULATORIO: PRONO, VAPOR DE AGUA Y PARACETAMOL. REGRESAR MAÑANA CON LA PCR (+) PARA INTERNACIÓN",
+  "id_paciente": {
+    "$oid": "60ef4a0d53197800154bd7d0"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ef71e753197800154bd7d4"
+  },
+  "date": {
+    "$date": "2021-07-14T00:00:00Z"
+  },
+  "disease": "DEGLUCION",
+  "observations": "EVALUACION DE DEGLUCION\n\nPaciente que cursa internacion por neumonia por COVID 19, con requerimiento de IOT en dos oportunidades durante su internacion\nActualmente con oxigenoterapia, Venturi de 60% sat de 98.\nSe baja a bigotera ( 5 l/ min) para la evaluacion. Conserva sat de 95%\nBEBA, sin ruidos agregados. \nTos funcional, que moviliza secreciones que expectora.\nPaciente colaborador en todo momento, aunque se presenta ansioso.\nEvalaucion con alimento: se prueba con semisolido (yogurt) deglute sin dificultades. Sin signos clinicos de aspiracion, respentando el patron de respiracion  INSPIRACION -APNEA-ESPIRACION.;  con liquido el paciente presenta tos inmediata a la delgucion, posible PENETRACION/ASPIRACION.\n\nDe la evalucion se sugiere: * comenzar con alimentacion VO con semisolidos\n                                                *  de ingerir liquidos estos deben ser espesados ( con espesante) hasta lograr textura semisolida.\n\nLIC. MIGUELES MARIA VICTORIA\nMP302",
+  "id_paciente": {
+    "$oid": "60c21ff77dba310015296053"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ef7da853197800154bd7d9"
+  },
+  "date": {
+    "$date": "2021-07-15T00:00:00Z"
+  },
+  "disease": "COVID",
+  "observations": "HNF POSITIVO  11-07\nINICIO DE SINTOMAS  MIERCOLES 07/07",
+  "id_paciente": {
+    "$oid": "60ef7c2a53197800154bd7d6"
+  },
+  "professional_name": {
+    "$oid": "5f9827e4b6384217c1b974b6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f05c784564cd0015123770"
+  },
+  "date": {
+    "$date": "2021-07-15T00:00:00Z"
+  },
+  "disease": "evolucion",
+  "observations": "PCTE EN ARM, MODO VCV, VT 300 Ti 0,85 FR 24 PEEP12  FiO2  100 P.PICO 35 COMPLIANCE 15",
+  "id_paciente": {
+    "$oid": "60dde571618a93001500f969"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f062424564cd0015123774"
+  },
+  "date": {
+    "$date": "2021-07-15T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE, VIGIL, AFEBRIL, CON CNAF, BUENA MECANICA RESPIRATORIA",
+  "id_paciente": {
+    "$oid": "60e8801cbf04fa0015f985a1"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f068bd4564cd001512377e"
+  },
+  "date": {
+    "$date": "2021-07-15T00:00:00Z"
+  },
+  "disease": "INGRESO",
+  "observations": "Paciente derivada del Hospital de Loreto, llega en posición prono, saturando: 70 % sin oxigeno, se coloca en posición supina con mascara de reservorio , llegando a saturar 89%.Se coloca en CNAF Fi02:90 flujo: 70 luego 65 saturando: 94-96%.Se realiza vía central yugular izquierda, por no poder encontrarse vía periférica.",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f06a004564cd0015123781"
+  },
+  "date": {
+    "$date": "2021-07-15T00:00:00Z"
+  },
+  "disease": "Evolución de la enfermedad",
+  "observations": "Refiere comienzo de síntomas el día 4/07 con tos y se hisopo el día 5/07.Antecedentes: DBT E HTA. Niega alergias.",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f06d5b4564cd0015123783"
+  },
+  "date": {
+    "$date": "2021-07-15T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE, VIGIL, AFEBRIL CON BUENA EVOLUCION",
+  "id_paciente": {
+    "$oid": "60edc4cb62f4ce00155ec341"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f07a144564cd0015123788"
+  },
+  "date": {
+    "$date": "2021-07-15T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE EN ARM, MODO VCV, MAÑANA A 6 HS INICIAR VENTANA DE BNM Y SEDACION",
+  "id_paciente": {
+    "$oid": "60e75d3e17aa280015b25d00"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f083c64564cd001512378d"
+  },
+  "date": {
+    "$date": "2021-07-15T00:00:00Z"
+  },
+  "disease": "EXTUBACIÓN",
+  "observations": "Paciente luego de 2 día con prueba de tubo T, Pafi: 250  se logra extubar, con satu: 97%.Queda con mascara de Venturi.",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f0925c4564cd0015123792"
+  },
+  "date": {
+    "$date": "2021-07-15T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE CON BUENA EVOLUCION, SE INDICA ALTA MEDICA",
+  "id_paciente": {
+    "$oid": "60eb4ac70eae46001596c177"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f099334564cd0015123794"
+  },
+  "date": {
+    "$date": "2021-07-15T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "7° DIA DEPULSO DE CORTICOIDES, AFEBRIL OTE, VIGIL, BUENA MECANICA RESPIRATORIA, SATURACION 97 S/O2",
+  "id_paciente": {
+    "$oid": "60e705a445178d0015467d22"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f0ae154564cd0015123799"
+  },
+  "date": {
+    "$date": "2021-07-15T00:00:00Z"
+  },
+  "disease": "EVOLUCIÓN",
+  "observations": "30 DIAS DE INTERNACIÓN, PACIENTE ESTABLE, AFEBRIL, TRANQUILO, SIN O2",
+  "id_paciente": {
+    "$oid": "60c8b2b2587975001597e48c"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f0b2454564cd001512379d"
+  },
+  "date": {
+    "$date": "2021-07-15T00:00:00Z"
+  },
+  "disease": "EVOLUCIÓN",
+  "observations": "PACIENTE CAMINANDO EN LA HABITACIÓN, REALIZANDO EJERCICIOS FISICOS,  LLEGA A DESATURAR A 89 PERO RAPIDAMENTE RECUPERA A 92-93 HASTA LLEGAR SIN REQUERIMIENTO DE O2 A 97%. REFIERE SENTIRSE MUY BIEN, CONTENTO DE LO QUE VIVIÓ HOY.",
+  "id_paciente": {
+    "$oid": "60d371966f2b4b001598fcea"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f0bdf94564cd001512379f"
+  },
+  "date": {
+    "$date": "2021-07-15T00:00:00Z"
+  },
+  "disease": "COVID",
+  "observations": "HNF: POSITIVO",
+  "id_paciente": {
+    "$oid": "60c8b2b2587975001597e48c"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f0cff04564cd00151237a1"
+  },
+  "date": {
+    "$date": "2021-07-16T00:00:00Z"
+  },
+  "disease": "UROCULTIVO",
+  "observations": "DESARROLLO DE CANDIDA SPP",
+  "id_paciente": {
+    "$oid": "60d371966f2b4b001598fcea"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f0d63c4564cd00151237a3"
+  },
+  "date": {
+    "$date": "2021-07-16T00:00:00Z"
+  },
+  "disease": "NEUMONIA BILATERAL POR COVID",
+  "observations": "PACIENTE CON ANTECEDENTES PATOLOGICOS DE HTA ,ARRITMIA CARDIACA (FA),ANEMIA Y SII , ES TRAIDA DESDE SU DOMICILIO POR FIEBRE Y DISNEA CF II, CON DESATURACION ANTE LOS ESFUERZOS(92%).\nREFIERE INICIO DE SINTOMAS EL 7/7 CARACTERIZADO POR TOS, MIALGIA Y FIEBRE, CON HNF PARA SARS COV 2 POSITIVO EL 8/7.\nRECIBIO SUERO EQUINO EL 8/7 Y EL 10/7 EN SU DOMICILIO , SIN COMPLICACIONES.\nSE REALIZA TC DE TORAX EN EL DIA DE LA FECHA DONDE SE EVIDENCIA INFILTRADO BILATERAL.\nTIENE COLOCADA 2 DOSIS DE VACUNA COVISHIELD.",
+  "id_paciente": {
+    "$oid": "60f0d4684564cd00151237a2"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f0fb2a4564cd00151237aa"
+  },
+  "date": {
+    "$date": "2021-07-16T00:00:00Z"
+  },
+  "disease": "VENTANA",
+  "observations": "06 DE LA MAÑANA SUSPENDER BLOQUEANTE Y MIDAZOLAM",
+  "id_paciente": {
+    "$oid": "60eddb7b62f4ce00155ec354"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1618c8aebd40015fa3939"
+  },
+  "date": {
+    "$date": "2021-07-16T00:00:00Z"
+  },
+  "disease": "EVOLUCIÓN",
+  "observations": "paciente con REGISTROS FEBRILES por lo que no se pudo colocar la 2° dosis de SUERO EQUINO.",
+  "id_paciente": {
+    "$oid": "60edc4cb62f4ce00155ec341"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1a6d6b3c71f00152421e7"
+  },
+  "date": {
+    "$date": "2021-07-16T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE,  VIGIL, AFEBRIL CONTINUA SIN O2, CON BUENA MECANICA RESPIRATORIA",
+  "id_paciente": {
+    "$oid": "60edc4cb62f4ce00155ec341"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1a906b3c71f00152421eb"
+  },
+  "date": {
+    "$date": "2021-07-16T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE EN ARM, MODO VCV, FRACASA LA VENTANA DE SEDACION, MAÑANA SE REALIZAR NUEVAMENTE VENTANA DE SEDACION",
+  "id_paciente": {
+    "$oid": "60e75d3e17aa280015b25d00"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1af73b3c71f00152421ef"
+  },
+  "date": {
+    "$date": "2021-07-16T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE VIGIL, VERBORRAGICO, AFEBRIL,CON BUENA MECANICA RESPIRATORIA",
+  "id_paciente": {
+    "$oid": "60c21ff77dba310015296053"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1b2eab3c71f00152421f1"
+  },
+  "date": {
+    "$date": "2021-07-16T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE EN ARM, MODO VCV, VT 300 Ti 0,85 FR 24 PEEP12 FiO2 100 P.PICO 35 COMPLIANCE 12",
+  "id_paciente": {
+    "$oid": "60dde571618a93001500f969"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1b441b3c71f00152421f3"
+  },
+  "date": {
+    "$date": "2021-07-16T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE AFEBRIL, SOMNOLIENTO, NO REFIERE DOLOR",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1d97f775a9600150cfc95"
+  },
+  "date": {
+    "$date": "2021-07-16T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE, VIGIL,AFEBRIL CON BUENA MECANICA RESPIRATORIA",
+  "id_paciente": {
+    "$oid": "60f0d4684564cd00151237a2"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1da00775a9600150cfc96"
+  },
+  "date": {
+    "$date": "2021-07-16T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "8° DIA DE PULSOS DE CORTICOIDES,PCTE AFEBRIL, OTE, VIGIL, CON BUENA EVOLUCION, SE INDICA ALTA MEDICA",
+  "id_paciente": {
+    "$oid": "60e705a445178d0015467d22"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1ed41775a9600150cfc99"
+  },
+  "date": {
+    "$date": "2021-07-16T00:00:00Z"
+  },
+  "disease": "ALTA",
+  "observations": "POR BUENA EVOLUCIÓN CLINICA Y SIN REQUERIRI OXIGENOTERAPIA SE DECIDE SU ALTA HOSPITALARIA",
+  "id_paciente": {
+    "$oid": "60c8b2b2587975001597e48c"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1ed76775a9600150cfc9b"
+  },
+  "date": {
+    "$date": "2021-07-16T00:00:00Z"
+  },
+  "disease": "ALTA",
+  "observations": "POR BUENA EVOLUCIÓN CLINICA Y SIN REQUERIMIENTO DE OXIGENO SE DECIDE SU ALTA HOSPITALARIA",
+  "id_paciente": {
+    "$oid": "60d371966f2b4b001598fcea"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f221c1c5d88c001584775b"
+  },
+  "date": {
+    "$date": "2021-07-17T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE QUE SE REALIZA HOY A LAS 6 HS VENTANA DE MIDAZOLAN Y BNM, A LAS 9 HS SE ENCUENTRA MUY DESPIERTO, SATURANDO 96, NORMOTENSO, AFEBRIL, SE RETIRA EL TUBO ENDOTRAQUEAL (EL PCTE CON LA LENGUA LO SACA, VARIAS VECES SE INTENTA INFLAR EL BALON SIN RESULTADO POSITIVO), PERMANECE POR 3 HS APROXIMADAMENTE CON MASCARA CON RESERVORIO, SATURANDO BIEN, PERO PRESENTA MALA MECANICA (ESFUERZO INSPIRATORIO) POR LO QUE SE INDICA IOT NUEVAMENTE",
+  "id_paciente": {
+    "$oid": "60eddb7b62f4ce00155ec354"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f22751c5d88c001584775d"
+  },
+  "date": {
+    "$date": "2021-07-17T00:00:00Z"
+  },
+  "disease": "NEUMONIA BILATERAL ATIPICA POR COVID 19",
+  "observations": "REFIERE LA PACIENTE QUE LA HISOPARON EL DIA 13/07/21 CON RESULTADO (+),LUEGO DE LO CUAL A LAS HORAS EN LA NOCHE COMENZÓ CON DOLOR DE CABEZA Y FIEBRE ALTA DE 38 GRADOS Y AL DIA SIGUIENTE SE SUMÓ TOS SECA EXIGENTE  Y FALTA DE AIRE,POR LO CUAL LA MEDICA A CARGO DEL SEGUIMIENTO DE LOS PACIENTES COVID EN FERNANDEZ LE INDICÓ QUE SE INTERNARA EN EL HOSPITAL POR FALTA DE AIRE Y BAJA SATURACIÓN 87%.\nLUEGO EN EL DIA DE LA FECHA INGRESÓ AL CENTRO DE SALUD MAMA ANTULA.",
+  "id_paciente": {
+    "$oid": "60f21308c5d88c0015847759"
+  },
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f25eee88b36f00150c865f"
+  },
+  "date": {
+    "$date": "2021-07-17T00:00:00Z"
+  },
+  "disease": "NAC BILATERAL, DISTRES, COVID 19",
+  "observations": "PTE DERIVADA DE LORETO  INGRESA CON SAT O2 DE 50% FR 35 X MIN ACROCIANOSIS, SE PROCEDE A INTUBACION OT. ABUNDANTE SANGRADO, SE DECIDE NO PRONAS.",
+  "id_paciente": {
+    "$oid": "60f25ab288b36f00150c865b"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f308a255bd0b0015607a49"
+  },
+  "date": {
+    "$date": "2021-07-17T00:00:00Z"
+  },
+  "disease": "DISTRES-NAC BILATERAL-COVID",
+  "observations": "PTE EN CNAF CON FRACASO, IROX 3.28 PAFI 60 SE DECIDE PASO A ARM VCV",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f32e691139540015486a4b"
+  },
+  "date": {
+    "$date": "2021-07-17T00:00:00Z"
+  },
+  "disease": "NEUMONIA BILATERAL ATÍPICA POR COVID 19",
+  "observations": "PACIENTE EN ESTADO ARREFLEXICO,SIN RESPUESTA PUPILAR , NI RESPUESTA A ESTÍMULOS DOLOROSOS.CONTINUA CON ATB TERAPIA.EN ARM.",
+  "id_paciente": {
+    "$oid": "60d3c5066f2b4b001598fd21"
+  },
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f37e63680ad30015dffd96"
+  },
+  "date": {
+    "$date": "2021-07-18T00:00:00Z"
+  },
+  "disease": "INSUFICIENCIA RESPIRATORIA AGUDA",
+  "observations": "PACIENTE QUE DICE HABERSE REALIZADO DOS HISOPADOS CON RESULTADOS NEGATIVOS,EL ÚLTIMO EL14/07/21 PARA VIAJAR, PERO A PESAR DE ESTO,REFIERE FALTA DE AIRE A PARTIR DE ESTA FECHA,PERDIDA DEL SABOR,INAPETENCIA,DOLOR DE OJOS,CEFALEA FRONTAL Y TUVO  T°39,3°\nEL DIA MIERCOLES POR LA NOCHE,POR LO CUAL ASISTIÓ AL NEUMONOLOGO DR, BERGARA,QUIEN LE DIÓ TRATAMIENTO ORAL AMBULATORIO SEGUN PROTOCOLO.\nPESO: 80 Kg - TALLA:1,68 M,\nSIN ANTECEDENTES PATOLOGICOS.NI ALERGIAS",
+  "id_paciente": {
+    "$oid": "60f37c2d680ad30015dffd94"
+  },
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f38454680ad30015dffda2"
+  },
+  "date": {
+    "$date": "2021-07-18T00:00:00Z"
+  },
+  "disease": "SINDROME DE PANICO",
+  "observations": "TOMA ALPLAX 0,5 mg EN COMPRIMIDOS",
+  "id_paciente": {
+    "$oid": "60f37c2d680ad30015dffd94"
+  },
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f447a8456adb0015597416"
+  },
+  "date": {
+    "$date": "2021-07-12T00:00:00Z"
+  },
+  "disease": "Control",
+  "observations": "Pcte afebril, OTE, FR 16, FC 68, saturación 99, MV conservado, abdomen blando y depresible, edemas (-) pulsos (+), se realiza laboratorio y Rx de control",
+  "id_paciente": {
+    "$oid": "60cc0e69fa61ad001570c26c"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f47a9a9f59fb0015a41590"
+  },
+  "date": {
+    "$date": "2021-07-18T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE, VIGIL, AFEBRIL CONTINUA SIN O2, CON BUENA MECANICA RESPIRATORIA, SE DECIDE ALTA MEDICA",
+  "id_paciente": {
+    "$oid": "60edc4cb62f4ce00155ec341"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f48d699f59fb0015a4159b"
+  },
+  "date": {
+    "$date": "2021-07-18T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE, VIGIL, AFEBRIL, SIN O2, CON BUENA EVOLUCION",
+  "id_paciente": {
+    "$oid": "60c3802a2dcd140015cddca4"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f48f109f59fb0015a4159e"
+  },
+  "date": {
+    "$date": "2021-07-18T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE, VIGIL, AFEBRIL, CON BUENA MECANICA RESPIRATORIA, SATURACION 99% S/O2, SE DECIDE ALTA MEDICA",
+  "id_paciente": {
+    "$oid": "60f0d4684564cd00151237a2"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f4957a9f59fb0015a415a3"
+  },
+  "date": {
+    "$date": "2021-07-18T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE, VIGIL,OTE, T°37,8, NO PERMITE QUE LE COLOQUEN SONDA NASOGASTRICA, ESTA SIN ALIMENTARSE HACE APROXIMADAMENTE 48 HS",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f49e6d9f59fb0015a415aa"
+  },
+  "date": {
+    "$date": "2021-07-18T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE CON CNAF, SE COLOCA 1° DOSIS DE SUERO EQUINO",
+  "id_paciente": {
+    "$oid": "60f2d2e72f8796001533bb06"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f4e584dd841900153b7a37"
+  },
+  "date": {
+    "$date": "2021-07-19T00:00:00Z"
+  },
+  "disease": "ALIMENTACION",
+  "observations": "SE ENCUENTRA A PACIENTE CON ALIMENTACION ENTERAL EN REGION ORAL , POR LO QUE SE PROCEDE A ASPIRARLO, Y SE SUSPENDE ALIMENTACION POR SNG POR EL MOMENTO",
+  "id_paciente": {
+    "$oid": "60dde571618a93001500f969"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f55a922d940c0015b2ab77"
+  },
+  "date": {
+    "$date": "2021-07-19T00:00:00Z"
+  },
+  "disease": "Fallecimiento",
+  "observations": "2:35 HRS DE LA MAÑANA, PARO CARDIORRESPIRATORIO NO RESPONDE A MANIOBRAS DE REANIMACIÓN. SE REALIZA ECG SIN SIGNOS DE ACTIVIDAD ELECTRICA CARDIACA. 3:00 HRS CONSTATANDO EL OBITO SE COMUNICA A LOS FAMILIARES QUIENES VINIERON A BUSCAR CERTIFICADO DE DEFUNCIÓN.",
+  "id_paciente": {
+    "$oid": "60dde571618a93001500f969"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f55ae82d940c0015b2ab79"
+  },
+  "date": {
+    "$date": "2021-07-19T00:00:00Z"
+  },
+  "disease": "ALTA HOSPITALARIA",
+  "observations": "PACIENTE AFEBRIL, ESTABLE HEMODINAMICAMENTE, SIN REQUERIMIENTO DE OXIGENOTERAPIA EN EL DIA DE LA FECHA POR LO QUE SE INDICA ALTA HOSPITALARIA",
+  "id_paciente": {
+    "$oid": "60c3802a2dcd140015cddca4"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f569962d940c0015b2ab7a"
+  },
+  "date": {
+    "$date": "2021-07-19T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE, VIGIL, AFEBRIL, CON BUENA MECANICA RESPIRATORIA,PA 137/98. FC 85, SATURACION 97%, MV CONSERVADO, ABDOMEN BLANDO Y DEPRESIBLE, RUIDOS HIDROAEREOS (+), PULSOS (+).  SE REALIZA RX DE TORAX. SUGIERO CONSULTA CON NEUMONOLOGIA",
+  "id_paciente": {
+    "$oid": "60d9e4b990e8090015474df6"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f56ab92d940c0015b2ab7b"
+  },
+  "date": {
+    "$date": "2021-07-19T00:00:00Z"
+  },
+  "disease": "CONTROL",
+  "observations": "PCTE OTE, VIGIL, AFEBRIL, CON BUENA MECANICA RESPIRATORIA, SATURACION 99%, FC 75, PA 125/82, MV CONSERVADO, R1R2 NORMOFONETICOS, ABDOMEN BLANDO Y DEPRESIBLE, RUIDOS HIDROAEREOS (+), PULSOS(+) EDEMAS",
+  "id_paciente": {
+    "$oid": "60d8e9a7eb654c0015e7779a"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f5876a2d940c0015b2ab7c"
+  },
+  "date": {
+    "$date": "2021-07-15T00:00:00Z"
+  },
+  "disease": "evolucion",
+  "observations": "PCTE AFEBRIL,OTE, VIGIL, SE REALIZA PRIMERA DOSIS DE SUERO EQUINO",
+  "id_paciente": {
+    "$oid": "60ef7c2a53197800154bd7d6"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f587cb2d940c0015b2ab7d"
+  },
+  "date": {
+    "$date": "2021-07-19T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE VIGIL,OTE, AFEBRIL, CON BUENA MECANICA RESPIRATORIA, CONTINUA CON MASCARA DE VENTURI",
+  "id_paciente": {
+    "$oid": "60ef7c2a53197800154bd7d6"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f588bd2d940c0015b2ab7f"
+  },
+  "date": {
+    "$date": "2021-07-19T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE VIGIL,OTE, AFEBRIL, CON BUENA EVOLUCION, SE INDICA ALTA MEDICA",
+  "id_paciente": {
+    "$oid": "60e8801cbf04fa0015f985a1"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f598df2d940c0015b2ab88"
+  },
+  "date": {
+    "$date": "2021-07-19T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE SOMNOLIENTO, AFEBRIL, CON TEMBLOR EN TODO EL CUERPO",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f59ea82d940c0015b2ab8c"
+  },
+  "date": {
+    "$date": "2021-07-19T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE, VIGIL, AFEBRIL, CON FR 28, ESTA CONECTADO A CNAF, SUGIERO ALTERNAR CON VNI",
+  "id_paciente": {
+    "$oid": "60f2d2e72f8796001533bb06"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f5a1082d940c0015b2ab8d"
+  },
+  "date": {
+    "$date": "2021-07-19T00:00:00Z"
+  },
+  "disease": "INGRESO",
+  "observations": "Paciente con hipoacusia, sobrepeso que asiste a hisoparse y se descompensa, se atiende por guardia. Refiere FIS: martes 13/07 empeorando con mas tos y fiebre el día jueves. Refiere ageusia y anosmia. Al examen físico febril, taquipneico,  TA: 149/75 FC: 105 T: 37,6° C,  SAT: 93-96%, FR: 30 se realiza test rápido, arrojando valor positivo (+). Se realiza rx de tórax constatando neumonia bilateral.Se decide internación.",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f5b90970459d0015a9a735"
+  },
+  "date": {
+    "$date": "2021-07-19T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE EN ARM, MODO VCV, VT 320, FR 28, PEEP 8 FiO2 45, COMPLIANCE 23, PLATEAU 22",
+  "id_paciente": {
+    "$oid": "60e75d3e17aa280015b25d00"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f5cd1b28c43f0015957be2"
+  },
+  "date": {
+    "$date": "2021-07-19T00:00:00Z"
+  },
+  "disease": "EVALUACIon deglucion",
+  "observations": "Paciente que cursa internación por neumonía por covid 19, que requiere IOT y ARM. \nActualmente sin requerimiento de oxigeno sat 98%. -vigil colaboradora con el examen.\nMv conservado sin ruidos agregados. Tos funcional que no moviliza secreciones.\nSe observa cavidad oral, la misma se presenta sucia; movilizadad de lengua conservada; Elevación asimetrrica del velo del paladar, disminuida del lado derecho. \nRDD +; \nEVALUACION CON ALIMENTOS: se prueba con liquidos en diferentes volumenes, deglute sin dificultades y sin signos clinicos de aspiracion/ penetracion\n\nSe sugiere comenzar con dieta VO semisolida ( consitencia tipo papilla)",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f5cf7528c43f0015957be4"
+  },
+  "date": {
+    "$date": "2021-07-19T00:00:00Z"
+  },
+  "disease": "EVALUACION DELGUCION",
+  "observations": "Paciente que cursa internación por neumonía por COVID 19, que requiere IOT y ARM.\nActualmente paciente sin requerimiento de oxigeno, sat de 97%. \nEL paciente al  examen se presenta somnoliento, aunque colaborador. \nAlimentacion enteral por SNG\nMv conservado sin ruidos agregados. tos fucional que no moviliza secreciones.\n\nEvaluacion con aliemntos: se evalua con liquidos en tres bolos con diferentes volumenes; delgute sin dificultades y sin signos clinicos de aspiracion/ pentracion\n\nSe sugiere: comenzar con dieta VO semisolida y liquida; retirar SNG una vez que cumpla la ingesta de 4 comidas completas.\n\nLIC MIGUELES M. VICTORIA\nMP 302",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f5d11f28c43f0015957be8"
+  },
+  "date": {
+    "$date": "2021-07-19T00:00:00Z"
+  },
+  "disease": "FALLECIMIENTO",
+  "observations": "PACIENTE INESTABLE HEMODINAMICAMENTE, PARO CARDIORRESPIRATORIO. 15:00 HRS.",
+  "id_paciente": {
+    "$oid": "60d3c5066f2b4b001598fd21"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f5e1d628c43f0015957bec"
+  },
+  "date": {
+    "$date": "2021-07-19T00:00:00Z"
+  },
+  "disease": "EVOLUCIÓN",
+  "observations": "Paciente estable hemodinamicamente, sat: 96-97% sin O2, TA: 197/98 mmhg, FR:18, FC:87 lxm. Tiene indicado comenzar con alimentación semisólida. La paciente tiene momentos de lagunas en su memoria y no se encuentra orientada en tiempo y en espacio.",
+  "id_paciente": {
+    "$oid": "60de4ae1618a93001500f9a5"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f5fcff28c43f0015957bf2"
+  },
+  "date": {
+    "$date": "2021-07-19T00:00:00Z"
+  },
+  "disease": "EXAMEN FISICO",
+  "observations": "PESO: 81 KG",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f605b128c43f0015957bf4"
+  },
+  "date": {
+    "$date": "2021-07-19T00:00:00Z"
+  },
+  "disease": "SUERO EQUINO",
+  "observations": "1° DOSIS SE COLOCA",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f61a0628c43f0015957bf6"
+  },
+  "date": {
+    "$date": "2021-07-20T00:00:00Z"
+  },
+  "disease": "INGRESO",
+  "observations": "PACIENTE DE 45 AÑOS DE EDAD QUE INGRESA DEL HOSPITAL DE LORETO.REFIERE QUE EL 9/7 COMENZO CON FIEBRE DE 39 °C Y ANOSMIA.(A SU MARIDO LE DIO POSITIVO  EL 7/7)POR LO QUE SE AISLARON TODOS..ESTUVO MEDICADA CON IVERMECTINA, AZITROMICINA Y LEVOFLOXACINA  POR 7 DIAS VO.EN EL DIA DE HOY 19/7 COMENZO CON FALTA DE AIRE  Y ES LLEVADA AL HOSPITAL Y  LA PACIENTE REFIERE QUE  S02 90%,POR LO QUE ES INTERNADA EN EL NOSOCOMIO DE LORETO Y SE LE REALIZA UN TEST RAPIDO  SIENDO +..AL EXAMEN SE CONSTATA AFEBRIL ,NORMOTENSA,LUCIDA CN BUENA MECANICA RESPIRATORIA,FR 20 FC 61.S02 98% CON CNBF",
+  "id_paciente": {
+    "$oid": "60f6118f28c43f0015957bf5"
+  },
+  "professional_name": {
+    "$oid": "601015c004225963ac195fb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f6aba29002820015547674"
+  },
+  "date": {
+    "$date": "2021-07-20T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE QUE ES TRAIDO DESDE SU DOMICILIO, FEBRIL, CON TOS Y CATARRO DESDE HACE APROXIMADAMENTE 8 DIAS, MEDICADO CON ACEMUK Y LEVOFLOXACINA, LA FLIA REFIERE ANTECEDENTES DE DIABETES 2, PARKINSON, ALZHEIMER, HTA.\nAL EXAMEN FISICO T° 37,8 SATURACION 84, PA 109/65, FC 109, NO TIENE REALIZADO HNF",
+  "id_paciente": {
+    "$oid": "60f6499e0e724c0015cb2595"
+  },
+  "professional_name": {
+    "$oid": "601015c004225963ac195fb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f6d74c94f3810015ca8f3d"
+  },
+  "date": {
+    "$date": "2021-07-20T00:00:00Z"
+  },
+  "disease": "evolucion",
+  "observations": "SE REALIZA TEST RAPIDO CON RESULTADO POSITIVO, RX DE TORAX CON COMPROMISO BILATERAL.\nPRIMERA DOSIS DE SUERO EQUINO ( EL CONSENTIMIENTO ES VERBAL DE LA FLIA POR ENCONTRARSE AISLADA)",
+  "id_paciente": {
+    "$oid": "60f6499e0e724c0015cb2595"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f6d79e94f3810015ca8f3e"
+  },
+  "date": {
+    "$date": "2021-07-20T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE, VIGIL, AFEBRIL, CON BUENA MECANICA RESPIRATORIA",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f6e05694f3810015ca8f41"
+  },
+  "date": {
+    "$date": "2021-07-20T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE OTE VIGIL, AFEBRIL, CON BUENA MECANICA RESPIRATORIA",
+  "id_paciente": {
+    "$oid": "60ef7c2a53197800154bd7d6"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f6e39294f3810015ca8f44"
+  },
+  "date": {
+    "$date": "2021-07-20T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PCTE VIGIL, AFEBRIL, CON BUENA MECANICA RESPIRATORIA, NO SE MOVILIZA",
+  "id_paciente": {
+    "$oid": "60c21ff77dba310015296053"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f7070a94f3810015ca8f4c"
+  },
+  "date": {
+    "$date": "2021-07-20T00:00:00Z"
+  },
+  "disease": "OVID 19",
+  "observations": "PACIENTE DE 59 AÑOS DE DAD CON ANTECEDENTES DE HTA / OBESIDAD / HIPOTIROIDEA REFIERE CUADRO DE 1 SEMANA DE EVOLUCION POR TOS POR NEXO EPIDEMIOLOGICO SE CONSIDERA COID +. EL 19/7 EVOLUCIONA CON FIEBRE Y DESATURACON SIN OTROS SINTOMAS ACOMPÑANTES.\nA SU INGRESO LUCIDA, AFEBRIL TA 130/80 FC 80 FR 20 SAT 98% 0,21 , SE REALIZA TEST DE ESFURZO SIN DESATURACION. \nEX FIS: BMV BEAB CREPITANTES BIBASALES.\nSE INDIA CONTINUAR CONTRO EN DOMICILIO",
+  "id_paciente": {
+    "$oid": "60f7061d94f3810015ca8f4b"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f738e394f3810015ca8f57"
+  },
+  "date": {
+    "$date": "2021-07-19T00:00:00Z"
+  },
+  "disease": "PULSOS DE CORTICOIDE",
+  "observations": "COMIENZA PULSO DE CORTICOIDE CON METILPREDNISOLONA",
+  "id_paciente": {
+    "$oid": "60f21308c5d88c0015847759"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f7393794f3810015ca8f58"
+  },
+  "date": {
+    "$date": "2021-07-20T00:00:00Z"
+  },
+  "disease": "SUERO EQUINO",
+  "observations": "2 DOSIS: 16 Y 19/07",
+  "id_paciente": {
+    "$oid": "60f21308c5d88c0015847759"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f73a0694f3810015ca8f5a"
+  },
+  "date": {
+    "$date": "2021-07-20T00:00:00Z"
+  },
+  "disease": "EVOLUCIÓN",
+  "observations": "Paciente en modo VCV, VT: 340, FIO2 60, FR 24, PEEP 11, P.PICO 25, SAT: 98%",
+  "id_paciente": {
+    "$oid": "60f25ab288b36f00150c865b"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f73c6d94f3810015ca8f5c"
+  },
+  "date": {
+    "$date": "2021-07-20T00:00:00Z"
+  },
+  "disease": "EVOLUCIÓN",
+  "observations": "PACIENTE PRONADA DESDE AYER DIA 19 A LAS 18 HRS, CON IOT, MODO VCV, FIO2 65, SAT: 96%",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f73fd394f3810015ca8f5f"
+  },
+  "date": {
+    "$date": "2021-07-20T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "TALLA VESICAL EN EL DIA DE LA FECHA POR EL DOCTOR ORLANDA",
+  "id_paciente": {
+    "$oid": "60eddb7b62f4ce00155ec354"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f78c427585b300158d4445"
+  },
+  "date": {
+    "$date": "2021-07-21T00:00:00Z"
+  },
+  "disease": "COVID",
+  "observations": "INCIO DE SINTOMAS EL DIA SAB 17/07 HISOPADO POSITIVO DIA 20/07",
+  "id_paciente": {
+    "$oid": "60f78bf77585b300158d4444"
+  },
+  "professional_name": {
+    "$oid": "5f9827e4b6384217c1b974b6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f828be8f88ae00153826f4"
+  },
+  "date": {
+    "$date": "2021-07-20T00:00:00Z"
+  },
+  "disease": "NEUMONIA BILATERAL POR COVID 19",
+  "observations": "DURANTE LA OBSERVACION EVOLUCIONA CON UN EPISODIO DE HIPOTENSION ASOCIADO A DESATURACION , SE REALIZA TEST RAPIDO + .\nTC TORAX: IMAGEN EN VIDRIO ESMERILADO BIBSAL, SE INTERPRETA CUADRO COMO NEUMOIA BILATERAL POR COVID 19 POR LO QUE SE DECIDE SU INTERNACION",
+  "id_paciente": {
+    "$oid": "60f7061d94f3810015ca8f4b"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f82f7a8f88ae00153826f9"
+  },
+  "date": {
+    "$date": "2021-07-21T00:00:00Z"
+  },
+  "disease": "DECUBITO PRONO",
+  "observations": "Durante la madrugada, se coloca en decúbito la paciente, por tener Pafi: menor a 150.Se desadapta, se coloca propofol: 3 amp en 250 ml a 11 ml/h.",
+  "id_paciente": {
+    "$oid": "60f25ab288b36f00150c865b"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f830cf8f88ae00153826fb"
+  },
+  "date": {
+    "$date": "2021-07-21T00:00:00Z"
+  },
+  "disease": "NEUMONIA BILATERAL POR COVID 19",
+  "observations": "PACIENTE DE 45 AÑOS DE EDAD, SIN ANTECEDDENTES DE RELEVANCIA CURSANDO SU 2° DIA DE INTERNACION POR NEUMONIA BILATERAL POR COVID 19.\nACTUALMENTE EVOLUCIONA CON MAYOR REQUERIMIENTO DE OXIGENO MASCARA VENTURI.\nEX FIS: BMV BEAB CREPITANTES BIBASALES HASTA CAMPO MEDIO",
+  "id_paciente": {
+    "$oid": "60f6118f28c43f0015957bf5"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f83a208f88ae00153826ff"
+  },
+  "date": {
+    "$date": "2021-07-21T00:00:00Z"
+  },
+  "disease": "VENTANA DE SEDACIÓN",
+  "observations": "A las 9 hs se le cierra el bloqueante muscular, a las 12 hs paciente despierta, inquieto, moviliza la cabeza, sat: 97 % fr:32 TA: 165/98.Se decide abrir el bloqueante muscular,  e intentar ventana de sedación , mañana 22/07.",
+  "id_paciente": {
+    "$oid": "60eddb7b62f4ce00155ec354"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f845f98f88ae0015382702"
+  },
+  "date": {
+    "$date": "2021-07-21T00:00:00Z"
+  },
+  "disease": "NEUMONIA BILATERAL POR COVID 19",
+  "observations": "PACIENTE DE 76 AAAÑOS DE EDAD SIN ANTECEDENTES DE RELEVANCIA CURSANDO SU 9° DIA DE INTERNACION 8° DIA EN ARM POR NEUMONIA BILATERAL POR COVID 19.\nLA PACIENTE EN EL DIA DE LA FECHA EVOLUCIONA CON MAYOR REQUERIMIENTO DE DE OXIGENO, CON ABUNDANTE SECRECIONES DE ASPECTO SANGUINOLENTO, CON  RX TX QUE EVIDENCIA ATELECTASIA DE HEMITORAX IZQUIERDO POR LO QUE SE COLOCA EN DECUBITO LATERAL DERECHO POR 2 HS, ASPIRACION DE SECRECION Y POSTERIOR CONTROL RADIOGRAFICO",
+  "id_paciente": {
+    "$oid": "60e75d3e17aa280015b25d00"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f8511c8f88ae0015382707"
+  },
+  "date": {
+    "$date": "2021-07-21T00:00:00Z"
+  },
+  "disease": "2DA DOSIS DE SUERO EQUINO",
+  "observations": "Se coloca la 2da dosis de suero equino a las 20 hs.",
+  "id_paciente": {
+    "$oid": "60f2d2e72f8796001533bb06"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f851798f88ae0015382708"
+  },
+  "date": {
+    "$date": "2021-07-21T00:00:00Z"
+  },
+  "disease": "ACLARACION",
+  "observations": "Corrijo fecha de la colocación de suero equino , fue el 20/07/2021 A LAS 20 HS",
+  "id_paciente": {
+    "$oid": "60f2d2e72f8796001533bb06"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f851fa8f88ae0015382709"
+  },
+  "date": {
+    "$date": "2021-07-21T00:00:00Z"
+  },
+  "disease": "TEST RAPIDO",
+  "observations": "Se realiza test rápido para COVID-19 ,con resultado POSITIVO.",
+  "id_paciente": {
+    "$oid": "60f78bf77585b300158d4444"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f87ca38f88ae0015382715"
+  },
+  "date": {
+    "$date": "2021-07-21T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "PACIENTE FEBRIL PERSISTENTE CON 39° C QUE NO RESPONDE A MEDIDAS FISICAS NI DIPIRONA NI IBUPROFENO, TAQUIPNEICO,  TAQUICARDICO SE DECIDE CAMBIAR OXIGENOTERAPIA: DE CNBF A VENTURI 60% A 15 LITROS. COMENZAMOS CON PULSO DE CORTICOIDES.",
+  "id_paciente": {
+    "$oid": "60f6499e0e724c0015cb2595"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f87fb38f88ae0015382716"
+  },
+  "date": {
+    "$date": "2021-07-21T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "Paciente afebril, estable hemodinámicamente, sin requerimiento de oxigeno, se decide su alta hospitalaria con continuación de pulso de corticoides y antibiótico por 4 días mas.",
+  "id_paciente": {
+    "$oid": "60ef7c2a53197800154bd7d6"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f880d38f88ae0015382718"
+  },
+  "date": {
+    "$date": "2021-07-21T00:00:00Z"
+  },
+  "disease": "EVOLUCIÓN",
+  "observations": "Paciente afebril, estable hemodinámicamente, con buena mecanica respiratoria. Indico clampear la sonda vesical.",
+  "id_paciente": {
+    "$oid": "60c21ff77dba310015296053"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f894f48f88ae0015382723"
+  },
+  "date": {
+    "$date": "2021-07-21T00:00:00Z"
+  },
+  "disease": "EVOLUCIÓN",
+  "observations": "Paciente estable hemodinamicamente, sin requerimiento de Oxigeno sat: 92-93%, fc: 76, fr: 19 rxm",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f897d68f88ae0015382726"
+  },
+  "date": {
+    "$date": "2021-07-21T00:00:00Z"
+  },
+  "disease": "evolución",
+  "observations": "Paciente estable, con fr: 22 rxp, fc:113, sat sin oxigeno: 96% ta: 137/87 mmhg. Refiere dolor en zona del coccix, lesiones eritematosas en ambos gluteos.",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f8ca9f5fd83a0015a7253e"
+  },
+  "date": {
+    "$date": "2021-07-22T00:00:00Z"
+  },
+  "disease": "COVID",
+  "observations": "PACIENTE EN SEGUIMIENTO DOMICILIARIO CUADRO DE COVID EN DOMICILIO PESO 130 KG TALLA 1.85 MTS HOY COMENZO CON INSUF RESPIRATORIA LEVE MODERADA -",
+  "id_paciente": {
+    "$oid": "60f8c8185fd83a0015a72539"
+  },
+  "professional_name": {
+    "$oid": "5f9827e4b6384217c1b974b6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f8d8295fd83a0015a72542"
+  },
+  "date": {
+    "$date": "2021-07-22T00:00:00Z"
+  },
+  "disease": "..",
+  "observations": "Pte somnoliento poca respuesta a estímulos, Sto TAC CEREBRAL",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "professional_name": {
+    "$oid": "5f9828a6b6384217c1b974b9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f8e0585fd83a0015a72543"
+  },
+  "date": {
+    "$date": "2021-07-22T00:00:00Z"
+  },
+  "disease": "ARM",
+  "observations": "Pte en mal estado general, desaturando , mala mecanica ventilatoria, se decide colocarlo en ARM , se realiza vía central , y se indica bomba de noradrenalina a graduar según T/A",
+  "id_paciente": {
+    "$oid": "60f6499e0e724c0015cb2595"
+  },
+  "professional_name": {
+    "$oid": "5f9827e4b6384217c1b974b6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f97f91e21b140015f05906"
+  },
+  "date": {
+    "$date": "2021-07-22T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "Paciente que comienza con los sintomas el dia de ayer, fiebre y tos persistente. Se realiza su examen en triage, se solicita rx torax, y se indica tratamiento ambulatorio con puff de salbutamol y budesonide, nebulizacion, paracetamol, acemuk 600.",
+  "id_paciente": {
+    "$oid": "60f97827e21b140015f05905"
+  },
+  "professional_name": {
+    "$oid": "60d283850e0e5750a7f19f2b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f98666e21b140015f05909"
+  },
+  "date": {
+    "$date": "2021-07-22T00:00:00Z"
+  },
+  "disease": "TRIAJE",
+  "observations": "PACIENTE QUE EL DIA LUNES 19/07 COMIENZA CON FIEBRE, TOS Y DOLOR TORACICO. EL DIA DE LA FECHA SE REALIZA HISOPADO CON RESULTADO PENDIENTE. SE REALIZA TRIAJE, RX DE TORAX, Y SE INDICA TTO AMBULATORIO CON PUFF DE SALBUTAMOL Y BUDESONIDE, PARACETAMOL, ACEMUK Y NEBULIZACIONES.",
+  "id_paciente": {
+    "$oid": "60f98167e21b140015f05908"
+  },
+  "professional_name": {
+    "$oid": "60d283850e0e5750a7f19f2b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f9acf5e21b140015f05924"
+  },
+  "date": {
+    "$date": "2021-07-22T00:00:00Z"
+  },
+  "disease": "Ventana de sedación",
+  "observations": "Pte en ARM, se cambia de modo PSV/CPAP  a las 10 hs hasta las 13 hs, se hipertensa y desadapta,  así que se deja con midazolam y fentanilo, en modo VCV, se intentara mañana el destete.",
+  "id_paciente": {
+    "$oid": "60eddb7b62f4ce00155ec354"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f9d196e21b140015f05930"
+  },
+  "date": {
+    "$date": "2021-07-22T00:00:00Z"
+  },
+  "disease": "NEUMONIA BLATERAL POR COVID 19",
+  "observations": "PACIENTE DE 83 AÑOS DE EDAD SIN ANTECEDENTES DE RELEVANCIA REFIERE CUADRO DE 5 DIAS DE EVOLUCION MIALGIAS, DOLOR ABDOMINAL, PERDIDA DEL APETITO Y FIEBRE, EN EL DIA DE LA FECHA ES TRAIDA POR FAMILIAR POR MALESTAR GENERAL  ASOCIADO A FIEBRE PERSISTENTE QUE NO SEDE CON PARAETAMOL.\nA SU INGRESO PACIENTE VIGIL , ORIENTADO EN EN PERSONA PARCIALMENTE EN TIEMPO\nEX FIS: BMV BEAB IMPRESIONA CREPITANTES BIBASALES SAT 97% 0,21\nSE REALIZA TEST RAPIDO + POR LO QUE SE DECIDE SU INTERNACION",
+  "id_paciente": {
+    "$oid": "60f9d089e21b140015f0592f"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f9d227e21b140015f05933"
+  },
+  "date": {
+    "$date": "2021-07-22T00:00:00Z"
+  },
+  "disease": "PESO Y TALLA",
+  "observations": "PESO 93   TALLA1,74",
+  "id_paciente": {
+    "$oid": "60f9d089e21b140015f0592f"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f9e7f2e21b140015f05938"
+  },
+  "date": {
+    "$date": "2021-07-22T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "Pte que cumple + de 48 hs de prono,con pafi: 109 antes del prono, 142 después. Se observa sat: menores a 90% por lo que se sube la Fi02:0.50. Se encuentra aumento de compliace est, también. Se aumenta el VT:380 FR: 26 por indicación del Dr.Mazza.",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f9ec06e21b140015f0593e"
+  },
+  "date": {
+    "$date": "2021-07-22T00:00:00Z"
+  },
+  "disease": "COVID (+)- TRIAGE-INGRESO",
+  "observations": "Paciente de 40 años traído desde el hospital de LORETO internado ahí por ser COVID (+) con requerimiento de oxigeno. Refiere HNF: 14/07/21 (+), FIS: 10/07/21 con tos y falta de aire. APP: DBT tipo 2 y OBESIDAD. VACUNA: 1° dosis de sputnik. Al examen físico presenta sat sin O2 78-80%, se coloca mascara con reservorio a 15 litros y comienza a saturar 91-92%. A la auscultación presenta crepitos bibasales. TA: 102/72 mmhg, FC: 92 lxm, T°: 36,5. peso: 106 kg, talla: 1,64 mts. Es traído con vía periférica y suero.",
+  "id_paciente": {
+    "$oid": "60f9e9dfe21b140015f0593c"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fa2bc016070c0015df18c6"
+  },
+  "date": {
+    "$date": "2021-07-22T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "CNAF FIO2 60 Y FLUJO 50, SAT: 96-97%.",
+  "id_paciente": {
+    "$oid": "60f2d2e72f8796001533bb06"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fa353f16070c0015df18ca"
+  },
+  "date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "disease": "EVOLUCIÓN",
+  "observations": "PACIENTE CON MASCARA DE VENTURI BLANCA A 4 LITROS, SAT:97%, FR: 22, REFIERE MEJORÍA.",
+  "id_paciente": {
+    "$oid": "60f6118f28c43f0015957bf5"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fa35ec16070c0015df18cb"
+  },
+  "date": {
+    "$date": "2021-07-22T00:00:00Z"
+  },
+  "disease": "Tocilizumab",
+  "observations": "En el día de la fecha se coloca TOCILIZUMAB 200 mg (3 frascos)",
+  "id_paciente": {
+    "$oid": "60f6118f28c43f0015957bf5"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fa384616070c0015df18cd"
+  },
+  "date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "disease": "EVOLUCIÓN",
+  "observations": "Paciente con requerimiento de oxigeno, se coloca MASCARA DE VENTURI ANARANJADO 6 LITROS, SAT: 97%, FR: 18 RXM",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fa47ea16070c0015df18d5"
+  },
+  "date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "disease": "INGRESO",
+  "observations": "Paciente de 64 años que es traída desde el hospital de LORETO, con requerimiento de oxigeno, con vía central realizada en el hospital regional. Llega a la 01:00 hrs de la madrugada con mascara de reservorio, quejosa, no contesta ordenes, si responde al estimulo doloroso. El camillero refiere que no se sabe si la paciente si es covid (+) o no. APP: DBT tipo 2. Al examen físico presenta edema c/godet +++, si oxigeno desatura a 68%, se coloca CNAF fio2 90 y flujo 65 satura: 94%. FC: 78 lxm.",
+  "id_paciente": {
+    "$oid": "60fa442916070c0015df18d4"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fa4f8b16070c0015df18da"
+  },
+  "date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "disease": "INGRESO",
+  "observations": "Se realiza interrogatorio indirecto a la hija vía teléfono quien informa que su madre fue positiva hace 21 días a 30 días con HNF: 17/07 (➖) NEGATIVO. Refiere antecedente de DBT tipo 2 medicada con metformina mas insulina, HTA, medicada con losartan 50 mg, carvedilol 6,25 mg, atenolol 50 mg.",
+  "id_paciente": {
+    "$oid": "60fa442916070c0015df18d4"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fab22d776a68001512f41f"
+  },
+  "date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "Paciente FEBRIL 38,8°c, con requerimiento de o2, con Venturi ANARANJADO a 6 litros, sat: 93-94%, presenta TOS con flema, refiere si durmió anoche, no le duele nada, catarsis (+), diuresis (+), HGT 124, TA: 138/83 mmhg .",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fab5d8776a68001512f422"
+  },
+  "date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "disease": "EVOLUCIÓN",
+  "observations": "Paciente sin requerimiento de O2 sat: 96% al aire ambiente, afebril, 36,6°c, HGT:94, FC: 102, FR: 24, TA: 111/76 mmhg, con secreción conjuntival, se coloca el colirio, monosílabo al contestar las preguntas, refiriere que no le duele nada, con marcada hipotonía. Se sienta con ayuda. Sigue somnoliento, se retiró la risperidona. Se toma muestra para cultivos en el día de ayer.",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fab7cb776a68001512f425"
+  },
+  "date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "disease": "INTERCONSULTA",
+  "observations": "SUGUIERO IC CON OFTALMOLOGÍA",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fabb6e776a68001512f429"
+  },
+  "date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "disease": "EVOLUCIÓN",
+  "observations": "Paciente afebril, 34,5°c, HGT: 125, TA: 115/79 mmhg, con VENTURI VERDE a 4 litros, sat:96%, FC:88, FR: 18. Refiere que descansó bien, no le duele nada.",
+  "id_paciente": {
+    "$oid": "60f8c8185fd83a0015a72539"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fad416776a68001512f42d"
+  },
+  "date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "disease": "EVOLUCION- ARM",
+  "observations": "Paciente en posición prono, se supina la paciente, se procede a cambiar el tubo de la IOT. MODO VCV, VT 400, TI 1, FR 24, PEEP 8, FIO2 35, PPICO 25, PLATEAU 20, COMPLEANCE ESTATICA 33, DP 12. SAT:98-99%.",
+  "id_paciente": {
+    "$oid": "60f25ab288b36f00150c865b"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fad86f776a68001512f431"
+  },
+  "date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "disease": "VENTANA",
+  "observations": "Paciente en ARM, se cambia de modo PSV/CPAP. Se cierra Atracurio y Midazolam, dejar FENTA 11, LEVOMEPROMACINA A 21, NAD 11.",
+  "id_paciente": {
+    "$oid": "60eddb7b62f4ce00155ec354"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fadaee776a68001512f433"
+  },
+  "date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "1° DIA ATB",
+  "id_paciente": {
+    "$oid": "60eddb7b62f4ce00155ec354"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fae80d776a68001512f438"
+  },
+  "date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "disease": "EVOLUCION",
+  "observations": "INICIO PULSO DE CORTICOIDES CON DEXAMETASONA",
+  "id_paciente": {
+    "$oid": "60f9e9dfe21b140015f0593c"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fb21a6776a68001512f449"
+  },
+  "date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "disease": "neumonia por Covid 19",
+  "observations": "S: refiere que inicia con síntomas el 14 de julio aproximadamente con fiebre, tos y malestar general. Ingresa de CIBS Banda con mascara de reservorio a 15 lts \nNo refiere otras enfermedades\nO: FC 97 x min FR 27 x min TA 133/81 mmhg Temp axilar 36.2°C Peso 138 kg talla 173 cm \nE: enfermedad Covid\nP: se interna se solicita RX de torax ECG laboratorio NO TRAJO DNI",
+  "id_paciente": {
+    "$oid": "60fb1f5e776a68001512f447"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fb3c15776a68001512f454"
+  },
+  "date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "disease": "neumonia covid",
+  "observations": "Paciente refiere que los síntomas iniciaron el día 14/07/21 se explica sobre suero equino a el y la esposa. El paciente esta de acuerdo y firma consentimiento.",
+  "id_paciente": {
+    "$oid": "60f8c8185fd83a0015a72539"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fb4223776a68001512f456"
+  },
+  "date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "disease": "covid",
+  "observations": "Desde el 18/07/21 inicia síntomas con anosmia disgeusia y mialgia ayer con diarrea. el 20/07/21 HNF. desde ell 20/07/21 inicia con azitromicina, betametasona, geniol. \nen tratamiento con medico neumólogo por TBC ganglionar Dra Corpas\nAntecedentes patológicos no refiere, no fuma",
+  "id_paciente": {
+    "$oid": "60fb408d776a68001512f455"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fb450a776a68001512f457"
+  },
+  "date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "disease": "covid",
+  "observations": "Parámetros vitales: sat 98% FC 104 TA 111/70 Temp axilar 37.4 °C\nBeacp sin ruidos agregados\nRx de torax: normal. \nse indica tto domiciliario y pautas de alarma",
+  "id_paciente": {
+    "$oid": "60fb408d776a68001512f455"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fb4670776a68001512f459"
+  },
+  "date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "disease": "Covid",
+  "observations": "Paciente deriva del hospital de Loreto, ingresa con mascara de reservorio a 13 lts saturando 80%. en la derivacion por mensaje de whatsApp refiere paciente con HTA ACV. El paciente no sabe precisar fecha de HNF, inicio de sintomas, ni medicacion que tiene indicada",
+  "id_paciente": {
+    "$oid": "60fb2a14776a68001512f44d"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fb82220cdf4500150856fb"
+  },
+  "date": {
+    "$date": "2021-07-24T00:00:00Z"
+  },
+  "disease": "TRIAGE",
+  "observations": "Pte. q acude desde su domicilio con 107 por presentar falta de aire y diarrea.. (covid + por contacto estrecho).\nEx físico :  sat 99%,  FR 20,  FC: 77,  T/A : 140/90  SE RELIZA RX TORAX Y TRATAMIENTO AMBULATORIO , PAUTAS DE ALARMA",
+  "id_paciente": {
+    "$oid": "60fb813b0cdf4500150856fa"
+  },
+  "professional_name": {
+    "$oid": "5f9828a6b6384217c1b974b9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fb9b49ad40930015ce27a9"
+  },
+  "date": {
+    "$date": "2021-07-24T00:00:00Z"
+  },
+  "disease": "NM POR COVID",
+  "observations": "PTE derivada de Hospital Suncho Corral, con hisopado positivo 18/7/21, presento falta de aire, tos seca, diarrea, afebril de 3 días de evolución.\nANTEC DE HTA/ DBT medicada con losartan 50 cada 12hs y Amlodipina 10 mg cada 24hs , insulina LANTUS 33 UI por la mañana",
+  "id_paciente": {
+    "$oid": "60fb9a6dad40930015ce27a8"
+  },
+  "professional_name": {
+    "$oid": "5f9828a6b6384217c1b974b9"
+  },
+  "__v": 0
 }]

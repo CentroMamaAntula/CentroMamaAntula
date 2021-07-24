@@ -3454,4 +3454,340 @@
     "$oid": "60e3151b374e7f00155e996d"
   },
   "__v": 0
+},{
+  "_id": {
+    "$oid": "60e377e3ce711e0015f80b5c"
+  },
+  "date": {
+    "$date": "2021-07-05T21:21:37.682Z"
+  },
+  "evolution": "Lic. Bau- Lic. Esquibel.\nSe realiza comunicación telefónica con el paciente, refiere sentirse bien, \"de a poco y mejor\". La entrevista se interrumpe puesto que al paciente se le presenta un ataque de tos.",
+  "indications": "Al no poder realizarse la entrevista por la situación clínica del paciente, se queda a disposición y se manifiesta que si el mismo necesita del equipo, nos mande mensaje o pida que se nos convoque.",
+  "professional_name": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "id_mentalquery": {
+    "$oid": "60e376f9ce711e0015f80b5b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e385c3ce711e0015f80b64"
+  },
+  "date": {
+    "$date": "2021-07-05T22:20:49.865Z"
+  },
+  "evolution": "Lic. Bau-Lic. Esquibel.\nSe le consulta al paciente, si se le puede realizar una llamada telefónica o video llamada, refiere que no le anda bien el parlante, y que no puede hablar mucho por la saturación. Se interrumpe la entrevista, ya que el paciente no se siente en condiciones de hablar.",
+  "indications": "Se acuerda con el paciente, que ante a cualquier eventualidad, el mismo se va a comunicar con el equipo solicitando la intervención.",
+  "professional_name": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "id_mentalquery": {
+    "$oid": "60e384afce711e0015f80b62"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5ab51eed84000154a6973"
+  },
+  "date": {
+    "$date": "2021-07-07T13:25:36.745Z"
+  },
+  "evolution": "Lic. Bau- Lic. Esquibel.\nSe realiza intervención via whatsapp, ya que el paciente no contestaba la llamada telefónica, refiere \"estoy con una máscara de oxígeno, por eso no atendí\", \"aquí con una buena mejoría, es lo que siento yo en estos momentos\", se le consulta si sigue con tos, manifiesta \"muy poco\", \"me cambiaron el aparato para así tratar de oxigenar mejor\", \"ayer me cambiaron el aparato\", \"y aquí adaptándome\". Se le consulta si esta pudiendo descansar, refiere que si, \"nada más que yo siempre he tenido el horario cambiado de dormir\", \"porque trabajo en un carro de comida y eso se trabaja siempre por las noches\", \"pero no es nada malo, ni nada del otro mundo\", \"es un trabajo más\", manifiesta que al descanso se lo recupera. el paciente refiere \"desde ya muchas gracias por su atención y colaboración\", \"desde ya muy agradecido\".",
+  "indications": "Se realiza acompañamiento. Se queda a disposición.",
+  "professional_name": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "id_mentalquery": {
+    "$oid": "60e376f9ce711e0015f80b5b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5f20deed84000154a699c"
+  },
+  "date": {
+    "$date": "2021-07-07T18:27:24.353Z"
+  },
+  "evolution": "Lic. Bau-Lic. Esquibel. \nPaciente orientado en tiempo, espacio y persona, colabora con la entrevista, refiere sentirse bien, \"bien gracias a Dios\", \"me estoy recuperando despacito\", se le consulta desde cuando se encuentra en este Centro y refiere \"desde el martes pasado\", se le consulta si tiene síntomas y manifiesta \"no tengo nada\", \"me están medicando bien\", \"tenía dificultad para respirar\", \"estoy mucho mejor\", \"sigo con respirador\", \"yo me siento mejor\", \"me estan cuidando muy bien\", \"a cada rato vienen las enfermeras\", se le pregunta si se comunica con su familia, refiere \"me comunico con mis hijos por whatsapp, todos los dias\", \"ellos estan aislados, bien de salud, me han dicho que estan bien\". \"me voy recuperando\". Se le consulta si puede descansar, \"yo en principio no podia dormir, ni comer, tenía poco apetito\", \"hoy no\", \"desayuno, almuerzo, meriendo y ceno de 10, muy bien\", \"duermo a la 1 o 2 de la mañana, me quedo mirando tele y después duermo\", \"descanso bien\". Se le consulta si tiene alguna preocupación, refiere que no, \"no estoy preocupado\", \"nose como voy a volver, no ire directamente a mi casa, no quiero ir a donde uno se ha enfermado, quiero aclarar mis ideas, no he salido para nada de mi casa, siempre la misma rutina, quiero descansar mi mente\", \"ponerme bien\", \"tengo la idea de ir a la casa de mi hija o mi hermana, para cambiar de aire\", \"acomodar ideas\", \"unos 10 dias no estare en mi casa\", refiere que tiene 2 hermanas y 1 hija aqui en la ciudad, se le consulta con quien vive, manifiesta que con un hijo soltero. Refiere que es viudo, hace mas de 20 años, \"8 meses tenia mi hijo mas chico cuando fallecio mi esposa, 28 años tenia ella, luché, se imaginará todo lo que he pasado\".",
+  "indications": "Se realiza escucha activa, acompañamiento, contención. Se queda a disposición. el paciente solicita al equipo acompañamiento en el transitar de su enfermedad, el equipo asiente, informandole que se realizará las intervenciones pertinentes, también se le informa que si el lo necesitare se gestionará un acompañamiento psicológico para el mismo.",
+  "professional_name": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "id_mentalquery": {
+    "$oid": "60e5ecbceed84000154a6995"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ec48f034a68f0015be57c9"
+  },
+  "date": {
+    "$date": "2021-07-12T13:51:42.745Z"
+  },
+  "evolution": "Lic. Bau- Lic. Esquibel. \nen primera instancia se realizó llamado telefónico a familiar del paciente, su esposa Vanesa Molinari, la misma nos refirió que al momento de visitarlo \"cuando él me vió estaba enojado, me cambió la cara\", \"se ha sentido solo\", \"él habrá pensado que lo abandonamos\", \"no las recuerda a sus hijas\". Comenta que él es mecánico y enfermero.\nPaciente desorientado en tiempo, al consultarle el día, el mes, refiere 30 de enero, día de su cumpleaños, \"hoy es mi cumpleaños\", orientado en persona, se le consulta con quien vive refiere \"con mi hija y mi señora\", \"me va a venir a buscar\". Se le comenta que hablamos con su esposa y que nos refirió que había venido a visitarlo en el día de ayer, el paciente manifiesta que no vino. el paciente no recuerda que sus familiares vinieron a visitarlo. Se le consulta cómo está, refiere \"todas las funciones están andando bien\". el paciente refiere varias veces que su señora va a venir a buscarlo, que él se está yendo.",
+  "indications": "el paciente se encuentra desorientado, por cuanto el equipo sugiere a Lic. en enfermería una interconsulta con neurología. Se queda a disposición del paciente.",
+  "professional_name": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "id_mentalquery": {
+    "$oid": "60ec45df34a68f0015be57c8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ec592d34a68f0015be57ce"
+  },
+  "date": {
+    "$date": "2021-07-12T15:01:00.366Z"
+  },
+  "evolution": "Lic. Bau-Lic. Esquibel. \nPaciente que colabora con la entrevista, orientado en tiempo, espacio y persona, refiere sentirse bien, que se encuentra en este Centro de salud desde el viernes, se le consulta si se encuentra con síntomas, comenta que le duele el pecho un poco, se le consulta por el descanso, refiere \"me siento bien, he descansado bien, gracias a Dios\", se le pregunta si tiene alguna preocupación, manifiesta \"preocupación, no, estoy bien así, estoy bien psicológicamente\", \"bien me siento\". Se le consulta con quien vive, refiere que con su mamá y hermana de 24 años, se le pregunta a que se dedica, refiere \"estaba estudiando y trabajando en paralelo\", se le consulta si está con oxígeno, refiere que sí. \"estaba durmiendo bien\". Comenta que kinesio lo está por poner boca abajo.",
+  "indications": "Se realiza escucha activa, acompañamiento. Se queda a disposición.",
+  "professional_name": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "id_mentalquery": {
+    "$oid": "60ec568834a68f0015be57cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ec7dc068fec200155e34d2"
+  },
+  "date": {
+    "$date": "2021-07-12T17:37:03.111Z"
+  },
+  "evolution": "Lic. Bau- Lic. Esquibel.\nPaciente orientado en tiempo, espacio y persona, colabora con la entrevista, refiere sentirse bien, tranquilo. manifiesta estar en este Centro de salud desde ayer, que actualmente no tiene síntomas, \"me paraba y no paraba de toser\", \"ahora estoy mejor\", se le consulta por su descanso, refiere que no podía dormir, \"me dormía tarde por la tos\", \"me hacia doler el pecho\", se le consulta por la alimentacion, manifiesta \"ahora si como bien\", se le pregunta si tiene alguna preocupación, refiere que no.",
+  "indications": "Se realiza escucha activa, acompañamiento. Se queda a disposición.",
+  "professional_name": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "id_mentalquery": {
+    "$oid": "60ec7aac68fec200155e34d0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ec89ff68fec200155e34e0"
+  },
+  "date": {
+    "$date": "2021-07-12T18:29:18.022Z"
+  },
+  "evolution": "Lic. Bau-Lic. Esquibel.\nPaciente orientada en tiempo, espacio y persona, colabora con la entrevista, refiere sentirse bien, \"bien, bastante bien\". Se le consulta desde cuándo está en éste centro, refiere \"desde el día jueves estoy aquí\". Se le consulta si tiene algún tipo de síntoma, comenta \"me siento bastante bien\", \"cada vez estoy respirando mejor\", \"hablo mejor\". Se le consulta por su alimentación, manifiesta \"he comido bien\", \"ayer y hoy\", \"primero no podía, ahora sí\". Se le consulta por su descanso, \"bastante bien descansada\", \"la primera noche me ha costado muchísimo, he dormido 3 horas, después se normalizó\". Se le pregunta si se comunica con su familia, responde, \"constantemente, mis hijos me están hablando, mandándome audios\".",
+  "indications": "Se realiza escucha activa, acompañamiento, se queda a disposición.",
+  "professional_name": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "id_mentalquery": {
+    "$oid": "60ec875d68fec200155e34df"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eef39353197800154bd79e"
+  },
+  "date": {
+    "$date": "2021-07-14T14:24:17.659Z"
+  },
+  "evolution": "Lic. Bau- Lic. Esquibel: \nPaciente orientado en tiempo y espacio y persona, colabora con la entrevista, refiere sentirse bien, \"al principio estuve mal\", \"había fallecido mi hermano, no quería hablar con nadie\", \"ahora estoy muy bien\". Se le consulta por su descanso, refiere, \"yo duermo bien\", \"hace como 6 o 7 días que estoy muy bien\", \"agradezco a todos por la atención\", \"he vuelto a la vida\", \"gracias por todo\". \"mi esposa me viene a buscar\". \"a las 12:30 me voy\".",
+  "indications": "Se realiza escucha activa, acompañamiento y psicoeducación. Se queda a disposición, para gestión de turno con psicología cuando el paciente, lo considere pertinente.",
+  "professional_name": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "id_mentalquery": {
+    "$oid": "60eef16e53197800154bd79d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eef74153197800154bd7a2"
+  },
+  "date": {
+    "$date": "2021-07-14T14:40:01.061Z"
+  },
+  "evolution": "Lic. Bau- Lic. Esquibel. \nPaciente orientado en tiempo, espacio y persona, colabora con la entrevista, refiere sentirse muy bien, \"muy bien\", comenta que está muy contento porque su compañero de habitación se va, \"yo tengo que esperar un poquito mas aquí\", se le consulta que le dicen los médicos, refiere que le dicen que va muy bien pero todavía no le dicen nada del alta, Se le consulta por su descanso, manifiesta \"puedo dormir toda la noche\", se le pregunta si le quedaron algunas de las preocupaciones que habia manifestado, \"las preocupaciones quedaron atrás\", \"la familia no\" (haciendo referencia a que sigue en contacto con su familia, que tuvieron un problema, pero se encuentran bien), Se le pregunta por su estado de ánimo actual, \"la verdad bien\", \"después que me cambiaron de habitación tuve un cambio 100%\", \"hablábamos mucho con mi compañero, nos hacíamos compañía\", \"ahora, desde el lunes, con rehabilitación de piernas\", \"tengo el 85% de movilidad\", \"camino, hago pasitos, me muevo muchísimo, 3 o 4 veces al día vienen los kinesiólogos\", se le consulta si puede ir al baño solo y se baña solo, \"todavía no\". Se le pregunta cómo se va a organizar para volver a su casa (Bs. As.)cuando le den el alta, \"cuando salga me quedo 4, 5 días en la casa de mi compadre\", \"después me vienen a buscar mis hermanos cuando puedan organizarse por sus trabajos\".",
+  "indications": "Se realiza escucha activa, acompañamiento, psicoeducación. Se queda a disposición.",
+  "professional_name": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "id_mentalquery": {
+    "$oid": "60d9cb1290e8090015474ddf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ef046653197800154bd7ac"
+  },
+  "date": {
+    "$date": "2021-07-14T15:36:05.255Z"
+  },
+  "evolution": "Lic. Bau-Lic. Esquibel:\nPaciente orientado en tiempo, espacio y persona, colabora con la entrevista, refiere sentirse bien, \"bien, me siento bien\", \"tranquilo\", \"estoy estable, compensado\", \"en casa, aislado\", He salido\", \"anoche me dieron el alta\", \"7 a 10 días me quedan de aislamiento\", se le consulta sobre su estado de ánimo, \"bien, mucho mejor\", \"mucho más tranquilo\", \"sabiendo que los parámetros, están todos perfectos\". Refiere que continúa haciendo los ejercicios de kinesiología y realizando tratamiento médico.",
+  "indications": "Se realiza escucha activa, acompañamiento y psicoeducación. Se queda a disposición.",
+  "professional_name": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "id_mentalquery": {
+    "$oid": "60ef02be53197800154bd7a9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ef2a4b53197800154bd7c3"
+  },
+  "date": {
+    "$date": "2021-07-14T18:17:45.929Z"
+  },
+  "evolution": "Lic. Bau-Lic. Esquibel:\nPaciente orientada globalmente, refiere sentirse bien, \"bastante bien\", comenta que anoche le cayo mal la comida, \"me pusieron una inyección y me hizo bien\". Se le pregunta por el descanso, refiere, \"hace un ratito me desperté\", \"descanse\". Se le pregunta por su estado de ánimo, manifiesta, \"bastante bien del ánimo\", Se le consulta si se comunica con su familia, comenta, \"todo el tiempo me llaman mis hijos\".",
+  "indications": "Se realiza escucha activa y acompañamiento. Se queda a disposición.",
+  "professional_name": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "id_mentalquery": {
+    "$oid": "60ec875d68fec200155e34df"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ef2bd753197800154bd7c4"
+  },
+  "date": {
+    "$date": "2021-07-14T18:24:22.411Z"
+  },
+  "evolution": "Lic. Bau- Lic. Esquibel. \nPaciente orientado globalmente, colabora con la entrevista, refiere \"en este momento me estan pasando suero equino\", se le consulta como está, refiere \"todo bien\", se le pregunta a que se dedica, manifiesta \"yo ando en la casa, el negocio, tenemos una verdulería\", \"no puedo salir mucho porque trabajo todo el día\", \"me voy a pescar con mi viejo para distraerme un rato\". se le consulta por su estado de ánimo, refiere \"bien, todo bien\". Manifiesta que le dijeron que se va de alta hoy, según como se encuentre, o mañana a la mañana.",
+  "indications": "Se realiza acompañamiento. Se queda a disposición.",
+  "professional_name": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "id_mentalquery": {
+    "$oid": "60ec7aac68fec200155e34d0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ef2ef953197800154bd7c5"
+  },
+  "date": {
+    "$date": "2021-07-14T18:37:44.074Z"
+  },
+  "evolution": "Lic. Bau-Lic. Esquibel:\nPaciente que colabora con la entrevista, impresiona dificultad para hablar, por lo cuál se le consulta, si es así, el paciente responde que no, \"estoy con el oxígeno, la máscara y con el barbijo también\". Manifiesta \"me siento mejor gracias a Dios\". Se le consulta si continúa con dolor de pecho, refiere, \"ahora no me duele gracias a Dios\". Se le pregunta si tiene algún síntoma, refiere, \"me queda lo del oxígeno\". Se le consulta si tiene alguna patología de base, refiere que no. Se le consulta si se puede levantar de la cama, manifiesta, \"estoy con el suero, por eso no me puedo levantar\", \"los kinesiólogos, me están haciendo ejercicios para la movilidad y para ir reduciendo el oxígeno\". Se le consulta cómo está descansando, refiere que duerme bien. Se le pregunta si se comunica con su familia, responde, \"de vez en cuando\", \"hoy estuve en contacto\".",
+  "indications": "Se realiza escucha activa, acompañamiento y psicoeducación. Se queda a disposición.",
+  "professional_name": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "id_mentalquery": {
+    "$oid": "60ec568834a68f0015be57cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f5bfdb28c43f0015957bdd"
+  },
+  "date": {
+    "$date": "2021-07-19T18:09:30.042Z"
+  },
+  "evolution": "Lic. Bau- Lic. Esquibel.\nPaciente orientada globalmente, colabora con la entrevista. Se realiza entrevista a la paciente a pedido de su hermana administrativa de éste centro de salud. La paciente se encuentra en su domicilio, refiere que fue dada de alta ayer a las 3 de la tarde, manifiesta estar con síntomas, \"ahora siento mucho agitamiento, cuando camino\", \"y me duele muchísimo la cabeza\", \"dolor de espalda, no me puedo levantar\", \"ahora me están llevando al especialista, neumonólogo\", \"no puedo hablar, me agito mucho\", \"cuando hablo o me levanto me agarra ataque de tos\"",
+  "indications": ".",
+  "professional_name": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "id_mentalquery": {
+    "$oid": "60f5bd8328c43f0015957bdc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f5cca228c43f0015957be0"
+  },
+  "date": {
+    "$date": "2021-07-19T19:04:00.475Z"
+  },
+  "evolution": "Se continúa con la evolución.\nPlantea dudas con respecto a su tratamiento médico, refiere que \"al ser negativa de covid, no puede permanecer internada en éste centro de salud\". Se le consulta si alguna vez realizó tratamiento psicológico, refiere \"si fui al psicólogo, por un problema de mi hija\", además comenta, \"estoy con el tema del trabajo, hace dos semanas no estoy trabajando, hacía suplencia, trabajaba todo el día\", \"hoy falleció un amigo\", \"a mi hija le detectaron un quiste\", \"hace dos semanas que ando con eso\". Refiere que fuma. Se le consulta por su descanso antes de enfermarse, manifiesta que dormía bien.",
+  "indications": "Se realiza escucha activa, contención y psicoeducación. Se queda a disposición. Se sugiere cuando le parezca pertinente consulta con psicología.",
+  "professional_name": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "id_mentalquery": {
+    "$oid": "60f5bd8328c43f0015957bdc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f5dd3e28c43f0015957bea"
+  },
+  "date": {
+    "$date": "2021-07-19T20:14:52.215Z"
+  },
+  "evolution": "Lic. Bau- Lic. Esquibel.\nSe ingresa a la habitación de la paciente, ya que su estado clínico, no le permite hablar con un tono de voz, que pueda escucharse por  comunicación telefónica ni a través del intercomunicador, a criterio de las médica tratante, la paciente presenta dificultades para colaborar con su recuperación. La paciente se encuentra parcialmente orientada en tiempo, orientada en espacio y persona. Se le pregunta cómo se siente, refiere que se siente bien, \"tranquila\", en varias oportunidades en el transcurso de la entrevista, la paciente presentaba un discurso inapropiado, no acorde a las preguntas realizadas, hablaba de Dios, de religión, sobre una iglesia a la que solía concurrir. Se le consulta cómo está conformada su familia, refiere, \"mi marido amado, y mi hijo\". Comenta que uno de sus hijos falleció. Se le pregunta si alguna vez fue al psiquiatra o psicólogo, refiere que no, \"a veces no puedo dormir, por mi trabajo se que puedo tomar\", \"tomo alprazolam\", \"soy farmacéutica\", \"soy ama de casa, madre y esposa\". Se le pregunta si se está alimentando, refiere que no, \"me duele cuando trago por la sonda que me pusieron\". \nPor lo evaluado, y para corroborar algunos dichos de la paciente se realiza entrevista a su familiar. Franco hijo de la paciente, refiere que eran tres hermanos, que dos fallecieron a los pocos días de vida, en distintos momentos. Que son una familia muy unida, \"en éste momento la estamos pasando mal\", el familiar comenta situaciones problemáticas a tener en cuenta de su madre hacia el padre, que se agravaron en los últimos años, \"con  mi padre nos adaptamos a esa situación para que ella no se ponga mal\", \"nuestro error, no hacerla ver\". Se le consulta si ella ha ido a psicólogo o a psiquiatra, refiere que no, \"desde niña ha tenido hechos traumáticos, experiencias devastadoras, sufrió mucho en hospitales, la trataron mal en sus embarazos, rechaza a los médicos\". \"es farmacéutica, siempre se automedicó, nunca podía descansar, se medicaba con clonazepam en mayor dosis\", \"creo que tenía como una depresión, \"no se si tenía alucinaciones, si no imaginaciones\", \"ha sido muy apegada al horóscopo, en los últimos años se agravó mucho, veía en YouTube\", Franco refiere que se guiaba por lo que decía el horóscopo e influía en su vida, \"es una pasión para ella, no se da cuenta que a una persona puede agobiarla\", \"es muy creyente de Dios, muy devota\". Se le consulta si notaron o alguna vez ella comento escuchar voces o ver cosas, refiere, \"quizás haya pensado que dios le hablo\", \"nunca lo tomamos como si fuera algo raro\", \"o vio alguna señal\", \"desde muy temprano vivimos situaciones muy traumáticas\", \"tiene mucha ansiedad, por eso capaz tiembla un poco, por eso necesitaba tranquilizantes, es hiperactiva\".",
+  "indications": "Con la paciente se realiza acompañamiento, escucha activa, contención y psicoeducación. Con el familiar, se realiza escucha activa, acompañamiento, contención y psicoeducación. Se queda a disposición de ambos. Se  comunica a médica tratante la necesidad de interconsulta con psiquiatría. \nSe sugiere al familiar la consulta con psiquiatría para la Sra. Lilian.",
+  "professional_name": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "id_mentalquery": {
+    "$oid": "60f5cd9028c43f0015957be3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f859f58f88ae001538270e"
+  },
+  "date": {
+    "$date": "2021-07-21T17:31:32.042Z"
+  },
+  "evolution": "Lic. Bau- Lic. Esquibel.\nPaciente orientado globalmente, colabora con la entrevista, refiere sentirse bien, \"no siento dolor\", \"respiro bien\", se le consulta si tiene mascarilla o cánula, refiere estar usando mascarilla, \"sin dolor muscular\", \"camino, voy al baño\", se le consulta por su descanso, refiere que tose y tiene secreciones nasales, pero \"puedo dormir bien\", se le consulta por su familia, manifiesta que convive con su mujer e hijos de 11, 9 y 7 años, \"están aislados pero me dicen que están bien\", se le pregunta si tiene alguna preocupación, refiere \"preocupación, no, normal\", \"tranquilo estoy, entretenido, haciendo los ejercicios de kinesiología\".",
+  "indications": "Se realiza escucha activa, acompañamiento. Se queda a disposición.",
+  "professional_name": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "id_mentalquery": {
+    "$oid": "60f856f48f88ae001538270d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f867b78f88ae0015382711"
+  },
+  "date": {
+    "$date": "2021-07-21T18:30:13.871Z"
+  },
+  "evolution": "Lic. Bau- Lic. Esquibel. \nPaciente orientada en tiempo, espacio y persona, colabora con la entrevista, refiere sentirse \"ahora muy mal\", \"no me encuentran las vías\", \"todo el día intentaron y no me encuentran\", \"no doy más del sufrimiento\",  \"dolorida\", \"me estoy recuperando\", se le consulta desde cuando se encuentra en este Centro, refiere que desde antes de ayer, se le pregunta si tiene alguna otra preocupación, refiere que no, que le preocupa el tema de su vía, \"no puedo hacer la rehabilitación como corresponde\", \"no puedo ponerme boca abajo\", se le consulta si se comunica con su familia, responde \"muy poquito me comunico con mi familia, para que no se pongan mal\", \"hoy he hablado con mi mama\", se le consulta con quien vive, refiere que con su esposo y 2 hijos de 15 y 12 años, refiere que ellos estan bien y que mañana terminan su aislamiento. Se le consulta por su descanso, refiere que le suministraron un miorelajante y \"he podido descansar un poquito\", se le consulta por su alimentación, manifiesta \"ahora sí, ya he recuperado el gusto, puedo comer\".",
+  "indications": "Se realiza escucha activa, contención, acompañamiento, psicoeducación, se queda a disposición.",
+  "professional_name": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "id_mentalquery": {
+    "$oid": "60f864e18f88ae001538270f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f86c098f88ae0015382713"
+  },
+  "date": {
+    "$date": "2021-07-21T18:48:40.246Z"
+  },
+  "evolution": "Lic. Bau-Lic. Esquibel:\nPaciente orientada en tiempo, espacio y persona, colabora con la entrevista, refiere que se siente \"mucho mejor, más tranquila\", \"mi esposo estaba en terapia en el 9 de julio, y estaba mal\", \"también me preocupo por mis hijos\", \"yo me he descompensado ayer\", \"ahora estoy más tranquila\", \"mi esposo está mejor, lo han pasado a piso\", \"estoy un poco más aliviada\", se le consulta por el estado de salud de sus hijos, refiere que tiene dos hijos de 25 y 18 años, \"están evolucionando con síntomas leves, con medicación, aislados en la casa\", se le pregunta por el estado de ánimo de los mismos, refiere, \"preocupados, pero con los quehaceres de la casa\", \"pendientes todos, de que todos podamos salir adelante\". Se le pregunta por su descanso, manifiesta, \"no pude dormir, me hacía mucho frío, el colchón, me dolía la espalda, la cintura, el estado de la enfermedad, el estado de estrés que tengo\", \"me dormía de a ratitos\".",
+  "indications": "Se realiza escucha activa, contención, acompañamiento, psicoeducación, se queda a disposición. Se le pregunta si le parece pertinente que el equipo dialogue con sus hijos, refiere que sí, que luego pasará los números de contacto.",
+  "professional_name": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "id_mentalquery": {
+    "$oid": "60f8685b8f88ae0015382712"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f884ce8f88ae001538271e"
+  },
+  "date": {
+    "$date": "2021-07-21T20:34:21.177Z"
+  },
+  "evolution": "Lic. Bau- Lic. Esquibel.\nPaciente orientado en tiempo espacio y persona, colabora con la entrevista, refiere sentirse bien, \"gracias a Dios bien\", \"en ningún momento me han dejado a solas\", \"tranquilo\", \"a cada rato me hacen la pasada\", \"no me esperaba caer aquí por una tos\", \"pero bueno todo bien\", se le consulta desde cuando se encuentra en este Centro, refiere que desde anoche a las 00hs. \"desde ese momento no me han abandonado\",  refiere que el sábado empezó con la tos, \"en La Banda me hicieron tomografía, radiografía y el hisopado rápido que me dio positivo\", \"ahora me han hecho un hisopado y dio positivo\", \"soy diabético e hipertenso\", \"no tengo fiebre solo la tos, y no tengo la tos persistente\", se le pregunta por el descanso, refiere \"de 10 descanse\", se le consulta por sus familiares, manifiesta \"mi mujer y mi hijo viven conmigo\", \"están aislados\", \"recién hablé con mi señora y está bien, sin síntomas, hoy la hisoparon\", comenta que hoy le pusieron la primera dosis de suero equipo y que debe esperar 48hs para la segunda. Se le pregunta si tiene alguna preocupación, refiere que no,  \"estoy más que tranquilo\".",
+  "indications": "Se realiza escucha activa, acompañamiento y psicoeducación. Se queda a disposición.",
+  "professional_name": {
+    "$oid": "5fff0587b53504b7aabe86a9"
+  },
+  "id_mentalquery": {
+    "$oid": "60f881fa8f88ae0015382719"
+  },
+  "__v": 0
 }]

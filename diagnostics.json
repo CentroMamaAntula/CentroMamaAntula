@@ -7161,4 +7161,796 @@
     "$oid": "60216df3940a872e9e02adc7"
   },
   "__v": 0
+},{
+  "_id": {
+    "$oid": "60e70bb445178d0015467d25"
+  },
+  "date": {
+    "$date": "2021-07-08T14:29:09.637Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60e705a445178d0015467d22"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e70bc045178d0015467d26"
+  },
+  "date": {
+    "$date": "2021-07-08T14:29:21.949Z"
+  },
+  "code": "E10-E14",
+  "level": 1,
+  "description": "Diabetes mellitus",
+  "code_0": "E00-E89",
+  "id_paciente": {
+    "$oid": "60e705a445178d0015467d22"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e75e6417aa280015b25d03"
+  },
+  "date": {
+    "$date": "2021-07-08T20:21:56.569Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60e75d3e17aa280015b25d00"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e75e7317aa280015b25d04"
+  },
+  "date": {
+    "$date": "2021-07-08T20:22:11.283Z"
+  },
+  "code": "I10",
+  "level": 2,
+  "description": "Hipertensión esencial (primaria)",
+  "code_1": "I10-I15",
+  "code_0": "I00-I99",
+  "id_paciente": {
+    "$oid": "60e75d3e17aa280015b25d00"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e887fdbf04fa0015f985a4"
+  },
+  "date": {
+    "$date": "2021-07-09T17:31:41.798Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60e8801cbf04fa0015f985a1"
+  },
+  "professional_name": {
+    "$oid": "60d283850e0e5750a7f19f2b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e8b179bf04fa0015f985bc"
+  },
+  "date": {
+    "$date": "2021-07-09T20:28:41.882Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60e8ae45bf04fa0015f985b8"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e8b184bf04fa0015f985bd"
+  },
+  "date": {
+    "$date": "2021-07-09T20:28:52.744Z"
+  },
+  "code": "I10",
+  "level": 2,
+  "description": "Hipertensión esencial (primaria)",
+  "code_1": "I10-I15",
+  "code_0": "I00-I99",
+  "id_paciente": {
+    "$oid": "60e8ae45bf04fa0015f985b8"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb506f0eae46001596c17f"
+  },
+  "date": {
+    "$date": "2021-07-11T20:11:27.809Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60eb4ac70eae46001596c177"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60edc67c62f4ce00155ec347"
+  },
+  "date": {
+    "$date": "2021-07-13T16:59:39.285Z"
+  },
+  "code": "J18",
+  "level": 2,
+  "description": "Neumonía, organismo no especificado",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60edc4cb62f4ce00155ec341"
+  },
+  "professional_name": {
+    "$oid": "5f98247bb6384217c1b974b3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60edeced62f4ce00155ec35a"
+  },
+  "date": {
+    "$date": "2021-07-13T19:43:41.095Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60edea7362f4ce00155ec358"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ef08a653197800154bd7ae"
+  },
+  "date": {
+    "$date": "2021-07-14T15:54:14.507Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60eddb7b62f4ce00155ec354"
+  },
+  "professional_name": {
+    "$oid": "60d283850e0e5750a7f19f2b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ef7d2c53197800154bd7d7"
+  },
+  "date": {
+    "$date": "2021-07-15T00:11:24.101Z"
+  },
+  "code": "E10-E14",
+  "level": 1,
+  "description": "Diabetes mellitus",
+  "code_0": "E00-E89",
+  "id_paciente": {
+    "$oid": "60ef7c2a53197800154bd7d6"
+  },
+  "professional_name": {
+    "$oid": "5f9827e4b6384217c1b974b6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ef7d4453197800154bd7d8"
+  },
+  "date": {
+    "$date": "2021-07-15T00:11:48.398Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60ef7c2a53197800154bd7d6"
+  },
+  "professional_name": {
+    "$oid": "5f9827e4b6384217c1b974b6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f065374564cd0015123778"
+  },
+  "date": {
+    "$date": "2021-07-15T16:41:26.251Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f0653d4564cd0015123779"
+  },
+  "date": {
+    "$date": "2021-07-15T16:41:32.363Z"
+  },
+  "code": "E10-E14",
+  "level": 1,
+  "description": "Diabetes mellitus",
+  "code_0": "E00-E89",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f065454564cd001512377a"
+  },
+  "date": {
+    "$date": "2021-07-15T16:41:40.124Z"
+  },
+  "code": "I10",
+  "level": 2,
+  "description": "Hipertensión esencial (primaria)",
+  "code_1": "I10-I15",
+  "code_0": "I00-I99",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f0d65c4564cd00151237a4"
+  },
+  "date": {
+    "$date": "2021-07-16T00:44:15.561Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60f0d4684564cd00151237a2"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f346621139540015486a54"
+  },
+  "date": {
+    "$date": "2021-07-17T21:06:41.358Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60f2d2e72f8796001533bb06"
+  },
+  "professional_name": {
+    "$oid": "60b4b987a669da1d8f266f1e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f597842d940c0015b2ab86"
+  },
+  "date": {
+    "$date": "2021-07-19T15:17:24.895Z"
+  },
+  "code": "H90",
+  "level": 2,
+  "description": "Hipoacusia conductiva y neurosensorial",
+  "code_1": "H90-H95",
+  "code_0": "H60-H95",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f597c82d940c0015b2ab87"
+  },
+  "date": {
+    "$date": "2021-07-19T15:18:31.952Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f5a3082d940c0015b2ab91"
+  },
+  "date": {
+    "$date": "2021-07-19T16:06:32.102Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60f25ab288b36f00150c865b"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f61d1928c43f0015957bf8"
+  },
+  "date": {
+    "$date": "2021-07-20T00:47:20.492Z"
+  },
+  "code": "E039",
+  "level": 3,
+  "description": "Hipotiroidismo, no especificado",
+  "code_2": "E03",
+  "code_0": "E00-E89",
+  "code_1": "E00-E07",
+  "id_paciente": {
+    "$oid": "60f6118f28c43f0015957bf5"
+  },
+  "professional_name": {
+    "$oid": "601015c004225963ac195fb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f61d2c28c43f0015957bf9"
+  },
+  "date": {
+    "$date": "2021-07-20T00:47:39.971Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60f6118f28c43f0015957bf5"
+  },
+  "professional_name": {
+    "$oid": "601015c004225963ac195fb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f6abb59002820015547675"
+  },
+  "date": {
+    "$date": "2021-07-20T10:55:49.063Z"
+  },
+  "code": "E10-E14",
+  "level": 1,
+  "description": "Diabetes mellitus",
+  "code_0": "E00-E89",
+  "id_paciente": {
+    "$oid": "60f6499e0e724c0015cb2595"
+  },
+  "professional_name": {
+    "$oid": "601015c004225963ac195fb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f6abc19002820015547676"
+  },
+  "date": {
+    "$date": "2021-07-20T10:56:00.535Z"
+  },
+  "code": "G20",
+  "level": 2,
+  "description": "Enfermedad de Parkinson",
+  "code_1": "G20-G26",
+  "code_0": "G00-G99",
+  "id_paciente": {
+    "$oid": "60f6499e0e724c0015cb2595"
+  },
+  "professional_name": {
+    "$oid": "601015c004225963ac195fb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f6abd19002820015547677"
+  },
+  "date": {
+    "$date": "2021-07-20T10:56:16.798Z"
+  },
+  "code": "I10",
+  "level": 2,
+  "description": "Hipertensión esencial (primaria)",
+  "code_1": "I10-I15",
+  "code_0": "I00-I99",
+  "id_paciente": {
+    "$oid": "60f6499e0e724c0015cb2595"
+  },
+  "professional_name": {
+    "$oid": "601015c004225963ac195fb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f6abe09002820015547678"
+  },
+  "date": {
+    "$date": "2021-07-20T10:56:32.118Z"
+  },
+  "code": "G30",
+  "level": 2,
+  "description": "Enfermedad de Alzheimer",
+  "code_1": "G30-G32",
+  "code_0": "G00-G99",
+  "id_paciente": {
+    "$oid": "60f6499e0e724c0015cb2595"
+  },
+  "professional_name": {
+    "$oid": "601015c004225963ac195fb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f6d52094f3810015ca8f3b"
+  },
+  "date": {
+    "$date": "2021-07-20T13:52:32.698Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60f6499e0e724c0015cb2595"
+  },
+  "professional_name": {
+    "$oid": "5f9824a9b6384217c1b974b4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f78c4f7585b300158d4446"
+  },
+  "date": {
+    "$date": "2021-07-21T02:54:06.700Z"
+  },
+  "code": "E11",
+  "level": 2,
+  "description": "Diabetes mellitus no insulinodependiente",
+  "code_1": "E10-E14",
+  "code_0": "E00-E89",
+  "id_paciente": {
+    "$oid": "60f78bf77585b300158d4444"
+  },
+  "professional_name": {
+    "$oid": "5f9827e4b6384217c1b974b6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f78c787585b300158d4447"
+  },
+  "date": {
+    "$date": "2021-07-21T02:54:48.012Z"
+  },
+  "code": "I50",
+  "level": 2,
+  "description": "Insuficiencia cardíaca",
+  "code_1": "I30-I52",
+  "code_0": "I00-I99",
+  "id_paciente": {
+    "$oid": "60f78bf77585b300158d4444"
+  },
+  "professional_name": {
+    "$oid": "5f9827e4b6384217c1b974b6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f78c9d7585b300158d4448"
+  },
+  "date": {
+    "$date": "2021-07-21T02:55:24.724Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60f78bf77585b300158d4444"
+  },
+  "professional_name": {
+    "$oid": "5f9827e4b6384217c1b974b6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f8c8325fd83a0015a7253a"
+  },
+  "date": {
+    "$date": "2021-07-22T01:21:53.157Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60f8c8185fd83a0015a72539"
+  },
+  "professional_name": {
+    "$oid": "5f9827e4b6384217c1b974b6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f8c8445fd83a0015a7253b"
+  },
+  "date": {
+    "$date": "2021-07-22T01:22:11.470Z"
+  },
+  "code": "H53-H54",
+  "level": 1,
+  "description": "Alteraciones de la visión y ceguera",
+  "code_0": "H00-H59",
+  "id_paciente": {
+    "$oid": "60f8c8185fd83a0015a72539"
+  },
+  "professional_name": {
+    "$oid": "5f9827e4b6384217c1b974b6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f9e377e21b140015f05936"
+  },
+  "date": {
+    "$date": "2021-07-22T11:38:12.330Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60f21308c5d88c0015847759"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f9ec75e21b140015f05941"
+  },
+  "date": {
+    "$date": "2021-07-22T22:08:53.712Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60f9e9dfe21b140015f0593c"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f9ec7ce21b140015f05942"
+  },
+  "date": {
+    "$date": "2021-07-22T22:09:00.327Z"
+  },
+  "code": "E10-E14",
+  "level": 1,
+  "description": "Diabetes mellitus",
+  "code_0": "E00-E89",
+  "id_paciente": {
+    "$oid": "60f9e9dfe21b140015f0593c"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f9ec84e21b140015f05943"
+  },
+  "date": {
+    "$date": "2021-07-22T22:09:07.897Z"
+  },
+  "code": "E66",
+  "level": 2,
+  "description": "Obesidad",
+  "code_1": "E65-E68",
+  "code_0": "E00-E89",
+  "id_paciente": {
+    "$oid": "60f9e9dfe21b140015f0593c"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fa47f216070c0015df18d6"
+  },
+  "date": {
+    "$date": "2021-07-23T04:39:14.517Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60fa442916070c0015df18d4"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fa47f716070c0015df18d7"
+  },
+  "date": {
+    "$date": "2021-07-23T04:39:19.429Z"
+  },
+  "code": "E10-E14",
+  "level": 1,
+  "description": "Diabetes mellitus",
+  "code_0": "E00-E89",
+  "id_paciente": {
+    "$oid": "60fa442916070c0015df18d4"
+  },
+  "professional_name": {
+    "$oid": "5ff49a06805ce432999defb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fb21b2776a68001512f44a"
+  },
+  "date": {
+    "$date": "2021-07-23T20:08:17.787Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60fb1f5e776a68001512f447"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fb21bb776a68001512f44b"
+  },
+  "date": {
+    "$date": "2021-07-23T20:08:26.867Z"
+  },
+  "code": "E66",
+  "level": 2,
+  "description": "Obesidad",
+  "code_1": "E65-E68",
+  "code_0": "E00-E89",
+  "id_paciente": {
+    "$oid": "60fb1f5e776a68001512f447"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fb9b5fad40930015ce27aa"
+  },
+  "date": {
+    "$date": "2021-07-24T04:47:27.057Z"
+  },
+  "code": "J12",
+  "level": 2,
+  "description": "Neumonía viral, no clasificada en otra parte",
+  "code_1": "J09–J18 ",
+  "code_0": "J00-J99",
+  "id_paciente": {
+    "$oid": "60fb9a6dad40930015ce27a8"
+  },
+  "professional_name": {
+    "$oid": "5f9828a6b6384217c1b974b9"
+  },
+  "__v": 0
 }]

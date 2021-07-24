@@ -798,4 +798,24 @@
   "dni": 39583647,
   "password": "$2y$12$FN3CZ2K4zMMdlzfr2Gd6ku5nTOFPxXBinlYknjyjy1A.mgVUY0Uze",
   "__v": 0
+},{
+  "_id": {
+    "$oid": "60e482e5c0441ce927d5f990"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Rocio Peralta",
+  "dni": 37411047,
+  "password": "$2y$12$LD4Icrv7poLszNcgx2EPp.CWmM1KzMKKoLrdiGcn9nrIxtiIkPmNK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e483dcc0441ce927d5f991"
+  },
+  "role": 1,
+  "to_register": true,
+  "name": "Agustina Maria Luque",
+  "dni": 28246078,
+  "password": "$2y$12$hSSVeL.uULt8YLrh0LnZEu5nbwg24Khzfzj1biFH1Fny4CUmEvFR6",
+  "__v": 0
 }]

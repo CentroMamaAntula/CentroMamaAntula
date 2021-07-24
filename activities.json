@@ -6803,4 +6803,871 @@
     "$oid": "60e363aace711e0015f80b55"
   },
   "__v": 0
+},{
+  "_id": {
+    "$oid": "60e60009eed84000154a69a4"
+  },
+  "date": {
+    "$date": "2021-07-07T19:27:04.323Z"
+  },
+  "type": "Alta",
+  "place": "",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60c25a0c7dba310015296083"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e60030eed84000154a69a5"
+  },
+  "date": {
+    "$date": "2021-07-07T19:27:43.907Z"
+  },
+  "type": "Alta",
+  "place": "",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60df7aab42aeab0015fdf17f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e70bf545178d0015467d28"
+  },
+  "date": {
+    "$date": "2021-07-08T14:30:14.761Z"
+  },
+  "type": "Ingreso",
+  "place": "DOMICILIO",
+  "observations": "",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60e705a445178d0015467d22"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e7633017aa280015b25d0b"
+  },
+  "date": {
+    "$date": "2021-07-08T20:42:24.100Z"
+  },
+  "type": "Ingreso",
+  "place": "HOSPITAL DE FRIAS",
+  "observations": "",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60e75d3e17aa280015b25d00"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e7741d17aa280015b25d11"
+  },
+  "date": {
+    "$date": "2021-07-08T21:54:37.877Z"
+  },
+  "type": "Obito",
+  "place": "",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60c0e6b580dea90015667b9e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e88f93bf04fa0015f985aa"
+  },
+  "date": {
+    "$date": "2021-07-09T18:04:03.360Z"
+  },
+  "type": "Ingreso",
+  "place": "DOMICILIO",
+  "observations": "",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60e8801cbf04fa0015f985a1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e8a7abbf04fa0015f985b1"
+  },
+  "date": {
+    "$date": "2021-07-09T19:46:50.609Z"
+  },
+  "type": "Derivacion",
+  "place": "Clinica Younes",
+  "observations": "paciente con HNF negativo con dependencia de oxigeno.",
+  "id_paciente": {
+    "$oid": "60cce69ae0fb0700155a6382"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e8b1a6bf04fa0015f985bf"
+  },
+  "date": {
+    "$date": "2021-07-09T20:29:26.297Z"
+  },
+  "type": "Ingreso",
+  "place": "DOMICILIO",
+  "observations": "",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60e8ae45bf04fa0015f985b8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eb50590eae46001596c17e"
+  },
+  "date": {
+    "$date": "2021-07-11T20:11:06.158Z"
+  },
+  "type": "Ingreso",
+  "place": "DOMICILIO",
+  "observations": "",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60eb4ac70eae46001596c177"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ec99a868fec200155e34e5"
+  },
+  "date": {
+    "$date": "2021-07-12T19:33:00Z"
+  },
+  "type": "Triaje",
+  "place": "",
+  "observations": "Paciente que asiste al triaje para el control, FIS: 14 días, HNF: 28/06/21, Al examen físico: sat: 98/99%, ta: 117/80, t°: 35,6, FC: 90 lxm, a la auscultación beba, MV (+). Lleva 15 dias desde el HNF. Estable hemodinamicamente, afebril, vigil. se realiza Rx de torax.",
+  "id_paciente": {
+    "$oid": "60ec98f068fec200155e34e3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eca3e568fec200155e34e7"
+  },
+  "date": {
+    "$date": "2021-07-12T20:19:50.239Z"
+  },
+  "type": "Alta",
+  "place": "",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60de0b06618a93001500f984"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eca3fc68fec200155e34e8"
+  },
+  "date": {
+    "$date": "2021-07-12T20:20:13.577Z"
+  },
+  "type": "Alta",
+  "place": "",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60d9e4b990e8090015474df6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ede7ea62f4ce00155ec356"
+  },
+  "date": {
+    "$date": "2021-07-13T19:22:18.917Z"
+  },
+  "type": "Ingreso",
+  "place": "",
+  "observations": "",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60edc4cb62f4ce00155ec341"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ede83862f4ce00155ec357"
+  },
+  "date": {
+    "$date": "2021-07-13T19:23:36.322Z"
+  },
+  "type": "Ingreso",
+  "place": "",
+  "observations": "SECTOR 2",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60eddb7b62f4ce00155ec354"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ee05d162f4ce00155ec363"
+  },
+  "date": {
+    "$date": "2021-07-13T21:29:52.742Z"
+  },
+  "type": "Ingreso",
+  "place": "",
+  "observations": "SECTOR",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60edea7362f4ce00155ec358"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ee0eaf62f4ce00155ec36c"
+  },
+  "date": {
+    "$date": "2021-07-13T22:07:43.782Z"
+  },
+  "type": "Alta",
+  "place": "",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60dbe0cea0fa6f00156ad61a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ef4d2853197800154bd7d1"
+  },
+  "date": {
+    "$date": "2021-07-14T17:33:00Z"
+  },
+  "type": "Triaje",
+  "place": "",
+  "observations": "Paciente de 51 años sospechoso, contacto estrecho de su mujer covid (+), asiste para un control. FIS: 08/07/21 comenzó con dolor de cuerpo, tos y registros febriles. Medicado con azitromicina (6to dia) y dexametasona (cumplio 3 dias). Al examen físico: saturación variable 93-96%, t°: 36,6, TA: 173/119 mmhg, FC: 102. FR: 24. NIEGA APP. STO RX DE TORAX: INFILTRADOS BIBASALES. POR FALTA DE TEST RAPIDO SE REALIZA HISOPADO PCR, SE REALIZA MEDICACION IM: HIDROCORTISNA 200 MG + DIPIRONA 1 AMP. SE INDICA TTO AMBULATORIO: PRONO, VAPOR DE AGUA Y PARACETAMOL. REGRESAR MAÑANA CON LA PCR (+) PARA INTERNACIÓN",
+  "id_paciente": {
+    "$oid": "60ef4a0d53197800154bd7d0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ef81b553197800154bd7dd"
+  },
+  "date": {
+    "$date": "2021-07-15T00:30:45.376Z"
+  },
+  "type": "Ingreso",
+  "place": "HOSP INDEPENDENCIA",
+  "observations": "",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60ef7c2a53197800154bd7d6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f0102eb5d70f00150251bd"
+  },
+  "date": {
+    "$date": "2021-07-15T10:38:38.326Z"
+  },
+  "type": "Obito",
+  "place": "morgue",
+  "observations": "paciente fallece a horas 6 por paro cardiaco",
+  "id_paciente": {
+    "$oid": "60e22cd14729480015487aa9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f064e74564cd0015123776"
+  },
+  "date": {
+    "$date": "2021-07-15T16:40:06.152Z"
+  },
+  "type": "Ingreso",
+  "place": "LORETO",
+  "observations": "SECTOR 2 AISLAMIENTO",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f0b0444564cd001512379b"
+  },
+  "date": {
+    "$date": "2021-07-15T22:01:40.809Z"
+  },
+  "type": "Alta",
+  "place": "",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60d1f511635635001547b036"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f0b0554564cd001512379c"
+  },
+  "date": {
+    "$date": "2021-07-15T22:01:57.384Z"
+  },
+  "type": "Alta",
+  "place": "",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60e8ae45bf04fa0015f985b8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f0be1c4564cd00151237a0"
+  },
+  "date": {
+    "$date": "2021-07-15T23:00:44.084Z"
+  },
+  "type": "Alta",
+  "place": "",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60eb4ac70eae46001596c177"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f0d7d14564cd00151237a7"
+  },
+  "date": {
+    "$date": "2021-07-16T00:50:29.201Z"
+  },
+  "type": "Ingreso",
+  "place": "DOMICILIO",
+  "observations": "",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60f0d4684564cd00151237a2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1ddbf775a9600150cfc98"
+  },
+  "date": {
+    "$date": "2021-07-16T19:27:56.804Z"
+  },
+  "type": "Alta",
+  "place": "",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60e705a445178d0015467d22"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1ed4a775a9600150cfc9a"
+  },
+  "date": {
+    "$date": "2021-07-16T20:34:18.244Z"
+  },
+  "type": "Alta",
+  "place": "DOMICILIO",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60c8b2b2587975001597e48c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1ed83775a9600150cfc9c"
+  },
+  "date": {
+    "$date": "2021-07-16T20:35:14.747Z"
+  },
+  "type": "Alta",
+  "place": "DOMICILIO",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60d371966f2b4b001598fcea"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1ed8e775a9600150cfc9d"
+  },
+  "date": {
+    "$date": "2021-07-16T20:35:26.593Z"
+  },
+  "type": "Alta",
+  "place": "",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60da572490e8090015474e3c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f229f6c5d88c001584775f"
+  },
+  "date": {
+    "$date": "2021-07-17T00:53:09.393Z"
+  },
+  "type": "Ingreso",
+  "place": "HOSPITAL ZONAL DE FERNANDEZ",
+  "observations": "AISLAMIENTO 2",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60f21308c5d88c0015847759"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f25ae688b36f00150c865c"
+  },
+  "date": {
+    "$date": "2021-07-17T04:21:57.971Z"
+  },
+  "type": "Ingreso",
+  "place": "LORETO",
+  "observations": "AISLAMIENTO 2",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60f25ab288b36f00150c865b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f336281139540015486a4f"
+  },
+  "date": {
+    "$date": "2021-07-17T19:57:27.670Z"
+  },
+  "type": "Alta",
+  "place": "DOMICILIO",
+  "observations": "BUEN ESTADO GRAL",
+  "id_paciente": {
+    "$oid": "60edea7362f4ce00155ec358"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f345fa1139540015486a53"
+  },
+  "date": {
+    "$date": "2021-07-17T21:04:58.442Z"
+  },
+  "type": "Ingreso",
+  "place": "SANTOS LUGARES . DEPTO. ALBERDI",
+  "observations": "",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60f2d2e72f8796001533bb06"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f38412680ad30015dffda1"
+  },
+  "date": {
+    "$date": "2021-07-18T01:29:55.323Z"
+  },
+  "type": "Ingreso",
+  "place": "CAPITAL",
+  "observations": "",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60f37c2d680ad30015dffd94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f494cd9f59fb0015a415a1"
+  },
+  "date": {
+    "$date": "2021-07-18T20:53:32.542Z"
+  },
+  "type": "Alta",
+  "place": "DOMICILIO",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60edc4cb62f4ce00155ec341"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f494e89f59fb0015a415a2"
+  },
+  "date": {
+    "$date": "2021-07-18T20:54:00.141Z"
+  },
+  "type": "Alta",
+  "place": "DOMICILIO",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60f0d4684564cd00151237a2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f55aae2d940c0015b2ab78"
+  },
+  "date": {
+    "$date": "2021-07-19T10:57:49.846Z"
+  },
+  "type": "Obito",
+  "place": "",
+  "observations": "PARO CARDIORRESPIRATORIO A 02:35 HRS",
+  "id_paciente": {
+    "$oid": "60dde571618a93001500f969"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f5a4672d940c0015b2ab94"
+  },
+  "date": {
+    "$date": "2021-07-19T16:12:23.653Z"
+  },
+  "type": "Ingreso",
+  "place": "domicilio",
+  "observations": "",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f5d04928c43f0015957be5"
+  },
+  "date": {
+    "$date": "2021-07-19T19:19:37.245Z"
+  },
+  "type": "Alta",
+  "place": "DOMICILIO",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60c3802a2dcd140015cddca4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f5d05c28c43f0015957be6"
+  },
+  "date": {
+    "$date": "2021-07-19T19:19:56.517Z"
+  },
+  "type": "Alta",
+  "place": "DOMICILIO",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60e8801cbf04fa0015f985a1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f5d07328c43f0015957be7"
+  },
+  "date": {
+    "$date": "2021-07-19T19:20:19.338Z"
+  },
+  "type": "Derivacion",
+  "place": "",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60f37c2d680ad30015dffd94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f5d12628c43f0015957be9"
+  },
+  "date": {
+    "$date": "2021-07-19T19:23:18.210Z"
+  },
+  "type": "Obito",
+  "place": "",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60d3c5066f2b4b001598fd21"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f61d7928c43f0015957bfa"
+  },
+  "date": {
+    "$date": "2021-07-20T00:48:57.249Z"
+  },
+  "type": "Ingreso",
+  "place": "HOSPITAL LORETO",
+  "observations": "",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60f6118f28c43f0015957bf5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f64e3a0e724c0015cb2596"
+  },
+  "date": {
+    "$date": "2021-07-20T03:58:00Z"
+  },
+  "type": "Triaje",
+  "place": "",
+  "observations": "PACIENTE CN DBT2.ALZEHIMER,Y MAL DE PRKINSON.LLEGA DE SU DOMICILIO PARA TRIAJE..T°; 37.6. P/A 102/57.CON CRITERION DE INTERNACION S/ EX FISICO..SE INTERNA EN N/ NOSOCOMIO PARA ESTABILIZARLO",
+  "id_paciente": {
+    "$oid": "60f6499e0e724c0015cb2595"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f654160e724c0015cb2598"
+  },
+  "date": {
+    "$date": "2021-07-20T04:41:57.788Z"
+  },
+  "type": "Ingreso",
+  "place": "domicilio",
+  "observations": "",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60f6499e0e724c0015cb2595"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f70ccc94f3810015ca8f4f"
+  },
+  "date": {
+    "$date": "2021-07-20T17:50:03.253Z"
+  },
+  "type": "Ingreso",
+  "place": "DOMICILIO",
+  "observations": "",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60f7061d94f3810015ca8f4b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f78d7b7585b300158d444b"
+  },
+  "date": {
+    "$date": "2021-07-21T02:59:07.084Z"
+  },
+  "type": "Ingreso",
+  "place": "CISBANDA",
+  "observations": "",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60f78bf77585b300158d4444"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f8839b8f88ae001538271c"
+  },
+  "date": {
+    "$date": "2021-07-21T20:29:14.844Z"
+  },
+  "type": "Alta",
+  "place": "DOMICILIO",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60ef7c2a53197800154bd7d6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f8cab65fd83a0015a7253f"
+  },
+  "date": {
+    "$date": "2021-07-22T01:32:36.860Z"
+  },
+  "type": "Ingreso",
+  "place": "REGIONAL",
+  "observations": "",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60f8c8185fd83a0015a72539"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f954f8a69def0015c355ae"
+  },
+  "date": {
+    "$date": "2021-07-22T11:22:31.147Z"
+  },
+  "type": "Obito",
+  "place": "..",
+  "observations": "..",
+  "id_paciente": {
+    "$oid": "60f6499e0e724c0015cb2595"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f97f97e21b140015f05907"
+  },
+  "date": {
+    "$date": "2021-07-22T14:24:00Z"
+  },
+  "type": "Triaje",
+  "place": "",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60f97827e21b140015f05905"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f98668e21b140015f0590a"
+  },
+  "date": {
+    "$date": "2021-07-22T14:53:00Z"
+  },
+  "type": "Triaje",
+  "place": "",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60f98167e21b140015f05908"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f99372e21b140015f0590d"
+  },
+  "date": {
+    "$date": "2021-07-22T15:46:00Z"
+  },
+  "type": "Triaje",
+  "place": "",
+  "observations": "Pte con hnf + día martes, fis: lunes, refiere un episodio febril y tos seca poca. Hoy comienza con dolor lumbar, asiste para rx de torax.Se indica budesonide aerosol, vitaminas, paracetamol y control de sat y temp.",
+  "id_paciente": {
+    "$oid": "60f98fe6e21b140015f0590b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f9afa3e21b140015f05927"
+  },
+  "date": {
+    "$date": "2021-07-22T17:49:00Z"
+  },
+  "type": "Triaje",
+  "place": "",
+  "observations": "SE INDICA TTO AMBULAORIO.",
+  "id_paciente": {
+    "$oid": "60f9ae55e21b140015f05925"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f9d36ce21b140015f05935"
+  },
+  "date": {
+    "$date": "2021-07-22T20:22:04.307Z"
+  },
+  "type": "Ingreso",
+  "place": "DOMICILIO",
+  "observations": "",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60f9d089e21b140015f0592f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f9ec69e21b140015f05940"
+  },
+  "date": {
+    "$date": "2021-07-22T22:08:41.316Z"
+  },
+  "type": "Ingreso",
+  "place": "HOSPITAL DE LORETO",
+  "observations": "Desaturando",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60f9e9dfe21b140015f0593c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fa482016070c0015df18d8"
+  },
+  "date": {
+    "$date": "2021-07-23T04:40:00.408Z"
+  },
+  "type": "Ingreso",
+  "place": "LORETO",
+  "observations": "",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60fa442916070c0015df18d4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fb21fe776a68001512f44c"
+  },
+  "date": {
+    "$date": "2021-07-23T20:09:33.856Z"
+  },
+  "type": "Ingreso",
+  "place": "CIBS Banda",
+  "observations": "",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60fb1f5e776a68001512f447"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fb2a36776a68001512f44e"
+  },
+  "date": {
+    "$date": "2021-07-23T20:44:37.729Z"
+  },
+  "type": "Ingreso",
+  "place": "Hospital de Loreto",
+  "observations": "",
+  "medical_referral": "eb66fe0-52b8-a727-0c12-08262a362048",
+  "id_paciente": {
+    "$oid": "60fb2a14776a68001512f44d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fb4521776a68001512f458"
+  },
+  "date": {
+    "$date": "2021-07-23T22:39:00Z"
+  },
+  "type": "Triaje",
+  "place": "",
+  "observations": "tratamiento domiciliario",
+  "id_paciente": {
+    "$oid": "60fb408d776a68001512f455"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fbe78fd936930015932e47"
+  },
+  "date": {
+    "$date": "2021-07-24T10:12:30.146Z"
+  },
+  "type": "Ingreso",
+  "place": "hospital suncho corral",
+  "observations": "",
+  "medical_referral": "",
+  "id_paciente": {
+    "$oid": "60fb9a6dad40930015ce27a8"
+  },
+  "__v": 0
 }]
