@@ -1662,4 +1662,56 @@
     "$oid": "60f78bf77585b300158d4444"
   },
   "__v": 0
+},{
+  "_id": {
+    "$oid": "60fec47bd284320015002eb6"
+  },
+  "date": {
+    "$date": "2021-07-26T14:19:39.208Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60f2d2e72f8796001533bb06"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fed85cd284320015002eb8"
+  },
+  "date": {
+    "$date": "2021-07-26T15:44:26.981Z"
+  },
+  "reason": "Internación covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60f8c8185fd83a0015a72539"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610166c7a28e9a0015f2ca8c"
+  },
+  "date": {
+    "$date": "2021-07-28T14:16:39.178Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610195cdc57c7c0015ae9b36"
+  },
+  "date": {
+    "$date": "2021-07-28T17:37:16.179Z"
+  },
+  "reason": "Internación por covid 19",
+  "background": "-",
+  "id_paciente": {
+    "$oid": "60fb1f5e776a68001512f447"
+  },
+  "__v": 0
 }]

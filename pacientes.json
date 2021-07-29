@@ -4438,7 +4438,7 @@
   "_id": {
     "$oid": "60c21ff77dba310015296053"
   },
-  "internship": true,
+  "internship": false,
   "dni": 20153254,
   "name": "ENRRIQUEZ HUGO ORLANDO",
   "birthday": {
@@ -5339,7 +5339,7 @@
   "_id": {
     "$oid": "60de4ae1618a93001500f9a5"
   },
-  "internship": true,
+  "internship": false,
   "dni": 13887982,
   "name": "SALTOS ZAIN LILIAN JUDITH",
   "birthday": {
@@ -5750,7 +5750,7 @@
   "_id": {
     "$oid": "60f2d2e72f8796001533bb06"
   },
-  "internship": true,
+  "internship": false,
   "dni": 16621908,
   "name": "LOHRMANN RODOLFO SANTIAGO",
   "birthday": {
@@ -5803,7 +5803,7 @@
   "_id": {
     "$oid": "60f6118f28c43f0015957bf5"
   },
-  "internship": true,
+  "internship": false,
   "dni": 25281641,
   "name": "MELEM MIGUEL MARIA DEL PILAR",
   "birthday": {
@@ -5814,7 +5814,7 @@
   "job": "",
   "phone": 0,
   "family_phone": 3854084821,
-  "social_coverage": "NO",
+  "social_coverage": "iosep",
   "__v": 0
 },{
   "_id": {
@@ -5839,9 +5839,9 @@
   "_id": {
     "$oid": "60f7061d94f3810015ca8f4b"
   },
-  "internship": true,
+  "internship": false,
   "dni": 14481157,
-  "name": "ALBORNOZ MARIA GABRELA",
+  "name": "ALBORNOZ MARIA GABRIELA",
   "birthday": {
     "$date": {
       "$numberLong": "-239760000000"
@@ -5877,7 +5877,7 @@
   "_id": {
     "$oid": "60f8c8185fd83a0015a72539"
   },
-  "internship": true,
+  "internship": false,
   "dni": 30033885,
   "name": "RIOS MARCELO JAVIER",
   "birthday": {
@@ -5964,7 +5964,7 @@
   "_id": {
     "$oid": "60f9d089e21b140015f0592f"
   },
-  "internship": true,
+  "internship": false,
   "dni": 4279436,
   "name": "ROMANO ENOLLS RONAL",
   "birthday": {
@@ -6000,7 +6000,7 @@
   "_id": {
     "$oid": "60fa442916070c0015df18d4"
   },
-  "internship": true,
+  "internship": false,
   "dni": 12846233,
   "name": "ACOSTA AYDEE AMELIA",
   "birthday": {
@@ -6021,7 +6021,7 @@
   },
   "internship": true,
   "dni": 37735203,
-  "name": "Herrera Cristian Enrique",
+  "name": "HERRERA CRISTIAN ENRIQUE",
   "birthday": {
     "$date": "1993-11-27T00:00:00Z"
   },
@@ -6038,7 +6038,7 @@
   },
   "internship": true,
   "dni": 33054753,
-  "name": "Silva Oscar Alberto",
+  "name": "SILVA OSCAR ALBERTO",
   "birthday": {
     "$date": {
       "$numberLong": "-213926400000"
@@ -6048,8 +6048,8 @@
   "location": "San Martin",
   "job": "",
   "phone": 0,
-  "family_phone": 0,
-  "social_coverage": "n",
+  "family_phone": 3855708366,
+  "social_coverage": "NO",
   "__v": 0
 },{
   "_id": {
@@ -6108,17 +6108,123 @@
   "_id": {
     "$oid": "60fc195505a4140015c6d89d"
   },
-  "internship": false,
+  "internship": true,
   "dni": 38482730,
   "name": "GUTIERREZ CUELLAR GIAMINA",
   "birthday": {
     "$date": "1994-08-31T00:00:00Z"
   },
-  "domicile": "SANJON -KM  1126",
+  "domicile": "ZANJON -KM  1126",
   "location": "Capital - Santiago del Estero",
   "job": "ESTUDIANTE",
   "phone": 3856146396,
   "family_phone": 385614396,
   "social_coverage": "NINGUNA",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fc68d010e7d00015819a4f"
+  },
+  "internship": true,
+  "dni": 16309403,
+  "name": "SIALLE HECTOR",
+  "birthday": {
+    "$date": {
+      "$numberLong": "-513475200000"
+    }
+  },
+  "domicile": "ABEL ITURBE4855",
+  "location": "Capital - Santiago del Estero",
+  "job": "EMPLEADO",
+  "phone": 0,
+  "family_phone": 3855829306,
+  "social_coverage": "IOSEP-OSPE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff577431208e0015206d63"
+  },
+  "internship": true,
+  "dni": 29885102,
+  "name": "OLIMA luis armando",
+  "birthday": {
+    "$date": "1983-03-29T00:00:00Z"
+  },
+  "domicile": "clodomira",
+  "location": "Banda - Clodomira",
+  "job": "plomero",
+  "phone": 3854997027,
+  "family_phone": 3854997027,
+  "social_coverage": "no",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff60b031208e0015206d6b"
+  },
+  "internship": true,
+  "dni": 14272765,
+  "name": "CARDOZO MARIA MERCEDES",
+  "birthday": {
+    "$date": {
+      "$numberLong": "-291081600000"
+    }
+  },
+  "domicile": "B ALBERDI",
+  "location": "Capital - Santiago del Estero",
+  "job": "JUBILADA",
+  "phone": 0,
+  "family_phone": 0,
+  "social_coverage": "NO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff760431208e0015206d7b"
+  },
+  "internship": true,
+  "dni": 29525472,
+  "name": "LUNA MAXIMO",
+  "birthday": {
+    "$date": "1982-08-28T00:00:00Z"
+  },
+  "domicile": "LAVALLE",
+  "location": "Guasayán",
+  "job": "TRABAJADOR CAMPO",
+  "phone": 3854045555,
+  "family_phone": 3854045555,
+  "social_coverage": "NO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61007ff6360f430015dedea1"
+  },
+  "internship": true,
+  "dni": 34168865,
+  "name": "VILLAREAL CINTHYA",
+  "birthday": {
+    "$date": "1989-07-12T00:00:00Z"
+  },
+  "domicile": "CRUCERO GRAL BELGRANO S/N LORETO",
+  "location": "San Martin",
+  "job": "AMA DE CASA",
+  "phone": 0,
+  "family_phone": 3855353526,
+  "social_coverage": "IOSEP",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101d5e9ca76ec0015b6cc13"
+  },
+  "internship": true,
+  "dni": 24578269,
+  "name": "GUBAIRA ANTONIO",
+  "birthday": {
+    "$date": "1975-05-03T00:00:00Z"
+  },
+  "domicile": "MAIPU 1° PJE 729 HUAICO HONDO",
+  "location": "Capital - Santiago del Estero",
+  "job": "",
+  "phone": 0,
+  "family_phone": 0,
+  "social_coverage": "OSPE",
   "__v": 0
 }]

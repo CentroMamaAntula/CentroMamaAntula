@@ -54432,4 +54432,1830 @@
     "$oid": "5f9828a6b6384217c1b974b9"
   },
   "__v": 0
+},{
+  "_id": {
+    "$oid": "60fc222e05a4140015c6d8a2"
+  },
+  "date": {
+    "$date": "2021-07-24T14:22:36.269Z"
+  },
+  "type": "Médico",
+  "temperature": 37.7,
+  "skin": "NINGUNA",
+  "soft_parts": "SIN PATOLOGIAS",
+  "heart_rate": 102,
+  "cardiovascular_exam": "R1 - R2 NORMOFONETICOS,SOPLOS (-),ARRITMIA(TAQUICARDICA)",
+  "breathing_frequency": 23,
+  "saturometry": 94,
+  "respiratory_exam": "PULMONES: MV: DISMINUIDO EN 1/3 INFERIOR DE AMBOS HT. RALES ESCASOS DISEMINADOS EN AMBOS CAMPOS.",
+  "time_space": true,
+  "abdomen": "ABDOMEN: GLOBULOSO,MOVIL,BLANDO ,DEPRESIBLE,NO VISCEROMEGALIAS,RHA (+)",
+  "neurological_exam": "CONSCIENTE,SIN FOCALIZACIONES,RIG.NUCA  (-)",
+  "observations": "NINGUNA",
+  "id_paciente": {
+    "$oid": "60fc195505a4140015c6d89d"
+  },
+  "blood_pressure": "156/102",
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fc98203557f70015ef8e1c"
+  },
+  "date": {
+    "$date": "2021-07-24T22:45:51.884Z"
+  },
+  "type": "Médico",
+  "observations": "pte en arm modo vcv fio2 35%, adaptado, se propone sedaoanalgesia y arm por 24 hs y comenzar maniobras destete",
+  "id_paciente": {
+    "$oid": "60eddb7b62f4ce00155ec354"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fc9c4f3557f70015ef8e1e"
+  },
+  "date": {
+    "$date": "2021-07-24T23:03:43.116Z"
+  },
+  "type": "Médico",
+  "observations": "PTE LUCIDO, CON RESPIRACION ESPONTANEA CON CNAF FLUJO 40 FIO2 60%. SE MANTIENE ESTABLE, EN ADAPTACION",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fca29f3557f70015ef8e22"
+  },
+  "date": {
+    "$date": "2021-07-24T23:30:40.008Z"
+  },
+  "type": "Médico",
+  "temperature": 36.4,
+  "skin": "NO",
+  "soft_parts": "NO",
+  "heart_rate": 85,
+  "cardiovascular_exam": "R1 - R2 NORMOFONETICOS",
+  "breathing_frequency": 22,
+  "saturometry": 97,
+  "respiratory_exam": "PULMONES:MV  DISMINUIDO EN LAS BASES,RALES DISEMINADOS",
+  "time_space": true,
+  "abdomen": "ABDOMEN:MOVIL,BLANDO,DEPRESIBLE,RHA (+),CATARSIS (+)",
+  "neurological_exam": "CONSCIENTE,SIN FOCALIZACIONES,NI RIGIDEZ DE NUCA",
+  "id_paciente": {
+    "$oid": "60f8c8185fd83a0015a72539"
+  },
+  "blood_pressure": "139/80",
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcaba43557f70015ef8e27"
+  },
+  "date": {
+    "$date": "2021-07-25T00:09:08.492Z"
+  },
+  "type": "Médico",
+  "temperature": 35.6,
+  "skin": "NINGUNA",
+  "soft_parts": "NO",
+  "heart_rate": 85,
+  "cardiovascular_exam": "R1-R2 NORMOFONETICOS",
+  "breathing_frequency": 34,
+  "saturometry": 96,
+  "respiratory_exam": "PULMONES : MV : DISMINUIDO EN LAS BASES,RALES CREPITANTES DISEMINADOS EN AMBOS HT, CON CNBF.",
+  "time_space": true,
+  "abdomen": "ABDOMEN:MOVIL,BLANDO,DEPRESIBLE,RHA (+) CATARSIS (+)",
+  "neurological_exam": "CONSCIENTE,SIN FOCALIZACIONES,SI SIGNOS MENINGEOS",
+  "id_paciente": {
+    "$oid": "60f78bf77585b300158d4444"
+  },
+  "blood_pressure": "147/74",
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcafd53557f70015ef8e28"
+  },
+  "date": {
+    "$date": "2021-07-25T00:27:01.206Z"
+  },
+  "type": "Médico",
+  "observations": "PTE AFEBRIL, ESTABLE, RESPIRACION CON CNBF, ADAPTADA, BUENA TOLERANCIA",
+  "id_paciente": {
+    "$oid": "60f6118f28c43f0015957bf5"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcb06b3557f70015ef8e29"
+  },
+  "date": {
+    "$date": "2021-07-25T00:29:31.846Z"
+  },
+  "type": "Médico",
+  "observations": "PTE LUCIDA, AFEBRIL, CON CNAF 60-60 CONTINUA TTO ATB Y ANTICOAGULACION",
+  "id_paciente": {
+    "$oid": "60f21308c5d88c0015847759"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcb0b53557f70015ef8e2b"
+  },
+  "date": {
+    "$date": "2021-07-25T00:30:44.499Z"
+  },
+  "type": "Médico",
+  "observations": "PTE EN ARM MODO VCV CON BUENA RESPUESTA A DISMINUCION DE FIO2. PRESENTA SINDROME ANEMICO HB 8.5 SE SOLICITA TRANSFUSION",
+  "id_paciente": {
+    "$oid": "60f25ab288b36f00150c865b"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcb0ef3557f70015ef8e2c"
+  },
+  "date": {
+    "$date": "2021-07-25T00:31:43.621Z"
+  },
+  "type": "Médico",
+  "observations": "PTE EN ARM MODO VCV, EN PRONO 48 HS. HEMODINAMIA ESTABLE, BUENA SATURACION O2",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcb1c13557f70015ef8e2e"
+  },
+  "date": {
+    "$date": "2021-07-25T00:35:13.124Z"
+  },
+  "type": "Médico",
+  "temperature": 37.1,
+  "skin": "NINGUNA",
+  "soft_parts": "NO",
+  "heart_rate": 85,
+  "cardiovascular_exam": "R1 -R2 NORMOFONETICOS, SOPLOS (-),ARRITMIAS (-)",
+  "breathing_frequency": 22,
+  "saturometry": 96,
+  "respiratory_exam": "PULMONES: MV: DISMINUIDO EN BASES,RALES (+) DISEMINADOS",
+  "time_space": true,
+  "abdomen": "ABDOMEN: MOVIL,BLANDO,DEPRESIBLE, NO DOLOROSO, RHA (+),CATARSIS (+)",
+  "neurological_exam": "CONSCIENTE,SIN FOCALIZACIONES,SIN SIGNOS MENINGEOS",
+  "observations": "NINGUNA",
+  "id_paciente": {
+    "$oid": "60fc195505a4140015c6d89d"
+  },
+  "blood_pressure": "135/79",
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcb3153557f70015ef8e2f"
+  },
+  "date": {
+    "$date": "2021-07-25T00:40:52.934Z"
+  },
+  "type": "Médico",
+  "observations": "PTE LUCIDO, OTE, CON CNAF FLUJO 40-FIO2 50  CON SAT DE 96% CONTINUA TTO",
+  "id_paciente": {
+    "$oid": "60f9e9dfe21b140015f0593c"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcb3e33557f70015ef8e31"
+  },
+  "date": {
+    "$date": "2021-07-25T00:44:18.736Z"
+  },
+  "type": "Médico",
+  "temperature": 35.5,
+  "skin": "...........",
+  "soft_parts": "........",
+  "heart_rate": 100,
+  "breathing_frequency": 27,
+  "saturometry": 95,
+  "time_space": true,
+  "observations": "PTE VIGIL, CON EPISODIOS DE DESORIENTACION, SE REQUIERE AUMENTO DE HIDRATACION",
+  "id_paciente": {
+    "$oid": "60f9d089e21b140015f0592f"
+  },
+  "blood_pressure": "126/77",
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcb6123557f70015ef8e33"
+  },
+  "date": {
+    "$date": "2021-07-25T00:53:37.582Z"
+  },
+  "type": "Médico",
+  "observations": "PTE EN ARM MODO VCV CON ACIDOSIS MIXTA, DIMERO D ELEVADO, IRA INCIPIENTE. SE REALIZA ANTICOAGULACION PLENA. SE SOLICITA ECOCARDIOGRAMA, IC CON NEFROLOGIA",
+  "id_paciente": {
+    "$oid": "60fc68d010e7d00015819a4f"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcb75c3557f70015ef8e35"
+  },
+  "date": {
+    "$date": "2021-07-25T00:59:07.820Z"
+  },
+  "type": "Médico",
+  "observations": "PTE EN ARM MODO VCV CON SEDOANALGESIA, ESTABLE HEMODINAMICAMENTE, RESOLUCION DE ATELECTASIA",
+  "id_paciente": {
+    "$oid": "60e75d3e17aa280015b25d00"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcbc5f3557f70015ef8e39"
+  },
+  "date": {
+    "$date": "2021-07-25T01:20:31.642Z"
+  },
+  "type": "Médico",
+  "observations": "PTE VIGIL, AFEBRIL, NORMOTENSO, BUENA TOLERANCIA AL DECUBITO. CONTINUA TTO",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcbe853557f70015ef8e3b"
+  },
+  "date": {
+    "$date": "2021-07-25T01:29:42.140Z"
+  },
+  "type": "Médico",
+  "temperature": 37.1,
+  "skin": "NINGUNA",
+  "soft_parts": "NORMALES",
+  "heart_rate": 85,
+  "cardiovascular_exam": "R1-R2 NORMOFONETICOS,SOPLOS(-)",
+  "breathing_frequency": 22,
+  "saturometry": 96,
+  "respiratory_exam": "PULMONES: DISMINUCIÓN DEL  M.V PRINCIPÁLMENTE EN BASES,CON RALES DISEMINADOS EN AMBOS CAMPOS",
+  "time_space": true,
+  "abdomen": "ABDOMEN:GLOBULOSO,MOVIL,BLANDO ,DEPRESIBLE,RHA AUMENTADOS EN INTENSIDAD Y FRECUENCIA,CATARSIS (+)",
+  "neurological_exam": "CONSCIENTE,SIN FOCALIZACIONES,RIG.NUCA (-)",
+  "observations": "OBESIDAD",
+  "id_paciente": {
+    "$oid": "60fc195505a4140015c6d89d"
+  },
+  "blood_pressure": "135/79",
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcc0f63557f70015ef8e3e"
+  },
+  "date": {
+    "$date": "2021-07-25T01:40:05.332Z"
+  },
+  "type": "Médico",
+  "observations": "PTE VIGIL, CON TRABAJO RESPIRATORIO Y BAJA SATURACION, SE DECIDE INTUBAR Y ARM, CON RESPUESTA ACEPTABLE",
+  "id_paciente": {
+    "$oid": "60fb2a14776a68001512f44d"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcc31f3557f70015ef8e3f"
+  },
+  "date": {
+    "$date": "2021-07-25T01:49:18.610Z"
+  },
+  "type": "Médico",
+  "observations": "PTE VIGIL, OTE, EN LA FECHA SE CAMBIA CNAF POR VNI  CON BUENA ADAPTACION",
+  "id_paciente": {
+    "$oid": "60f2d2e72f8796001533bb06"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd73e8d23e5400158842c1"
+  },
+  "date": {
+    "$date": "2021-07-25T14:23:36.547Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 80,
+  "cardiovascular_exam": "r1 r2 nf no soplos ",
+  "breathing_frequency": 26,
+  "saturometry": 97,
+  "respiratory_exam": "ido ARM vcv fio 060 pico 29 vt 320 peep10 fr26 hipoventila de hemitorax izquierdo nv abolido",
+  "abdomen": "blando depresible Rh+ catarsis +",
+  "neurological_exam": "pupilas isocoricas reativas",
+  "id_paciente": {
+    "$oid": "60e75d3e17aa280015b25d00"
+  },
+  "blood_pressure": "142/77",
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd7567d23e5400158842c3"
+  },
+  "date": {
+    "$date": "2021-07-25T14:29:58.596Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 86,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS, SILENCIOS LIBRES, SIN SIGNO DE FALLA",
+  "breathing_frequency": 18,
+  "saturometry": 98,
+  "respiratory_exam": "BMV , BEAB CON CREPITANTES BILATERALES DESDE CAMPO MEDIO A BASES",
+  "time_space": true,
+  "abdomen": "GLOBOSO, BLANDO, DEPRESIBLE, INDOLOROR, C- DE 8 DIAS DE EVOLUCION , ELIMINANDO GASES",
+  "neurological_exam": "LUCIDA , SIN FOCO MOTOR NI MENINGEO",
+  "observations": "CON CNBF ITTE",
+  "id_paciente": {
+    "$oid": "60f6118f28c43f0015957bf5"
+  },
+  "blood_pressure": "111/73",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd7624d23e5400158842c5"
+  },
+  "date": {
+    "$date": "2021-07-25T14:33:08.765Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 80,
+  "cardiovascular_exam": "r1 r2 nf ns",
+  "breathing_frequency": 26,
+  "saturometry": 95,
+  "respiratory_exam": "crepitantess bibasales en en ambos campos pulmonares.",
+  "abdomen": "blando depresible catarsis +",
+  "neurological_exam": "bajo SA pupilas isocoricas reactivas",
+  "id_paciente": {
+    "$oid": "60fb2a14776a68001512f44d"
+  },
+  "blood_pressure": "146/107",
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd773fd23e5400158842c7"
+  },
+  "date": {
+    "$date": "2021-07-25T14:37:50.343Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 113,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS, SILENCIOS IMPRESIONAN LIBRES,SIN SIGNO DE FALLA",
+  "breathing_frequency": 18,
+  "saturometry": 98,
+  "respiratory_exam": "BMV , BEAB NO RUIDOS AGREGADOS",
+  "time_space": true,
+  "abdomen": "PLANO, BLANDO, DEPRESIBLE , INDOLORO, RHA+C+",
+  "neurological_exam": "LUCIDA SIN FOCO MOTOR NI MENINGEO",
+  "observations": "SIN REQUERIMIENTO DE OXIGENO",
+  "id_paciente": {
+    "$oid": "60fb9a6dad40930015ce27a8"
+  },
+  "blood_pressure": "156/79",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd7877d23e5400158842ca"
+  },
+  "date": {
+    "$date": "2021-07-25T14:43:02.968Z"
+  },
+  "type": "Médico",
+  "temperature": 36.5,
+  "heart_rate": 90,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS, SILENCIOS LIBRES, SIN SIGNO DE FALLA",
+  "breathing_frequency": 20,
+  "saturometry": 95,
+  "respiratory_exam": "BMV , BEAB CON CREPITANTES DESDE CAMPO MEDIO A BASE IZQUIERDO",
+  "time_space": true,
+  "abdomen": "GLOBOSO, BLANDO, DEPRESIBLE, INDOLORO, RHA+C- ELIMINANDO GASES",
+  "neurological_exam": "LUCIDO SIN FOCO MOTOR NI MENINGEO",
+  "observations": "PACIENTE CON MASCARA CON RESERVORIO DIA +3 ,SE CAMBIOA A VENTURI VERDE , SIENDO  EVALUADO EN PRONO",
+  "id_paciente": {
+    "$oid": "60fb1f5e776a68001512f447"
+  },
+  "blood_pressure": "110/70",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd7948d23e5400158842cc"
+  },
+  "date": {
+    "$date": "2021-07-25T14:46:32.513Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "cardiovascular_exam": "r1 r2 nf ns",
+  "breathing_frequency": 28,
+  "saturometry": 98,
+  "respiratory_exam": "buena entrada aire bilateral, crepitantes bibasales bilaterales",
+  "abdomen": "blando depresible Rh + catarsis +",
+  "neurological_exam": "bajo SA  pupilas isocoricas reactivas",
+  "observations": "ARM dia 2 VCV fio 75 pico 32 fr28 vt450 sat98 peep14, con NA 10 ml",
+  "id_paciente": {
+    "$oid": "60fc68d010e7d00015819a4f"
+  },
+  "blood_pressure": "158/84",
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd79f3d23e5400158842cf"
+  },
+  "date": {
+    "$date": "2021-07-25T14:49:23.239Z"
+  },
+  "type": "Médico",
+  "temperature": 35,
+  "heart_rate": 85,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS, SILENCIOS LIBRES, SIN SIGNO DE FALLA",
+  "breathing_frequency": 18,
+  "saturometry": 94,
+  "respiratory_exam": "BMV , BEAB NO RUIDOS AGREGADOS",
+  "time_space": true,
+  "abdomen": "GLOBOSO, BLANDO , DEPRESIBLE, INDOLORO, RHA+C+",
+  "neurological_exam": "LUCIDO SIN FOCO MOTOR NI MENINGEO",
+  "observations": "PACIENTE EVALUADO SIN OXIGENO SUPLEMENTARIO\nEVALUAR ALTA PARA LUNES 26/7",
+  "id_paciente": {
+    "$oid": "60f9d089e21b140015f0592f"
+  },
+  "blood_pressure": "112/75",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd7b45d23e5400158842d3"
+  },
+  "date": {
+    "$date": "2021-07-25T14:55:01.211Z"
+  },
+  "type": "Médico",
+  "temperature": 36.5,
+  "heart_rate": 89,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS , SILENCIOS LIBRES, SIN SIGNO DE FALLA",
+  "breathing_frequency": 18,
+  "saturometry": 94,
+  "respiratory_exam": "BMV , BEAB CON CREPITANTES BIBASALES",
+  "time_space": true,
+  "abdomen": "GLOBOSO ,BLANDO, DEPRESIBLE, INDOLORO, RHA+C+",
+  "neurological_exam": "LUCIDA SIN FOCO MOTOR NI MENINGEO",
+  "observations": "CON CNBF A 3 LTRS , SE COLOCA EN PRONO",
+  "id_paciente": {
+    "$oid": "60fc195505a4140015c6d89d"
+  },
+  "blood_pressure": "119/76",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd7b88d23e5400158842d4"
+  },
+  "date": {
+    "$date": "2021-07-25T14:56:08.744Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "cardiovascular_exam": "r1 r2 nf ns ",
+  "breathing_frequency": 20,
+  "saturometry": 99,
+  "respiratory_exam": "buena mecanica resp, buena entrada aire bilateral, mv+",
+  "abdomen": "blando depresible no doloroso",
+  "neurological_exam": "lucido vigil ote",
+  "observations": "pendiente RX torax control. modifico fio 50 sat99",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd7c81d23e5400158842d6"
+  },
+  "date": {
+    "$date": "2021-07-25T15:00:17.100Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 92,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS, SILENCIOS IMPRESIONAN LIBRES, SIN SIGNO DE FALLA",
+  "breathing_frequency": 28,
+  "saturometry": 93,
+  "respiratory_exam": "BMV , BEAB",
+  "time_space": true,
+  "abdomen": "PLANO, BLANDO, DEPRESIBLE, INDOLORO, RHA+C+",
+  "neurological_exam": "VIGIL , ORIENTADO EN 3 ESPACIOS, CON TENDENCIA AL SUEÑO",
+  "observations": "EVALUADO SIN OXIGENO SUPLEMENTARIO",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "blood_pressure": "118/80",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd7e5dd23e5400158842db"
+  },
+  "date": {
+    "$date": "2021-07-25T15:08:12.938Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 96,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS , SILENCIOS IMPRESIONAN LIBRES, SIN SIGNO DE FALLA",
+  "breathing_frequency": 18,
+  "saturometry": 97,
+  "respiratory_exam": "BMV , BEAB CON CREPITANTES BIBASALES",
+  "time_space": true,
+  "abdomen": "GLOBOSO, BLANDO, DEPRESIBLE, INDOLORO, RHA+C+",
+  "neurological_exam": "LUCIDO SIN FOCO MOTOR NI MENINGEO",
+  "observations": "CON VENTURI BLANCA",
+  "id_paciente": {
+    "$oid": "60f8c8185fd83a0015a72539"
+  },
+  "blood_pressure": "140/87",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd8070d23e5400158842dd"
+  },
+  "date": {
+    "$date": "2021-07-25T15:17:03.545Z"
+  },
+  "type": "Médico",
+  "temperature": 36.5,
+  "heart_rate": 97,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS , SILENCIOS LIBRES, SIN SIGNO DE FALLA",
+  "breathing_frequency": 18,
+  "saturometry": 97,
+  "respiratory_exam": "BMV , BEAB CON CREPITANTES BIBASALES",
+  "time_space": true,
+  "abdomen": "GLOBOSO, BLANDO , DEPRESIBLE, RHA+C+",
+  "neurological_exam": "LUCIDO SIN FOCO MOTOR NI MENINGEO",
+  "observations": "CON CNBF A 4 LTRS",
+  "id_paciente": {
+    "$oid": "60f78bf77585b300158d4444"
+  },
+  "blood_pressure": "138/84",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd80ffd23e5400158842de"
+  },
+  "date": {
+    "$date": "2021-07-25T15:19:27.416Z"
+  },
+  "type": "Médico",
+  "temperature": 37,
+  "heart_rate": 90,
+  "cardiovascular_exam": "r1 r2 nf ns ",
+  "breathing_frequency": 24,
+  "saturometry": 97,
+  "respiratory_exam": "hipoventilacion, crepitos bibasales en ambos campos pulmonares, posicion decubito prono",
+  "abdomen": "No valorable en posicion decubito prono",
+  "neurological_exam": "bajo SA, pupilas isocoricas reactivas",
+  "observations": "POSICION DECUBITO PRONO, ARM VCV  FIO 45 PEEP 10 SAT 97 PICO 38. HIPERTENSION ARTRERIAL 185-88 SE SUGIERE DESPRONAR",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "blood_pressure": "185/88",
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd831dd23e5400158842e1"
+  },
+  "date": {
+    "$date": "2021-07-25T15:28:28.547Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 70,
+  "cardiovascular_exam": "R1 R2 4 FOCOS, SILENCIOS IMPRESIONAN LIBRES",
+  "breathing_frequency": 20,
+  "saturometry": 96,
+  "respiratory_exam": "BMV BEAB CREPITANTES BIBASALES",
+  "abdomen": "BLANDO DEPRESIBLE INDOLORO RHA + GASES + CATRSIS -",
+  "neurological_exam": "LUCIDO, SIN SIGNOS DE FOCO MOTOR NI MENINGEO NI SENSITIVO",
+  "id_paciente": {
+    "$oid": "60f2d2e72f8796001533bb06"
+  },
+  "blood_pressure": "130/75",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd8418d23e5400158842e4"
+  },
+  "date": {
+    "$date": "2021-07-25T15:32:39.014Z"
+  },
+  "type": "Médico",
+  "temperature": 37,
+  "cardiovascular_exam": "r1 r2 nf ns",
+  "breathing_frequency": 24,
+  "saturometry": 98,
+  "respiratory_exam": "buena entrada aire, crepitos bibasales en ambos pulmones",
+  "abdomen": "Blando depresible no doloroso",
+  "neurological_exam": "bajo SA pupilas isocoricas y reactivas",
+  "observations": "pte en ARM vcv fio35 peep8 pico 26 sat98, inestable HDM con NA a 20 ml/h",
+  "id_paciente": {
+    "$oid": "60eddb7b62f4ce00155ec354"
+  },
+  "blood_pressure": "118/77",
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd846dd23e5400158842e5"
+  },
+  "date": {
+    "$date": "2021-07-25T15:34:04.608Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 70,
+  "cardiovascular_exam": "R1 R2 4 FOCOS, SILENCIOS IMPRESIONAN LIBRES ",
+  "breathing_frequency": 20,
+  "saturometry": 96,
+  "respiratory_exam": "BMV BEAB CREPITANTES BIBASALES",
+  "abdomen": "GLOBOSO, BLANDO DEPRESIBLE INDOLORO RHA + GASES + CATRSIS -",
+  "neurological_exam": "LUCIDO, SIN SIGNOS DE FOCO MOTOR NI MENINGEO NI SENSITIVO PIR",
+  "id_paciente": {
+    "$oid": "60f9e9dfe21b140015f0593c"
+  },
+  "blood_pressure": "130/80",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd8ca2d23e5400158842e7"
+  },
+  "date": {
+    "$date": "2021-07-25T16:09:05.396Z"
+  },
+  "type": "Médico",
+  "temperature": 37,
+  "cardiovascular_exam": "r1 r2 nf ns",
+  "breathing_frequency": 26,
+  "saturometry": 98,
+  "respiratory_exam": "hipoventilacion pulmon derecho (atelectasia), buena entrada aire pulmon izquierdo",
+  "abdomen": "blando depresible catarsis +",
+  "neurological_exam": "bajo Sa pupilas isocorricas reactivas",
+  "observations": "rotacion a decubito lateral izquierdo mejora saturacion , ARM VCV fio0.70  PEEP 10 recluta terapista pico 27, solicito nuevo gases arterial.",
+  "id_paciente": {
+    "$oid": "60f25ab288b36f00150c865b"
+  },
+  "blood_pressure": "140/98",
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60feee3fd284320015002ebc"
+  },
+  "date": {
+    "$date": "2021-07-26T17:17:50.401Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 70,
+  "cardiovascular_exam": "R1 R2 4 FOCOS, SILENCIOS IMPRESIONAN LIBRES",
+  "breathing_frequency": 20,
+  "saturometry": 96,
+  "respiratory_exam": "BMV BEAB CREPITANTES BIBASALES",
+  "abdomen": "GLOBOSO BLANDO DEPRESIBLE INDOLORO RHA + GASES + CATRSIS +",
+  "neurological_exam": "LUCIDA, SIN SIGNOS DE FOCO MOTOR NI MENINGEO NI SENSITIVO PIR",
+  "id_paciente": {
+    "$oid": "60f21308c5d88c0015847759"
+  },
+  "blood_pressure": "120/70",
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fef00cd284320015002ec0"
+  },
+  "date": {
+    "$date": "2021-07-26T17:25:31.946Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "skin": "lesiones costrosas en rostro",
+  "soft_parts": "edema",
+  "heart_rate": 94,
+  "cardiovascular_exam": "pulso regular",
+  "breathing_frequency": 24,
+  "saturometry": 96,
+  "respiratory_exam": "roncus en ambas bases",
+  "time_space": false,
+  "abdomen": "timpanico, depresible",
+  "neurological_exam": "pirs, con algunos despertares",
+  "observations": "Pte en ARM modo VCV, en PRONO: fi02: 60 FR:24 VT_400 PEEP:10 SENS: 2  COMPL: 30 EN SUPINO: FI02: 0,75 COMPL:30 SIN CAMBIOS",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "blood_pressure": "149/93",
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fef05bd284320015002ec1"
+  },
+  "date": {
+    "$date": "2021-07-26T17:26:50.400Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 74,
+  "cardiovascular_exam": "R1 R2 4 FOCOS, SILENCIOS IMPRESIONAN LIBRES",
+  "breathing_frequency": 20,
+  "saturometry": 96,
+  "respiratory_exam": "BMV BEAB CREPITANTES BIBASALES",
+  "abdomen": "BLANDO DEPREISBLE INDOLORO RHA + GASES + CATRSIS +",
+  "neurological_exam": "LUCIDO, SIN SIGNOS DE FOCO OTOR NI MENINGEO NI SENSITIVO PIR",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "blood_pressure": "120/75",
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff07cdd284320015002ec8"
+  },
+  "date": {
+    "$date": "2021-07-26T19:06:54.155Z"
+  },
+  "type": "Médico",
+  "temperature": 36.5,
+  "heart_rate": 95,
+  "cardiovascular_exam": "2 RUIODOS EN 4 FOCOS, SILENCIOS LIBRES, SIN SIGNO DE FALLA",
+  "breathing_frequency": 18,
+  "saturometry": 98,
+  "respiratory_exam": "BMV , BEAB NO RUIDOS AGREGADOS",
+  "time_space": true,
+  "abdomen": "PLANBO , BLANDO , DEPRESIBLE, INDOLOR, RHA+C+",
+  "neurological_exam": "LUCIDA SIN FOCO MOTOR NI MENINGEO",
+  "observations": "PACINETE SIN REQUERIMIENTO DE OXIGENO SUPLEMENTARIO , CON CETOACIDOSIS DBT EN RESOLUCION",
+  "id_paciente": {
+    "$oid": "60fb9a6dad40930015ce27a8"
+  },
+  "blood_pressure": "150/90",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff0af3d284320015002ecc"
+  },
+  "date": {
+    "$date": "2021-07-26T19:20:17.957Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 80,
+  "cardiovascular_exam": "R1 R2 4 FOCOS, SILENCIOS IMPRESIONAN LIBRES SIN SIGNOS DE FALLA AGUDA DE BOMBA",
+  "breathing_frequency": 20,
+  "saturometry": 97,
+  "respiratory_exam": "BMV BEAB IMPRESIONA CREPITANTES BIBASALES",
+  "abdomen": "BLANDO DEPRESIBLE INDOLORO RHA + GASES + CATRSIS +",
+  "neurological_exam": "LUCIDO, SIN SIGNOS DE FOCO MOTOR NI MENINGEO NI SENSITIVO PIR",
+  "id_paciente": {
+    "$oid": "60f2d2e72f8796001533bb06"
+  },
+  "blood_pressure": "130/70",
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff0b05d284320015002ecd"
+  },
+  "date": {
+    "$date": "2021-07-26T19:20:38.210Z"
+  },
+  "type": "Médico",
+  "temperature": 36.3,
+  "heart_rate": 85,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS, SILENCIOS LIBRES , SIN SIGNO DE falla",
+  "breathing_frequency": 18,
+  "saturometry": 97,
+  "respiratory_exam": "BMV , BEA CON CREPITANTES DESDE CAMPO MEDIO A BASE DERECHO",
+  "time_space": true,
+  "abdomen": "GLOBOSO, BLANDO, DEPRESIBLE , INDOLORO , RHA+, C+",
+  "neurological_exam": "LUCIDA SIN FOCO MOTOR NI MENINGEO",
+  "observations": "SIN REQUERIMIENTO DE OXIGENO SUPLEMENTARIO",
+  "id_paciente": {
+    "$oid": "60f6118f28c43f0015957bf5"
+  },
+  "blood_pressure": "110/70",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff0c2dd284320015002ecf"
+  },
+  "date": {
+    "$date": "2021-07-26T19:25:33.695Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 85,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS , SILENCIOS LIBRES, SIN SIGNO DE FALLA ",
+  "breathing_frequency": 18,
+  "saturometry": 94,
+  "respiratory_exam": "BMV , BEAB CON CREPITANTES BIBASALES A PREDOMINIO DERECHO",
+  "time_space": true,
+  "abdomen": "GLOBOSO, BLANDO, DEPRESIBLE, INDOLORO, RHA+C+",
+  "neurological_exam": "LUCIDA SIN FOCO MOTOR NI MENINGEO",
+  "observations": "CON CNBF A 4 LTRS",
+  "id_paciente": {
+    "$oid": "60fc195505a4140015c6d89d"
+  },
+  "blood_pressure": "120/70",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff0d73d284320015002ed1"
+  },
+  "date": {
+    "$date": "2021-07-26T19:30:59.227Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 85,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS, SILENCIOS LIBRES, SIN SIGNO DE FALLA",
+  "breathing_frequency": 18,
+  "saturometry": 96,
+  "respiratory_exam": "BMV , BEAB CON CREPITANTES BIBASALES",
+  "time_space": true,
+  "abdomen": "GLOBOSO, BLANDO, DPERESIBLE, INDOLORO, RHA+C+",
+  "neurological_exam": "LUCIDO SIN FOCO MOTOR NI MENINGEO",
+  "observations": "CON VENTURI VERDE BUENA EVOLUCION Y RTA A LA OXIGENOTERAPIA",
+  "id_paciente": {
+    "$oid": "60fb1f5e776a68001512f447"
+  },
+  "blood_pressure": "120/80",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff0e99d284320015002ed3"
+  },
+  "date": {
+    "$date": "2021-07-26T19:35:53.141Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 85,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS, SILENCIOS LIBRES SIN SIGNO DE FALLA",
+  "breathing_frequency": 16,
+  "saturometry": 94,
+  "respiratory_exam": "BMV ,BEAB",
+  "time_space": true,
+  "abdomen": "GLOBOSO, BLANDO , DEPRESIBLE, INDOLORO, RHA+C+",
+  "neurological_exam": "LUCIDO SIN FOCO MOTOR NI MENINGEO",
+  "observations": "PACIENTE ANSIOSO, SE QUIERE IR A SU DOMICILIO",
+  "id_paciente": {
+    "$oid": "60f9d089e21b140015f0592f"
+  },
+  "blood_pressure": "130/85",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff0f3fd284320015002ed5"
+  },
+  "date": {
+    "$date": "2021-07-26T19:38:39.419Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 85,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS SILENCIOS LIBRES , SIN SIGNO DE FALLA ",
+  "breathing_frequency": 18,
+  "saturometry": 97,
+  "respiratory_exam": "BMV , BEAB CON CREPITANTES BIBASALES",
+  "time_space": true,
+  "abdomen": "GLOBOSO, BLANDO, DEPRESIBLE, INDOLORO, RHA+C+",
+  "neurological_exam": "LUCIDO SIN FOCO MOTOR NI MENINGEO",
+  "observations": "PACIENTE CON CNBF ITTE , BUENA TOLERANCIA A LOS EJERCICIOS RESPIRATORIOS",
+  "id_paciente": {
+    "$oid": "60f8c8185fd83a0015a72539"
+  },
+  "blood_pressure": "120/70",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff108dd284320015002ed7"
+  },
+  "date": {
+    "$date": "2021-07-26T19:44:13.525Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 85,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS, SILENCIOS IMPRESIONAN LIBRES, SIN SIGNO DE FALLA",
+  "breathing_frequency": 18,
+  "saturometry": 98,
+  "respiratory_exam": "BMV , BEAB CON CREPITANTES BIBASALES",
+  "time_space": true,
+  "abdomen": "GLOBOSO, BLANDO, DEPRESIBLE, INDOLORO, RHA+C+",
+  "neurological_exam": "LUCIDO SIN FOCO MOTOR NI MENINGEO",
+  "observations": "CON CNBF A 4 LTRS",
+  "id_paciente": {
+    "$oid": "60f78bf77585b300158d4444"
+  },
+  "blood_pressure": "130/70",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff1157d284320015002eda"
+  },
+  "date": {
+    "$date": "2021-07-26T19:47:33.211Z"
+  },
+  "type": "Médico",
+  "temperature": 36.3,
+  "heart_rate": 85,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS , SIELNCIOS LIBRES SIN SIGNO DE FALLA",
+  "breathing_frequency": 16,
+  "saturometry": 94,
+  "respiratory_exam": "BMV , BEAB",
+  "time_space": true,
+  "abdomen": "PLANO, BLANDO, DEPRESIBLE, INDOLORO, RHA+C+",
+  "neurological_exam": "LUCIDO SIN FOCO MOTOR NI MENINGEO",
+  "observations": "CONTINUA CON DOLOR OCULAR IZQUIERDO , DOLOR Y ARDOR A LA APERTURA, MUCOSA ERITEMATOSA.",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "blood_pressure": "110/70",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff115ed284320015002edb"
+  },
+  "date": {
+    "$date": "2021-07-26T19:47:41.078Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 72,
+  "cardiovascular_exam": "R1 R2 4 FOCOS, SILENCIOS IMPRESIONAN LIBRES",
+  "breathing_frequency": 18,
+  "saturometry": 97,
+  "respiratory_exam": "BMV BEAB CREPITANTES BIBASALES",
+  "abdomen": "BLANDO DEPRESIBLE INDOLORO RHA + GASES + CATRSIS",
+  "neurological_exam": "LUCIDO, SIN SIGNOS DE FOCO MOTOR NI MENINGEO NI SENSITIVO PIR",
+  "id_paciente": {
+    "$oid": "60f9e9dfe21b140015f0593c"
+  },
+  "blood_pressure": "120/75",
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff5d2731208e0015206d66"
+  },
+  "date": {
+    "$date": "2021-07-27T01:11:02.565Z"
+  },
+  "type": "Médico",
+  "temperature": 38,
+  "heart_rate": 88,
+  "cardiovascular_exam": "R1 R2 NF NS",
+  "breathing_frequency": 22,
+  "saturometry": 96,
+  "respiratory_exam": "BUENA MECANICA VENTILATORIA Y ENTRADA DE AIRE, HIPOVENTILACION LADO IZQ",
+  "abdomen": "RH + ABDND. PPRB - PRUT -",
+  "neurological_exam": "LUCIDO VIGIL OTE GLAS 15/15",
+  "observations": "PTE OBESO CON VENTURI BLANCO A 4LS SATURA 100% ,BUENA MECANICA VENTILATORIA Y ENTRADA DE AIRE, HIPOVENTILACION LADO IZQ. SOLICITO LABORATORIO Y RX TORAX",
+  "id_paciente": {
+    "$oid": "60ff577431208e0015206d63"
+  },
+  "blood_pressure": "129/91",
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff664431208e0015206d76"
+  },
+  "date": {
+    "$date": "2021-07-27T01:49:55.553Z"
+  },
+  "type": "Médico",
+  "temperature": 37,
+  "heart_rate": 95,
+  "cardiovascular_exam": "R1 R2 NF NS",
+  "breathing_frequency": 32,
+  "saturometry": 68,
+  "respiratory_exam": "MALA MECANICA VENTILATORIA Y ENTRADA DE AIRE BILATERAL, CREPITANTES EN AMBOS CAMPOS PULMONARES, USO MUSC ACCESORIOS.",
+  "abdomen": "RH+ ABDND",
+  "neurological_exam": "AGITACION PSICOMOTRIZ, DESORIENTACION TEMPORO ESPACIAL GLAS 11/15",
+  "observations": "PTE FEMINA DE 61 AÑOS, INGRESA POR NEUMOPATIA BILATERAL COVID + TAQUIPNEICA MALA MECANICA VENTILATORIA Y ENTRADA DE AIRE CREPITANTES EN AMBOS PULMONES, SATO2 MASCARA RESERVORIO 68% AL INGRESO. ANTECEDENTE DBT, IR, HTA, DEMENCIA, CARDIOPATIA, CEGUERA. ACTUALMENTE ESTA CNAF FLUJO 60LT FIO2 100%, ACCESO VENOSO CENTRAL YUGULAR MEDIO DERECHO.",
+  "id_paciente": {
+    "$oid": "60ff60b031208e0015206d6b"
+  },
+  "blood_pressure": "101/50",
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff78f031208e0015206d80"
+  },
+  "date": {
+    "$date": "2021-07-27T03:09:35.682Z"
+  },
+  "type": "Médico",
+  "temperature": 37,
+  "heart_rate": 95,
+  "cardiovascular_exam": "r1 r2 NF NS",
+  "breathing_frequency": 30,
+  "saturometry": 80,
+  "respiratory_exam": "MALA MECANICA VENTILATORIA Y ENTRADA DE  AIRE, USO DE MUSCULOS ACCESORIOS, CREPITOS BILATERALES",
+  "abdomen": "RH+ ABND CATARSIS - ( hace 3 dias)",
+  "neurological_exam": "LUCIDO VIGIL OTE, GLASG 12/15 PUPILAS ISOCORICAS REACTIVAS",
+  "observations": "PTE MASCULINO INGRESA TAQUINEICO CON MASCARA RESERVORIO SATO2 80% MALA MECANICA VENTILATORIA E INGRESO DE AIRE Y CREPITOS EN AMBOS CAMPOS PULMONARES. ANTECED HIPERTIROIDISMO MEDICADO PROPANOLOL 40MG Y DANANTIZOL 20 MG. TIENE ACCESO VENOSO PERIFERICO",
+  "id_paciente": {
+    "$oid": "60ff760431208e0015206d7b"
+  },
+  "blood_pressure": "150/90",
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61002e02360f430015dede75"
+  },
+  "date": {
+    "$date": "2021-07-27T16:02:08.880Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "skin": "HEMATOMAS",
+  "heart_rate": 106,
+  "cardiovascular_exam": "PULSO REGULAR",
+  "breathing_frequency": 24,
+  "saturometry": 97,
+  "respiratory_exam": "HIPOVENTIULACION DE LADO IZQUIERDO",
+  "time_space": false,
+  "abdomen": "BLANDO, DEPRESIBLE",
+  "neurological_exam": "PIRS, CON ALGUNOS DESPERTARES",
+  "observations": "Pte 11° días en ARM, pafi: 134 con atelectasia de lado izquierdo. Modo VCV, FIO2: 0,50 TINS: 0,9 FR:24. Se retira dexmedetomidina por indicación Dr.Mazza.",
+  "id_paciente": {
+    "$oid": "60f25ab288b36f00150c865b"
+  },
+  "blood_pressure": "150/68",
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61005b11360f430015dede87"
+  },
+  "date": {
+    "$date": "2021-07-27T19:14:23.891Z"
+  },
+  "type": "Médico",
+  "temperature": 36.5,
+  "heart_rate": 85,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS, SILENCIOS LIBRES SIN SIGNO DE FALLA",
+  "breathing_frequency": 18,
+  "saturometry": 97,
+  "respiratory_exam": "BMV , CON CREPITANTES BIBASALES A PREDOMINIO IZQUIERDO",
+  "time_space": true,
+  "abdomen": "GLOBOSO, BLANDO, DEPRESIBLE, INDOLORO, RHA+C+",
+  "neurological_exam": "LUCIDA SIN FOCO MOTOR NI MENINGEO",
+  "observations": "CON VENTURI NARANJA",
+  "id_paciente": {
+    "$oid": "60f21308c5d88c0015847759"
+  },
+  "blood_pressure": "120/70",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61005bf0360f430015dede89"
+  },
+  "date": {
+    "$date": "2021-07-27T19:18:06.486Z"
+  },
+  "type": "Médico",
+  "temperature": 36.5,
+  "heart_rate": 85,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS, SILENCIOS LIBRES , SIN SIGNO DE FALLA",
+  "breathing_frequency": 18,
+  "saturometry": 95,
+  "respiratory_exam": "BMV , CREPITANTES BILATERALES A PREDOMINIO DERECHO , DESDE CAMPO MEDIO A BASE",
+  "time_space": true,
+  "abdomen": "GLOBOSO, BLANDO, DEPRESIBLE, INDOLORO, RHA+C+",
+  "neurological_exam": "LUCIDA SIN FOCO MOTOR NI MENINGEO",
+  "observations": "PACIENTE EVALUADA CON CNBF A 4 LTRS , CON SATURACION QUE DESCIENDE A 93-91% , SE DECIDE COLOCAR VENTURI",
+  "id_paciente": {
+    "$oid": "60fc195505a4140015c6d89d"
+  },
+  "blood_pressure": "110/70",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61005c98360f430015dede8b"
+  },
+  "date": {
+    "$date": "2021-07-27T19:20:54.221Z"
+  },
+  "type": "Médico",
+  "temperature": 36.5,
+  "heart_rate": 85,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS , SILENCIOS LIBRES, SIN SIGNO DE FALLA",
+  "breathing_frequency": 18,
+  "saturometry": 98,
+  "respiratory_exam": "BMV ,BEAB CON CREPITANTES BIBASALES",
+  "time_space": true,
+  "abdomen": "GLOBOSO, BLANDO, DEPRESIBLE, INDOLORO, RHA+C+",
+  "neurological_exam": "LUCIDO SIN FOCO MOTOR NI MENINGEO",
+  "observations": "PACIENTE CON CNBF SE BAJA FLUJO A 2 LTRS",
+  "id_paciente": {
+    "$oid": "60f78bf77585b300158d4444"
+  },
+  "blood_pressure": "140/70",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61005e93360f430015dede8e"
+  },
+  "date": {
+    "$date": "2021-07-27T19:29:21.898Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 70,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS, SILENCIOS LIBRES, SIN SIGNO DE FALLA",
+  "breathing_frequency": 18,
+  "saturometry": 98,
+  "respiratory_exam": "BMV, BEAB NO RUIDOS AGREGADOS",
+  "time_space": true,
+  "abdomen": "PLANO, BLANDO , DEPRESIBLE, INDOLORO, RHA+C+",
+  "neurological_exam": "LUCIDO SIN FOCO MOTOR NI MENINGEO",
+  "observations": "SIN REQUERIMIENTO DE OXIGENO HACE 24 HS , SE PLANIFICA ALTA PARA 27/07/2021",
+  "id_paciente": {
+    "$oid": "60f2d2e72f8796001533bb06"
+  },
+  "blood_pressure": "130/80",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61005f84360f430015dede90"
+  },
+  "date": {
+    "$date": "2021-07-27T19:33:22.425Z"
+  },
+  "type": "Médico",
+  "temperature": 36.5,
+  "heart_rate": 75,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS , SILENCIOS IMPRESIONAN LIBRES SIN SIGNO DE FALLA",
+  "breathing_frequency": 18,
+  "saturometry": 97,
+  "respiratory_exam": "BMV , BEAB CON CREPITANTES BIBASALES",
+  "time_space": true,
+  "abdomen": "GLOBOSO, BLANDO, DEPRESIBLE, INDOLORO, RHA+C- ELIMINANDO GASES",
+  "neurological_exam": "LUCIDOS SIN FOCO MOTOR NI MENINGEO",
+  "observations": "CON VENTURI NARANJA (SE BAJO FIO2)",
+  "id_paciente": {
+    "$oid": "60fb1f5e776a68001512f447"
+  },
+  "blood_pressure": "110/80",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610060b6360f430015dede92"
+  },
+  "date": {
+    "$date": "2021-07-27T19:38:28.599Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 80,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS, SILENCIOS IMPRESIONAN LIBRES, SIN SIGNO DE FALLA ",
+  "breathing_frequency": 18,
+  "saturometry": 95,
+  "respiratory_exam": "BMV , BEAB",
+  "time_space": true,
+  "abdomen": "PLANO, BLANDO, DEPRESIBLE, INDOLORO, RHA+C+",
+  "neurological_exam": "LUCIDO SIN FOCO MOTOR NI MENINGEO",
+  "observations": "SIN REQUERIMIENTO DE OXIGENO \nCON PARCHE OCLUSIVO EN OJO IZQUIERDO POR ULCERA CORNEAL , A SER CONTROLADA HOY",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "blood_pressure": "110/70",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61006183360f430015dede94"
+  },
+  "date": {
+    "$date": "2021-07-27T19:41:53.347Z"
+  },
+  "type": "Médico",
+  "temperature": 36.5,
+  "heart_rate": 85,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS ,SILENCIOS IMPRESIONA LIBRES SIN SIGNO DE FALLA",
+  "breathing_frequency": 18,
+  "saturometry": 98,
+  "respiratory_exam": "BMV ,BEAB CON CREPITRANTES BIBASALES",
+  "time_space": true,
+  "abdomen": "GLOBOSO, BLANDO, DEPRESIBLE, INDOLORO, RHA+C+",
+  "neurological_exam": "LUCIDA SIN FOCO MOTOR NI MENINGEO",
+  "observations": "SIN REQUERIMIENTO DE OXIGENO HACE MAS DE 24 HS , EN CONDICIONES DE ALTA MEDICA, ESPERA TRASLADO A SU DOMICILIO POR AMBULANCIA DE LORETO",
+  "id_paciente": {
+    "$oid": "60f6118f28c43f0015957bf5"
+  },
+  "blood_pressure": "110/80",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610063d3360f430015dede98"
+  },
+  "date": {
+    "$date": "2021-07-27T19:51:45.965Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 80,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS , SILENCIOS IMPRESIONAN LIBRES SIN SIGNO DE FALLA",
+  "breathing_frequency": 17,
+  "saturometry": 98,
+  "respiratory_exam": "BMV ,BEAB",
+  "time_space": true,
+  "abdomen": "PLANO, BLANDO, DEPRESIBLE , INDOLORO, RHA+C+",
+  "neurological_exam": "LUCIDA SIN FOCO MOTOR NI MENINGEO",
+  "observations": "PACIENTE SIN BOMBA DE INSULINA PRESENTA HGT CONTROL: 237 /215/345",
+  "id_paciente": {
+    "$oid": "60fb9a6dad40930015ce27a8"
+  },
+  "blood_pressure": "130/70",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6100673e360f430015dede9e"
+  },
+  "date": {
+    "$date": "2021-07-27T20:06:20.815Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 80,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS , SILENCIOS LIBRES, SIN SIGNO DE FALLA",
+  "breathing_frequency": 18,
+  "saturometry": 97,
+  "respiratory_exam": "BMV, BEAB CON CREPITANTES BIBASALES",
+  "time_space": true,
+  "abdomen": "GLOBOSO, BLANDO, DEPRESIBLE, INDOLORO, RHA+C+",
+  "neurological_exam": "LUCIDO SIN FOCO",
+  "observations": "CON VENTURI",
+  "id_paciente": {
+    "$oid": "60ff577431208e0015206d63"
+  },
+  "blood_pressure": "110/70",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101a3dec57c7c0015ae9b3a"
+  },
+  "date": {
+    "$date": "2021-07-28T18:37:16.871Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 85,
+  "cardiovascular_exam": "2 RUIDOS EN 4 FOCOS SILENCIOS LIBRES, SIN SIGNO DE FALLA",
+  "breathing_frequency": 18,
+  "saturometry": 96,
+  "respiratory_exam": "BMV , BEAB CON CREPITANTES BIBASALES",
+  "time_space": true,
+  "abdomen": "GLOBOSO, BLANDO, DEPRESIBLE, INDOLORO, RHA+C+",
+  "neurological_exam": "LUCIDO SIN FOCO MOTOR NI MENINGEO",
+  "observations": "CON VENTURI",
+  "id_paciente": {
+    "$oid": "60fb1f5e776a68001512f447"
+  },
+  "blood_pressure": "120/70",
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101a476c57c7c0015ae9b3c"
+  },
+  "date": {
+    "$date": "2021-07-28T18:39:49.671Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 72,
+  "cardiovascular_exam": "R1 R2 4 FOCOS, SILENCIOS IMPRESIONAN LIBRES",
+  "breathing_frequency": 18,
+  "saturometry": 97,
+  "respiratory_exam": "BMV BEAB SIN RUIDOS AGREGADOS",
+  "abdomen": "BLANDO DEPRESIBLE INDOLORO RHA + GASES + CATRSIS +",
+  "neurological_exam": "LUCIDO, SIN SIGNOS DE FOCO MOTOR NI MENINGEO NI SENSITIVO PIR",
+  "id_paciente": {
+    "$oid": "60f78bf77585b300158d4444"
+  },
+  "blood_pressure": "120/75",
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101a5cbc57c7c0015ae9b41"
+  },
+  "date": {
+    "$date": "2021-07-28T18:45:30.189Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 70,
+  "cardiovascular_exam": "R1 R2 4 FOCOS, SILENCIOS IMPRESIONAN LIBRES ",
+  "breathing_frequency": 20,
+  "saturometry": 96,
+  "respiratory_exam": "BMV BEAB CREPITANTES BIBASALES",
+  "abdomen": "GLOBOSO, BLANDO DEPRESIBLE INDOLORO RHA + GASES + CATARSIS",
+  "neurological_exam": "LUCIDA, SIN SIGNOS DE FOCO MOTOR NI MENINGEO NI SENSITIVO PIR",
+  "id_paciente": {
+    "$oid": "60f21308c5d88c0015847759"
+  },
+  "blood_pressure": "110/70",
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101a83fc57c7c0015ae9b43"
+  },
+  "date": {
+    "$date": "2021-07-28T18:55:58.439Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 70,
+  "cardiovascular_exam": "R1 R2 4 FOCOS, SILENCIOS IMPRESIONAN LIBRES SIN SIGNOS DE FALLA AGUDA DE BOMBA",
+  "breathing_frequency": 20,
+  "saturometry": 97,
+  "respiratory_exam": "BMV BEAB CON CREPITANTES BIBASALES",
+  "abdomen": "BLANDO DEPRESIBLE INDOLORO RHA + GASES + CATRSIS -",
+  "neurological_exam": "LUCIDA, SIN SIGNOS DE FOCO MOTOR NI MENINGEO NI SENSITIVO PIR",
+  "id_paciente": {
+    "$oid": "60fc195505a4140015c6d89d"
+  },
+  "blood_pressure": "125/85",
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101ac68c57c7c0015ae9b47"
+  },
+  "date": {
+    "$date": "2021-07-28T19:13:42.145Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 80,
+  "cardiovascular_exam": "R1 R2 4 FOCOS, SILENCIOS IMPRESIONAN LIBRES",
+  "breathing_frequency": 20,
+  "saturometry": 96,
+  "respiratory_exam": "BMV BEAB CREPITANTES BIBASALES",
+  "abdomen": "BLANDO DEPRESIBLE INDOLORO RHA + GASES + CATRSIS +",
+  "neurological_exam": "LUCIDO, SIN SIGNOS DE FOCO MOTOR NI MENINGEO NI SENSITIVO PIR",
+  "id_paciente": {
+    "$oid": "61007ff6360f430015dedea1"
+  },
+  "blood_pressure": "120/75",
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101b02fc57c7c0015ae9b4e"
+  },
+  "date": {
+    "$date": "2021-07-28T19:29:50.665Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 80,
+  "cardiovascular_exam": "R1 R2 4 FOCOS, SILENCIOS IMPRESIONAN LIBRES ",
+  "breathing_frequency": 28,
+  "saturometry": 96,
+  "respiratory_exam": "RMV POR TIRAJE INTERCOSTAL, MV DISMINUIDA PACIENTE CON CNAF FIO 100 FLUJO 60\nQUE ALTERNA CON VNI",
+  "abdomen": "BLANDO DEPREISBLE INDOLORO RHA + GASES + CATRSI",
+  "neurological_exam": "LUCIDO, SIN SIGNOS DE FOCO MOTOR NI ENINGEO NI SENSITIVO PIR",
+  "id_paciente": {
+    "$oid": "60ff760431208e0015206d7b"
+  },
+  "blood_pressure": "130/75",
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101b123c57c7c0015ae9b51"
+  },
+  "date": {
+    "$date": "2021-07-28T19:33:53.571Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 74,
+  "cardiovascular_exam": "R1 R2 4 FOCOS, SILENCIOS IMPRESIONAN LIBRES",
+  "breathing_frequency": 20,
+  "saturometry": 97,
+  "respiratory_exam": "BMV BEAB CREPITANTES BIBASALES",
+  "abdomen": "GLOBOSO BLANDO DEPRESIBLE INDOLORO RHA + GASES + CATRSIS +",
+  "neurological_exam": "LUCIDO, SIN SIGNOS DE FOCO MOTOR NI MENINGEO NI SENSITIVO PIR",
+  "id_paciente": {
+    "$oid": "60f9e9dfe21b140015f0593c"
+  },
+  "blood_pressure": "120/75",
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101b1eac57c7c0015ae9b55"
+  },
+  "date": {
+    "$date": "2021-07-28T19:37:13.672Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 84,
+  "cardiovascular_exam": "R1 R2 4 FCOS, SILENCIOS IMPRESIONAN LIBRES ",
+  "breathing_frequency": 18,
+  "saturometry": 97,
+  "respiratory_exam": "BMV BEAB CREPITANTES BIBASALES",
+  "abdomen": "BLANDO DEPRESIBLE INDOLORO RHA + GASES + CATRSIS +",
+  "neurological_exam": "LUCIDO, SIN SIGNOS DE FOCO MOTOR NI MENINGEO NI SENSITIVO",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "blood_pressure": "130/80",
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101b2f7c57c7c0015ae9b58"
+  },
+  "date": {
+    "$date": "2021-07-28T19:41:43.207Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 70,
+  "cardiovascular_exam": "R1 R2 4 FOCOS, SILENCIOS IMPRESIONAN LIBRES",
+  "breathing_frequency": 18,
+  "saturometry": 96,
+  "respiratory_exam": "BMV BEAB CREPTANTES BIBASALES",
+  "abdomen": "BLANDO DEPRESIBLE INDOLORO RHA + GASES + CATRSIS +",
+  "neurological_exam": "LUCIDO, SIN SIGNOS DE FALLA AGUDA DE BOMBA",
+  "id_paciente": {
+    "$oid": "60ff577431208e0015206d63"
+  },
+  "blood_pressure": "130/75",
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101cb68ca76ec0015b6cc0d"
+  },
+  "date": {
+    "$date": "2021-07-28T21:25:59.133Z"
+  },
+  "type": "Médico",
+  "temperature": 37.5,
+  "soft_parts": "HEMATOMAS",
+  "heart_rate": 125,
+  "cardiovascular_exam": "TAQUICARDIA, PULSO REGULAR, R1-R2 NORMOFONETICOS",
+  "breathing_frequency": 24,
+  "saturometry": 98,
+  "respiratory_exam": "ABUNDANTES RONCUS ,",
+  "time_space": false,
+  "abdomen": "BLANDO, DEPRESIBLE, CATARSIS (-)",
+  "neurological_exam": "PUPILAS SIMETRICAS, INTERMEDIAS? HIPOREACTIVAS",
+  "observations": "Pte 12° en ARM Modo VCV FI02: 0,45 TINS: 0,90 FR:24 VT:400 PEEP: 12 SENS: 3 PICO: 29 COMP EST: 30 PLATEAU: 24 DP: 12 ,se encontraba lateralizada del lado izq, por atelectasia base pulmonar derecha.Al tener pafi: 124 se decide pronar.Hoy se encontro febril, con TA elevada, se pidieron cultivos e indico labetalol sos.",
+  "id_paciente": {
+    "$oid": "60f25ab288b36f00150c865b"
+  },
+  "blood_pressure": "213/115",
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101d0caca76ec0015b6cc0f"
+  },
+  "date": {
+    "$date": "2021-07-28T21:48:57.154Z"
+  },
+  "type": "Médico",
+  "temperature": 36.5,
+  "skin": "PIODERMITIS EN PABELLÓN AURICULAR DERECHO",
+  "heart_rate": 82,
+  "cardiovascular_exam": "r1-r2 normofoneticos, extrasistole aisladas, pte con dx de estenosis aortica",
+  "breathing_frequency": 26,
+  "saturometry": 98,
+  "respiratory_exam": "hipoventilacion en base pulmonar derecha, roncus en acp",
+  "time_space": false,
+  "abdomen": "blando, depresible, con talla vesical",
+  "neurological_exam": "pupilas mioticas, simetricas, reactivas",
+  "observations": "Pte en ARM, MODO vcv fi02: 35 peep:10 fr:26 tins:0,90 vt:480  ppico:24   plateau:22 compl est: 36",
+  "id_paciente": {
+    "$oid": "60eddb7b62f4ce00155ec354"
+  },
+  "blood_pressure": "130/80",
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101d94dca76ec0015b6cc15"
+  },
+  "date": {
+    "$date": "2021-07-28T22:25:16.495Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "skin": "lesiones ( escaras) en rostro",
+  "heart_rate": 104,
+  "cardiovascular_exam": "r1-r2 normofoneticos, Valores elevados de TA, taquicardia coincide con despertares de la paciente",
+  "breathing_frequency": 24,
+  "saturometry": 97,
+  "respiratory_exam": "abundantes roncus en acp",
+  "time_space": false,
+  "abdomen": "en prono",
+  "neurological_exam": "pupila derecha: miotica, reactiva, MIDA: 35  FENTA: 35 ATRACURIO: 35",
+  "observations": "Pte en ARM , modo VCV FIO2: 30 TINS: 0,90 FR:24 A 26 VT: 380 PEEP:6 SE SUBE A 8 POR MEJOR COMPLIANCE: 30 A 37 PICO: 30 PLATEAU: 19 PAFI EN PRONO 24 HS : 236",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "blood_pressure": "184/87",
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101df94ca76ec0015b6cc1b"
+  },
+  "date": {
+    "$date": "2021-07-28T22:52:03.124Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "heart_rate": 70,
+  "cardiovascular_exam": "pulso regular",
+  "breathing_frequency": 22,
+  "saturometry": 98,
+  "respiratory_exam": "mv presente, roncus en acp",
+  "time_space": false,
+  "abdomen": "globuloso, depresible",
+  "neurological_exam": "pupilas intermedias? hiporeactivas MIDA:35 FENTA:35 ATR:35",
+  "observations": "Pte en ARM 18°, MODO VCV FI02: 44 A 40 , T INS: 0,9 FR:22  VT:400 PEEP: 8 SENS: 3",
+  "id_paciente": {
+    "$oid": "60e75d3e17aa280015b25d00"
+  },
+  "blood_pressure": "134/60",
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101e500ca76ec0015b6cc1f"
+  },
+  "date": {
+    "$date": "2021-07-28T23:15:11.617Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "soft_parts": "edema en rostro",
+  "heart_rate": 80,
+  "cardiovascular_exam": "pulso regular, tendencia a la bradicardia, NAD: 2 ML /H",
+  "breathing_frequency": 26,
+  "saturometry": 96,
+  "respiratory_exam": "MV DISMINUIDO",
+  "time_space": false,
+  "abdomen": "globuloso, depresible",
+  "neurological_exam": "PIRS, MIDA: 35  FENTA: 21  PANCURONIO:35",
+  "observations": "Pte en ARM, MODO VCV: VT:470 0,90  FR:28 PEEP: 12 SENS:3 FI02:45 PICO: 30 PLATEAU: 23  COMPL EST: 31 DP: 11 SE ABRE HEPARINA, SE COLOCA ALIMENTACIÓN, SE COLOCA EN POSICIÓN SUPINA",
+  "id_paciente": {
+    "$oid": "60fc68d010e7d00015819a4f"
+  },
+  "blood_pressure": "121/66",
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101e81cca76ec0015b6cc21"
+  },
+  "date": {
+    "$date": "2021-07-28T23:28:27.608Z"
+  },
+  "type": "Médico",
+  "temperature": 36,
+  "skin": "VITILIGO",
+  "soft_parts": "EDEMA EN ROSTRO",
+  "heart_rate": 52,
+  "cardiovascular_exam": "BRADICARDIA, HIPOTENSION, PULSO REGULAR, NAD: 11 ML/H EN DESCENSO",
+  "breathing_frequency": 24,
+  "saturometry": 98,
+  "respiratory_exam": "MV DISMINUIDO",
+  "time_space": false,
+  "abdomen": "BLANDO, DEPRESIBLE",
+  "neurological_exam": "PIRS, PTE SE DESPIERTA DURANTE EL CAMBIO DE POSICIÓN, MIDA: 21 PANC: 21 FENTA: 21",
+  "observations": "PTE EN ARM, PAFI: 228 EN PRONO , MODO VCV FI02: 45 PEEP: 12 VT:470 TINS: 0,90 FR: 26 SENS: 3 PICO: 30  PLATEAU: 23 COMPL EST: 39-42 , SE REALIZA CAMBIO DE FILTRO POR PATRÓN OBSTRUCTIVO, IGUAL PERMANECE LA DIFERENCIA ENTRE PICO-PLATEAU. SE CAMBIO LA PEEP 10, CON UN NOTABLE DESCENSO DE LA SATURACION , POR LO QUE SE SUBIO LA FI02: 60 Y LUEGO LA PEEP: 12 PARA TENER SAT: +92%",
+  "id_paciente": {
+    "$oid": "60fb2a14776a68001512f44d"
+  },
+  "blood_pressure": "96/55",
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
 }]

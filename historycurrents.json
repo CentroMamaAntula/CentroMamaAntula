@@ -21294,4 +21294,564 @@
     "$oid": "5f9828a6b6384217c1b974b9"
   },
   "__v": 0
+},{
+  "_id": {
+    "$oid": "60fc1b7b05a4140015c6d89e"
+  },
+  "date": {
+    "$date": "2021-07-24T00:00:00Z"
+  },
+  "disease": "NEUMONIA BILATERAL ATÍPICA POR CAVID 19",
+  "observations": "REFIERE LA PACIENTE QUE DESDE EL DIA 13/07/2021 PRESENTO HISOPADO (+) REALIZADO EN EL HOSPITAL INDEPENDENCIA,A CONSECUENCIA DE TOS SECA,FIEBRE,MAL ESTADO GRAL,CON TRATAMIENTO PARA SU CASA CON AZITROMICINA,PARACETAMOL,MEPREDNISONA. PERMANECIENDO EN AISLAMIENTO EN EL DOMICILIO DE SU MADRE,PERO EN EL DIA DE LA FECHA PRESENTO FALTA DE AIRE EXTREMA 60%,Y FIEBRE, RESFRIO,DOLOR DE PECHO Y ESPALDA Y CONCOMITANTEMENTE DEPOSICIONES LIQUIDAS DIARREICAS ABUNDANTES.\nANTECEDENTES PATOLOGICOS:  DBT (-), HTA (-),OBESIDAD,HIPOTIROIDISMO,FUE VACUNADA EL 12/07/21 CON 1° DOSIS.\nALERGIAS(-)",
+  "id_paciente": {
+    "$oid": "60fc195505a4140015c6d89d"
+  },
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fc9cdd3557f70015ef8e1f"
+  },
+  "date": {
+    "$date": "2021-07-24T00:00:00Z"
+  },
+  "disease": "NEUMONIA BILATERAL ATIPICA POR COVID 19",
+  "observations": "PACIENTE HA TOLERADO BIEN EL SUERO EQUINO,REFIERE SENTIRSE MEJOR",
+  "id_paciente": {
+    "$oid": "60f8c8185fd83a0015a72539"
+  },
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fca4023557f70015ef8e23"
+  },
+  "date": {
+    "$date": "2021-07-24T00:00:00Z"
+  },
+  "disease": "NEUMONIA BILATERAL ATIPICA POR COVID 19",
+  "observations": "PACIENTE MEJORADO EN EL DIA DE LA FECHA,NO REFIERE MOLESTIAS,A LA AUSCULTACIÓN SE APRECIA ARRITMIA CARDIACA,PRESENTÓ BUENA TOLERANCIA AL SUERO EQUINO",
+  "id_paciente": {
+    "$oid": "60f78bf77585b300158d4444"
+  },
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcb4bc3557f70015ef8e32"
+  },
+  "date": {
+    "$date": "2021-07-25T00:00:00Z"
+  },
+  "disease": "IRA-DISTRES-COVID",
+  "observations": "PTE DERIVADO DE SANATORIO 9 DE JULIO CON ANTECEDENTE DE INTERNACION DURANTE 6 DIAS PREVIOS, INGRESA CON SAT. 70% CON MASCARA DE O2 CON RESERVORIO, FR 37 X MIN, SENSACION DE FALTA DE AIRE INMINENTE. SE PROCEDE A INTUBACION Y ARM. SE SOLICITA RX-DISTRES PULMONAR. EX. LABORATORIO CON ACIDOSIS MIXTA E INSUFICIENCIA RENAL.",
+  "id_paciente": {
+    "$oid": "60fc68d010e7d00015819a4f"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd7919d23e5400158842cb"
+  },
+  "date": {
+    "$date": "2021-07-25T00:00:00Z"
+  },
+  "disease": "CAMBIO A VENTURI VERDE",
+  "observations": "PACIENTE CON MASCARA CON RESERVORIO DESDE SU INGRESO , SE CAMBIA A VENTURI VERDE ( FIO2 60 -15 L)",
+  "id_paciente": {
+    "$oid": "60fb1f5e776a68001512f447"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60feeebdd284320015002ebd"
+  },
+  "date": {
+    "$date": "2021-07-26T00:00:00Z"
+  },
+  "disease": "DECUBITO SUPINO",
+  "observations": "Pte que se vuelve a posición de decúbito supino, luego de 72 hs de prono. Se observa lesiones en rostro y edema en parte laxas.Se sube la Fi02: 80, luego se desciende.",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fef093d284320015002ec2"
+  },
+  "date": {
+    "$date": "2021-07-26T00:00:00Z"
+  },
+  "disease": "ATELECTASIA",
+  "observations": "Se realiza rx de tórax, y se realiza maniobras con ambu por parte de kinesiología, por atelectasia en pulmón derecho, se lateraliza y se pide rx de tórax a las 18 hs.",
+  "id_paciente": {
+    "$oid": "60f25ab288b36f00150c865b"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff086cd284320015002ec9"
+  },
+  "date": {
+    "$date": "2021-07-26T00:00:00Z"
+  },
+  "disease": "CAD",
+  "observations": "PACIENTE QUE INGRES CON GLUCEMIA DE 580 Y HCO3 20 , POR LO QUE INICIO BOMBA DE INSULINA , EXPANSION CON SF Y CORRECCIONES SEGUN CONTROLES CADA 2 HS \nACTUALMENTE CAD EN RESOLUCION , CON GLUCEMIA EN AYUNAS CONTROL DE 235.\nSE APAGA BOMBA DE INSULINA , CONTINUA CON LANTUS 33 UI POR LA MAÑANA , Y CORRECCIONES SEGUN TABLA",
+  "id_paciente": {
+    "$oid": "60fb9a6dad40930015ce27a8"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff09afd284320015002eca"
+  },
+  "date": {
+    "$date": "2021-07-26T00:00:00Z"
+  },
+  "disease": "SIN OXIGENO SUPLEMENTARIO",
+  "observations": "PACIENTE EVOLUCIONA SIN REQUERIMIENTO DE OXIGENO SUPLEMENTARIO.",
+  "id_paciente": {
+    "$oid": "60f6118f28c43f0015957bf5"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff11a6d284320015002edc"
+  },
+  "date": {
+    "$date": "2021-07-26T00:00:00Z"
+  },
+  "disease": "VENTURI AMARILLO",
+  "observations": "PACIENTE CON BUENA RESPUESTA A CNAF, SE ROTA A VENTURI AMARILLO CON BUENA TOLERANCIA .CONTINUA SEGUIMIENTO",
+  "id_paciente": {
+    "$oid": "60f21308c5d88c0015847759"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff26a4d284320015002ede"
+  },
+  "date": {
+    "$date": "2021-07-26T00:00:00Z"
+  },
+  "disease": "INICIA BOMBA DE INSULINA",
+  "observations": "50 UI DE INSULINA CORRIENTE EN 100 ML DE SF A 10 ML/H \nHGT CONTROL DESDE 00 HS: 80/ 171/290/ 331/349/445",
+  "id_paciente": {
+    "$oid": "60fb9a6dad40930015ce27a8"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff38f3d1e1a30015a4a6d2"
+  },
+  "date": {
+    "$date": "2021-07-26T00:00:00Z"
+  },
+  "disease": "COVID",
+  "observations": "PACIENTE FUE EVALUADO EN EL HOSPITAL DE MARIA SE DIAGNOSTICO ULCERA CORNEAL EN OJO IZQUIERDO. SE REALIZO PARCHE OCLUSIVO Y CONTROL EN 24 HS (19 HS) DR FACELLO",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff59a031208e0015206d64"
+  },
+  "date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "disease": "neumopatia bilateral covid+",
+  "observations": "pte masculino de 38a derivado de clodomira (banda), ingresa por neumopatia bilateral, con tos, secreciones sanguinolentas, dolor de espalda, sato2 aire ambiente 88% y con mascara reserv 8 ls a 96% FR 22 TA 129/91. buena mecanica ventil. y entrada de aire, hipoventila lado izq en base pulmonares. El 20/07 hisopado nasofariongeo+, internado el 21/07 en clodomira. Anteced patologicos obeso ,DBT medicado con pioglitazona",
+  "id_paciente": {
+    "$oid": "60ff577431208e0015206d63"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff628331208e0015206d6c"
+  },
+  "date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "disease": "NEUMOPATIA COVID+",
+  "observations": "PTE FEMINA DE 60 AÑOS DERIVADA DE HOSP INDEPENDENCIA. INGRESA CON MASCARA RESERVORIO SAT 86% TAQUIPNEICA 30 RPM MALA MECANICA RESPIRATORIA Y ENTRADA DE AIRE BILATERAL CON USO DE MUSC ACCESORIOS , CREPITOS BILATERALES. TA 100/50 FR 30 FC 95 SATO2 86% MASC RESERV. ANTECED: DBT, INSUF RENAL CRONICA, NO VIDENTE, TRAST PSIQUIATRICO (DEMENCIA SENIL), HTA. CARDIOPATIA.",
+  "id_paciente": {
+    "$oid": "60ff60b031208e0015206d6b"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff773931208e0015206d7c"
+  },
+  "date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "disease": "NEUMOPATIA COVID +",
+  "observations": "PTE MASCULINO 38 AÑOS DERIVADO DEL CIS BANDA. INGRESA POR NEUMONIA BILATERAL COVID+ TAQUIPNEICO CON MASCARA RESERVORIO SATO2 8O% MALA MECANICA VENTILATORIA CREPITOS BILATERALES. ANTECED PATOLOGICOS: HIPERTIROIDISMO MEDICADO PROPANOLOL 40MG DANANTIZOL 20MG.  Ta 150/90 FR 30 FR 30 SATO2 80% MASC RESERV.",
+  "id_paciente": {
+    "$oid": "60ff760431208e0015206d7b"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ffab73d3807000158fd003"
+  },
+  "date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "disease": "RE  IOT",
+  "observations": "PACIENTE  DESADAPTADO EXCITADO CON MALA MECANICA RESP ,SE DECIDE IOT POR INDICACION DR CARABAJAL .MODO VCV ,VT;460, PEEP 10, FR;26, PLATEAU 15, FIO2 60,",
+  "id_paciente": {
+    "$oid": "60eddb7b62f4ce00155ec354"
+  },
+  "professional_name": {
+    "$oid": "601015c004225963ac195fb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61002bf7360f430015dede73"
+  },
+  "date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "disease": "ATELECTASIA IZQUIERDA",
+  "observations": "Paciente en ARM con Pafi: 67/ 0,55: 134 con hipoventilación lado izquierdo, se constata atelectasia de pulmón izquierdo, kinesiología realizo maniobras con ambu, se pide rx de control a la tarde.",
+  "id_paciente": {
+    "$oid": "60f25ab288b36f00150c865b"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61003b45360f430015dede77"
+  },
+  "date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "disease": "DECUBITO PRONO",
+  "observations": "Pte con Pafi: 146, se decide pronar. Compliance est: 30.Modo VCV.fI02: 0,60 TINS:0,90 FR:24 VT: 400 PICO:32 PEEP:10 SENS:2 , se auscultan roncus en acp.Pulso regular.",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6100487d360f430015dede82"
+  },
+  "date": {
+    "$date": "2021-07-26T00:00:00Z"
+  },
+  "disease": "DECUBITO PRONO",
+  "observations": "Pte con pafi menor a 150, por lo que se decide colocar en decúbito prono por 48 hs.",
+  "id_paciente": {
+    "$oid": "60fc68d010e7d00015819a4f"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61005cbc360f430015dede8c"
+  },
+  "date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "disease": "SIN REQUEIRIMIENTO DE OXIGENO",
+  "observations": "PACIENTE  SIN REQUERIMIENTO DE OXIGENO SUPLEMENTARIO HACE 24 HS",
+  "id_paciente": {
+    "$oid": "60f2d2e72f8796001533bb06"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610061a7360f430015dede95"
+  },
+  "date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "disease": "ALTA",
+  "observations": "PACIENTE SIN REQUERIMIENTO DE OXIGENO SUPLEMENTARIO, EN CONDICIONES DE ALTA HOSPITALARIA, A ESPERA DE AMBULANCIA DE LORETO",
+  "id_paciente": {
+    "$oid": "60f6118f28c43f0015957bf5"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610063fc360f430015dede99"
+  },
+  "date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "disease": "CONTROL DE HGT",
+  "observations": "HGT : 237 (00-06) 215 (6-12) 345 (12-18)",
+  "id_paciente": {
+    "$oid": "60fb9a6dad40930015ce27a8"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61006562360f430015dede9a"
+  },
+  "date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "disease": "ALTA",
+  "observations": "PACIENTE EN CONDICIONES DE ALTA HOSPITALARIA , ES TRASLADADO A SU DOMICILIO EN AMBULANCIA",
+  "id_paciente": {
+    "$oid": "60f8c8185fd83a0015a72539"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61006c2e360f430015dede9f"
+  },
+  "date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "disease": "PULSO DE CORTICOIDE",
+  "observations": "RECIBIO PULSO DE CORTICOIDE CON DEXAMETASONA EN EL CIS BANDA EL 2-24-25 /07. CONTINUA CON DECENSO EN EL DIA DE LA FECHA DE 16 MG/DIA",
+  "id_paciente": {
+    "$oid": "60ff760431208e0015206d7b"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610082eb360f430015dedea2"
+  },
+  "date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "disease": "COVID",
+  "observations": "S.REFIERE QUE HACE 5 DIAS INICIO CON TOS Y MALESTAR GENERAL, AYER INICAR CON DISNEA\nO. FR 30 X MIN FC 100 X MIN SAT 98% TEMP AXILAR 36.7. REGULAR ENTRADA DE AIRE EN ACP MAS DEL  LADO DERECHO CON CREPITOS EN BASES\nE. NEUMONIA POE COVID 19\nP: SE INTERNA STO RX DE TORAX ECG Y LABORATORIO",
+  "id_paciente": {
+    "$oid": "61007ff6360f430015dedea1"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61008aff360f430015dedea5"
+  },
+  "date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "disease": "ULCERA CORNEAL",
+  "observations": "TOBRAMINICINA 1 GOTA OFTALMICA CADA 6 HS\nCONTROL CON OFTALMOLOGO EN 48 HS",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610096fc360f430015dedea6"
+  },
+  "date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "disease": "NEFROLOGIA DIALISIS",
+  "observations": "PACIENTE CONANTECEDENTES DE HTA , IRC EN SEGUIMIENTO POR NEFROLOGIA DEMENCIA SENIL . EN TTO PSIQUIATRRICO , INFECCION POR SARS COVID 19 , DISNICA TAQUIPNEICA DIURESIS 2200 CC EN 6 HS, PVC 8TA  130/80  \nSUGIERO ECORENOVESICAL ECOCARDIOGRAMA \nDIALISISI NUEVA VALORACION PARA MAÑANA , AGREGAR FUROSEMIDA 1 AMP EV C 4 HS",
+  "id_paciente": {
+    "$oid": "60ff60b031208e0015206d6b"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6100a28e360f430015dedea7"
+  },
+  "date": {
+    "$date": "2021-07-28T00:00:00Z"
+  },
+  "disease": "ULCERA CORNEAL",
+  "observations": "NEAGEL COLOCAR 5 VECES DIA",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101ab7dc57c7c0015ae9b45"
+  },
+  "date": {
+    "$date": "2021-07-28T00:00:00Z"
+  },
+  "disease": "DECUBITO PRONO",
+  "observations": "Pte con Pafi: 124 se coloca en decúbito prono por 48 hs. Se aspiran secreciones abundantes. Fi02:0,45 tins: 0,90 fr:24 vt:400 peep: 12  ppico: 29 plateau: 24 compl est: 30 pronada compl est: 37.",
+  "id_paciente": {
+    "$oid": "60f25ab288b36f00150c865b"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101b084c57c7c0015ae9b4f"
+  },
+  "date": {
+    "$date": "2021-07-28T00:00:00Z"
+  },
+  "disease": "SUPINO",
+  "observations": "PTE INESTABLE HEMODINAMICAMENTE , CON BRADICARDIA E HIPOTENSIÓN , SE COLOCA EN SUPINO, MEJORANDO LA TA, NO ASI LA BRADICARDIA.",
+  "id_paciente": {
+    "$oid": "60fb2a14776a68001512f44d"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101d9feca76ec0015b6cc16"
+  },
+  "date": {
+    "$date": "2021-07-28T00:00:00Z"
+  },
+  "disease": "NEUMONIA POR COVID",
+  "observations": "S: CUADRO QUE INICIA 17/07/21, EL DIA 19/07/21 SE HISOPA CON RESULTADO POSITIVO. INTERNADO DESDE EL 20/07/21. NO SE VACUNO. LOS SINTOMAS FUERON PROGRESANDO DESDE EL CANSANCIO, FIERE Y DISNEA. \nANTEC PATOLOGICOS CA DE COLON EN 2014 - HIPERREACTIVIDAD BRONQUIAL EN TRATAMIENTO ANTIALERGICO \nO: PESO 123 KG TALLA 187 TA131/83 TAM 96 OXIGENO 70% A 12 LTS \nRECIBIO PLASMA EL 21/07/21 TOCILIZUMAB 648 IGUAL DIA ECOCARDIOGRAMA DOPPLER FUNCION SISTOLICA GLOBAL DE VI CONSERVADA \nE: NEUMONIA POR COVID 19 OBESIDAD\nSE ADJUNTA HOJA DE DERIVACION",
+  "id_paciente": {
+    "$oid": "6101d5e9ca76ec0015b6cc13"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101e1f9ca76ec0015b6cc1d"
+  },
+  "date": {
+    "$date": "2021-07-28T00:00:00Z"
+  },
+  "disease": "CATETER PARA DIALISIS",
+  "observations": "EL DR PEREYRA COLOCO CATETER DE 20 X 12 DOBLE LUMEN EN FEMORAL IZQUIERDO",
+  "id_paciente": {
+    "$oid": "60ff60b031208e0015206d6b"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101e201ca76ec0015b6cc1e"
+  },
+  "date": {
+    "$date": "2021-07-28T00:00:00Z"
+  },
+  "disease": "SUPINO",
+  "observations": "Pte se coloca en posición supina,sin complicaciones. Pafi: 233. Compl estatica: 31. Se encuentra con NAD: 2 ml/h.",
+  "id_paciente": {
+    "$oid": "60fc68d010e7d00015819a4f"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101ec54e73a630015b41708"
+  },
+  "date": {
+    "$date": "2021-07-28T00:00:00Z"
+  },
+  "disease": "NEFROLOGIA DIALISIS",
+  "observations": "1 SESION DE HEMODIALISIS \nPACIENTE CON ANTECEDENTES DE HTA IRC NEUMOPATIA POR COVID 19 , CON FALLO RENAL SINDROME UREMICO . SE COLOCA CATETER DOBLELUMEN INDICO DIALSIS. 130 HS QB 250 , SIN HEPARINA",
+  "id_paciente": {
+    "$oid": "60ff60b031208e0015206d6b"
+  },
+  "professional_name": {
+    "$oid": "5f9827e4b6384217c1b974b6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610233a1f971c3001590d148"
+  },
+  "date": {
+    "$date": "2021-07-29T00:00:00Z"
+  },
+  "disease": "..",
+  "observations": "PTE INESTABLE HEMODINAMICAMENTE,  T/A 60/40 -  FC 170 -FR 26 SAT 87 SE REALIZA CARGA DE AMIODARONA ( 3 AMPOLLAS EN 300 CC DE SOL FISIOL PASAR EN 1 HS,  BOMBA DE NORA A 90 ML , SE SUBE FIO2 100 %",
+  "id_paciente": {
+    "$oid": "60fb2a14776a68001512f44d"
+  },
+  "professional_name": {
+    "$oid": "5f9828a6b6384217c1b974b9"
+  },
+  "__v": 0
 }]

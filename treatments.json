@@ -65395,4 +65395,2129 @@
     "$oid": "5f9828a6b6384217c1b974b9"
   },
   "__v": 0
+},{
+  "_id": {
+    "$oid": "60fc1f8305a4140015c6d89f"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)PHP:SOL FIS./SOL  DEX 5% ------>21 GTAS  x´\n2)OMEPRAZOL 40 mg : (EV) C/ 24 hs.\n3)AMP /SUL 1,5  gr.  (EV)  C/6 hs.\n4)LEVOFLOXACINA 750 mg: (EV)  C/24 hs.\n5)SBT :2 puff  C/ 6 hs.\n6)BDS: 2 puff C/ 8 hs.\n7)ENOXAPARINA 0,4 ml: S/C  C/  24.\n8)DIETA BLANDA\n9)DEXAMETASONA 8 mg : (EV)  C/ 24 hs.\n10)AMLODIPINA 10 mg : (VO)  C/ 24 HS.\n11)C.S.V.",
+  "id_paciente": {
+    "$oid": "60fc195505a4140015c6d89d"
+  },
+  "date": {
+    "$date": "2021-07-24T14:11:13.341Z"
+  },
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fc212205a4140015c6d8a0"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)PHP:SOL .FIS./SOL DEX5%-------->63 ML/H +2 AMP DE K Y 1 AMP DE MG\n2)OMEPRAZOL 20 mg :(EV)  C/ 24 hs.)\n3)AMP/SUL  1,5 g: (EV) C/ 6 hs\n4)LEVOFLOXACINA 750 mg: (EV)  C/24hs\n5)  METILPREDNISOLONA 80 MG EN 100 SF A 100 ML /H ( DIA 6°)\n6) HGT PRECOMIDAS Y CORRECIONES A PARTIR DE 180 SEGUN TABLA\n7)LOSARTAN 50 mg : (VO)  C/ 12 hs\n8)CNAF  FIO 0,60 FLUJO 0,60\n9)DIETA BLANDA HIPOSODICA\n10)SBT: 2 puff C/ 8 hs.\n11)BDS: 2puff C/ 8 hs\n12) FISIOLOGICA 250 ML+3 AMP DE FENTANILO A 6 ML/H\n13)HEPARINA  5 CC EN 250 ML A 13 ML/H\n14) PRONO VIGIL\n15) FUROSEMIDA 1 AMP CADA 12 HS",
+  "id_paciente": {
+    "$oid": "60f21308c5d88c0015847759"
+  },
+  "date": {
+    "$date": "2021-07-24T14:18:10.582Z"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fc6b5110e7d00015819a51"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO ARM DIA 7",
+  "observations": "1)PHP ALTERNO A 63 ML/H \n2)SNG: ALIMENTACIÓN A 42 ML/H\n1) DEXT 250 ML + 10 AMP MIDAZOLAN A 28 GTS X MIN\n2) DEXT ML+ 5 AMP FENTANILO A 28 GTS X MIN\n3) DEXT 250 ML + 8 AMP ATRACURIO A 21 ML/H\t\n2) INSULINA NPH: 16 UI A LAS 7 HS , 16 UI A LAS 13 HS Y 12 UI A LAS 23 HS\n3) HGT  CORRECIONES A PARTIR 180\n4) LEVOFLOXACINA 750 MG CADA 24 HS EV\n5) AMS 1,5 MG CADA 6 HS EV\n6) DEXAMETASONA 8 MG CADA 24 HS EV\n7) HEPARINA  5 CC EN 250 ML A 15 ML/H\n8) SONDA VESICAL\n10) KTR \n11) OMEPRAZOL 20 MG CADA 24 HS\n13) PARACETAMOL 1GR SOS\n14) ARM MODO VCV\n15) FLUCONAZOL 150 MG/DIA EV",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "date": {
+    "$date": "2021-07-24T19:34:40.939Z"
+  },
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fc6feb10e7d00015819a52"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)PHP ALTERNO A 63 ML/H \n2)SNG ASPIRATIVA\n1) DEXT 250 ML + 10 AMP MIDAZOLAN A 28 GTS X MIN\n2) DEXT ML+ 5 AMP FENTANILO A 28 GTS X MIN\n3) DEXT 250 ML + 8 AMP ATRACURIO A 21 ML/H\t\n4) LEVOFLOXACINA 750 MG CADA 24 HS EV\n5) AMS 1,5 MG CADA 6 HS EV\n6) DEXAMETASONA 8 MG, 6 AMP EN 100 ML SOL FISIOLOGICA PASAR EN 1 HORA POR BOMBA\n7) TOCILIZUMAB: 3 FRASCOS DE 200 MG PASAR EN SOL FISIOLOGICA 250 ML PASAR EN 2 HS\n8) ENOXAPARINA 0.4 ML CADA 12 HS\n9) SONDA VESICAL\n10) KTR\n11) OMEPRAZOL 20 MG CADA 24 HS\n13) PARACETAMOL 1GR SOS\n14) ARM MODO VCV\n15) FLUCONAZOL 150 MG/DIA EV",
+  "id_paciente": {
+    "$oid": "60fc68d010e7d00015819a4f"
+  },
+  "date": {
+    "$date": "2021-07-24T19:54:19.784Z"
+  },
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fc720210e7d00015819a53"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)PHP ALTERNO A 42 ML/H \n2)SNG ASPIRATIVA\n1) DEXT 250 ML + 10 AMP MIDAZOLAN A 28 GTS X MIN\n2) DEXT ML+ 5 AMP FENTANILO A 28 GTS X MIN\n3) DEXT 250 ML + 8 AMP ATRACURIO A 21 ML/H\t\n4) LEVOFLOXACINA 750 MG CADA 24 HS EV\n5) AMS 1,5 MG CADA 6 HS EV\n6)  CARVEDILOL 6.25 MG 1 COMP CADA 24 HS \n7) LOSARTAN 50 MG CADA 12 HS\n8) HEPARINA 1CC EN BOLO LUEGO 5 CC EN 250 SF A 11ML/HR\n9) SONDA VESICAL\n10) KTR\n11) OMEPRAZOL 20 MG CADA 24 HS\n13) DIPIRONA SOS\n14) ARM MODO VCV",
+  "id_paciente": {
+    "$oid": "60fb2a14776a68001512f44d"
+  },
+  "date": {
+    "$date": "2021-07-24T20:03:12.923Z"
+  },
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fc72a410e7d00015819a54"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO. 2DO DIA DE ATB. 2DO DIA DE PULSO DE CORTICOIDES",
+  "observations": "PHP ALTERNO 42ML/H\n2)LEVOFLOXACINA 750 MG E.V C/ 24 HS\n3)AMS 1,5 C/6HS E.V\n4)DEXAMETASONA 8MG C/24 HS EV \n5)OMEPRAZOL 20MG C/ 24HS E.V\n6)ENOXAPARINA 0.4 CC C/ 12 HS SC\n7)SALBUTAMOL 2PAFF C/ 6HS \n8)BUDESONIDE  2 PAFF C/6 HS\n9)HGT PRECOMIDAS + CORRECCIONES SEGUN TABLA DESDE 140\n10)CSV\n11)KTR\n12)OXIGENOTERAPIA CNAF FIO2 65 Y FLUJO 50\n13)LOSARTAN 50 MG VO SOS\n14)PARACETAMOL 1 GR VO SOS\n15) DEXAMETASONA 50MG EN 100ML DE SF A PASAR 100ML/H EV\n16)FUROSEMIDA 1 AMPOLLA CADA 12HORAS",
+  "id_paciente": {
+    "$oid": "60f9e9dfe21b140015f0593c"
+  },
+  "date": {
+    "$date": "2021-07-24T20:05:55.580Z"
+  },
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fc97ac3557f70015ef8e1b"
+  },
+  "type": "Médico",
+  "name": "tratamiento dia 13",
+  "observations": "1)PHP SOL FISIOLOGICA ALT CON DEXTROSA 42 ml/h\n2)HIDROCORTISONA 100 MG CADA 8 HS EV\n3)OMEPRAZOL 20MG EV C/24HS\n4)VANCOMICINA 2g EN 250 ML DE SOL FIS A 11 ML/HS\n5)PZT 13,5 EN 250 ML/SF A PASAR A 11 ML/ HS\n6) MIDAZOLAM 10 AMP EN 250 ML/H A 28 ML/H\n7)FENTANILO 5 AMP EN 250 A 11 ML/H\n8) ATRACURIO 10 AMPOLLAS A 15 ML/ HS\n9)HEPARINA  5 CC EN 250 ML A 16 ML/H según KPTT\n10)KTR\n11)C.S.V + DIURESIS X TURNO\n12)ARM\n13)TALLA VESICAL\n14)NAD 4 AMP EN 250 ML SEGUN TAM 2 ml/h\n16) HIOSCINA 1 AMP CADA 8 HS\n17) LIMPIEZA DE HERIDAS DE AMBOS PIES\n18) SNG: Alimentación a 63 ml/h\n19) FUROSEMIDA 1 AMP CADA 12 HS\n20)FLUCONAZOL 200 MG EV POR DIA POR 7 DIAS",
+  "id_paciente": {
+    "$oid": "60eddb7b62f4ce00155ec354"
+  },
+  "date": {
+    "$date": "2021-07-24T22:43:55.336Z"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fc9c073557f70015ef8e1d"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO DIA 6 ATB DIA 4 CORTICOIDES PULSO DIA 2",
+  "observations": "1)PHP ALTERNO A 21 GOTAS X MIN\n2)HEPARINA 1 CM SC CADA 12 HS\n3)LEVOFLOXACINA 750 MG CADA 24 HS EV\n4)AMS 1,5 MG CADA 6 HS EV\n5) PULSO DE CORTICOIDES: DEXAMETASONA 6 AMP EN 100 CC A PASAR EN 1 HORA (2° DIA) 11:00 HRS\n6)OMEPRAZOL 40 MG EV CADA 24 HS\n7)KTR\n8)LOSARTAN 50 MG SOS\n9)PARACETAMOL 1GR SOS\n10)DIPIRONA SOS.\n11)DIETA COMPLETA\n12)SALBUTAMOL 2 PUFF C/6 HRS\n13)BUDESONIDE 2 PUFF C/6 HRS\n14)HGT PREDESAYUNO Y PREMERIENDA + CORRECCIONES SEGUN TABLA MAS DE 140 \n15)PRONO VIGIL\n16) MYLANTA 10 ML C/ 12 HRS VO y S.O.S",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "date": {
+    "$date": "2021-07-24T23:02:30.704Z"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fca0f33557f70015ef8e20"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)PHP:DEX 5% ---->21 GTAS   X´\n2)VENTURI VERDE : 4 L/H\n3)LEVOFLOXACINA 750 mg : (EV) C/ 24 hs\n4)AMP / SUL 1,5 gr : (EV)  C/6 HS\n5)DEXAMETASONA 8 mg : (EV)  C/ 24 hs\n6)ENOXAPARINA 0,6 mg :S/C  C/ 12  HS.\n7)PARACETAMOL 500 mg : (VO) (FIEBRE O DOLOR)\n8)OMEPRAZOL 20 mg : (EV)  C/ 24  HS . EN AYUNAS\n9)SBT : 2 PUFF C/ 6 hs.\n10)BDS: 2 PUFF C/6 HS.\n11)KTR\n12)HGT PREPRANDIAL Y CORRECCIÓN SEGÚN ESQUEMA > 140mg/dl\n13) C,S,V.",
+  "id_paciente": {
+    "$oid": "60f8c8185fd83a0015a72539"
+  },
+  "date": {
+    "$date": "2021-07-24T23:23:31.488Z"
+  },
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fca1933557f70015ef8e21"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO 8° DIA INTERNACION + 7° DIA ATB",
+  "observations": "1)DEXT 250 ML + 10 AMP MIDAZOLAN A 35 GTS X MIN\n2)DEXT ML+ 5 AMP FENTANILO A 28 GTS X MIN\n3)DEXT 250 ML + 8 AMP ATRACURIO A 35 ML/H\n4) PROPOFOL 3 AMP EN 250 ML A 35 ML/H\t\n4)PHP ALTERNO A 42 ML/H\n3)HGT  CORRECIONES A PARTIR 150\n4)LEVOFLOXACINA 750 MG CADA 24 HS EV\n5)AMS 1,5 MG CADA 6 HS EV\n6)DEXAMETASONA 8 MG CADA 24 HS EV\n7)HEPARINA  5 CC EN 250 ML A 11 ML/H \n8)SONDA VESICAL\n9)ALIMENTACION: 1000 ML A 42 ML/H \n10)KTR \n11)OMEPRAZOL 20 MG CADA 24 HS\n14) ARM MODO VCV EN DECUBITO SUPINO\n15) HIOSCINA 1 AMP CADA 8 HS ( ABUNDANTES SECRECIONES)\n16) ASPIRAR SECRECIONES EN CADA TURNO",
+  "id_paciente": {
+    "$oid": "60f25ab288b36f00150c865b"
+  },
+  "date": {
+    "$date": "2021-07-24T23:26:10.595Z"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fca8f53557f70015ef8e24"
+  },
+  "type": "Médico",
+  "name": "NUEVO TRATAMIENTO",
+  "observations": "1)PHP ALTERNO A 63 ML/H \n2)SOL. FISIOLOGICA 250 ML + 4 AMP NA A 11 ML/H (AJUSTE SEGÚN T.A.)\n3) DEXT 250 ML + 10 AMP MIDAZOLAN A 28 GTS X MIN\n4) DEXT ML+ 5 AMP FENTANILO A 28 GTS X MIN\n5) DEXT 250 ML + 8 AMP ATRACURIO A 21 ML/H\t\n6) LEVOFLOXACINA 750 MG CADA 24 HS EV\n7) AMS 1,5 MG CADA 6 HS EV\n8) DEXAMETASONA 8 MG, 6 AMP EN 100 ML SOL FISIOLOGICA PASAR EN 1 HORA POR BOMBA\n9) TOCILIZUMAB: 3 FRASCOS DE 200 MG PASAR EN SOL FISIOLOGICA 250 ML PASAR EN 2 HS (PROXIMO 26/07)\n10) HEPARINA SODICA 1 ML EN BOLO Y CONTINUAR  5 CC EN 250 ML A 13 ML/H\n11) SONDA VESICAL\n12) SNG ASPIRATIVA\n13) OMEPRAZOL 20 MG CADA 24 HS\n14) PARACETAMOL 1GR SOS\n15) ARM MODO VCV",
+  "id_paciente": {
+    "$oid": "60fc68d010e7d00015819a4f"
+  },
+  "date": {
+    "$date": "2021-07-24T23:57:41.094Z"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fca9073557f70015ef8e25"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)PHP: SEB--------->42 ML/H\n2)OMEPRAZOL 20 mg : (EV) C/24 HS.\n3)AMP/SUL 1,5 gr: (EV)  C/ 6 HS\n4)LEVOFLOXACINA 750 mg: (EV) C/ 24 HS\n5)HEPARINA SODICA 5CC EN 250 ml A 11 ml/h\n6)SBT :2 puff c/ 6 HS\n7)BDS :2 puff C / 6 HS\n8)KTR\n9)DIETA P/DBT +COLACIÓN A LAS 23 hs.\n10)HGT PREPRANDIAL Y CORRECCIÓN C/INS ,CTE\n11)LOSARTAN 50 mg: (VO) C/24 HS.\n12)BISOPROLOL 10 mg (VO) C/ 24 HS.\n13)DEXAMETASONA 8 mg : (EV) C / 24 hs\n14)C.S.V",
+  "id_paciente": {
+    "$oid": "60f78bf77585b300158d4444"
+  },
+  "date": {
+    "$date": "2021-07-24T23:57:59.524Z"
+  },
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcaaeb3557f70015ef8e26"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)PHP  FIS ALT CON DEXTROSA 42ML/H\n2)LEVOFLOXACINA 750 MG E.V C/ 24 HS\n3)AMS 1,5 C/6HS E.V\n4)DEXAMETASONA 8MG C/24 HS EV \n5)OMEPRAZOL 20MG C/ 24HS E.V\n6)ENOXAPARINA 0.6 CC C/ 24 HS SUBCUTANEA\n7)SALBUTAMOL 2PAFF C/ 6HS \n8)BUDESONIDE  2 PAFF C/8HS\n9)LACTULON ( JBE) 10 CM HASTA C/ 8 HS\n10)HIDROCORTISONA 100MG EV C/8 HS\n11) KTR\n12)LEVOTIROXINA MANEJA LA PACIENTE\n13) CLONAZEPAN 0,5 MG 1 COMP CON LA CENA\n14) OXIGENOTERAPIA CNBF 2 LITROS\n15) HGT PRE COMIDAS Y CORRECCIONES SEGUN TABLA\n16) SERTRALINA 25 MG / DIA  9 HS",
+  "id_paciente": {
+    "$oid": "60f6118f28c43f0015957bf5"
+  },
+  "date": {
+    "$date": "2021-07-25T00:06:02.237Z"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcb07b3557f70015ef8e2a"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)PHP SOL.FIS/SOL DEX 5% ---------21 GTAS  X´\n2)OMEPRAZOL 40 Mg : (EV)  C/ 24 hs\n3)AMS 1,5 g : (EV) C/ 6 hs\n4)LEVOFLOXACINA 750 mg : (EV) C / 24 hs.\n5)SBT : 2 puff  C/  6hs\n6)BDS;  2 puff C / 6 hs\n7)DIPIRONA 1gr : (EV)  C/  SOS\n8)ENOXAPARINA 0,4 ml : S/C  C/ 24 HS\n9)DIETA BLANDA\n10)DEXAMETASONA 8 mg: (EV) C/24 hs.\n11)AMLODIPINA 10 mg : (VO) C/ 24 hs\n12)OXIGENOTERAPIA OR CNBF ( 3  L)\n13) C.S.V",
+  "id_paciente": {
+    "$oid": "60fc195505a4140015c6d89d"
+  },
+  "date": {
+    "$date": "2021-07-25T00:29:47.890Z"
+  },
+  "professional_name": {
+    "$oid": "5f982818b6384217c1b974b7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcb3763557f70015ef8e30"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1) CSV Y DIURESIS POR TURNO\n2) DIETA GENERAL\n3)PHP 21 GOTAS X MIN SOL FIS\n4) ENOXAPARINA 0,6 C/ 24 HS SC\n5) AMS 1,5g C/ 6 HS EV\n6) LEVOFLOXACINA 750 MG / DIA EV\n7) DEXAMETASONA 8 MG/ DIA EV\n8) CNBF 2 LTS INTERMITENTE\n9) KTR\n10) DIPIRONA 1 S.O.S",
+  "id_paciente": {
+    "$oid": "60f9d089e21b140015f0592f"
+  },
+  "date": {
+    "$date": "2021-07-25T00:42:29.266Z"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcb6d03557f70015ef8e34"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)PHP SOL FISIOLOGICA ALT CON DEXTROSA 42 ml/h\n2)HIDROCORTISONA 100 MG CADA 8 HS \n3)OMEPRAZOL 20MG EV C/24HS\n4)AMS 1,5 EV C/6 HS\n5)LEVOFLOXACINA 750 MG EV C/24 HS EV (ULTIMO DIA)\n6)MIDAZOLAM 10 AMP EN 250 ML/H A 35 ML/H\n7) FENTANILO 5 AMP EN 250 A 28 ML/H\n8) ATRACURIO 8 AMP EN 250 A 35 ML/H\n9)HEPARINA  5 CC EN 250 ML A 11 ML/H\n10)KTR\n11)C.S.V + DIURESIS X TURNO\n12) ARM\n13) ALIMENTACION 1500 ML A 84 ML/H\n14) NAD 4 AMP EN 250 ML SEGUN TAM",
+  "id_paciente": {
+    "$oid": "60e75d3e17aa280015b25d00"
+  },
+  "date": {
+    "$date": "2021-07-25T00:56:47.930Z"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcbc313557f70015ef8e38"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)HIGIENE OCULAR: CON GASAS MAS SF C/4 HRS\n 2) DIETA COMPLETA\n3)HALOPIDOL 1 AMP EV SOS\n4)PHP SEB 42 ML/HS \n5)OMEPRAZOL 20 MG CADA 24 HS \n6)HEPARINA SODICA 1 CC SC CADA 12 HS \n7)HGT C/ 6 HS Y CORRECCIONES SEGUN TABLA. \n8)KTR Y KTM\n9)CSV Y DIURESIS\n10)TOBRAMICINA/DEXAMETASONA (COLIRIO) 1 GOTA EN C/OJO C/6 HS\n11)PARCHE ANTIESCARA EN ZONA COCCIX",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "date": {
+    "$date": "2021-07-25T01:19:44.240Z"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcbe423557f70015ef8e3a"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)HIGIENE OCULAR: CON GASAS MAS SF C/4 HRS\n 2) AMIODARONA 1 AMP LENTA CADA 12 HS\n3)HALOPIDOL 1 AMP EV SOS\n4)PHP SEB 42 ML/HS \n5)OMEPRAZOL 20 MG CADA 24 HS \n6)HEPARINA SODICA 5 ML EN 250 ML DE SOL FISIOLOGICA A 13 ML/HS \n7)HGT C/ 6 HS Y CORRECCIONES SEGUN TABLA. \n8)KTR Y KTM\n9)CSV Y DIURESIS\n10)TOBRAMICINA/DEXAMETASONA (COLIRIO) 1 GOTA EN C/OJO C/6 HS\n11)PARCHE ANTIESCARA EN ZONA COCCIX",
+  "id_paciente": {
+    "$oid": "60f78bf77585b300158d4444"
+  },
+  "date": {
+    "$date": "2021-07-25T01:28:33.884Z"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcbf673557f70015ef8e3c"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)PHP: SEB--------->42 ML/H\n2)OMEPRAZOL 20 MG : (EV) C/24 HS.\n3)AMP/SUL 1,5 GR: (EV)  C/ 6 HS\n4)LEVOFLOXACINA 750 MG: (EV) C/ 24 HS\n5)HEPARINA SODICA 5CC EN 250 ML A 11 ML/H\n6)SBT :2 PUFF C/ 6 HS\n7)BDS :2 PUFF C / 6 HS\n8)KTR\n9)DIETA P/DBT +COLACIÓN A LAS 23 HS.\n10)HGT PREPRANDIAL Y CORRECCIÓN C/INSULINA CTE\n11)LOSARTAN 50 MG: (VO) C/24 HS.\n12)BISOPROLOL 10 MG (VO) C/ 24 HS.\n13)DEXAMETASONA 8 MG : (EV) C / 24 HS\n14)AMIODARONA 1 AMP CADA 12 HS",
+  "id_paciente": {
+    "$oid": "60f78bf77585b300158d4444"
+  },
+  "date": {
+    "$date": "2021-07-25T01:33:26.576Z"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fcc04d3557f70015ef8e3d"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO. 7 MO DIA DE ATB Y 6TO DIA DE PULSO DE CORTICOIDES",
+  "observations": "1) PHP SEB + BECOZYM --- 21 GOTAS X MIN.\n2)SERTRALINA 50 MG C/24 HRS VO A LAS 9 HS \n2)OMEPRAZOL 1 AMP CADA 24 HS EV\n4)CSV Y DIURESIS.\n5)AMS 1,5 GR CADA 6 HS EV. \n6)LEVOFLOXACINA 750 MG CADA 24 HS. EV.  \n7)METILPREDNISOLONA 80 MG EN 100 CC DE FISIOLOGICA A 100ML/H (TERCER DIA) \n8)PARACETAMOL 1 GRAMO SOS\n9)CODELASA JARABE  10 CC CADA 8 HS VO\n10)DIETA HIPOSODICA COMPLETA.\n11)SALBUTAMOL 2 PUFF CADA 6 HS\n12)BUDESONIDE 2 PUFF CADA 6 HS\n13)HGT PRECOMIDAS Y CORRECCIONES A PARTIR DE 160 SEGUN TABLA\n14)HEPARINA 5 CC EN 250 ML A 11 ML/H\n15)CNAF\n16)FENTANILO 3 AMP EN 250 ML A 11 ML/H\n17) CLONAZEPAM 0,5 MG CON LA CENA",
+  "id_paciente": {
+    "$oid": "60f2d2e72f8796001533bb06"
+  },
+  "date": {
+    "$date": "2021-07-25T01:37:17.153Z"
+  },
+  "professional_name": {
+    "$oid": "5ff59ef2d65667261c5baccf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd72fcd23e5400158842c0"
+  },
+  "type": "Médico",
+  "name": "dia 13 tto + 12 ARM",
+  "observations": "1)PHP SOL FISIOLOGICA ALT CON DEXTROSA 42 ml/h\n2)HIDROCORTISONA 100 MG CADA 8 HS \n3)OMEPRAZOL 20MG EV C/24HS\n4)AMS 1,5 EV C/6 HS\n5)LEVOFLOXACINA 750 MG EV C/24 HS EV (ULTIMO DIA)\n6)MIDAZOLAM 10 AMP EN 250 ML/H A 35 ML/H\n7) FENTANILO 5 AMP EN 250 A 35 ML/H\n8) ATRACURIO 8 AMP EN 250 A 35 ML/H\n9)HEPARINA  5 CC EN 250 ML A 9 ML/H\n10)KTR\n11)C.S.V + DIURESIS X TURNO\n12) ARM\n13) ALIMENTACION 1500 ML A 84 ML/H",
+  "id_paciente": {
+    "$oid": "60e75d3e17aa280015b25d00"
+  },
+  "date": {
+    "$date": "2021-07-25T14:19:40.352Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd7516d23e5400158842c2"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO:+5 DIAS DE INTERNACION",
+  "observations": "1)ABOCATH HEPARINIZADO \n2)LEVOFLOXACINA 750 MG E.V C/ 24 HS\n3)AMS 1,5 C/6HS E.V\n4)DEXAMETASONA 8MG C/24 HS EV \n5)OMEPRAZOL 20MG C/ 24HS E.V\n6)ENOXAPARINA 0.6 CC C/ 24 HS SUBCUTANEA\n7)SALBUTAMOL 2PAFF C/ 6HS \n8)BUDESONIDE  2 PAFF C/8HS\n9)LACTULON ( JBE) 10 CM HASTA C/ 8 HS\n10)HIDROCORTISONA 100MG EV C/8 HS\n11) KTR\n12)LEVOTIROXINA MANEJA LA PACIENTE\n13) CLONAZEPAN 1 MG 1 COMP CON LA CENA\n14) OXIGENOTERA CON CNBF  ITTE\n15) HGT PRE COMIDAS Y CORRECCIONES SEGUN TABLA\n16) SERTRALINA 25 MG / DIA  9 HS",
+  "id_paciente": {
+    "$oid": "60f6118f28c43f0015957bf5"
+  },
+  "date": {
+    "$date": "2021-07-25T14:28:37.012Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd756cd23e5400158842c4"
+  },
+  "type": "Médico",
+  "name": "dia 2 tto + dia 1 ARM",
+  "observations": "1)PHP ALTERNO A 42 ML/H \n2)SNG ASPIRATIVA\n1) DEXT 250 ML + 10 AMP MIDAZOLAN A 21 GTS X MIN\n2) DEXT ML+ 5 AMP FENTANILO A 21 GTS X MIN\n3) DEXT 250 ML + 8 AMP ATRACURIO A 21 ML/H\t\n4) LEVOFLOXACINA 750 MG CADA 24 HS EV\n5) AMS 1,5 MG CADA 6 HS EV\n6) HEPARINA  5 CC EN 250 SF A 11ML/HR\n7) SONDA VESICAL\n8) KTR\n9) OMEPRAZOL 20 MG CADA 24 HS\n10) DIPIRONA SOS\n11) ARM MODO VCV",
+  "id_paciente": {
+    "$oid": "60fb2a14776a68001512f44d"
+  },
+  "date": {
+    "$date": "2021-07-25T14:30:04.360Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd76d2d23e5400158842c6"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)PHP ALTERNO A 21 GOTAS POR MIN\n2)levofloxacina 750 mg cada 24 hs ev\n3)AMS 1,5 cada 6 hs ev\n4)dexametasona 8 mg cada 24 hs\n5)omeprazol 40 mg ev\n6)paracetamol 1GR SOS ( fiebre o dolor) \n7)enoxaparina 0.4 dc sc cada 24 hs\n8)salbutamol 2 puff cada 8 hs \n9)BUDESONIDE 2 PUFF CADA 6 HS \n10)losartan 50 mg cada 12 hs vo\n11)Amlodipina 10 mg cada 24 hs vo \n12)insulina LANTUS 33 UI por la mañana ( indicado por su diabetólogo) 13)control de glucemia y corrección según tabla\n14)CSV Y DIURESIS POR TURNO \n15)KTR",
+  "id_paciente": {
+    "$oid": "60fb9a6dad40930015ce27a8"
+  },
+  "date": {
+    "$date": "2021-07-25T14:36:01.201Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd77d4d23e5400158842c8"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO: +2 ATB",
+  "observations": "1)PHP  FIS ALT CON DEXTROSA 42ML/H\n2)LEVOFLOXACINA 750 MG E.V C/ 24 HS\n3)AMS 1,5 C/6HS E.V\n4)DEXAMETASONA 8MG C/24 HS EV \n5)OMEPRAZOL 20MG C/ 24HS E.V\n6)ENOXAPARINA 0.6 CC C/ 24 HS SC\n7)SALBUTAMOL 2PUFF C/ 8HS \n8)BUDESONIDE  2 PUFF C/6 HS\n9) ECG\n10) KTR\n11) OXIGENOTERAPIA : VENTURI VERDE\n12) PRONO VIGIL\n11)HGT PRE COMIDAS Y CORRECCIONES SEGUN TABLA\t23/7/2021 17:53:53",
+  "id_paciente": {
+    "$oid": "60fb1f5e776a68001512f447"
+  },
+  "date": {
+    "$date": "2021-07-25T14:40:19.935Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd77dcd23e5400158842c9"
+  },
+  "type": "Médico",
+  "name": "dia 2 tto + dia 1 arm",
+  "observations": "1)PHP ALTERNO A 63 ML/H \n2)SOL. FISIOLOGICA 250 ML + 4 AMP NA A 11 ML/H (AJUSTE SEGÚN T.A.)\n3) DEXT 250 ML + 10 AMP MIDAZOLAN A 35 GTS X MIN\n4) DEXT ML+ 5 AMP FENTANILO A 35 GTS X MIN\n5) DEXT 250 ML + 8 AMP ATRACURIO A 35 ML/H\t\n6) LEVOFLOXACINA 750 MG CADA 24 HS EV\n7) AMS 1,5 MG CADA 6 HS EV\n8) DEXAMETASONA 8 MG, 6 AMP EN 100 ML SOL FISIOLOGICA PASAR EN 1 HORA POR BOMBA DIA 2\n9) HEPARINA SODICA 5 CC EN 250 ML A 13 ML/H\n10) SONDA VESICAL\n11) SNG ASPIRATIVA\n12) OMEPRAZOL 20 MG CADA 24 HS\n13) PARACETAMOL 1GR SOS\n14) ARM MODO VCV dia 1\n15) HGT c/ 6hs correcion segun tabla",
+  "id_paciente": {
+    "$oid": "60fc68d010e7d00015819a4f"
+  },
+  "date": {
+    "$date": "2021-07-25T14:40:27.994Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd7970d23e5400158842cd"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO: +2 ATB",
+  "observations": "1) CSV Y DIURESIS POR TURNO\n2) DIETA GENERAL\n3)ABOCATH HEPARINIZADO \n4) ENOXAPARINA 0,6 C/ 24 HS SC\n5) AMS 1,5g C/ 6 HS EV\n6) LEVOFLOXACINA 750 MG / DIA EV\n7) DEXAMETASONA 8 MG/ DIA EV\n8) CNBF 2 LTS INTERMITENTE\n9) KTR\n10) DIPIRONA 1 S.O.S",
+  "id_paciente": {
+    "$oid": "60f9d089e21b140015f0592f"
+  },
+  "date": {
+    "$date": "2021-07-25T14:47:12.230Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd7985d23e5400158842ce"
+  },
+  "type": "Médico",
+  "name": "AGREGO",
+  "observations": "1) OMEPRAZOL 20 MG DIA EV",
+  "id_paciente": {
+    "$oid": "60f9d089e21b140015f0592f"
+  },
+  "date": {
+    "$date": "2021-07-25T14:47:33.260Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd7a43d23e5400158842d0"
+  },
+  "type": "Médico",
+  "name": "tto dia 6 + pulsos cortic  dia 3",
+  "observations": "",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "date": {
+    "$date": "2021-07-25T14:50:43.795Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd7a65d23e5400158842d1"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO:+1 ATB",
+  "observations": "1)PHP ALTERNO A 21 GOTAS POR MIN \n2)OMEPRAZOL 20 Mg : (EV)  C/ 24 hs\n3)AMS 1,5 g : (EV) C/ 6 hs\n4)LEVOFLOXACINA 750 mg : (EV) C / 24 hs.\n5)SBT : 2 puff  C/  6hs\n6)BDS;  2 puff C / 6 hs\n7)DIPIRONA 1gr : (EV)  C/  SOS\n8)ENOXAPARINA 0,4 ml : S/C  C/ 24 HS\n9)DIETA BLANDA\n10)DEXAMETASONA 8 mg: (EV) C/24 hs.\n11)AMLODIPINA 10 mg : (VO) C/ 24 hs\n12)OXIGENOTERAPIA POR CNBF ( 3  L)\n13) C.S.V",
+  "id_paciente": {
+    "$oid": "60fc195505a4140015c6d89d"
+  },
+  "date": {
+    "$date": "2021-07-25T14:51:16.916Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd7ae5d23e5400158842d2"
+  },
+  "type": "Médico",
+  "name": "tto dia 6 + puls cortic dia 3",
+  "observations": "1)PHP ALTERNO A 21 GOTAS X MIN\n2)HEPARINA 1 CM SC CADA 12 HS\n3)LEVOFLOXACINA 750 MG CADA 24 HS EV\n4)AMS 1,5 MG CADA 6 HS EV\n5) PULSO DE CORTICOIDES: DEXAMETASONA 6 AMP EN 100 CC A PASAR EN 1 HORA (3° DIA) 11:00 HRS\n6)OMEPRAZOL 40 MG EV CADA 24 HS\n7)KTR\n8)LOSARTAN 50 MG SOS\n9)PARACETAMOL 1GR SOS\n10)DIPIRONA SOS.\n11)DIETA COMPLETA\n12)SALBUTAMOL 2 PUFF C/6 HRS\n13)BUDESONIDE 2 PUFF C/8 HRS\n14)HGT PREDESAYUNO Y PREMERIENDA + CORRECCIONES SEGUN TABLA MAS DE 140 \n15)PRONO VIGIL\n16) MYLANTA 10 ML C/ 12 HRS VO y S.O.S",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "date": {
+    "$date": "2021-07-25T14:53:25.766Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd7bfbd23e5400158842d5"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO:+29 DIAS DE INTERNACION",
+  "observations": "1)HIGIENE OCULAR: CON GASAS MAS SF C/4 HRS\n2)DIETA COMPLETA\n3)HALOPIDOL 1 AMP EV SOS\n4)ABOCATH HEPARINIZADO\n5)OMEPRAZOL 20 MG CADA 24 HS \n6)HEPARINA SODICA 1 CC SC CADA 12 HS \n7)HGT C/ 6 HS Y CORRECCIONES SEGUN TABLA. \n8)KTR Y KTM\n9)CSV Y DIURESIS\n10)TOBRAMICINA/DEXAMETASONA (COLIRIO) 1 GOTA EN C/OJO C/6 HS\n11)PARCHE ANTIESCARA EN ZONA COCCIX",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "date": {
+    "$date": "2021-07-25T14:58:02.756Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd7cecd23e5400158842d7"
+  },
+  "type": "Médico",
+  "name": "tto dia 9",
+  "observations": "1)PHP:SOL .FIS./SOL DEX5%-------->63 ML/H +2 AMP DE K Y 1 AMP DE MG\n2)OMEPRAZOL 20 mg :(EV)  C/ 24 hs.)\n3)AMP/SUL  1,5 g: (EV) C/ 6 hs\n4)LEVOFLOXACINA 750 mg: (EV)  C/24hs\n5)  METILPREDNISOLONA 60 MG EN 100 SF A 100 ML /H ( DIA 6°)\n6) HGT PRECOMIDAS Y CORRECIONES A PARTIR DE 180 SEGUN TABLA\n7)LOSARTAN 50 mg : (VO)  C/ 12 hs\n8)CNAF  FIO 0,45 FLUJO 0,60\n9)DIETA BLANDA HIPOSODICA\n10)SBT: 2 puff C/ 8 hs.\n11)BDS: 2puff C/ 8 hs\n12) FISIOLOGICA 250 ML+3 AMP DE FENTANILO A 6 ML/H\n13)HEPARINA  5 CC EN 250 ML A 13 ML/H\n14) PRONO VIGIL\n15) FUROSEMIDA 1 AMP CADA 12 HS",
+  "id_paciente": {
+    "$oid": "60f21308c5d88c0015847759"
+  },
+  "date": {
+    "$date": "2021-07-25T15:02:04.356Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd7dbcd23e5400158842d8"
+  },
+  "type": "Médico",
+  "name": "TRATAMENTO: +4 ATB",
+  "observations": "1)ABOCATH HEPARINIZADO\n2)VENTURI BLANCO : 4 L/H\n3)LEVOFLOXACINA 750 mg : (EV) C/ 24 hs\n4)AMP / SUL 1,5 gr : (EV)  C/6 HS\n5)DEXAMETASONA 8 mg : (EV)  C/ 24 hs\n6)ENOXAPARINA 0,6 mg :S/C  C/ 12  HS.\n7)PARACETAMOL 1GR: (VO) (FIEBRE O DOLOR)\n8)OMEPRAZOL 20 mg : (EV)  C/ 24  HS . EN AYUNAS\n9)SBT : 2 PUFF C/ 6 hs.\n10)BDS: 2 PUFF C/6 HS.\n11)KTR\n12)HGT PREPRANDIAL Y CORRECCIÓN SEGÚN ESQUEMA > 140mg/dl\n13) C.S.V.",
+  "id_paciente": {
+    "$oid": "60f8c8185fd83a0015a72539"
+  },
+  "date": {
+    "$date": "2021-07-25T15:05:30.577Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd7dfdd23e5400158842d9"
+  },
+  "type": "Médico",
+  "name": "2° DOSIS DE SUERO EQUINO A LAS 19 HS",
+  "observations": "2° DOSIS SUERO EQUINO 15 ML DILUIDOS EN 100 CC SF PASAR A 120 ML/HR",
+  "id_paciente": {
+    "$oid": "60f8c8185fd83a0015a72539"
+  },
+  "date": {
+    "$date": "2021-07-25T15:06:36.414Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd7e28d23e5400158842da"
+  },
+  "type": "Médico",
+  "name": "arm dia 8",
+  "observations": "1)PHP ALTERNO A 63 ML/H \n2)SNG: ALIMENTACIÓN A 42 ML/H\n1) DEXT 250 ML + 10 AMP MIDAZOLAN A 28 GTS X MIN\n2) DEXT ML+ 5 AMP FENTANILO A 35 GTS X MIN\n3) DEXT 250 ML + 8 AMP ATRACURIO A 21 ML/H\t\n2) INSULINA NPH: 16 UI A LAS 7 HS , 16 UI A LAS 13 HS Y 12 UI A LAS 23 HS\n3) HGT  CORRECIONES A PARTIR 180\n4) LEVOFLOXACINA 750 MG CADA 24 HS EV\n5) AMS 1,5 MG CADA 6 HS EV\n6) DEXAMETASONA 8 MG CADA 24 HS EV\n7) HEPARINA  5 CC EN 250 ML A 15 ML/H\n8) SONDA VESICAL\n10) KTR \n11) OMEPRAZOL 20 MG CADA 24 HS\n13) PARACETAMOL 1GR SOS\n14) ARM MODO VCV \n15) FLUCONAZOL 150 MG/DIA EV\n16) posicion decubito prono dia 2, se sugiere despronar",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "date": {
+    "$date": "2021-07-25T15:07:20.111Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd7ff8d23e5400158842dc"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO: + 4",
+  "observations": "1)PHP: SEB--------->42 ML/H\n2)OMEPRAZOL 20 MG : (EV) C/24 HS.\n3)AMP/SUL 1,5 GR: (EV)  C/ 6 HS\n4)LEVOFLOXACINA 750 MG: (EV) C/ 24 HS\n5)HEPARINA SODICA 5CC EN 250 ML A 11 ML/H\n6)SBT :2 PUFF C/ 6 HS\n7)BDS :2 PUFF C / 6 HS\n8)KTR\n9)DIETA P/DBT +COLACIÓN A LAS 23 HS.\n10)HGT PREPRANDIAL Y CORRECCIÓN C/INSULINA CTE\n11)LOSARTAN 50 MG: (VO) C/24 HS.\n12)BISOPROLOL 10 MG (VO) C/ 24 HS.\n13)DEXAMETASONA 8 MG : (EV) C / 24 HS\n14)AMIODARONA 1 AMP CADA 12 HS",
+  "id_paciente": {
+    "$oid": "60f78bf77585b300158d4444"
+  },
+  "date": {
+    "$date": "2021-07-25T15:15:03.917Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd81aed23e5400158842df"
+  },
+  "type": "Médico",
+  "name": "se agrega",
+  "observations": "17) LABETALOL 1 AMP EV unica vez",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "date": {
+    "$date": "2021-07-25T15:22:21.798Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd82b8d23e5400158842e0"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1) PHP SEB + BECOZYM --- 14 GOTAS X MIN.\n2)SERTRALINA 50 MG C/24 HRS VO A LAS 9 HS \n2)OMEPRAZOL 1 AMP CADA 24 HS EV\n4)CSV Y DIURESIS.\n5)AMS 1,5 GR CADA 6 HS EV. \n6)LEVOFLOXACINA 750 MG CADA 24 HS. EV.  \n7)METILPREDNISOLONA 60 MG EN 100 CC DE FISIOLOGICA A 100ML/H (1°  DIA) \n8)PARACETAMOL 1 GRAMO SOS\n9)CODELASA JARABE  10 CC CADA 8 HS VO\n10)DIETA HIPOSODICA COMPLETA.\n11)SALBUTAMOL 2 PUFF CADA 6 HS\n12)BUDESONIDE 2 PUFF CADA 8 HS\n13)HGT PRECOMIDAS Y CORRECCIONES A PARTIR DE 160 SEGUN TABLA\n14)HEPARINA 5 CC EN 250 ML A 11 ML/H\n15)CNAF\n16)FENTANILO 3 AMP EN 250 ML A 11 ML/H\n17) CLONAZEPAM 0,5 MG CON LA CENA",
+  "id_paciente": {
+    "$oid": "60f2d2e72f8796001533bb06"
+  },
+  "date": {
+    "$date": "2021-07-25T15:26:47.829Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd8320d23e5400158842e2"
+  },
+  "type": "Médico",
+  "name": "dia 14 tto",
+  "observations": "1)PHP SOL FISIOLOGICA ALT CON DEXTROSA 42 ml/h\n2)HIDROCORTISONA 100 MG CADA 8 HS EV\n3)OMEPRAZOL 20MG EV C/24HS\n4)VANCOMICINA 2g EN 250 ML DE SOL FIS A 11 ML/HS\n5)PZT 13,5 EN 250 ML/SF A PASAR A 11 ML/ HS\n6) MIDAZOLAM 10 AMP EN 250 ML/H A 35ML/H\n7)FENTANILO 5 AMP EN 250 A 11 ML/H\n8) ATRACURIO 10 AMPOLLAS A 31 ML/ HS\n9)HEPARINA  5 CC EN 250 ML A 16 ML/H según KPTT\n10)KTR\n11)C.S.V + DIURESIS X TURNO\n12)ARM vcv fio35 peep8 pico26\n13)TALLA VESICAL\n14)NAD 4 AMP EN 250 ML a 20ml/h SEGUN TAM coreccion \n16) HIOSCINA 1 AMP CADA 8 HS\n17) LIMPIEZA DE HERIDAS DE AMBOS PIES\n18) SNG: Alimentación a 63 ml/h\n19) FUROSEMIDA 1 AMP CADA 12 HS\n20)FLUCONAZOL 200 MG EV POR DIA POR 7 DIAS",
+  "id_paciente": {
+    "$oid": "60eddb7b62f4ce00155ec354"
+  },
+  "date": {
+    "$date": "2021-07-25T15:28:32.283Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd8400d23e5400158842e3"
+  },
+  "type": "Médico",
+  "name": "3° ATB + 3 ° PULSO DE CORTICOIDE",
+  "observations": "PHP ALTERNO 42ML/H\n2)LEVOFLOXACINA 750 MG E.V C/ 24 HS\n3)AMS 1,5 C/6HS E.V \n5)OMEPRAZOL 20MG C/ 24HS E.V\n6)ENOXAPARINA 0.4 CC C/ 12 HS SC\n7)SALBUTAMOL 2PAFF C/ 6HS \n8)BUDESONIDE  2 PAFF C/6 HS\n9)HGT PRECOMIDAS + CORRECCIONES SEGUN TABLA DESDE 150\n10)CSV\n11)KTR\n12)OXIGENOTERAPIA CNAF FIO2 60 Y FLUJO 50\n13)LOSARTAN 50 MG VO SOS\n14)PARACETAMOL 1 GR VO SOS\n15) DEXAMETASONA 50MG EN 100ML DE SF A PASAR 100ML/H EV ( 3° DOSIS )\n16)FUROSEMIDA 1 AMPOLLA CADA 24 HORAS",
+  "id_paciente": {
+    "$oid": "60f9e9dfe21b140015f0593c"
+  },
+  "date": {
+    "$date": "2021-07-25T15:32:15.574Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd877bd23e5400158842e6"
+  },
+  "type": "Médico",
+  "name": "tto dia 9 + atb dia 8",
+  "observations": "1)DEXT 250 ML + 10 AMP MIDAZOLAN A 35 GTS X MIN\n2)DEXT ML+ 5 AMP FENTANILO A 21 GTS X MIN\n3)DEXT 250 ML + 8 AMP ATRACURIO A 35 ML/H\n4)PHP ALTERNO A 42 ML/H\n3)HGT  CORRECIONES A PARTIR 150\n5)LEVOFLOXACINA 750 MG CADA 24 HS EV\n6)AMS 1,5 MG CADA 6 HS EV\n7)DEXAMETASONA 8 MG CADA 24 HS EV\n8)HEPARINA  5 CC EN 250 ML A 11 ML/H \n9)SONDA VESICAL  control diuresis\n10)ALIMENTACION: 1000 ML A 42 ML/H \n11)KTR \n12)OMEPRAZOL 20 MG CADA 24 HS\n14) ARM MODO VCV EN DECUBITO SUPINO\n15) HIOSCINA 1 AMP CADA 8 HS ( ABUNDANTES SECRECIONES)\n16) ASPIRAR SECRECIONES EN CADA TURNO",
+  "id_paciente": {
+    "$oid": "60f25ab288b36f00150c865b"
+  },
+  "date": {
+    "$date": "2021-07-25T15:47:07.317Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fda93c4c813a0015f1853e"
+  },
+  "type": "Médico",
+  "name": "Agrego",
+  "observations": "1) 50 UNIDADES DE INSULINA CORRIENTE EN 100 ML DE SF A 6 ML/ HORA, Y HGT CADA 2 HS Y CORRECCIONES \n2) MODIFICO PLAN DE HIDRATACION: PHP A 28 GOTAS POR MIN DE SOLUCION FISIOLOGICA(NO DX 5%)",
+  "id_paciente": {
+    "$oid": "60fb9a6dad40930015ce27a8"
+  },
+  "date": {
+    "$date": "2021-07-25T18:11:08.261Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fdb5274c813a0015f1853f"
+  },
+  "type": "Médico",
+  "name": "tto dia 9 + atb dia 8. Se agrega",
+  "observations": "17)dexmedetomidina 400 mcg (2amp) en 250 ml pasar a 21ml.",
+  "id_paciente": {
+    "$oid": "60f25ab288b36f00150c865b"
+  },
+  "date": {
+    "$date": "2021-07-25T19:01:59.778Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fdb5834c813a0015f18540"
+  },
+  "type": "Médico",
+  "name": "dia 14 tto. Se agrega",
+  "observations": "21) risperidona 1 mg c/12hs.",
+  "id_paciente": {
+    "$oid": "60eddb7b62f4ce00155ec354"
+  },
+  "date": {
+    "$date": "2021-07-25T19:03:31.393Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fe0b5e475f340015aa46e6"
+  },
+  "type": "Médico",
+  "name": "MODIFICACION TRATAMIENTO",
+  "observations": "FUROSEMIDA 1 AMP CADA 24 HS EV",
+  "id_paciente": {
+    "$oid": "60eddb7b62f4ce00155ec354"
+  },
+  "date": {
+    "$date": "2021-07-26T01:09:50.651Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fe0ea1475f340015aa46e7"
+  },
+  "type": "Médico",
+  "name": "MODIFICACION",
+  "observations": "REDUCIR EL GOTEO DE FENTANILO A 21 ML/HR Y DE NORADRENALINA A 6 ML/HR",
+  "id_paciente": {
+    "$oid": "60fc68d010e7d00015819a4f"
+  },
+  "date": {
+    "$date": "2021-07-26T01:23:44.287Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fe0eff475f340015aa46e8"
+  },
+  "type": "Médico",
+  "name": "MODIFICACION TRATAMIENTO",
+  "observations": "SUSPENDER NORADRENALINA",
+  "id_paciente": {
+    "$oid": "60fb2a14776a68001512f44d"
+  },
+  "date": {
+    "$date": "2021-07-26T01:25:19.895Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fe31ec3253020015457bc7"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1) RETIRAR ABOCATH \n2)LEVOFLOXACINA 750 MG VO C/ 24 HS\n3)AMOXICILINA-CLAVULANICO 1 GR CADA 12 HS VO\n4)DEXAMETASONA 0.5 MG C/8 HS VO \n5)OMEPRAZOL 20MG C/ 24HS VO\n6)ENOXAPARINA 0.6 CC C/ 24 HS SUBCUTANEA\n7)SALBUTAMOL 2PAFF C/ 6HS \n8)BUDESONIDE  2 PAFF C/8HS\n9) KTR\n10)LEVOTIROXINA MANEJA LA PACIENTE\n11) CLONAZEPAN 1 MG 1 COMP CON LA CENA\n12) HGT PRE COMIDAS Y CORRECCIONES SEGUN TABLA\n13) SERTRALINA 25 MG / DIA  9 HS",
+  "id_paciente": {
+    "$oid": "60f6118f28c43f0015957bf5"
+  },
+  "date": {
+    "$date": "2021-07-26T03:54:19.632Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60feecf4d284320015002eba"
+  },
+  "type": "Médico",
+  "name": "ARM 9",
+  "observations": "1)PHP ALTERNO A 63 ML/H \n2)SNG: ALIMENTACIÓN A 42 ML/H\n1) DEXT 250 ML + 10 AMP MIDAZOLAN A 35 GTS X MIN\n2) DEXT ML+ 5 AMP FENTANILO A 28 GTS X MIN\n3) DEXT 250 ML + 8 AMP ATRACURIO A 28 ML/H\t\n2) INSULINA NPH: 16 UI A LAS 7 HS , 20 UI A LAS 13 HS Y 12 UI A LAS 23 HS\n3) HGT  CORRECIONES A PARTIR 180\n4) LEVOFLOXACINA 750 MG CADA 24 HS EV\n5) AMS 1,5 MG CADA 6 HS EV\n6) DEXAMETASONA 8 MG CADA 24 HS EV\n7) HEPARINA  5 CC EN 250 ML A 15 ML/H\n8) SONDA VESICAL\n10) KTR \n11) OMEPRAZOL 20 MG CADA 24 HS\n13) PARACETAMOL 1GR SOS\n14) ARM MODO VCV \n15) FLUCONAZOL 2000 MG/DIA EV\n16)",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "date": {
+    "$date": "2021-07-26T17:12:19.238Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60feed99d284320015002ebb"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)PHP:SOL .FIS./SOL DEX5%-------->63 ML/H +2 AMP DE K Y 1 AMP DE MG\n2)OMEPRAZOL 20 mg :(EV)  C/ 24 hs.)\n3)AMP/SUL  1,5 g: (EV) C/ 6 hs\n4)LEVOFLOXACINA 750 mg: (EV)  C/24hs\n5)  METILPREDNISOLONA 60 MG EN 100 SF A 100 ML /H ( DIA 8°)\n6) HGT PRECOMIDAS Y CORRECIONES A PARTIR DE 180 SEGUN TABLA\n7)LOSARTAN 50 mg : (VO)  C/ 12 hs\n8)CNAF  FIO 0,45 FLUJO 0,60\n9)DIETA BLANDA HIPOSODICA\n10)SBT: 2 puff C/ 8 hs.\n11)BDS: 2puff C/ 8 hs\n12) FISIOLOGICA 250 ML+3 AMP DE FENTANILO A 6 ML/H\n13)HEPARINA  5 CC EN 250 ML A 13 ML/H\n14) PRONO VIGIL\n15) FUROSEMIDA 1 AMP CADA 24 HS",
+  "id_paciente": {
+    "$oid": "60f21308c5d88c0015847759"
+  },
+  "date": {
+    "$date": "2021-07-26T17:15:03.592Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60feef4ad284320015002ebe"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)PHP ALTERNO A 21 GOTAS X MIN\n2)HEPARINA 1 CM SC CADA 12 HS\n3)LEVOFLOXACINA 750 MG CADA 24 HS EV\n4)AMS 1,5 MG CADA 6 HS EV\n5) PULSO DE CORTICOIDES: DEXAMETASONA 6 AMP EN 100 CC A PASAR EN 1 HORA (3° DIA) 11:00 HRS\n6)OMEPRAZOL 40 MG EV CADA 24 HS\n7)KTR\n8)LOSARTAN 50 MG SOS\n9)PARACETAMOL 1GR SOS\n10)DIPIRONA SOS.\n11)DIETA COMPLETA\n12)SALBUTAMOL 2 PUFF C/6 HRS\n13)BUDESONIDE 2 PUFF C/8 HRS\n14)HGT PREDESAYUNO Y PREMERIENDA + CORRECCIONES SEGUN TABLA MAS DE 140 \n15)PRONO VIGIL\n16) MYLANTA 10 ML C/ 12 HRS VO y S.O.S",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "date": {
+    "$date": "2021-07-26T17:22:17.266Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60feefb4d284320015002ebf"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)PHP ALTERNO A 21 GOTAS X MIN\n2)HEPARINA 1 CM SC CADA 12 HS\n3)LEVOFLOXACINA 750 MG CADA 24 HS EV\n4)AMS 1,5 MG CADA 6 HS EV\n5) DEXAMETASONA 16 MG/DIA EV\n6)OMEPRAZOL 40 MG EV CADA 24 HS\n7)KTR\n8)LOSARTAN 50 MG SOS\n9)PARACETAMOL 1GR SOS\n10)DIPIRONA SOS.\n11)DIETA COMPLETA\n12)SALBUTAMOL 2 PUFF C/6 HRS\n13)BUDESONIDE 2 PUFF C/8 HRS\n14)HGT PREDESAYUNO Y PREMERIENDA + CORRECCIONES SEGUN TABLA MAS DE 140 \n15)PRONO VIGIL\n16) MYLANTA 10 ML C/ 12 HRS VO y S.O.S",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "date": {
+    "$date": "2021-07-26T17:24:03.423Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fef253d284320015002ec3"
+  },
+  "type": "Médico",
+  "name": "TTO día 10 + ATB día 9",
+  "observations": "1)Dexmedetomidina 400 mcg (2amp) en 250 ml pasar a 21ml.\t\n1)DEXT 250 ML + 10 AMP MIDAZOLAN A 35 GTS X MIN\n2)DEXT ML+ 5 AMP FENTANILO A 21 GTS X MIN\n3)DEXT 250 ML + 8 AMP ATRACURIO A 35 ML/H\n4)PHP ALTERNO A 42 ML/H\n3)HGT  CORRECIONES A PARTIR 150\n5)LEVOFLOXACINA 750 MG CADA 24 HS EV (9° DIA)\n6)AMS 1,5 MG CADA 6 HS EV\n7)DEXAMETASONA 8 MG CADA 24 HS EV\n8)HEPARINA  5 CC EN 250 ML A 14 ML/H \n9)SONDA VESICAL  control diuresis\n10)ALIMENTACION: 1000 ML A 63 ML/H \n11)KTR \n12)OMEPRAZOL 20 MG CADA 24 HS\n14) ARM MODO VCV EN DECUBITO LATERALIZADA POR KINESIOLOGIA\n15) HIOSCINA 1 AMP CADA 8 HS ( ABUNDANTES SECRECIONES)\n16) ASPIRAR SECRECIONES EN CADA TURNO",
+  "id_paciente": {
+    "$oid": "60f25ab288b36f00150c865b"
+  },
+  "date": {
+    "$date": "2021-07-26T17:35:15.670Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff0214d284320015002ec5"
+  },
+  "type": "Médico",
+  "name": "MODIFICO HEPARINA",
+  "observations": "ENOXAPARINA 0,6 C/ 24 HS SC",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "date": {
+    "$date": "2021-07-26T18:42:27.245Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff0386d284320015002ec6"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO 9° DIA ATB",
+  "observations": "1) PHP SEB + BECOZYM --- 14 GOTAS X MIN.\n2)SERTRALINA 50 MG C/24 HRS VO A LAS 9 HS \n2)OMEPRAZOL 1 AMP CADA 24 HS EV\n4)CSV Y DIURESIS.\n5)AMS 1,5 GR CADA 6 HS EV. \n6)LEVOFLOXACINA 750 MG CADA 24 HS. EV.  \n7)METILPREDNISOLONA 60 MG EN 100 CC DE FISIOLOGICA A 100ML/H (2°  DIA) \n8)PARACETAMOL 1 GRAMO SOS\n9)CODELASA JARABE  10 CC CADA 8 HS VO\n10)DIETA HIPOSODICA COMPLETA.\n11)SALBUTAMOL 2 PUFF CADA 6 HS\n12)BUDESONIDE 2 PUFF CADA 8 HS\n13)HGT PRECOMIDAS Y CORRECCIONES A PARTIR DE 160 SEGUN TABLA\n14)ENOXAPARINA 0,6 C/ 24 HS SC\n15)CNAF\n16)FENTANILO 3 AMP EN 250 ML A 11 ML/H ( SUSPENDIDO )\n17) CLONAZEPAM 0,5 MG CON LA CENA",
+  "id_paciente": {
+    "$oid": "60f2d2e72f8796001533bb06"
+  },
+  "date": {
+    "$date": "2021-07-26T18:48:37.378Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff0766d284320015002ec7"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO: +2 ATB",
+  "observations": "1)PHP SF  A 21 GOTAS POR MIN\n2)levofloxacina 750 mg cada 24 hs ev\n3)AMS 1,5 cada 6 hs ev\n4)dexametasona 8 mg cada 24 hs\n5)omeprazol 20 mg ev\n6)paracetamol 1GR SOS ( fiebre o dolor) \n7)enoxaparina 0.4 dc sc cada 24 hs\n8)salbutamol 2 puff cada 8 hs \n9)BUDESONIDE 2 PUFF CADA 6 HS \n10)losartan 50 mg cada 12 hs vo\n11)Amlodipina 10 mg cada 24 hs vo \n12)insulina LANTUS 33 UI por la mañana ( indicado por su diabetólogo) 13)control de glucemia CADA 2 HS y corrección según tabla\n14)CSV Y DIURESIS POR TURNO \n15)KTR",
+  "id_paciente": {
+    "$oid": "60fb9a6dad40930015ce27a8"
+  },
+  "date": {
+    "$date": "2021-07-26T19:05:11.188Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff0a1dd284320015002ecb"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO:DIA +6",
+  "observations": "1) RETIRAR ABOCATH \n2)LEVOFLOXACINA 750 MG VO C/ 24 HS\n3)AMOXICILINA-CLAVULANICO 1 GR CADA 12 HS VO\n4)DEXAMETASONA 0.5 MG C/8 HS VO \n5)OMEPRAZOL 20MG C/ 24HS VO\n6)ENOXAPARINA 0.6 CC C/ 24 HS SUBCUTANEA\n7)SALBUTAMOL 2PAFF C/ 6HS \n8)BUDESONIDE  2 PAFF C/8HS\n9) KTR\n10)LEVOTIROXINA MANEJA LA PACIENTE\n11) CLONAZEPAN 1 MG 1 COMP CON LA CENA\n12) HGT PRE COMIDAS Y CORRECCIONES SEGUN TABLA\n13) SERTRALINA 25 MG / DIA  9 HS",
+  "id_paciente": {
+    "$oid": "60f6118f28c43f0015957bf5"
+  },
+  "date": {
+    "$date": "2021-07-26T19:16:46.102Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff0b90d284320015002ece"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO: +2 ATB",
+  "observations": "1)PHP ALTERNO A 21 GOTAS POR MIN \n2)OMEPRAZOL 20 Mg : (EV)  C/ 24 hs\n3)AMS 1,5 g : (EV) C/ 6 hs\n4)LEVOFLOXACINA 750 mg : (EV) C / 24 hs.\n5)SBT : 2 puff  C/  6hs\n6)BDS;  2 puff C / 6 hs\n7)DIPIRONA 1gr : (EV)  C/  SOS\n8)ENOXAPARINA 0,4 ml : S/C  C/ 24 HS\n9)DIETA BLANDA\n10)DEXAMETASONA 8 mg: (EV) C/24 hs.\n11)AMLODIPINA 10 mg : (VO) C/ 24 hs\n12)OXIGENOTERAPIA POR CNBF ( 3  L)\n13) C.S.V",
+  "id_paciente": {
+    "$oid": "60fc195505a4140015c6d89d"
+  },
+  "date": {
+    "$date": "2021-07-26T19:22:55.791Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff0d17d284320015002ed0"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO: +3 ATB",
+  "observations": "1)PHO A 42 ML/H ALTERNO\n2)LEVOFLOXACINA 750 MG E.V C/ 24 HS\n3)AMS 1,5 C/6HS E.V\n4)DEXAMETASONA 8MG C/24 HS EV \n5)OMEPRAZOL 20MG C/ 24HS E.V\n6)ENOXAPARINA 0.6 CC C/ 24 HS SC\n7)SALBUTAMOL 2PUFF C/ 8HS \n8)BUDESONIDE  2 PUFF C/6 HS\n9)KTR\n10) OXIGENOTERAPIA : VENTURI VERDE\n11) PRONO VIGIL\n12)HGT PRE COMIDAS Y CORRECCIONES SEGUN TABLA",
+  "id_paciente": {
+    "$oid": "60fb1f5e776a68001512f447"
+  },
+  "date": {
+    "$date": "2021-07-26T19:29:27.825Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff0e3dd284320015002ed2"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO: +3 ATB",
+  "observations": "1) CSV Y DIURESIS POR TURNO\n2) DIETA GENERAL\n3)ABOCATH HEPARINIZADO \n4) ENOXAPARINA 0,6 C/ 24 HS SC\n5) AMOXICILINA + ACIDO CLAVULANICO 1 GR CADA 12 HS VO \n6) LEVOFLOXACINA 750 MG / DIA VO\n7) DEXAMETASONA VO : 0.5 MG CADA 8 HS \n8)  KTR\n9) HIDRATACION VIA ORAL",
+  "id_paciente": {
+    "$oid": "60f9d089e21b140015f0592f"
+  },
+  "date": {
+    "$date": "2021-07-26T19:34:21.918Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff0ed7d284320015002ed4"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO: DIA +5 ATB",
+  "observations": "1)ABOCATH HEPARINIZADO\n2)CNBF ITTE\n3)LEVOFLOXACINA 750 mg : (EV) C/ 24 hs\n4)AMP / SUL 1,5 gr : (EV)  C/6 HS\n5)DEXAMETASONA 8 mg : (EV)  C/ 24 hs\n6)ENOXAPARINA 0,6 mg :S/C  C/ 12  HS.\n7)PARACETAMOL 1GR: (VO) (FIEBRE O DOLOR)\n8)OMEPRAZOL 20 mg : (EV)  C/ 24  HS . EN AYUNAS\n9)SBT : 2 PUFF C/ 6 hs.\n10)BDS: 2 PUFF C/6 HS.\n11)KTR\n12)HGT PREPRANDIAL Y CORRECCIÓN SEGÚN ESQUEMA > 140mg/dl\n13) C.S.V.",
+  "id_paciente": {
+    "$oid": "60f8c8185fd83a0015a72539"
+  },
+  "date": {
+    "$date": "2021-07-26T19:36:56.268Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff103fd284320015002ed6"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO: DIA +5",
+  "observations": "1)PHP: SEB--------->42 ML/H\n2)OMEPRAZOL 20 MG : (EV) C/24 HS.\n3)AMP/SUL 1,5 GR: (EV)  C/ 6 HS\n4)LEVOFLOXACINA 750 MG: (EV) C/ 24 HS\n5)HEPARINA SODICA 5CC EN 250 ML A 11 ML/H\n6)SBT :2 PUFF C/ 6 HS\n7)BDS :2 PUFF C / 6 HS\n8)KTR\n9)DIETA P/DBT +COLACIÓN A LAS 23 HS.\n10)HGT PREPRANDIAL Y CORRECCIÓN C/INSULINA CTE\n11)LOSARTAN 50 MG: (VO) C/24 HS.\n12)BISOPROLOL 10 MG (VO) C/ 24 HS.\n13)DEXAMETASONA 8 MG : (EV) C / 24 HS\n14)AMIODARONA 1 AMP CADA 12 HS",
+  "id_paciente": {
+    "$oid": "60f78bf77585b300158d4444"
+  },
+  "date": {
+    "$date": "2021-07-26T19:42:56.101Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff10f7d284320015002ed8"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO: DIA +30 DE INTERNACION",
+  "observations": "1)HIGIENE OCULAR: CON GASAS MAS SF C/4 HRS\n2)DIETA COMPLETA\n3)HALOPIDOL 1 AMP EV SOS\n4)ABOCATH HEPARINIZADO\n5)OMEPRAZOL 20 MG CADA 24 HS \n6)ENOXAPARINA 0.4 CC SC CADA 24 HS \n7)HGT C/ 6 HS Y CORRECCIONES SEGUN TABLA. \n8)KTR Y KTM\n9)CSV Y DIURESIS\n10)TOBRAMICINA/DEXAMETASONA (COLIRIO) 1 GOTA EN C/OJO C/6 HS\n11)PARCHE ANTIESCARA EN ZONA COCCIX",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "date": {
+    "$date": "2021-07-26T19:45:59.395Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff1106d284320015002ed9"
+  },
+  "type": "Médico",
+  "name": "4° ATB",
+  "observations": "PHP ALTERNO 42ML/H\n2)LEVOFLOXACINA 750 MG E.V C/ 24 HS\n3)AMS 1,5 C/6HS E.V \n5)OMEPRAZOL 20MG C/ 24HS E.V\n6)ENOXAPARINA 0.4 CC C/ 12 HS SC\n7)SALBUTAMOL 2PAFF C/ 6HS \n8)BUDESONIDE  2 PAFF C/6 HS\n9)HGT PRECOMIDAS + CORRECCIONES SEGUN TABLA DESDE 150\n10)CSV\n11)KTR\n12)OXIGENOTERAPIA CNAF \n13)LOSARTAN 50 MG VO SOS\n14)PARACETAMOL 1 GR VO SOS\n15) DEXAMETASONA 16 MG /DIA EV ( 1° DOSIS )\n16)FUROSEMIDA 1 AMPOLLA CADA 24 HORAS",
+  "id_paciente": {
+    "$oid": "60f9e9dfe21b140015f0593c"
+  },
+  "date": {
+    "$date": "2021-07-26T19:46:12.907Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff12b3d284320015002edd"
+  },
+  "type": "Médico",
+  "name": "MODIFICAR BOMBA DE HEPARINA",
+  "observations": "HEPARINA 5 CC EN 250 ML DE SF A 7 ML/H",
+  "id_paciente": {
+    "$oid": "60e75d3e17aa280015b25d00"
+  },
+  "date": {
+    "$date": "2021-07-26T19:53:24.201Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff2721d284320015002edf"
+  },
+  "type": "Médico",
+  "name": "INICIA BOMBA DE INSULINA",
+  "observations": "1) 50 UI DE INSULINA CORRIENTE EN 100 ML DE SF a 10 ML/H",
+  "id_paciente": {
+    "$oid": "60fb9a6dad40930015ce27a8"
+  },
+  "date": {
+    "$date": "2021-07-26T21:20:32.711Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff5c5a31208e0015206d65"
+  },
+  "type": "Médico",
+  "name": "1dia TTO y ATB",
+  "observations": "1) PHP SF alterna con DX 5% a 21 got/ m\n2) Ams EV 1.5 g cada 6hs d0\n3) Levofloxacina EV 750 mg c/24 hs d0\n4) dexametsona Ev 8 MG C/24HS.\n5) OMEPRAZOL EV 40 MG C/24HS.\n6) ENOXAPARINA 0.4 CC C/12HS.\n7 )SALBUTAMOL 2 PUFF C/6 HS.\n8) BUDESONIDE 2 PUFF/ 8HS.\n9)HGT PRECOMIDAS. \n10) PIOGLITAZONA 1 COMP SEGUN INDICACION.\n11) CSV\n12)KTR \n13) VENTURI BLANCO A 4LS.\n14) INSULINA CORRIENTE CORRECCION GLUCEMIA (SOS) A PARTIR 180 MG",
+  "id_paciente": {
+    "$oid": "60ff577431208e0015206d63"
+  },
+  "date": {
+    "$date": "2021-07-27T01:07:37.396Z"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff643e31208e0015206d6d"
+  },
+  "type": "Médico",
+  "name": "TTO Y ATB DIA 0",
+  "observations": "1) PHP SF ALTERNA DX % 5 A 21 G/M\n2)AMS EV 1.5 MG C/6HS.\n3) LEVOFLOXACINA EV 750 MG C/24HS.\n4) DEXAMETAOSNA EV  8 MG C/24HS\n5) ENOXAPARINA 0.4 CC C/ 24HS\n6) OMEPRAZOL 20MG C/24HS \n7) HGT POR TURNO\n8) INSULINA CORRIENTE CORRECCIONES SEGUN TABLA A PARTIR DE 140MG \n9) RISPERIDONA 1MG C/24HS \n10)CSV \n11)KTR\n12) CNAF FLUJO 60 FIO2 100\n13) CONTROL DIURESIS Y CATARSIS",
+  "id_paciente": {
+    "$oid": "60ff60b031208e0015206d6b"
+  },
+  "date": {
+    "$date": "2021-07-27T01:41:18.083Z"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff672631208e0015206d79"
+  },
+  "type": "Médico",
+  "name": "SE AGREGA",
+  "observations": "1) CLONAZEPAN 0.5 MG",
+  "id_paciente": {
+    "$oid": "60ff577431208e0015206d63"
+  },
+  "date": {
+    "$date": "2021-07-27T01:53:42.383Z"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff6c9c31208e0015206d7a"
+  },
+  "type": "Médico",
+  "name": "26/O7/21",
+  "observations": "1) SUSPENDE BOMBA INSULINA\n2) PHP DEX 5%  A 7 GOTS/M\n3) HGT POR TURN.\n4) CORRECIONES INSULINA  CORRIENTE SEGUN TABLA",
+  "id_paciente": {
+    "$oid": "60fb9a6dad40930015ce27a8"
+  },
+  "date": {
+    "$date": "2021-07-27T02:16:59.881Z"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ff7b4531208e0015206d81"
+  },
+  "type": "Médico",
+  "name": "TTO DIA 0",
+  "observations": "1) PHP SF 28 G/MIN \n2) DEXAMETASONA EV 16 MG C/ 24HS dia 4 ( se realizaron pulsos 23-24-25)\n3) AMS  EV 1.5 MG C/6HS \n4) LEVOFLOXACINA EV 750MG C/24HS\n5) ENOXAPARINA 0.4 CC C/24HS \n6) PROPANOLOL 40MG C/24HS\n7)DANANTIZOL 20 MG C/ 24HS \n8) BUDESONIDE 2 PUFF C/8HS\n9)KTR\n10)CNAF FLUJO 60LS FIO2 100%\n11) RX TORAX \n12) ECG",
+  "id_paciente": {
+    "$oid": "60ff760431208e0015206d7b"
+  },
+  "date": {
+    "$date": "2021-07-27T03:19:32.486Z"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61002ce6360f430015dede74"
+  },
+  "type": "Médico",
+  "name": "TTO día 11 + ATB día 10 ( ultimo día)",
+  "observations": "1)DEXT 250 ML + 10 AMP MIDAZOLAN A 35 GTS X MIN\n2)DEXT ML+ 5 AMP FENTANILO A 21 GTS X MIN\n3)DEXT 250 ML + 8 AMP ATRACURIO A 35 ML/H\n4)PHP ALTERNO A 42 ML/H\n3)HGT  CORRECIONES A PARTIR 150\n7)HIDROCORTISONA 100 MG CADA 8 HS EV\n8)HEPARINA  5 CC EN 250 ML A 12 ML/H \n9)SONDA VESICAL  control diuresis\n10)ALIMENTACION: 1000 ML A 84 ML/H \n11)KTR \n12)OMEPRAZOL 20 MG CADA 24 HS\n14) ARM MODO VCV EN DECUBITO LATERALIZADA POR KINESIOLOGIA\n15) HIOSCINA 1 AMP CADA 8 HS ( ABUNDANTES SECRECIONES)\n16) ASPIRAR SECRECIONES EN CADA TURNO",
+  "id_paciente": {
+    "$oid": "60f25ab288b36f00150c865b"
+  },
+  "date": {
+    "$date": "2021-07-27T15:57:25.192Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6100352d360f430015dede76"
+  },
+  "type": "Médico",
+  "name": "DIA 15° DIA 6° FLUCONAZOL",
+  "observations": "1)PHP SOL FISIOLOGICA  42 ml/h + 2 K* + 1 MG* HASTA MAÑANA\n2)HIDROCORTISONA 100 MG CADA 8 HS EV\n3)OMEPRAZOL 20MG EV C/24HS\n4)VANCOMICINA 2g EN 250 ML DE SOL FIS A 11 ML/HS \n5)PZT 13,5 EN 250 ML/SF A PASAR A 11 ML/ HS\n6) MIDAZOLAM 10 AMP EN 250 ML/H A 35ML/H\n7)FENTANILO 5 AMP EN 250 A 11 ML/H\n8) ATRACURIO 10 AMPOLLAS A 31 ML/ HS\n9)HEPARINA  5 CC EN 250 ML A 16 ML/H según KPTT\n10)KTR\n11)C.S.V + DIURESIS X TURNO\n12)ARM DISMINUIR LA FR:22\n13)TALLA VESICAL\n14)NAD 4 AMP EN 250 ML a 20ml/h SEGUN TAM corrección \n16) HIOSCINA 1 AMP CADA 8 HS\n17) LIMPIEZA DE HERIDAS DE AMBOS PIES\n18) SNG: Alimentación a 84 ml/h\n19) FUROSEMIDA 1 AMP CADA 12 HS\n20)FLUCONAZOL 200 MG EV POR DIA POR 7 DIAS ( MAÑANA 28/07 ULTIMO DIA)\n21) RISPERIDONA 1 MG CADA 12 HS",
+  "id_paciente": {
+    "$oid": "60eddb7b62f4ce00155ec354"
+  },
+  "date": {
+    "$date": "2021-07-27T16:32:43.657Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61003d6c360f430015dede78"
+  },
+  "type": "Médico",
+  "name": "ARM 10° + FLUCO 6° + 10° DIAS DE ATB ( ULTIMO)",
+  "observations": "1)PHP ALTERNO A 63 ML/H \n2)SNG: ALIMENTACIÓN A 42 ML/H\n1) DEXT 250 ML + 10 AMP MIDAZOLAN A 35 GTS X MIN\n2) DEXT ML+ 5 AMP FENTANILO A 28 GTS X MIN\n3) DEXT 250 ML + 8 AMP ATRACURIO A 28 ML/H\t\n2) INSULINA NPH: 16 UI A LAS 7 HS , 20 UI A LAS 13 HS Y 12 UI A LAS 23 HS\n3) HGT  CORRECIONES A PARTIR 180\n4) LEVOFLOXACINA 750 MG CADA 24 HS EV( ultimo día) \n5) AMS 1,5 MG CADA 6 HS EV ( ultimo día)\n6) DEXAMETASONA 8 MG CADA 24 HS EV\n7) HEPARINA  5 CC EN 250 ML A 15 ML/H\n8) SONDA VESICAL\n10) KTR Y ASPIRAR SECRECIONES\n11) OMEPRAZOL 20 MG CADA 24 HS\n13) PARACETAMOL 1GR SOS\n14) ARM MODO VCV DECUBITO PRONO\n15) FLUCONAZOL 200 MG/DIA EV (ultimo dia)",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "date": {
+    "$date": "2021-07-27T17:07:54.355Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61003dbe360f430015dede79"
+  },
+  "type": "Médico",
+  "name": "DEXA 10°",
+  "observations": "ULTIMO DIA DE DEXAMETASONA, MAÑANA 28/7 CONTINUAR CON HIDROCORTISONA 100 MG CADA 8 HS",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "date": {
+    "$date": "2021-07-27T17:09:16.561Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61004068360f430015dede7a"
+  },
+  "type": "Médico",
+  "name": "dia 14 tto + 13 ARM",
+  "observations": "1)PHP SOL FISIOLOGICA ALT CON DEXTROSA 42 ml/h\n2)HIDROCORTISONA 100 MG CADA 8 HS \n3)OMEPRAZOL 20MG EV C/24HS\n4)AMS 1,5 EV C/6 HS\n6)MIDAZOLAM 10 AMP EN 250 ML/H A 35 ML/H\n7) FENTANILO 5 AMP EN 250 A 35 ML/H\n8) ATRACURIO 8 AMP EN 250 A 35 ML/H\n9)HEPARINA  5 CC EN 250 ML A 7 ML/H\n10)KTR\n11)C.S.V + DIURESIS X TURNO\n12) ARM\n13) ALIMENTACION 1500 ML A 84 ML/H",
+  "id_paciente": {
+    "$oid": "60e75d3e17aa280015b25d00"
+  },
+  "date": {
+    "$date": "2021-07-27T17:20:38.276Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61004273360f430015dede7b"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO: DIA 9°",
+  "observations": "1)PHP ALTERNO A 21 GOTAS X MIN\n2)ENOXAPARINA 0,4 CC CADA 12 HS\n3)LEVOFLOXACINA 750 MG CADA 24 HS EV (8° DIA)\n4)AMS 1,5 MG CADA 6 HS EV (8° DIA)\n5) DEXAMETASONA 16 MG/DIA EV (PULSO DE CORTICOIDE: DIA 5)\n6)OMEPRAZOL 40 MG EV CADA 24 HS\n7)KTR\n8)LOSARTAN 50 MG SOS\n9)PARACETAMOL 1GR SOS\n10)DIPIRONA SOS.\n11)DIETA COMPLETA\n12)SALBUTAMOL 2 PUFF C/6 HRS\n13)BUDESONIDE 2 PUFF C/8 HRS\n14)HGT PREDESAYUNO Y PREMERIENDA + CORRECCIONES SEGUN TABLA MAS DE 140 \n15)PRONO VIGIL\n16) MYLANTA 10 ML C/ 12 HRS VO y S.O.S",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "date": {
+    "$date": "2021-07-27T17:29:21.882Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6100435d360f430015dede7c"
+  },
+  "type": "Médico",
+  "name": "5TO DIA",
+  "observations": "1)PHP ALTERNO 42ML/H\n2)LEVOFLOXACINA 750 MG E.V C/ 24 HS\n3)AMS 1,5 C/6HS E.V \n5)OMEPRAZOL 20MG C/ 24HS E.V\n6)ENOXAPARINA 0.4 CC C/ 12 HS SC\n7)SALBUTAMOL 2PAFF C/ 6HS \n8)BUDESONIDE  2 PAFF C/6 HS\n9)HGT PRECOMIDAS + CORRECCIONES SEGUN TABLA DESDE 150\n10)CSV\n11)KTR\n12)OXIGENOTERAPIA CNAF \n13)LOSARTAN 50 MG VO SOS\n14)PARACETAMOL 1 GR VO SOS\n15) DEXAMETASONA 16 MG /DIA EV ( DIA 5 )\n16)FUROSEMIDA 1 AMPOLLA CADA 24 HORAS",
+  "id_paciente": {
+    "$oid": "60f9e9dfe21b140015f0593c"
+  },
+  "date": {
+    "$date": "2021-07-27T17:33:15.909Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6100453b360f430015dede7d"
+  },
+  "type": "Médico",
+  "name": "TTO DIA 1",
+  "observations": "1) PHP SF 28 G/MIN \n2) DEXAMETASONA EV 16 MG C/ 24HS DIA 4 ( se realizaron pulsos 23-24-25)\n3) AMS  EV 1.5 MG C/6HS \n4) LEVOFLOXACINA EV 750MG C/24HS\n5) HEPARINA 1 CC EN BOLO Y LUEGO 5 CC EN 250 ML A 11 ML/H\n6) PROPANOLOL 40MG C/24HS ( TIENE EL PACIENTE)\n7)DANANTIZOL 20 MG LUEGO DE LAS COMIDAS ( TIENE EL PTE)\n8) BUDESONIDE 2 PUFF C/6HS\n9)KTR\n10)CNAF ALTERNAR CON VNI\n11) DECUBITO PRONO \n12) DIETA COMPLETA, BLANDA, RICA EN FIBRAS",
+  "id_paciente": {
+    "$oid": "60ff760431208e0015206d7b"
+  },
+  "date": {
+    "$date": "2021-07-27T17:41:13.091Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610045fb360f430015dede80"
+  },
+  "type": "Médico",
+  "name": "día 4 tto + día 3 ARM",
+  "observations": "1)PHP ALTERNO A 42 ML/H \n2)SNG : ALIMENTACION A 42 ML/H \n1) DEXT 250 ML + 10 AMP MIDAZOLAN A 21 GTS X MIN\n2) DEXT ML+ 5 AMP FENTANILO A 21 GTS X MIN\n3) DEXT 250 ML + 8 AMP PANCURONIO A 21 ML/H\t\n4) LEVOFLOXACINA 750 MG CADA 24 HS EV\n5) AMS 1,5 MG CADA 6 HS EV\n6) HEPARINA  5 CC EN 250 SF A 11ML/HR\n7) SONDA VESICAL\n8) KTR\n9) OMEPRAZOL 20 MG CADA 24 HS\n10) DIPIRONA SOS\n11) ARM MODO VCV-CABECERA A 45",
+  "id_paciente": {
+    "$oid": "60fb2a14776a68001512f44d"
+  },
+  "date": {
+    "$date": "2021-07-27T17:44:25.434Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610047fe360f430015dede81"
+  },
+  "type": "Médico",
+  "name": "dia 4 tto + dia 3 arm",
+  "observations": "1)PHP ALTERNO A 63 ML/H \n2)SOL. FISIOLOGICA 250 ML + 4 AMP NA A 11 ML/H (AJUSTE SEGÚN T.A.)\n3) DEXT 250 ML + 10 AMP MIDAZOLAN A 35 GTS X MIN\n4) DEXT ML+ 5 AMP FENTANILO A 21 GTS X MIN\n5) DEXT 250 ML + 8 AMP PANCURONIO A 35 ML/H\t\n6) LEVOFLOXACINA 750 MG CADA 24 HS EV\n7) AMS 1,5 MG CADA 6 HS EV\n8) DEXAMETASONA 16 MG POR DIA( PULSO DE CORTICOIDE: DIA 4)\n9) HEPARINA SODICA: SUSPENDER 1 HORA  Y  5 CC EN 250 ML A 1O ML/H\n10) SONDA VESICAL\n11) SNG : ALIMENTACION A 42 ML/H \n12) OMEPRAZOL 20 MG CADA 24 HS\n13) PARACETAMOL 1GR SOS\n14) ARM MODO VCV \n15) HGT c/ 6hs corrección según tabla",
+  "id_paciente": {
+    "$oid": "60fc68d010e7d00015819a4f"
+  },
+  "date": {
+    "$date": "2021-07-27T17:53:00.634Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61004add360f430015dede84"
+  },
+  "type": "Médico",
+  "name": "agrego",
+  "observations": "1) Clonazepam 0,5 mg con la cena",
+  "id_paciente": {
+    "$oid": "60ff760431208e0015206d7b"
+  },
+  "date": {
+    "$date": "2021-07-27T18:05:16.020Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610051f7360f430015dede85"
+  },
+  "type": "Médico",
+  "name": "TTO Y ATB DIA 0",
+  "observations": "1) PHP SF ALTERNA DX % 5 A 21 G/M\n2)AMS EV 1.5 MG C/6HS.\n3) LEVOFLOXACINA EV 750 MG C/24HS.\n4) DEXAMETAOSNA EV  8 MG C/24HS\n5) HEPARINA 1 CC EN BOLO Y 5 CC EN 250 ML A 11 ML/ H\n6) OMEPRAZOL 20MG C/24HS \n7) HGT POR TURNO\n8) INSULINA CORRIENTE CORRECCIONES SEGUN TABLA A PARTIR DE 140MG \n9) RISPERIDONA 1MG C/24HS \n10)CSV \n11)KTR\n12) CNAF FLUJO 60 FIO2 100\n13) CONTROL DIURESIS Y CATARSIS",
+  "id_paciente": {
+    "$oid": "60ff60b031208e0015206d6b"
+  },
+  "date": {
+    "$date": "2021-07-27T18:35:33.575Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61005a92360f430015dede86"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO: SUSPENDER ATB Y HEPARINA",
+  "observations": "1)PHP:SOL .FIS./SOL DEX5%-------->63 ML/H +2 AMP DE K Y 1 AMP DE MG\n2)OMEPRAZOL 20 mg :(EV)  C/ 24 hs.)\n3)  METILPREDNISOLONA 60 MG EN 100 SF A 100 ML /H ( DIA 9°)\n4) HGT PRECOMIDAS Y CORRECIONES A PARTIR DE 180 SEGUN TABLA\n5)LOSARTAN 50 mg : (VO)  C/ 12 hs\n6)DIETA BLANDA HIPOSODICA\n7)SBT: 2 puff C/ 8 hs.\n8)BDS: 2puff C/ 8 hs\n9) OXIGENOTERAPIA: VENTURI NARANJA\n10)ENOXAPARINA 0.4 CC SC CADA 24 HS ⭕\n14) PRONO VIGIL",
+  "id_paciente": {
+    "$oid": "60f21308c5d88c0015847759"
+  },
+  "date": {
+    "$date": "2021-07-27T19:12:16.612Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61005b80360f430015dede88"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO: +3 ATB",
+  "observations": "1)PHP ALTERNO A 21 GOTAS POR MIN \n2)OMEPRAZOL 20 Mg : (EV)  C/ 24 hs\n3)AMS 1,5 g : (EV) C/ 6 hs\n4)LEVOFLOXACINA 750 mg : (EV) C / 24 hs.\n5)SBT : 2 puff  C/  6hs\n6)BDS;  2 puff C / 6 hs\n7)DIPIRONA 1gr : (EV)  C/  SOS\n8)ENOXAPARINA 0,4 ml : S/C  C/ 24 HS\n9)DIETA BLANDA\n10)DEXAMETASONA 8 mg: (EV) C/24 hs.\n11)AMLODIPINA 10 mg : (VO) C/ 24 hs\n12)OXIGENOTERAPIA POR VENTURI\n13) C.S.V\n14)KTR \n15) PRONO VIGIL",
+  "id_paciente": {
+    "$oid": "60fc195505a4140015c6d89d"
+  },
+  "date": {
+    "$date": "2021-07-27T19:16:14.195Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61005c37360f430015dede8a"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTRO: DIA +6 ATB",
+  "observations": "1)PHP: SEB--------->42 ML/H\n2)OMEPRAZOL 20 MG : (EV) C/24 HS.\n3)AMP/SUL 1,5 GR: (EV)  C/ 6 HS\n4)LEVOFLOXACINA 750 MG: (EV) C/ 24 HS\n5)HEPARINA SODICA 5CC EN 250 ML A 11 ML/H\n6)SBT :2 PUFF C/ 6 HS\n7)BDS :2 PUFF C / 6 HS\n8)KTR\n9)DIETA P/DBT +COLACIÓN A LAS 23 HS.\n10)HGT PREPRANDIAL Y CORRECCIÓN C/INSULINA CTE\n11)LOSARTAN 50 MG: (VO) C/24 HS.\n12)BISOPROLOL 10 MG (VO) C/ 24 HS.\n13)DEXAMETASONA 8 MG : (EV) C / 24 HS\n14)AMIODARONA 1 AMP CADA 12 HS",
+  "id_paciente": {
+    "$oid": "60f78bf77585b300158d4444"
+  },
+  "date": {
+    "$date": "2021-07-27T19:19:18.059Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61005d75360f430015dede8d"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO : DIA +10 ATB",
+  "observations": "1)ABOCATH HEPARINIZADO\n2)SERTRALINA 50 MG C/24 HRS VO A LAS 9 HS \n2)OMEPRAZOL 20 MG :1 COMP DIA VO \n4)CSV Y DIURESIS.\n5)AMS 1,5 GR CADA 6 HS EV.(ULTIMO DIA )❌\n6)LEVOFLOXACINA 750 MG CADA 24 HS. EV.(YLTIMO DIA)  ❌\n7)METILPREDNISOLONA 60 MG EN 100 CC DE FISIOLOGICA A 100ML/H (3°  DIA) \n8)PARACETAMOL 1 GRAMO SOS\n9)DIETA HIPOSODICA COMPLETA.\n10)SALBUTAMOL 2 PUFF CADA 6 HS\n11)BUDESONIDE 2 PUFF CADA 8 HS\n12)HGT PRECOMIDAS Y CORRECCIONES A PARTIR DE 160 SEGUN TABLA\n13)ENOXAPARINA 0,6 C/ 24 HS SC\n14) CLONAZEPAM 0,5 MG CON LA CENA",
+  "id_paciente": {
+    "$oid": "60f2d2e72f8796001533bb06"
+  },
+  "date": {
+    "$date": "2021-07-27T19:24:35.833Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61005f2f360f430015dede8f"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO: DIA +4 ATB",
+  "observations": "1)PHP A 42 ML/H ALTERNO\n2)LEVOFLOXACINA 750 MG E.V C/ 24 HS\n3)AMS 1,5 C/6HS E.V\n4)DEXAMETASONA 8MG C/24 HS EV \n5)OMEPRAZOL 20MG C/ 24HS E.V\n6)ENOXAPARINA 0.6 CC C/ 24 HS SC\n7)SALBUTAMOL 2PUFF C/ 8HS \n8)BUDESONIDE  2 PUFF C/6 HS\n9)KTR\n10)OXIGENOTERAPIA : VENTURI NARANJA \n11) PRONO VIGIL\n12)HGT PRE COMIDAS Y CORRECCIONES SEGUN TABLA\n13)RELIVERAN 1 AMP EV CADA 8 HS POR 48 HS",
+  "id_paciente": {
+    "$oid": "60fb1f5e776a68001512f447"
+  },
+  "date": {
+    "$date": "2021-07-27T19:31:57.278Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61006002360f430015dede91"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO: DIA +31 DE INTERNACION",
+  "observations": "1)HIGIENE OCULAR: CON GASAS MAS SF C/4 HRS\n2)DIETA COMPLETA\n3)HALOPIDOL 1 AMP EV SOS\n4)ABOCATH HEPARINIZADO\n5)OMEPRAZOL 20 MG CADA 24 HS \n6)ENOXAPARINA 0.4 CC SC CADA 24 HS \n7)HGT C/ 6 HS Y CORRECCIONES SEGUN TABLA. \n8)KTR Y KTM\n9)CSV Y DIURESIS\n10)PARECHE OCLUSIVO EN OJO IZQUIERDO POR ULCERA CORNEAL, CONTROL HOY A LAS 19 HS EN HOSPITAL DE MARIA \n11)PARCHE ANTIESCARA EN ZONA COCCIX",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "date": {
+    "$date": "2021-07-27T19:35:28.265Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610060e4360f430015dede93"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO: DIA +7",
+  "observations": "1) RETIRAR ABOCATH \n2)LEVOFLOXACINA 750 MG VO C/ 24 HS\n3)AMOXICILINA-CLAVULANICO 1 GR CADA 12 HS VO\n4)DEXAMETASONA 0.5 MG C/8 HS VO \n5)OMEPRAZOL 20MG C/ 24HS VO\n6)ENOXAPARINA 0.6 CC C/ 24 HS SUBCUTANEA\n7)SALBUTAMOL 2PAFF C/ 6HS \n8)BUDESONIDE  2 PAFF C/8HS\n9) KTR\n10)LEVOTIROXINA MANEJA LA PACIENTE\n11) CLONAZEPAN 1 MG 1 COMP CON LA CENA\n12) HGT PRE COMIDAS Y CORRECCIONES SEGUN TABLA\n13) SERTRALINA 25 MG / DIA  9 HS",
+  "id_paciente": {
+    "$oid": "60f6118f28c43f0015957bf5"
+  },
+  "date": {
+    "$date": "2021-07-27T19:39:15.701Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610061b7360f430015dede96"
+  },
+  "type": "Médico",
+  "name": "ALTA MEDICA",
+  "observations": "1) RETIRAR VIA PERIFERICA",
+  "id_paciente": {
+    "$oid": "60f6118f28c43f0015957bf5"
+  },
+  "date": {
+    "$date": "2021-07-27T19:42:46.732Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6100637a360f430015dede97"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO: +3 ATB",
+  "observations": "1)PHP SF  A 21 GOTAS POR MIN\n2)levofloxacina 750 mg cada 24 hs ev\n3)AMS 1,5 cada 6 hs ev\n4)dexametasona 8 mg cada 24 hs\n5)omeprazol 20 mg ev\n6)paracetamol 1GR SOS ( fiebre o dolor) \n7)enoxaparina 0.4 dc sc cada 24 hs\n8)salbutamol 2 puff cada 8 hs \n9)BUDESONIDE 2 PUFF CADA 6 HS \n10)losartan 50 mg cada 12 hs vo\n11)Amlodipina 10 mg cada 24 hs vo \n12)insulina LANTUS 33 UI por la mañana ( indicado por su diabetólogo) 13)control de glucemia CADA 2 HS y corrección según tabla\n14)CSV Y DIURESIS POR TURNO \n15)KTR",
+  "id_paciente": {
+    "$oid": "60fb9a6dad40930015ce27a8"
+  },
+  "date": {
+    "$date": "2021-07-27T19:50:16.998Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610066f6360f430015dede9d"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO: DIA+1 ATB",
+  "observations": "1) PHP ALTERNO A 21 GOTAS POR MIN\n2) Ams EV 1.5 g cada 6hs  DIA +1\n3) Levofloxacina EV 750 mg c/24 hs DIA +1\n4) dexametsona Ev 8 MG C/24HS.\n5) OMEPRAZOL EV 20 MG C/24HS.\n6) ENOXAPARINA 0.4 CC C/12HS.\n7 )SALBUTAMOL 2 PUFF C/6 HS.\n8) BUDESONIDE 2 PUFF/ 8HS.\n9)HGT PRECOMIDAS Y CORRECCIONES SEGUN TABLA \n10) PIOGLITAZONA 1 COMP SEGUN INDICACION.\n11) CSV\n12)KTR \n13) VENTURI BLANCO A 4LS.",
+  "id_paciente": {
+    "$oid": "60ff577431208e0015206d63"
+  },
+  "date": {
+    "$date": "2021-07-27T20:05:09.102Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6100756e360f430015dedea0"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "TOCILIZUMAB 2 JERINGAS SC DE 162 MG",
+  "id_paciente": {
+    "$oid": "60ff760431208e0015206d7b"
+  },
+  "date": {
+    "$date": "2021-07-27T21:06:54.952Z"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61008496360f430015dedea3"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)PHP A 42 ML/H ALTERNO\n2)LEVOFLOXACINA 750 MG E.V C/ 24 HS\n3)AMS 1,5 C/6HS E.V\n4)DEXAMETASONA 8MG C/24 HS EV \n5)OMEPRAZOL 20MG C/ 24HS E.V\n6)ENOXAPARINA 0.4 CC C/ 24 HS SC\n7)SALBUTAMOL 2PUFF C/ 8HS \n8)BUDESONIDE  2 PUFF C/6 HS\n9) MTFORMINA 850 CONB ALMUERZO Y CENA \n10) GLIBENCLAMIDA\n11)KTR\n12)OXIGENOTERAPIA  \n13) PRONO VIGIL\n14)HGT PRE COMIDAS Y CORRECCIONES SEGUN TABLA\n15) ECG\n16) RX DE TORAX",
+  "id_paciente": {
+    "$oid": "61007ff6360f430015dedea1"
+  },
+  "date": {
+    "$date": "2021-07-27T22:11:33.661Z"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6100d99e9ccb7e00152791b0"
+  },
+  "type": "Médico",
+  "name": "DIA 0° INTUBACION",
+  "observations": "1) PHP SEB A 21 G/M\n2)AMS EV 1.5 MG C/6HS.\n3) LEVOFLOXACINA EV 750 MG C/24HS.\n4) DEXAMETAOSNA EV  8 MG C/24HS\n5) ❌(SUSPENDER POR COLOCACION DE CATETER 6 AM) HEPARINA 1 CC EN BOLO Y 5 CC EN 250 ML A 11 ML/ H\n6) OMEPRAZOL 20MG C/24HS \n7) HGT POR TURNO\n8) INSULINA CORRIENTE CORRECCIONES SEGUN TABLA A PARTIR DE 140MG \n9) (SUSPENDIDA) RISPERIDONA 1MG C/24HS \n10)CSV \n11)KTR\n12) MIDAZOLAM 10 AMP EN 250 ML SEB ----> 21 ML/H\n13) FENTANILO 5 AMP EN 250 ML SEB ----> 21 ML/H\n14) ATRACURIO 8 AMP EN 250 ML SEB ---->21 ML /H \n15) FUROSEMIDA 1 AMP CADA 6 HS (SEGUN NEFROLOGIA)",
+  "id_paciente": {
+    "$oid": "60ff60b031208e0015206d6b"
+  },
+  "date": {
+    "$date": "2021-07-28T04:14:21.271Z"
+  },
+  "professional_name": {
+    "$oid": "5f9827e4b6384217c1b974b6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101698ca28e9a0015f2ca8d"
+  },
+  "type": "Médico",
+  "name": "Agrego Suplemento Alimentario",
+  "observations": "1) Glucerna (colación) 1 vaso de 200 cc a las 10 hs y 1 vaso de 200cc 19.00 hs por 3 días. Luego continuar solo 1 vaso x dia",
+  "id_paciente": {
+    "$oid": "60d8e3dceb654c0015e77793"
+  },
+  "date": {
+    "$date": "2021-07-28T14:28:27.594Z"
+  },
+  "professional_name": {
+    "$oid": "5f98247bb6384217c1b974b3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61019717c57c7c0015ae9b37"
+  },
+  "type": "Médico",
+  "name": "REPOSICION DE K",
+  "observations": "3 AMPOLLAS EN 300 ML DE SOL FIS A PASAR EN 3 HS",
+  "id_paciente": {
+    "$oid": "60fc68d010e7d00015819a4f"
+  },
+  "date": {
+    "$date": "2021-07-28T17:42:46.836Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101a380c57c7c0015ae9b39"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO: +5 ATB",
+  "observations": "1)ABOCATH HEPARINIZADO\n2)LEVOFLOXACINA 750 MG E.V C/ 24 HS\n3)AMS 1,5 C/6HS E.V\n4)DEXAMETASONA 8MG C/24 HS EV \n5)OMEPRAZOL 20MG C/ 24HS E.V\n6)ENOXAPARINA 0.6 CC C/ 24 HS SC\n7)SALBUTAMOL 2PUFF C/ 8HS \n8)BUDESONIDE  2 PUFF C/6 HS\n9)KTR\n10)OXIGENOTERAPIA : VENTURI NARANJA \n11) PRONO VIGIL\n12)HGT PRE COMIDAS Y CORRECCIONES SEGUN TABLA\n13)RELIVERAN 1 AMP EV CADA 8 HS POR 48 HS(ULTIMO DIA)",
+  "id_paciente": {
+    "$oid": "60fb1f5e776a68001512f447"
+  },
+  "date": {
+    "$date": "2021-07-28T18:35:43.595Z"
+  },
+  "professional_name": {
+    "$oid": "60216df3940a872e9e02adc7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101a41dc57c7c0015ae9b3b"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)PHP: SEB--------->42 ML/H\n2)OMEPRAZOL 20 MG : (EV) C/24 HS.\n3)AMP/SUL 1,5 GR: (EV)  C/ 6 HS\n4)LEVOFLOXACINA 750 MG: (EV) C/ 24 HS\n5)HEPARINA SODICA 5CC EN 250 ML A 11 ML/H\n6)SBT :2 PUFF C/ 6 HS\n7)BDS :2 PUFF C / 6 HS\n8)KTR\n9)DIETA P/DBT +COLACIÓN A LAS 23 HS.\n10)HGT PREPRANDIAL Y CORRECCIÓN C/INSULINA CTE\n11)LOSARTAN 50 MG: (VO) C/24 HS.\n12)BISOPROLOL 10 MG (VO) C/ 24 HS.\n13)DEXAMETASONA 8 MG : (EV) C / 24 HS\n14)AMIODARONA 1 AMP CADA 12 HS",
+  "id_paciente": {
+    "$oid": "60f78bf77585b300158d4444"
+  },
+  "date": {
+    "$date": "2021-07-28T18:38:20.755Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101a4ccc57c7c0015ae9b3d"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)ABOCATH HEPARINIZADO\n2)SERTRALINA 50 MG C/24 HRS VO A LAS 9 HS \n2)OMEPRAZOL 20 MG :1 COMP DIA VO \n4)CSV Y DIURESIS.\n5)AMS 1,5 GR CADA 6 HS EV.(ULTIMO DIA )❌\n6)LEVOFLOXACINA 750 MG CADA 24 HS. EV.(YLTIMO DIA)  ❌\n7)METILPREDNISOLONA 60 MG EN 100 CC DE FISIOLOGICA A 100ML/H (3°  DIA) \n8)PARACETAMOL 1 GRAMO SOS\n9)DIETA HIPOSODICA COMPLETA.\n10)SALBUTAMOL 2 PUFF CADA 6 HS\n11)BUDESONIDE 2 PUFF CADA 8 HS\n12)HGT PRECOMIDAS Y CORRECCIONES A PARTIR DE 160 SEGUN TABLA\n13)ENOXAPARINA 0,6 C/ 24 HS SC\n14) CLONAZEPAM 0,5 MG CON LA CENA",
+  "id_paciente": {
+    "$oid": "60f2d2e72f8796001533bb06"
+  },
+  "date": {
+    "$date": "2021-07-28T18:41:16.198Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101a559c57c7c0015ae9b40"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)PHP:SOL .FIS./SOL DEX5%-------->21 ML/H +1 AMP DE K Y 1 AMP DE MG\n2)OMEPRAZOL 20 mg :(EV)  C/ 24 hs.)\n3)  METILPREDNISOLONA 40 MG EN 100 SF A 100 ML /H ( DIA 10°)\n4) HGT PRECOMIDAS Y CORRECIONES A PARTIR DE 180 SEGUN TABLA\n5)LOSARTAN 50 mg : (VO)  C/ 12 hs\n6)DIETA BLANDA HIPOSODICA\n7)SBT: 2 puff C/ 8 hs.\n8)BDS: 2puff C/ 8 hs\n9) OXIGENOTERAPIA: VENTURI NARANJA\n10)ENOXAPARINA 0.4 CC SC CADA 24 HS ⭕\n14) PRONO VIGIL",
+  "id_paciente": {
+    "$oid": "60f21308c5d88c0015847759"
+  },
+  "date": {
+    "$date": "2021-07-28T18:43:37.544Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101a79ac57c7c0015ae9b42"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO + 4 ATB",
+  "observations": "1)PHP ALTERNO A 14 GOTAS POR MIN \n2)OMEPRAZOL 20 Mg : (EV)  C/ 24 hs\n3)AMS 1,5 g : (EV) C/ 6 hs\n4)LEVOFLOXACINA 750 mg : (EV) C / 24 hs.\n5)SBT : 2 puff  C/  6hs\n6)BDS;  2 puff C / 6 hs\n7)DIPIRONA 1gr : (EV)  C/  SOS\n8)ENOXAPARINA 0,4 ml : S/C  C/ 24 HS\n9)DIETA BLANDA\n10)DEXAMETASONA 8 mg: (EV) C/24 hs.\n11)AMLODIPINA 10 mg : (VO) C/ 24 hs\n12)OXIGENOTERAPIA POR VENTURI\n13) C.S.V\n14)KTR \n15) PRONO VIGIL",
+  "id_paciente": {
+    "$oid": "60fc195505a4140015c6d89d"
+  },
+  "date": {
+    "$date": "2021-07-28T18:53:13.275Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101a91fc57c7c0015ae9b44"
+  },
+  "type": "Médico",
+  "name": "TTO día 12",
+  "observations": "1)DEXT 250 ML + 10 AMP MIDAZOLAN A 35 GTS X MIN\n2)DEXT ML+ 5 AMP FENTANILO A 21 GTS X MIN\n3)DEXT 250 ML + 8 AMP ATRACURIO A 35 ML/H\n4)PHP ALTERNO A 42 ML/H\n3)HGT  CORRECIONES A PARTIR 150\n7)HIDROCORTISONA 100 MG CADA 8 HS EV\n8)HEPARINA  5 CC EN 250 ML A 15 ML/H \n9)SONDA VESICAL  control diuresis\n10)ALIMENTACION: 1000 ML A 84 ML/H \n11)KTR \n12)OMEPRAZOL 20 MG CADA 24 HS\n14) ARM MODO VCV EN DECUBITO PRONO\n15) HIOSCINA 1 AMP CADA 8 HS ( ABUNDANTES SECRECIONES)\n16) ASPIRAR SECRECIONES EN CADA TURNO",
+  "id_paciente": {
+    "$oid": "60f25ab288b36f00150c865b"
+  },
+  "date": {
+    "$date": "2021-07-28T18:59:42.031Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101aba0c57c7c0015ae9b46"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO + 1 ATB",
+  "observations": "1)PHP A 42 ML/H ALTERNO\n2)LEVOFLOXACINA 750 MG E.V C/ 24 HS\n3)AMS 1,5 C/6HS E.V\n4)DEXAMETASONA 8MG C/24 HS EV \n5)OMEPRAZOL 20 MG C/ 24HS E.V\n6)ENOXAPARINA 0.4 CC C/ 24 HS SC\n7)SALBUTAMOL 2PUFF C/ 8HS \n8)BUDESONIDE  2 PUFF C/6 HS\n9) GLIBENCLAMIDA 5 MG C/ 12 HS \n10)KTR\n11)OXIGENOTERAPIA  \n12) PRONO VIGIL\n13)HGT PRE COMIDAS Y CORRECCIONES SEGUN TABLA",
+  "id_paciente": {
+    "$oid": "61007ff6360f430015dedea1"
+  },
+  "date": {
+    "$date": "2021-07-28T19:10:23.944Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101acd1c57c7c0015ae9b48"
+  },
+  "type": "Médico",
+  "name": "DIA 16° DIA 7° FLUCONAZOL",
+  "observations": "1)PHP SOL FISIOLOGICA  42 ml/h + 2 K* + 1 MG* HASTA MAÑANA\n2)HIDROCORTISONA 100 MG CADA 8 HS EV\n3)OMEPRAZOL 20MG EV C/24HS\n4)VANCOMICINA 2g EN 250 ML DE SOL FIS A 11 ML/HS \n5)PZT 13,5 EN 250 ML/SF A PASAR A 11 ML/ HS\n6) MIDAZOLAM 10 AMP EN 250 ML/H A 35ML/H\n7)FENTANILO 5 AMP EN 250 A 11 ML/H\n8) ATRACURIO 10 AMPOLLAS A 31 ML/ HS\n9)HEPARINA  5 CC EN 250 ML A 16 ML/H según KPTT\n10)KTR\n11)C.S.V + DIURESIS X TURNO\n12)ARM DISMINUIR LA FR:22\n13)TALLA VESICAL\n14)NAD 4 AMP EN 250 ML a 20ml/h SEGUN TAM corrección \n16) HIOSCINA 1 AMP CADA 8 HS\n17) LIMPIEZA DE HERIDAS DE AMBOS PIES\n18) SNG: Alimentación a 84 ml/h\n19) FUROSEMIDA 1 AMP CADA 12 HS\n20)FLUCONAZOL 200 MG EV POR DIA POR 7 DIAS ( MAÑANA 28/07 ULTIMO DIA)\n21) RISPERIDONA 1 MG CADA 12 HS\n22) mupirocina o acido fusidico en crema: aplicacion en pabellon auricular derecho cada 8 hs",
+  "id_paciente": {
+    "$oid": "60eddb7b62f4ce00155ec354"
+  },
+  "date": {
+    "$date": "2021-07-28T19:15:28.267Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101ad43c57c7c0015ae9b49"
+  },
+  "type": "Médico",
+  "name": "ARM 11°",
+  "observations": "1)PHP ALTERNO A 63 ML/H \n2)SNG: ALIMENTACIÓN A 42 ML/H\n1) DEXT 250 ML + 10 AMP MIDAZOLAN A 35 GTS X MIN\n2) DEXT ML+ 5 AMP FENTANILO A 35 GTS X MIN\n3) DEXT 250 ML + 8 AMP ATRACURIO A 35 ML/H\t\n2) INSULINA NPH: 16 UI A LAS 7 HS , 20 UI A LAS 13 HS Y 12 UI A LAS 23 HS\n3) HGT  CORRECIONES A PARTIR 180\n6) DEXAMETASONA 8 MG CADA 24 HS EV\n7) HEPARINA  5 CC EN 250 ML A 15 ML/H\n8) SONDA VESICAL\n10) KTR Y ASPIRAR SECRECIONES\n11) OMEPRAZOL 20 MG CADA 24 HS\n13) PARACETAMOL 1GR SOS\n14) ARM MODO VCV DECUBITO PRONO",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "date": {
+    "$date": "2021-07-28T19:17:21.858Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101ad98c57c7c0015ae9b4a"
+  },
+  "type": "Médico",
+  "name": "corrijo:",
+  "observations": "1) dexametasona cambiar a hidrocortisona 100 mg cada 8 hs \n2) Amlodipina 10 mg todas las mañanas cada 24 hs por SNG",
+  "id_paciente": {
+    "$oid": "60f064cc4564cd0015123775"
+  },
+  "date": {
+    "$date": "2021-07-28T19:18:46.864Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101aeacc57c7c0015ae9b4b"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO + 2 ATB",
+  "observations": "1) PHP SF 14 G/MIN \n2) DEXAMETASONA EV 16 MG C/ 24HS DIA 2 \n3) AMS  EV 1.5 MG C/6HS \n4) LEVOFLOXACINA EV 750MG C/24HS\n5) HEPARINA SODICA 5 CC EN 250 ML A 11 ML/H\n6) PROPANOLOL 40MG C/24HS ( TIENE EL PACIENTE)\n7)DANANTIZOL 20 MG LUEGO DE LAS COMIDAS ( TIENE EL PTE)\n8) BUDESONIDE 2 PUFF C/6HS\n9)KTR\n10)CNAF ALTERNAR CON VNI\n11) DECUBITO PRONO \n12) DIETA COMPLETA, BLANDA, RICA EN FIBRAS",
+  "id_paciente": {
+    "$oid": "60ff760431208e0015206d7b"
+  },
+  "date": {
+    "$date": "2021-07-28T19:23:23.893Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101af91c57c7c0015ae9b4c"
+  },
+  "type": "Médico",
+  "name": "AGREGO NIM",
+  "observations": "1) 3 AMPOLLAS DE FENTANILO EN 250 DE DXT A 11 ML/ HS\n2) HIDROCORTISONA 100 MG C/ 12 HS \n3) 2 PUFF DE SALBUTAMOL C/ 8 HS",
+  "id_paciente": {
+    "$oid": "60ff760431208e0015206d7b"
+  },
+  "date": {
+    "$date": "2021-07-28T19:27:12.457Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101b02ec57c7c0015ae9b4d"
+  },
+  "type": "Médico",
+  "name": "día 5 tto + día 4 ARM",
+  "observations": "1)PHP ALTERNO A 42 ML/H \n2)SNG : COLOCAR PARA  ALIMENTACION A 42 ML/H \n1) DEXT 250 ML + 10 AMP MIDAZOLAN A 21 GTS X MIN\n2) DEXT ML+ 5 AMP FENTANILO A 21 GTS X MIN\n3) DEXT 250 ML + 8 AMP PANCURONIO A 21 ML/H\t\n4) LEVOFLOXACINA 750 MG CADA 24 HS EV\n5) AMS 1,5 MG CADA 6 HS EV\n6) HEPARINA  5 CC EN 250 SF A 11ML/HR\n7) SONDA VESICAL\n8) KTR\n9) OMEPRAZOL 20 MG CADA 24 HS\n10) DIPIRONA SOS\n11) ARM MODO VCV-CABECERA A 45\n12) NAD: 4 AMP EN 250 ML A 3 ML/H SEGUN TAM",
+  "id_paciente": {
+    "$oid": "60fb2a14776a68001512f44d"
+  },
+  "date": {
+    "$date": "2021-07-28T19:29:49.022Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101b0c4c57c7c0015ae9b50"
+  },
+  "type": "Médico",
+  "name": "6TO DIA",
+  "observations": "1)PHP ALTERNO 42ML/H\n2)LEVOFLOXACINA 750 MG E.V C/ 24 HS\n3)AMS 1,5 C/6HS E.V \n5)OMEPRAZOL 20MG C/ 24HS E.V\n6)ENOXAPARINA 0.4 CC C/ 12 HS SC\n7)SALBUTAMOL 2PAFF C/ 6HS \n8)BUDESONIDE  2 PAFF C/6 HS\n9)HGT PRECOMIDAS + CORRECCIONES SEGUN TABLA DESDE 150\n10)CSV\n11)KTR\n12)OXIGENOTERAPIA CNAF \n13)LOSARTAN 50 MG VO SOS\n14)PARACETAMOL 1 GR VO SOS\n15) DEXAMETASONA 16 MG /DIA EV ( DIA 5 )",
+  "id_paciente": {
+    "$oid": "60f9e9dfe21b140015f0593c"
+  },
+  "date": {
+    "$date": "2021-07-28T19:32:19.866Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101b126c57c7c0015ae9b52"
+  },
+  "type": "Médico",
+  "name": "dia 5 tto + dia 4 ARM",
+  "observations": "1)PHP ALTERNO A 63 ML/H \n2)SOL. FISIOLOGICA 250 ML + 4 AMP NA A 11 ML/H (AJUSTE SEGÚN T.A.)\n3) DEXT 250 ML + 10 AMP MIDAZOLAN A 35 GTS X MIN\n4) DEXT ML+ 5 AMP FENTANILO A 21 GTS X MIN\n5) DEXT 250 ML + 8 AMP PANCURONIO A 35 ML/H\t\n6) LEVOFLOXACINA 750 MG CADA 24 HS EV\n7) AMS 1,5 MG CADA 6 HS EV\n8) DEXAMETASONA 16 MG POR DIA( PULSO DE CORTICOIDE: DIA 5)\n9) HEPARINA SODICA:  5 CC EN 250 ML A 11 ML/H\n10) SONDA VESICAL\n11) SNG : ALIMENTACION A 42 ML/H \n12) OMEPRAZOL 20 MG CADA 24 HS\n13) PARACETAMOL 1GR SOS\n14) ARM MODO VCV \n15) HGT c/ 6hs corrección según tabla",
+  "id_paciente": {
+    "$oid": "60fc68d010e7d00015819a4f"
+  },
+  "date": {
+    "$date": "2021-07-28T19:33:56.822Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101b19ac57c7c0015ae9b53"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)PHP ALTERNO A 14 GOTAS X MIN\n2)ENOXAPARINA 0,4 CC CADA 12 HS\n3)LEVOFLOXACINA 750 MG CADA 24 HS EV (9° DIA)\n4)AMS 1,5 MG CADA 6 HS EV (8° DIA)\n5) DEXAMETASONA 16 MG/DIA EV (PULSO DE CORTICOIDE: DIA 5)\n6)OMEPRAZOL 40 MG EV CADA 24 HS\n7)KTR\n8)LOSARTAN 50 MG SOS\n9)PARACETAMOL 1GR SOS\n10)DIPIRONA SOS.\n11)DIETA COMPLETA\n12)SALBUTAMOL 2 PUFF C/6 HRS\n13)BUDESONIDE 2 PUFF C/8 HRS\n14)HGT PREDESAYUNO Y PREMERIENDA + CORRECCIONES SEGUN TABLA MAS DE 140 \n15)PRONO VIGIL\n16) MYLANTA 10 ML C/ 12 HRS VO y S.O.S",
+  "id_paciente": {
+    "$oid": "60f5976b2d940c0015b2ab85"
+  },
+  "date": {
+    "$date": "2021-07-28T19:35:53.691Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101b1d1c57c7c0015ae9b54"
+  },
+  "type": "Médico",
+  "name": "dia 15 tto + 14 ARM",
+  "observations": "1)PHP SOL FISIOLOGICA ALT CON DEXTROSA 42 ml/h +2 K+ 1 MG \n2)HIDROCORTISONA 100 MG CADA 8 HS \n3)OMEPRAZOL 20MG EV C/24HS\n6)MIDAZOLAM 10 AMP EN 250 ML/H A 35 ML/H\n7) FENTANILO 5 AMP EN 250 A 35 ML/H\n8) ATRACURIO 8 AMP EN 250 A 35 ML/H\n9)HEPARINA  5 CC EN 250 ML A 9 ML/H\n10)KTR\n11)C.S.V + DIURESIS X TURNO\n12) ARM\n13) ALIMENTACION 1500 ML A 84 ML/H",
+  "id_paciente": {
+    "$oid": "60e75d3e17aa280015b25d00"
+  },
+  "date": {
+    "$date": "2021-07-28T19:36:48.293Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101b265c57c7c0015ae9b56"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1) PHP ALTERNO A 14 GOTAS POR MIN\n2) Ams EV 1.5 g cada 6hs  DIA +2\n3) Levofloxacina EV 750 mg c/24 hs DIA +2\n4) dexametsona Ev 8 MG C/24HS.\n5) OMEPRAZOL EV 20 MG C/24HS.\n6) ENOXAPARINA 0.4 CC C/12HS.\n7 )SALBUTAMOL 2 PUFF C/6 HS.\n8) BUDESONIDE 2 PUFF/ 8HS.\n9)HGT PRECOMIDAS Y CORRECCIONES SEGUN TABLA \n10) PIOGLITAZONA 1 COMP SEGUN INDICACION.\n11) CSV\n12)KTR \n13) VENTURI BLANCO A 4LS.",
+  "id_paciente": {
+    "$oid": "60ff577431208e0015206d63"
+  },
+  "date": {
+    "$date": "2021-07-28T19:39:16.521Z"
+  },
+  "professional_name": {
+    "$oid": "60216e32940a872e9e02adc8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101b2a6c57c7c0015ae9b57"
+  },
+  "type": "Médico",
+  "name": "DIA 1° INTUBACION",
+  "observations": "1) PHP SEB A 21 G/M\n2)AMS EV 1.5 MG C/6HS.\n3) LEVOFLOXACINA EV 750 MG C/24HS.\n4) DEXAMETAOSNA EV  8 MG C/24HS\n5)  HEPARINA 1 CC EN BOLO Y 5 CC EN 250 ML A 11 ML/ H\n6) OMEPRAZOL 20MG C/24HS \n7) HGT POR TURNO\n8) INSULINA CORRIENTE CORRECCIONES SEGUN TABLA A PARTIR DE 140MG \n9) (SUSPENDIDA) RISPERIDONA 1MG C/24HS \n10)CSV \n11)KTR\n12) MIDAZOLAM 10 AMP EN 250 ML SEB ----> 21 ML/H\n13) FENTANILO 5 AMP EN 250 ML SEB ----> 21 ML/H\n14) ATRACURIO 8 AMP EN 250 ML SEB ---->21 ML /H \n15) FUROSEMIDA 1 AMP CADA 6 HS (SEGUN NEFROLOGIA\n16) BICARBONATO 1 SACHET CADA 8 HS, CONTROLAR CON LABORATORIO\n17) GLUCONATO 1 AMP CADA 6 HS \n18) DESPOLARIZANTE: 100 ML DEXT 25% + 15 UI DE INSULINA CORRIENTE A LAS 13 HS , A LAS 17 HS, 20 HS",
+  "id_paciente": {
+    "$oid": "60ff60b031208e0015206d6b"
+  },
+  "date": {
+    "$date": "2021-07-28T19:40:21.436Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101b648c57c7c0015ae9b59"
+  },
+  "type": "Médico",
+  "name": "SUERO EQUINO",
+  "observations": "1° SUERO EQUINO 15 ML EN 100 ML SF PASAR A 120 ML/HR",
+  "id_paciente": {
+    "$oid": "60ff60b031208e0015206d6b"
+  },
+  "date": {
+    "$date": "2021-07-28T19:55:50.575Z"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101c6efca76ec0015b6cc0c"
+  },
+  "type": "Médico",
+  "name": "AGREGO:",
+  "observations": "1) DEXMEDETOMIDINA 2 AMP EN 250 ML A PASAR 21 ML/H",
+  "id_paciente": {
+    "$oid": "60f25ab288b36f00150c865b"
+  },
+  "date": {
+    "$date": "2021-07-28T21:06:54.657Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101cbd2ca76ec0015b6cc0e"
+  },
+  "type": "Médico",
+  "name": "AGREGO:",
+  "observations": "1) LABETALOL EV SOS\n2) DIPIRONA SOS\n3) PARACETAMOL 1 GR CADA 8 HS POR SNG",
+  "id_paciente": {
+    "$oid": "60f25ab288b36f00150c865b"
+  },
+  "date": {
+    "$date": "2021-07-28T21:27:45.935Z"
+  },
+  "professional_name": {
+    "$oid": "5f98264ab6384217c1b974b5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101d39aca76ec0015b6cc10"
+  },
+  "type": "Médico",
+  "name": "SUERO EQUINO",
+  "observations": "1° SUERO EQUINO 15 ML EN 100 ML SF PASAR A 120 ML/HR",
+  "id_paciente": {
+    "$oid": "61007ff6360f430015dedea1"
+  },
+  "date": {
+    "$date": "2021-07-28T22:00:57.914Z"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101d3c1ca76ec0015b6cc11"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "POR ERROR SE REGISTRO SUERO EQUINO EN LA PACIENTE CARDOZO. NO CORRESPONDE",
+  "id_paciente": {
+    "$oid": "60ff60b031208e0015206d6b"
+  },
+  "date": {
+    "$date": "2021-07-28T22:01:36.210Z"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101d3f4ca76ec0015b6cc12"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "CARGA DE POTASIO, 3 AMP EN 300 DE SF A PASAR EN 3 HS LUEGO DEJAR EN EL PLAN DE HIDRATACION 2 AMPOLLAS DE POTASIO MAS UNA DE MAGNESIO",
+  "id_paciente": {
+    "$oid": "60ff60b031208e0015206d6b"
+  },
+  "date": {
+    "$date": "2021-07-28T22:02:28.045Z"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101e079ca76ec0015b6cc1c"
+  },
+  "type": "Médico",
+  "name": "TRATAMIENTO",
+  "observations": "1)PHP A 42 ML/H ALTERNO\n2)LEVOFLOXACINA 750 MG E.V C/ 24 HS\n3)AMS 1,5 C/6HS E.V\n4)DEXAMETASONA 8MG C/24 HS EV \n5)OMEPRAZOL 20 MG C/ 24HS E.V\n6)ENOXAPARINA 0.4 CC C/ 24 HS SC\n7)SALBUTAMOL 2PUFF C/ 8HS \n8)BUDESONIDE  2 PUFF C/6 HS\n9) KTR\n10)OXIGENOTERAPIA  \n11) PRONO VIGIL\n13)HGT PRE COMIDAS Y CORRECCIONES SEGUN TABLA",
+  "id_paciente": {
+    "$oid": "6101d5e9ca76ec0015b6cc13"
+  },
+  "date": {
+    "$date": "2021-07-28T22:55:52.590Z"
+  },
+  "professional_name": {
+    "$oid": "5ff49a2b805ce432999defb3"
+  },
+  "__v": 0
 }]
